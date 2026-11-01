@@ -25,6 +25,6 @@
 
 ## Normas posteriores (Senado, consulta em 01/11/2026)
 - LC 227/2026 (13/01/2026; DOU 14/01/2026): Comitê Gestor do IBS, processo administrativo do IBS, alterações extensas na LC 214.
-- LC 235/2026 (27/08/2026): altera o art. 82, §11, I e inclui o art. 174, §12 da LC 214 [VERIFICAR conteúdo].
-- Decreto 12.955/2026 (regulamentação) e Decreto 13.133/2026 [VERIFICAR conteúdo].
-- ADIs 7.779 e 7.790 (acórdãos de 03/08/2026): inconstitucionalidade parcial dos arts. 149 e 150 da LC 214, conforme a página do Senado [VERIFICAR alcance no STF].
+- LC 235/2026 (27/08/2026; DOU 28/08/2026; vigência na publicação, art. 17): o art. 6º dá nova redação ao art. 82, §11, I da LC 214 (receita bruta de exportação "superior a 30% (trinta por cento)" da receita bruta total nos três anos-calendário anteriores à aquisição, excluídos os tributos sobre a venda) e inclui o art. 174, §12 (para combustíveis do art. 172 com alíquotas reduzidas entre março e junho de 2026, a carga tributária direta considera "as alíquotas vigentes em fevereiro de 2026 para os meses em que houver redução").
+- Decreto 12.955/2026 (29/04/2026): regulamenta a CBS. Decreto 13.133/2026 (09/10/2026): delega ao Ministro da Fazenda a divulgação das alíquotas da CBS sobre operações com determinados combustíveis. Ementas conferidas no Senado; leia o dispositivo específico antes de citá-lo.
+- ADIs 7.779 e 7.790 (acórdãos de 03/08/2026), conforme a ficha da LC 214 no Senado. ADI 7.779: inconstitucionalidade de parte do texto do art. 149, II, b e c, e do art. 150, §1º; declarados constitucionais o art. 149, §1º e o art. 150, IV e §1º. ADI 7.790: inconstitucionalidade de parte do texto do art. 149, II, c; declarado constitucional o art. 152, II. O trecho exato atingido não foi conferido no STF [VERIFICAR].

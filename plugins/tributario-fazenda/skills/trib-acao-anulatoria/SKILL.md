@@ -41,7 +41,7 @@ Endereçamento → partes → síntese do lançamento → cabimento e efeitos so
 - Sem depósito, peça tutela provisória (CTN art. 151, V, redação da LC 236/2026).
 - Seguro garantia/fiança: na ação anulatória, servem como garantia antecipada para fins de certidão (CTN art. 206), mas não estão no rol do art. 151 quando oferecidos fora da execução fiscal; o inciso X do art. 151 (LC 236/2026) trata da aceitação dessas garantias em execução fiscal. Explique ao cliente a diferença.
 - Decadência: CTN art. 173 (lançamento de ofício) e art. 150, §4º (homologação com pagamento); com a LC 236/2026, pagamento parcial conta do fato gerador (art. 150, §6º) e dolo, fraude ou simulação desloca para o art. 173, I (art. 150, §5º). Sem declaração: Súmula 555 STJ.
-- Multa: limites do CTN art. 113-A (75%, 100% com dolo comprovado, 150% na reincidência), incluídos pela LC 236/2026 [VERIFICAR: aplicação a fatos anteriores; examinar CTN art. 106, II, c].
+- Multa: limites do CTN art. 113-A, §1º (75%; 100% com fraude, sonegação ou conluio dolosos; 150% na reincidência), incluídos pela LC 236/2026. Para fatos anteriores, a base é a retroatividade benigna do art. 106, II, c (ato não definitivamente julgado e penalidade menos severa); jurisprudência sobre essa aplicação ao art. 113-A não conferida em fonte oficial [VERIFICAR].
 
 ## Fundamentos verificados
 LEF arts. 3º e 38; CTN arts. 106, 113-A, 142, 150, 151, 173, 204, 206, 208-B, 208-E e 208-H; CPC arts. 183, 300 e 319; Súmula Vinculante 28; Súmulas 112, 436 e 555 STJ. Detalhe em [fundamentos](references/fundamentos.md).

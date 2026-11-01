@@ -31,7 +31,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 ## Prazo e contagem
 - Prescrição: 5 anos da constituição definitiva (CTN art. 174); interrompem, entre outros, o despacho citatório e o protesto da CDA (art. 174, §1º, I e II; incisos II a IX na redação da LC 236/2026, cujo novo caput do §1º foi vetado). Inscrição suspende 180 dias apenas para dívida não tributária (LEF art. 2º, §3º).
 - Ajuíze com folga: a demora atribuível ao Judiciário não prejudica (Súmula 106 STJ), mas a da Fazenda sim.
-- Redirecionamento: controle a prescrição para o redirecionamento [VERIFICAR o termo inicial fixado pelo STJ em repetitivo antes de citar número].
+- Redirecionamento: controle a prescrição para o redirecionamento conforme o Tema 444 do STJ (termo inicial pela actio nata; a citação da devedora original não inicia o prazo quando a dissolução irregular é posterior). Detalhe em fundamentos.
 - Use `prazos-processuais`.
 
 ## Estrutura da peça

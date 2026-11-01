@@ -15,12 +15,22 @@ itens:
     url: https://legis.senado.leg.br/norma/42042119
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "LC 235/2026 (altera arts. 82 e 174 da LC 214 - conteúdo a conferir)"
-    status: VERIFICAR
+    referencia: "LC 235/2026, art. 6º (LC 214 art. 82 §11 I e art. 174 §12)"
+    status: LEI
     url: https://legis.senado.leg.br/norma/43717839
     consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 12.955/2026 (regulamenta a CBS) e Decreto 13.133/2026 (delega divulgação de alíquotas da CBS sobre combustíveis) - ementas"
+    status: LEI
+    url: https://legis.senado.leg.br/dadosabertos/legislacao/lista?tipo=DEC&numero=12955&ano=2026
+    consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADIs 7.779 e 7.790 (STF, 03/08/2026) sobre arts. 149 e 150 da LC 214 - registradas no Senado, não conferidas na base de jurisprudência"
+    referencia: "ADIs 7.779 e 7.790 (STF, acórdãos de 03/08/2026): dispositivos atingidos registrados na ficha da LC 214 no Senado"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/40180341
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADIs 7.779 e 7.790: trecho exato do texto declarado inconstitucional (acórdãos não lidos no STF)"
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/40180341
     consultado_em: 2026-11-01

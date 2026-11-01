@@ -5,9 +5,9 @@ itens:
     url: https://legis.senado.leg.br/norma/492875
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "LC 227/2026, art. 173 (alterou arts. 5, 5-A, 5-B, 7, 10, 15, 27 e 37 do Decreto 70.235; art. 33 não alterado) e art. 182 (efeitos, a conferir)"
+    referencia: "LC 227/2026, art. 173 (alterou arts. 5, 5-A, 5-B, 7, 10, 15, 27, 33 e 37 do Decreto 70.235; recurso voluntário em 20 dias úteis), DOU 14/01/2026; prazos e transição conforme perguntas e respostas da Receita Federal e ADI RFB 2/2026"
     status: LEI
-    url: https://legis.senado.leg.br/norma/42042119
+    url: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/piloto-da-reforma-tributaria/perguntas-e-respostas-prazos-processuais-v2-final.pdf/@@download/file
     consultado_em: 2026-11-01
   - tipo: lei
     referencia: "Lei 14.689/2023 (voto de qualidade no CARF; art. 25 §§9º-A, 12 e 13 do Decreto 70.235)"
@@ -29,13 +29,33 @@ itens:
     status: CONFIRMADO
     url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1255
     consultado_em: 2026-11-01
-  - tipo: sumula
-    referencia: "Súmulas do CARF (não citadas por número; base de jurisprudência não cobre)"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/492875
+  - tipo: lei
+    referencia: "LC 227/2026, texto dos arts. 173 e 182 (redação do art. 33 do Decreto 70.235 em 20 dias úteis)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Receita Federal, Perguntas e respostas - prazos processuais da LC 227/2026 (impugnação e recurso voluntário em 20 dias úteis; ADI RFB 2/2026 para intimações até 31/03/2026)"
+    status: CONFIRMADO
+    url: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/piloto-da-reforma-tributaria/perguntas-e-respostas-prazos-processuais-v2-final.pdf/@@download/file
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Prazo do recurso especial à CSRF: Decreto 70.235 art. 37 §2º (15 dias) x CTN art. 208-D III (20 dias úteis) - conflito a confirmar"
+    referencia: "Recurso especial à CSRF: Decreto 70.235 art. 37 §2º (15 dias, corridos pelo art. 5º I) prevalece enquanto corre o prazo de adaptação do CTN art. 211-B (LC 236/2026, DOU 04/09/2026); CTN art. 208-D III só se aplica diretamente se não houver implementação em 2 anos"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "CTN art. 106, II, c (retroatividade benigna) e art. 113-A §1º (tetos de multa)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Jurisprudência sobre aplicação dos tetos do art. 113-A do CTN a multas de fatos anteriores à LC 236/2026"
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmulas do CARF (nenhuma citada por número; conferir no portal oficial do CARF antes de citar)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/492875
     consultado_em: 2026-11-01

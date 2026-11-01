@@ -31,5 +31,6 @@
 | Súmula 452 STJ: extinção de ações de pequeno valor é faculdade da Administração Federal, vedada atuação de ofício. | Enunciado de 2010; leia em conjunto com o Tema 1184 STF e a Res. CNJ 547/2024, posteriores. |
 | Súmula 515 STJ: reunião de execuções contra o mesmo devedor é faculdade do juiz. | Pedido de reunião. |
 
-## Pendência
-- Termo inicial da prescrição para o redirecionamento: confirmar o repetitivo do STJ e seu número antes de citar [VERIFICAR].
+## Redirecionamento
+- Tema 444 do STJ (1ª Seção, repetitivo): fixa o termo inicial da prescrição para o redirecionamento. Conforme transcrito no AgInt no AREsp 1.849.369 (STJ, 1ª Turma, rel. Gurgel de Faria, julg. 02/05/2022), "a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente". Link: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100612609
+- Paradigma do Tema 444: REsp 1.201.993/SP, rel. Min. Herman Benjamin, j. 08/05/2019, conforme transcrição no AgInt no AREsp 1.849.369 (STJ, 1ª Turma).

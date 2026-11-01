@@ -43,7 +43,8 @@ Ementa → consulta → documentos analisados → síntese normativa → anális
 
 ## Requisitos e cautelas
 - Base legal mínima: CF arts. 156-A e 195, V; ADCT arts. 125 a 133; LC 214/2025 com redação da LC 227/2026.
-- Normas posteriores identificadas no Senado: LC 235/2026 (alterou o art. 82, §11, I e incluiu o §12 do art. 174 da LC 214) e decretos regulamentares de 2026 [VERIFICAR conteúdo antes de usar]. ADIs 7.779 e 7.790 (03/08/2026) declararam inconstitucionais trechos dos arts. 149 e 150 da LC 214 (reduções para pessoas com deficiência e TEA na compra de automóveis) [VERIFICAR alcance antes de opinar sobre esse tema].
+- Normas posteriores (Senado): LC 235/2026, art. 6º (art. 82, §11, I da LC 214: exigência de receita de exportação superior a 30% da receita bruta nos três anos anteriores; art. 174, §12: alíquotas de fevereiro de 2026 como referência da carga dos combustíveis com alíquota reduzida entre março e junho de 2026). Decreto 12.955/2026 regulamenta a CBS; Decreto 13.133/2026 delega ao Ministro da Fazenda a divulgação das alíquotas da CBS sobre certos combustíveis. Leia o texto do decreto antes de aplicar ao caso.
+- ADIs 7.779 e 7.790 (acórdãos de 03/08/2026), segundo a ficha da LC 214 no Senado: inconstitucionalidade de parte do texto do art. 149, II, b e c, e do art. 150, §1º (alíquota zero na compra de automóveis por pessoas com deficiência e com TEA); declarados constitucionais o art. 149, §1º, o art. 150, IV e §1º (ADI 7.779) e o art. 152, II (ADI 7.790). Qual parte do texto caiu: ler os acórdãos no STF antes de opinar [VERIFICAR].
 - Não afirme alíquotas de referência definitivas: dependem de resolução do Senado (ADCT art. 130) e do cálculo da LC 214 (arts. 353 e seguintes).
 - Separe com clareza o que é texto legal, o que é interpretação e o que depende de regulamento.
 - Contencioso administrativo do IBS e prazos da CBS: LC 227/2026 (Comitê Gestor e processo administrativo do IBS; Decreto 70.235 art. 37, §5º para CBS).

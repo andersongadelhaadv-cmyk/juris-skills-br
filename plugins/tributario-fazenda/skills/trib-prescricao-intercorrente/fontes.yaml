@@ -55,9 +55,9 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503561132
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Repetitivo paradigma do STJ sobre art. 40 LEF (número do tema e do REsp não confirmados na base)"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503561132
+    referencia: "REsp 1.340.553/RS, Temas 566 e 570 do STJ (art. 40 LEF), identificados no AgInt no AREsp 1.891.908 (1ª Turma, julg. 02/10/2023)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101462670
     consultado_em: 2026-11-01
   - tipo: tema
     referencia: "Tema 1229 do STJ (REsp 2.076.321)"
