@@ -33,4 +33,4 @@
 
 ## Redirecionamento
 - Tema 444 do STJ (1ª Seção, repetitivo): fixa o termo inicial da prescrição para o redirecionamento. Conforme transcrito no AgInt no AREsp 1.849.369 (STJ, 1ª Turma, rel. Gurgel de Faria, julg. 02/05/2022), "a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente". Link: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100612609
-- Número do REsp paradigma do Tema 444: não conferido em fonte oficial [VERIFICAR]; cite pelo número do tema.
+- Paradigma do Tema 444: REsp 1.201.993/SP, rel. Min. Herman Benjamin, j. 08/05/2019, conforme transcrição no AgInt no AREsp 1.849.369 (STJ, 1ª Turma).

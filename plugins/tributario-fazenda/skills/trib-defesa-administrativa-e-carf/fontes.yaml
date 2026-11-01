@@ -5,9 +5,9 @@ itens:
     url: https://legis.senado.leg.br/norma/492875
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "LC 227/2026, art. 173 (alterou arts. 5, 5-A, 5-B, 7, 10, 15, 27, 33 e 37 do Decreto 70.235; recurso voluntário em 20 dias úteis) e art. 182, III (efeitos desde a publicação, DOU 14/01/2026)"
+    referencia: "LC 227/2026, art. 173 (alterou arts. 5, 5-A, 5-B, 7, 10, 15, 27, 33 e 37 do Decreto 70.235; recurso voluntário em 20 dias úteis), DOU 14/01/2026; prazos e transição conforme perguntas e respostas da Receita Federal e ADI RFB 2/2026"
     status: LEI
-    url: https://legis.senado.leg.br/norma/42042119
+    url: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/piloto-da-reforma-tributaria/perguntas-e-respostas-prazos-processuais-v2-final.pdf/@@download/file
     consultado_em: 2026-11-01
   - tipo: lei
     referencia: "Lei 14.689/2023 (voto de qualidade no CARF; art. 25 §§9º-A, 12 e 13 do Decreto 70.235)"

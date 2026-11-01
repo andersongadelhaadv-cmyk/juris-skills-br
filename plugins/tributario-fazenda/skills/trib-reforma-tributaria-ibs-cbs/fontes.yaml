@@ -25,7 +25,7 @@ itens:
     url: https://legis.senado.leg.br/dadosabertos/legislacao/lista?tipo=DEC&numero=12955&ano=2026
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADIs 7.779 e 7.790 (STF, acórdãos de 03/08/2026, DOU 14/08/2026): dispositivos atingidos registrados na ficha da LC 214 no Senado"
+    referencia: "ADIs 7.779 e 7.790 (STF, acórdãos de 03/08/2026): dispositivos atingidos registrados na ficha da LC 214 no Senado"
     status: CONFIRMADO
     url: https://legis.senado.leg.br/norma/40180341
     consultado_em: 2026-11-01

@@ -31,7 +31,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Valor do crédito e interesse em pagamento ou parcelamento com redução de multa (CTN art. 142, §5º).
 
 ## Prazo e contagem
-- **Federal, impugnação**: 20 dias úteis da intimação (Decreto 70.235 arts. 10, V e 15, redação do art. 173 da LC 227/2026). Efeitos desde a publicação, em 14/01/2026 (LC 227 art. 182, III).
+- **Federal, impugnação**: 20 dias úteis da intimação (Decreto 70.235 arts. 10, V e 15, redação do art. 173 da LC 227/2026). Efeitos desde a publicação, em 14/01/2026, conforme a Receita Federal (ADI RFB 2/2026); inciso do art. 182 da LC 227 [VERIFICAR].
 - **Federal, recurso voluntário**: 20 dias úteis da ciência da decisão de 1ª instância, com efeito suspensivo (Decreto 70.235 art. 33, redação do art. 173 da LC 227/2026). O CTN art. 208-D, II e §3º (LC 236/2026) traz o mesmo prazo.
 - **Transição (intimações até 31/03/2026)**: a Receita Federal orienta considerar o prazo que vencer por último entre 20 dias úteis e 30 dias corridos (ADI RFB 2/2026, nas perguntas e respostas oficiais sobre prazos). Ciência anterior a 14/01/2026 segue os 30 dias corridos.
 - **Recurso especial à CSRF**: 15 dias da ciência do acórdão (Decreto art. 37, §2º), contados em dias corridos (art. 5º, I); para CBS, 10 dias úteis (§5º). O CTN art. 208-D, III prevê 20 dias úteis, mas o art. 211-B dá à União, como aos demais entes, 2 anos para adaptar a legislação; a aplicação direta dos arts. 208-A a 208-J só ocorre se a adaptação não vier nesse prazo (contado da LC 236/2026, DOU de 04/09/2026). Até lá, protocole em 15 dias corridos.

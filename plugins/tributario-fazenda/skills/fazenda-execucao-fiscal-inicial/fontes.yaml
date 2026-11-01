@@ -85,7 +85,7 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100612609
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "REsp paradigma do Tema 444 do STJ (número não conferido em fonte oficial)"
-    status: VERIFICAR
+    referencia: "Tema 444 do STJ, paradigma REsp 1.201.993/SP (j. 08/05/2019), transcrito no AgInt no AREsp 1.849.369"
+    status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100612609
     consultado_em: 2026-11-01
