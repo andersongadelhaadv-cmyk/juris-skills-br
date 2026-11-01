@@ -24,7 +24,7 @@ LEP conferida no texto compilado e no Senado (norma 549086). Súmulas e preceden
 - Súmula 533 do STJ — PAD com defesa técnica é imprescindível.
 - Súmula 534 do STJ — falta grave interrompe o prazo da progressão, reiniciando do cometimento.
 - Súmula 535 do STJ — falta grave não interrompe o prazo para comutação ou indulto.
-Vigência: as súmulas acima constam da base oficial; a base não registra cancelamento. As páginas do STJ consultadas (231, 441) não trazem nota de cancelamento.
+Vigência: confira no site do tribunal se a súmula segue em vigor antes de citar. As páginas do STJ consultadas (231, 441) não trazem nota de cancelamento.
 
 ## Prescrição da falta grave
 - STJ, 6ª Turma, AgRg no REsp 2.214.069, rel. Min. Og Fernandes, j. 25/02/2026 — sem lei específica, a prescrição da falta grave segue, por analogia, o art. 109, VI, do CP (3 anos, após a Lei 12.234/2010); inaplicável o art. 114, I, do CP.

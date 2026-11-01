@@ -94,3 +94,8 @@ itens:
     status: VERIFICAR
     url: https://portal.stf.jus.br/
     consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, 3ª Seção, REsp 1.931.145, rel. Min. Sebastião Reis Júnior, j. 22/06/2022 — Tema 585 revisado (compensação entre confissão e reincidência)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100961299
+    consultado_em: 2026-11-01
