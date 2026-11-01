@@ -9,10 +9,11 @@
 - Art. 17: matéria não expressamente contestada considera-se não impugnada.
 - Art. 25, II: CARF como segunda instância; §9º: presidência com representantes da Fazenda e voto de qualidade; §9º-A (Lei 14.689/2023): julgamento resolvido pelo voto de qualidade exclui multas e cancela representação fiscal para fins penais; §12: sustentação oral; §13: observância das súmulas do CARF.
 - Art. 26-A: vedação de afastar lei por inconstitucionalidade, com exceções do §6º.
-- Art. 33: recurso voluntário com efeito suspensivo, em 30 dias da ciência da decisão (dispositivo não alterado pela LC 227/2026; ver o CTN art. 208-D abaixo) [VERIFICAR qual prazo prevalece].
-- Art. 37, §2º: recurso especial à CSRF em 15 dias; §5º (LC 227/2026): CBS, 10 dias úteis.
+- Art. 33 (redação do art. 173 da LC 227/2026): recurso voluntário, total ou parcial, com efeito suspensivo, "dentro dos 20 (vinte) dias úteis seguintes à ciência da decisão". A Receita Federal adota o mesmo prazo em suas perguntas e respostas oficiais sobre prazos processuais. Observação: a ficha da LC 227 no Senado não lista o art. 33 entre os dispositivos alterados, mas o texto do art. 173 o inclui.
+- Art. 37, §2º: recurso especial à CSRF em 15 dias da ciência do acórdão, em dias corridos (art. 5º, I, "salvo se houver disposição em contrário"); §5º (LC 227/2026): CBS, 10 dias úteis.
 - Art. 59: nulidades; §3º: decisão de mérito favorável dispensa a nulidade.
-- Vigência da LC 227/2026 quanto a esses dispositivos: DOU de 14/01/2026; termo inicial dos efeitos regido pelo art. 182 da LC 227 [VERIFICAR inciso aplicável].
+- Vigência da LC 227/2026 quanto a esses dispositivos: DOU de 14/01/2026. O art. 182 fixa efeitos em 1º/01/2027 só para o art. 76, II, c, e o art. 169 (inciso I), e na eleição do Presidente do CGIBS para os §§4º e 5º do art. 52 (inciso II); as alterações do Decreto 70.235 (art. 173) produzem efeitos desde a publicação (inciso III).
+- Transição administrativa: para intimações até 31/03/2026, o ADI RFB 2/2026 manda considerar o prazo que vencer por último entre 20 dias úteis e 30 dias corridos; ciência antes de 14/01/2026 segue os 30 dias corridos (perguntas e respostas oficiais da Receita Federal).
 
 ## CTN – normas gerais de processo administrativo fiscal (LC 236/2026)
 - Art. 151, III: impugnações e recursos suspendem a exigibilidade; §2º: vedada caução ou garantia para impugnar ou recorrer.
@@ -24,11 +25,13 @@
 - Art. 208-G: efeito vinculante de precedentes do STF/STJ, resolução do Senado e súmulas dos tribunais administrativos; §1º: proibição de lançar ou manter crédito contra matéria assim decidida.
 - Art. 208-H: nulidades.
 - Art. 208-J: sobrestamento automático quando STF/STJ suspendem processos sobre a mesma questão.
-- Art. 211-B: entes têm 2 anos para adaptar a legislação; na omissão, aplicam-se os arts. 208-A a 208-J.
+- Art. 211-B: União, Estados, DF e Municípios têm 2 anos para atualizar a legislação e adotar, no mínimo, os critérios dos arts. 208-A a 208-J; só se não houver implementação nesse prazo os arts. 208-A a 208-J passam a ser aplicados diretamente, até que sobrevenha lei específica (parágrafo único). A LC 236/2026 foi publicada no DOU de 04/09/2026 (edição extra), com vigência na publicação (art. 3º).
+- Consequência prática no plano federal: enquanto correr o prazo do art. 211-B, valem os prazos do Decreto 70.235. Impugnação e recurso voluntário já coincidem com o CTN (20 dias úteis); o recurso especial segue em 15 dias corridos (art. 37, §2º).
+- Art. 106, II, c: a lei nova aplica-se a ato não definitivamente julgado quando comine penalidade menos severa. Base para pedir a redução da multa aos tetos do art. 113-A; jurisprudência sobre essa aplicação não conferida em fonte oficial [VERIFICAR].
 
 ## Precedente
 - Súmula Vinculante 21: inconstitucional exigir depósito ou arrolamento prévio para recurso administrativo.
 
 ## Pendências
-- Prazo do recurso especial à CSRF (15 dias do Decreto x 20 dias úteis do CTN art. 208-D, III) [VERIFICAR].
-- Súmulas do CARF: não confirmadas na base; conferir no portal oficial do CARF.
+- Súmulas do CARF: nenhuma conferida em fonte oficial; confira número, redação e vigência no portal do CARF antes de citar [VERIFICAR].
+- Retroatividade dos tetos do art. 113-A a multas já lançadas: jurisprudência não conferida em fonte oficial [VERIFICAR].

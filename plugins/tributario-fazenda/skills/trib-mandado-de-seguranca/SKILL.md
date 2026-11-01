@@ -41,7 +41,7 @@ Endereçamento (competência pela sede da autoridade e categoria funcional) → 
 - Prova pré-constituída: sem ela, denegação sem mérito (art. 6º, §5º; art. 19).
 - Autoridade correta: quem pratica ou ordena o ato; erro de indicação gera extinção ou emenda conforme o juízo.
 - Liminar: fundamento relevante + risco de ineficácia (art. 7º, III); o juiz pode exigir caução. Agravo de instrumento da decisão (art. 7º, §1º).
-- Compensação: o MS declara o direito (Súmula 213 STJ); a compensação só se faz após o trânsito em julgado (CTN art. 170-A). A vedação legal de liminar para compensação do art. 7º, §2º foi atingida por controle concentrado no STF, conforme registro da página da Lei 12.016 no Senado [VERIFICAR: número da ação e alcance antes de citar]. Não peça compensação imediata por liminar.
+- Compensação: o MS declara o direito (Súmula 213 STJ); a compensação só se faz após o trânsito em julgado (CTN art. 170-A). O art. 7º, §2º, que vedava liminar para compensação, foi declarado inconstitucional pelo STF na ADI 4.296 (acórdão de 09/06/2021, DOU de 28/06/2021), conforme a ficha da Lei 12.016 no Senado. Mesmo assim, a compensação depende do trânsito em julgado (CTN art. 170-A): não peça compensação imediata por liminar.
 - Restituição em dinheiro de indébito reconhecido judicialmente: via precatório, não administrativa (Tema 1262 STF). O contribuinte pode optar entre precatório e compensação (Súmula 461 STJ).
 - Sem honorários (art. 25; Súmula 512 STF; Súmula 105 STJ) e sem efeitos patrimoniais pretéritos (Súmula 271 STF).
 

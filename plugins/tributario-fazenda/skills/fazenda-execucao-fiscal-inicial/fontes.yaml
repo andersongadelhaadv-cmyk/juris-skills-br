@@ -80,7 +80,12 @@ itens:
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=515.num.
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Repetitivo do STJ sobre prescrição para o redirecionamento (número não confirmado)"
+    referencia: "Tema 444 do STJ (prescrição para o redirecionamento), confirmado pela transcrição da tese no AgInt no AREsp 1.849.369 (1ª Turma, julg. 02/05/2022)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100612609
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "REsp paradigma do Tema 444 do STJ (número não conferido em fonte oficial)"
     status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201603209921
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100612609
     consultado_em: 2026-11-01

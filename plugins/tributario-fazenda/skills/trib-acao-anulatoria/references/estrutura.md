@@ -8,6 +8,6 @@
 6. **Decadência e prescrição.** Linha do tempo: fato gerador, pagamento/declaração, início da fiscalização, ciência do auto.
 7. **Nulidades formais.** Requisitos do auto (CTN art. 208-B; Decreto 70.235 art. 10 para tributos federais); incompetência ou lançamento sem fundamentação legal (CTN art. 208-H, §1º, I e III); preterição do direito de defesa.
 8. **Mérito material.** Tese principal, uma por subtítulo; demonstração documental e indicação do que a perícia vai provar.
-9. **Multa.** Proporcionalidade e limites do art. 113-A; retroatividade benigna (CTN art. 106, II, c) se a multa aplicada superar o novo teto [VERIFICAR jurisprudência sobre aplicação a fatos anteriores].
+9. **Multa.** Proporcionalidade e limites do art. 113-A; retroatividade benigna (CTN art. 106, II, c: ato não definitivamente julgado e penalidade menos severa) se a multa aplicada superar o novo teto; jurisprudência sobre a aplicação a fatos anteriores não conferida em fonte oficial [VERIFICAR].
 10. **Provas.** Perícia contábil com quesitos; documentos; testemunhas se houver fato a provar.
 11. **Pedidos e valor da causa.** Valor do crédito impugnado atualizado.

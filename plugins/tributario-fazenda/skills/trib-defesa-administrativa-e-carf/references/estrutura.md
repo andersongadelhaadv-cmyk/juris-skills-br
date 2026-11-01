@@ -8,13 +8,13 @@
 5. **Ação judicial.** Declaração expressa (existe ou não ação com o mesmo objeto).
 6. **Preliminares.** Nulidade (competência, cerceamento de defesa, requisitos do auto, fundamentação legal); decadência por período (CTN arts. 150 e 173).
 7. **Mérito.** Um tópico por infração: fatos, prova, norma, precedente vinculante (CTN art. 208-G).
-8. **Multa.** Qualificação indevida, ausência de dolo comprovado, tetos do art. 113-A, retroatividade benigna.
+8. **Multa.** Qualificação indevida, ausência de dolo comprovado, tetos do art. 113-A, retroatividade benigna (CTN art. 106, II, c).
 9. **Diligências e perícia.** Motivos, quesitos, perito.
 10. **Pedidos.**
 
 ## Recurso voluntário (2ª instância, CARF)
 1. Endereçamento ao CARF, protocolado no órgão indicado na intimação.
-2. Tempestividade: protocolar em até 20 dias úteis da ciência do acórdão de 1ª instância (CTN art. 208-D; o art. 33 do Decreto ainda fala em 30 dias) [VERIFICAR].
+2. Tempestividade: protocolar em até 20 dias úteis da ciência do acórdão de 1ª instância (Decreto art. 33, redação da LC 227/2026; no mesmo sentido, CTN art. 208-D, II).
 3. Síntese da decisão recorrida e dos pontos vencidos.
 4. Preliminares (nulidade da decisão por omissão ou cerceamento).
 5. Mérito: só a matéria impugnada (inovação é vedada, salvo matéria de ordem pública e fato superveniente).
@@ -22,4 +22,4 @@
 7. Pedido de sustentação oral e de intimação do procurador.
 
 ## Recurso especial à CSRF
-- Exige divergência com acórdão paradigma de outro colegiado (Decreto art. 37, §2º, II; CTN art. 208-C, IV). Faça o cotejo analítico. Prazo: ver SKILL.md.
+- Exige divergência com acórdão paradigma de outro colegiado (Decreto art. 37, §2º, II; CTN art. 208-C, IV). Faça o cotejo analítico. Prazo: 15 dias corridos (Decreto art. 37, §2º, c/c art. 5º, I); CBS, 10 dias úteis (§5º). Detalhe no SKILL.md.
