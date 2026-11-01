@@ -37,7 +37,7 @@ Resumo (detalhe em [estrutura](references/estrutura.md)): identificação; quadr
 
 ## Requisitos e preliminares
 - Pena privativa de liberdade igual ou superior a 2 anos (somáveis — CP 84).
-- Fração (CP 83): mais de 1/3 se não reincidente em crime doloso e com bons antecedentes; mais da metade se reincidente em crime doloso; mais de 2/3 em hediondo, tortura, tráfico, tráfico de pessoas e terrorismo, se não reincidente específico. Primário com maus antecedentes: a jurisprudência aplica fração intermediária [VERIFICAR: entendimento atual do STJ antes de citar].
+- Fração (CP 83): mais de 1/3 se não reincidente em crime doloso e com bons antecedentes; mais da metade se reincidente em crime doloso; mais de 2/3 em hediondo, tortura, tráfico, tráfico de pessoas e terrorismo, se não reincidente específico. Primário com maus antecedentes: a lei não traz fração própria; a orientação do STJ para esse caso não foi conferida em fonte oficial [VERIFICAR]. Sustente a fração de 1/3 (o inciso II exige reincidência em crime doloso) e confira precedentes antes de citar.
 - Requisitos subjetivos (CP 83, III, com redação da Lei 13.964/2019): bom comportamento, ausência de falta grave nos últimos 12 meses, bom desempenho no trabalho atribuído, aptidão para prover a própria subsistência.
 - Reparação do dano, salvo impossibilidade (CP 83, IV).
 - Crime doloso com violência ou grave ameaça: constatação de condições pessoais que façam presumir que não voltará a delinquir (CP 83, p.ú.).

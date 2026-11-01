@@ -15,7 +15,7 @@ Culpabilidade; antecedentes; conduta social; personalidade; motivos; circunstân
 ## 3. Segunda fase
 - Atenuantes: confissão (Súmula 545, nova redação), menoridade relativa, reparação do dano, relevante valor moral, influência de multidão, coação resistível.
 - Agravantes: reincidência (prova do trânsito e do período depurador); não sobrepor com a fase 1 (Súmula 241).
-- Compensação entre confissão e reincidência [VERIFICAR: entendimento atual do STJ sobre compensação integral antes de citar].
+- Compensação entre confissão e reincidência: integral, ainda que a reincidência seja específica; na multirreincidência prepondera a agravante, admitida compensação proporcional (STJ, Tema 585 revisado, ver fundamentos). Se houver mais de uma condenação anterior, peça ao menos a compensação proporcional e mostre a fração usada.
 
 ## 4. Terceira fase
 - Causas de diminuição: tentativa (fração conforme o iter criminis), participação de menor importância, tráfico privilegiado (art. 33 §4º), arrependimento posterior.

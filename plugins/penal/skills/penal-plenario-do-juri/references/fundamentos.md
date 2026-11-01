@@ -28,4 +28,8 @@ CPP e CF conferidos no texto compilado. Súmulas e temas conferidos no JuriBase 
 ## Temas
 - STF Tema 1068 (RE 1.235.340, j. 12/09/2024) — "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada." Como usar: preparar desde já pedido de efeito suspensivo ao tribunal, com questão substancial (CPP 492 §5º).
 - STF Tema 1087 (ARE 1.225.185, j. 04/10/2024) — apelação da acusação contra absolvição por quesito genérico é cabível, mas não haverá novo júri se a tese de clemência foi apresentada, consta em ata e é compatível com a Constituição, os precedentes vinculantes e os fatos. Como usar: registrar em ata a tese de clemência.
-- [VERIFICAR: ADPF 779 (legítima defesa da honra) — referida no CPP compilado junto ao art. 483; decisão não localizada na base. Conferir no portal do STF.]
+- ADPF 779 (legítima defesa da honra) — referida no CPP compilado junto ao art. 483; teor, data e limites da decisão não conferidos em fonte oficial [VERIFICAR]. Conferir no portal do STF antes de qualquer uso.
+
+## Tréplica
+- STJ, 5ª Turma, AgRg no AREsp 2.897.958, rel. Des. conv. Carlos Cini Marchionatti, j. 12/08/2025 — é vedada a inovação de tese defensiva na tréplica, sob pena de violação do contraditório; no caso, não houve inovação porque o privilégio fora alegado pelo réu no interrogatório (autodefesa).
+Como usar: expor todas as teses técnicas no primeiro tempo da defesa. Se o MP impugnar tese surgida na tréplica, demonstrar que ela já constava do interrogatório ou dos debates anteriores e pedir registro em ata.

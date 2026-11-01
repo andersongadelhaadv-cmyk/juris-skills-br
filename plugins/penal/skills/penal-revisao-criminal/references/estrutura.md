@@ -17,7 +17,7 @@ Imputação, sentença, recursos, acórdão, trânsito, situação da pena.
 
 ## 5. Fundamentos
 - 621, I (lei): erro de direito na tipificação, dosimetria contrária à lei (ex.: bis in idem), lei posterior mais benéfica não aplicada [lembrar que lei mais benéfica posterior é aplicada pelo juiz da execução — LEP 66, I].
-- 621, I (evidência): condenação sem nenhuma prova que a sustente, ou baseada só em elementos informativos (nos júris, ver Tema 1260 do STJ citado no REsp 2.170.160 — [VERIFICAR: teor do Tema 1260 STJ]).
+- 621, I (evidência): condenação sem nenhuma prova que a sustente, ou baseada só em elementos informativos (CPP 155). Nos casos do júri, use como reforço o Tema 1260 do STJ (REsp 2.048.687, 3ª Seção, j. 12/08/2026): a pronúncia não pode se basear exclusivamente em elementos do inquérito, ressalvadas as provas cautelares, não repetíveis e antecipadas, e o testemunho indireto, sozinho, não basta para pronunciar. A tese trata da pronúncia; a extensão à condenação é argumento da defesa (se o indício não basta para pronunciar, não basta para condenar).
 - 621, II: falsidade comprovada (sentença em ação penal por falso testemunho, laudo pericial que desmente exame).
 - 621, III: prova nova de inocência ou de causa de diminuição.
 

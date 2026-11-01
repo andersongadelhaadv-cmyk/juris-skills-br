@@ -45,7 +45,12 @@ itens:
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5745131&numeroProcesso=1225185&classeProcesso=ARE&numeroTema=1087
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "STF ADPF 779 (referida no art. 483 CPP compilado) — conteúdo não verificado na base"
+    referencia: "STF ADPF 779 (referida no art. 483 CPP compilado) — teor não conferido em fonte oficial"
     status: VERIFICAR
     url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no AREsp 2.897.958, rel. Des. conv. Carlos Cini Marchionatti, j. 12/08/2025 — vedada a inovação de tese defensiva na tréplica"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501121680
     consultado_em: 2026-11-01

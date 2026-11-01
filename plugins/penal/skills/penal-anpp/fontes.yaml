@@ -35,12 +35,12 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504449310
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "Tese do STF sobre retroatividade do ANPP (HC 185.913) — não localizada na base"
+    referencia: "Tese do STF sobre retroatividade do ANPP (HC 185.913) — não conferida em fonte oficial"
     status: VERIFICAR
     url: https://portal.stf.jus.br/
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "STF ADIs 6.298, 6.299, 6.300 e 6.305 (juiz das garantias) — acórdão não localizado na base; ementa transcrita em acórdão do TRF3 (ação penal 5002663-53.2024.4.03.6181) indica julgamento parcialmente procedente; detalhes a conferir"
+    referencia: "STF ADIs 6.298, 6.299, 6.300 e 6.305 (juiz das garantias) — acórdão não conferido em fonte oficial; ementa transcrita em acórdão do TRF3 (ação penal 5002663-53.2024.4.03.6181) indica julgamento parcialmente procedente; detalhes a conferir"
     status: VERIFICAR
     url: https://pje2g.trf3.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26052816204199000000373679540
     consultado_em: 2026-11-01

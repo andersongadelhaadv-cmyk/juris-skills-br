@@ -51,7 +51,7 @@ Frações vigentes (LEP 112, conferidas no texto compilado e nas Leis 15.358/202
 | VIII — reincidente em hediondo com morte | 85% | Lei 15.358/2026 |
 
 - Vedação de livramento expressa em VI, a, b, d e VIII.
-- Reincidente não específico condenado por hediondo sem morte: para fatos regidos pela Lei 13.964/2019, o STF (Tema 1169, ARE 1.327.963) afastou o inciso VII e mandou aplicar por analogia o inciso V então vigente (40%), inclusive retroativamente. Para fatos posteriores à Lei 15.358/2026, confira se a nova redação do inciso VII exige reincidência específica [VERIFICAR].
+- Reincidente não específico condenado por hediondo sem morte: para fatos regidos pela Lei 13.964/2019, o STF (Tema 1169, ARE 1.327.963) afastou o inciso VII e mandou aplicar por analogia o inciso V então vigente (40%), inclusive retroativamente. O STJ segue a mesma linha (tese do Tema 1084, transcrita no AgRg no AREsp 2.287.100). Para fatos a partir de 25/03/2026: o novo inciso VII (Lei 15.358/2026, conferido no Senado) manteve a expressão "reincidente na prática de crime hediondo ou equiparado", de modo que o fundamento do Tema 1169 (taxatividade) continua aplicável e sustenta o inciso V (70%) para o reincidente não específico. Trata-se de argumento da defesa; não foi localizado julgado sobre a redação nova (ver fundamentos).
 - Lei mais grave não retroage (CF 5º XL): o crime cometido antes de 25/03/2026 (vigência da Lei 15.358) ou de 08/05/2026 (vigência da Lei 15.402) segue a fração da lei do tempo do fato, se mais benéfica. Ver o quadro histórico em fundamentos.
 - Requisito subjetivo: boa conduta atestada pelo diretor e resultado do exame criminológico (LEP 112 §1º, Lei 14.843/2024). Para crimes anteriores a essa lei, o STJ afasta a obrigatoriedade (novatio legis in pejus); o exame só cabe por decisão concreta (Súmula 439 STJ).
 - Falta grave interrompe a contagem, que recomeça sobre a pena remanescente (LEP 112 §6º; Súmula 534 STJ). Bom comportamento readquirido após 1 ano ou ao cumprir o requisito temporal (§7º).
@@ -59,7 +59,7 @@ Frações vigentes (LEP 112, conferidas no texto compilado e nas Leis 15.358/202
 - Progressão especial (§3º): gestante, mãe ou responsável por criança ou pessoa com deficiência — 1/8, cumulado com os incisos I a V do §3º.
 
 ## Fundamentos verificados
-Resumo (detalhe em [fundamentos](references/fundamentos.md)): LEP 112 (redação de 2026), 66, 111, 118; CP 33; CF 5º XL; Súmulas 439, 471, 491, 534 STJ; Súmula Vinculante 26; Súmula 715 STF; STJ sobre a Lei 14.843/2024.
+Resumo (detalhe em [fundamentos](references/fundamentos.md)): LEP 112 (redação de 2026), 66, 111, 118; CP 33; CF 5º XL; Súmulas 439, 471, 491, 534 STJ; Súmula Vinculante 26; Súmula 715 STF; Tema 1169 STF e Tema 1084 STJ (reincidente não específico); STJ sobre a Lei 14.843/2024 e sobre demora do exame criminológico.
 
 ## Pedidos e requerimentos
 1. Homologação do cálculo correto (fração por crime, data-base).

@@ -30,7 +30,12 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601326765
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "STJ Tema 1260 (referido no REsp 2.170.160) — condenação do júri fundada só em elementos informativos"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/
+    referencia: "STJ Tema 1260, REsp 2.048.687, 3ª Seção, rel. Min. Reynaldo Soares da Fonseca, j. 12/08/2026 — pronúncia não pode se basear exclusivamente em elementos do inquérito; testemunho indireto, sozinho, não basta para pronunciar"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300184018
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no HC 1.087.730, rel. Min. Sebastião Reis Júnior, j. 03/06/2026 — revisão criminal sem efeito suspensivo; HC contra indeferimento de liminar em revisão: Súmula 691 STF por analogia"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601325213
     consultado_em: 2026-11-01

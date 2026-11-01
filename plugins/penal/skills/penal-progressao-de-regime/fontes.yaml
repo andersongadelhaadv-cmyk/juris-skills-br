@@ -119,3 +119,23 @@ itens:
     status: CONFIRMADO
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6180884&numeroProcesso=1327963&classeProcesso=ARE&numeroTema=1169
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no AREsp 2.287.100, rel. Min. Reynaldo Soares da Fonseca, j. 20/02/2024 — transcreve a tese do Tema 1084/STJ (retroatividade do art. 112, V, ao reincidente não específico em hediondo sem morte)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300258015
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1084 do STJ — tese conhecida pela transcrição no AgRg no AREsp 2.287.100; recursos paradigma e data de julgamento não conferidos"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.358/2026, art. 35 (publicação no Senado): art. 112, VII, LEP — 80%, reincidente na prática de crime hediondo ou equiparado; caput sem texto novo"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42931693/publicacao/42933891
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, HC 980.165, rel. Min. Sebastião Reis Júnior, j. 14/05/2025 — demora do exame para progressão deve ser justificada; no caso, sem constrangimento ilegal"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500385494
+    consultado_em: 2026-11-01

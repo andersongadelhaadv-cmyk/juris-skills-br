@@ -26,6 +26,10 @@ LEP conferida no texto compilado e no Senado (norma 549086). Súmulas e preceden
 - Súmula 535 do STJ — falta grave não interrompe o prazo para comutação ou indulto.
 Vigência: as súmulas acima constam da base oficial; a base não registra cancelamento. As páginas do STJ consultadas (231, 441) não trazem nota de cancelamento.
 
+## Prescrição da falta grave
+- STJ, 6ª Turma, AgRg no REsp 2.214.069, rel. Min. Og Fernandes, j. 25/02/2026 — sem lei específica, a prescrição da falta grave segue, por analogia, o art. 109, VI, do CP (3 anos, após a Lei 12.234/2010); inaplicável o art. 114, I, do CP.
+Como usar: demonstrar com datas que o prazo de 3 anos se esgotou antes do reconhecimento da falta (o termo inicial e os marcos de contagem devem ser conferidos no acórdão e na jurisprudência do tribunal local); se o prazo correu, pedir o afastamento da falta e de todos os seus efeitos (data-base, perda de dias remidos, regressão).
+
 ## Exame criminológico — Lei 14.843/2024
 - STJ, 5ª Turma, AgRg no HC 943.774, rel. Min. Reynaldo Soares da Fonseca, j. 19/11/2024 — exigência de exame para toda progressão é novatio legis in pejus.
 - STJ, 6ª Turma, HC 950.729, rel. Min. Rogerio Schietti Cruz, j. 03/12/2024 — normas sobre benefícios executórios têm natureza material; só retroage a lei mais benéfica.

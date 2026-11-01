@@ -28,3 +28,10 @@ Lei 11.340/2006 conferida no texto compilado e no Senado (norma 572125); Leis 14
 - STJ, 6ª Turma, AgRg no HC 868.057, rel. Des. conv. Jesuíno Rissato, j. 12/03/2024 — necessidade de oitiva prévia da vítima para afastar as medidas; desnecessidade das MPUs não se discute em HC por exigir prova.
 - STJ, 5ª Turma, AgRg no RHC 209.701, rel. Des. conv. Carlos Cini Marchionatti, j. 28/05/2025 — prorrogação de MPUs sem oitiva do requerido não configurou ilegalidade no caso concreto.
 Como usar: o requerido deve pedir a revogação ao juízo de origem, com prova, e audiência com contraditório; HC só para ilegalidade evidente.
+
+## Consentimento da ofendida e tipicidade do art. 24-A
+A jurisprudência do STJ não é uniforme:
+- STJ, 6ª Turma, AgRg no REsp 2.216.609, rel. Min. Og Fernandes, j. 17/06/2026 — reaproximação consentida e incontroversa afasta o dolo e a lesão ao bem jurídico; absolvição mantida.
+- STJ, 5ª Turma, REsp 2.140.598, rel. Min. Daniela Teixeira, j. 11/02/2025 — aproximação com consentimento da vítima: atipicidade reconhecida.
+- STJ, 5ª Turma, AgRg no REsp 2.279.947, rel. Min. Reynaldo Soares da Fonseca, j. 18/08/2026 — crime formal; reaproximação sem prévia revogação judicial da medida é irrelevante; a tese de consentimento esbarra na Súmula 7 quando o acórdão fixou ciência das medidas e descumprimentos reiterados.
+Como usar: na defesa criminal, a tese do consentimento exige prova clara (mensagens, iniciativa da ofendida, convivência retomada) fixada já nas instâncias ordinárias, porque o STJ não reexamina prova; na orientação ao cliente, nunca trate o consentimento como autorização: peça antes a revogação ou a modulação da medida.

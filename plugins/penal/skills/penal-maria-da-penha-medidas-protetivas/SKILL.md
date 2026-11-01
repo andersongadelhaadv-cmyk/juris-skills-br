@@ -62,7 +62,7 @@ Resumo (detalhe em [fundamentos](references/fundamentos.md)): Lei 11.340, arts. 
 
 ## Erros a evitar
 - Pedir prazo certo de validade (a lei e o Tema 1249 afastam prazo predeterminado).
-- Orientar o requerido a "resolver" contatando a ofendida: o contato pode configurar o art. 24-A, mesmo se iniciado por ela [VERIFICAR: entendimento atual sobre consentimento da vítima e tipicidade do 24-A antes de sustentar essa tese].
+- Orientar o requerido a "resolver" contatando a ofendida: o contato pode configurar o art. 24-A. O STJ admite atipicidade quando o consentimento da vítima é incontroverso (6ª Turma, AgRg no REsp 2.216.609), mas também afirma a natureza formal do crime e a irrelevância da reaproximação sem revogação judicial da medida (5ª Turma, AgRg no REsp 2.279.947). O caminho seguro é pedir a revogação ou modulação da medida ao juiz (ver fundamentos).
 - Tratar o 24-A como crime de menor potencial ofensivo: a pena é de 2 a 5 anos.
 - Esquecer que alimentos fixados na MPU já são título executivo (22 §10).
 
