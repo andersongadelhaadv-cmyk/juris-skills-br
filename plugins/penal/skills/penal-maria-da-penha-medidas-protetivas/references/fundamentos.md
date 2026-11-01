@@ -1,6 +1,6 @@
 # Fundamentos verificados — medidas protetivas
 
-Lei 11.340/2006 conferida no texto compilado (corpus local de 18/10/2026) e no Senado (norma 572125); Leis 14.550/2023 (36981001), 14.994/2024 (39748605), 15.383/2026 (43036753) e 15.412/2026 (43306759) registradas no Senado. Súmulas, tema e precedentes conferidos no JuriBase em 01/11/2026.
+Lei 11.340/2006 conferida no texto compilado e no Senado (norma 572125); Leis 14.550/2023 (36981001), 14.994/2024 (39748605), 15.383/2026 (43036753) e 15.412/2026 (43306759) registradas no Senado. Súmulas, tema e precedentes conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo |

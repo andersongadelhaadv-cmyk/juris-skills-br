@@ -1,6 +1,6 @@
 # Fundamentos verificados — ANPP
 
-CPP compilado (corpus local de 18/10/2026); Lei 13.964/2019 registrada no Senado (norma 31865675). Precedentes conferidos no JuriBase em 01/11/2026.
+CPP compilado; Lei 13.964/2019 registrada no Senado (norma 31865675). Precedentes conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo |

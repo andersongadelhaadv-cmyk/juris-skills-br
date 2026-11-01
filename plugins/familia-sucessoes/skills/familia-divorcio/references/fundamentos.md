@@ -16,7 +16,7 @@
 
 ## Resoluções do CNJ (Res. 35/2007 e alterações)
 - **Res. CNJ 571/2024** alterou a Res. 35: admitiu divórcio extrajudicial com filhos incapazes quando guarda, convivência e alimentos já estiverem resolvidos judicialmente (art. 34 §2º); estendeu as regras à extinção de união estável (art. 46-A). Texto conferido no PDF oficial em atos.cnj.jus.br.
-- **Res. CNJ 695/2026** (agosto de 2026) alterou o art. 15 da Res. 35: a escritura de inventário e partilha não depende de prévio recolhimento do ITCMD; a escritura consigna declaração das partes sobre as obrigações tributárias e o tabelião comunica o fisco. Status: conteúdo confirmado por fontes secundárias; o portal atos.cnj.jus.br não abriu na consulta — [VERIFICAR: texto oficial da Res. CNJ 695/2026 e aplicação à partilha em divórcio].
+- **Res. CNJ 695/2026** (agosto de 2026) alterou o art. 15 da Res. 35: a escritura de inventário e partilha não depende de prévio recolhimento do ITCMD; a escritura consigna declaração das partes sobre as obrigações tributárias e o tabelião comunica o fisco. Status: não conferido em fonte oficial [VERIFICAR: texto oficial da Res. CNJ 695/2026 e aplicação à partilha em divórcio].
 
 ## Precedentes (conferidos no JuriBase em 01/11/2026)
 - **STF Tema 1053 (RE 1.167.478)**: "Após a promulgação da EC nº 66/2010, a separação judicial não é mais requisito para o divórcio nem subsiste como figura autônoma no ordenamento jurídico. Sem prejuízo, preserva-se o estado civil das pessoas que já estão separadas, por decisão judicial ou escritura pública, por se tratar de ato jurídico perfeito (art. 5º, XXXVI, da CF)."

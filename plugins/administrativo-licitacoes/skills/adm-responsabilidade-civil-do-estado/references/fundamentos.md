@@ -1,6 +1,6 @@
 # Fundamentos verificados — responsabilidade civil do Estado
 
-Conferência: CF, CC, Decreto 20.910/1932 e Lei 9.494/1997 em corpus compilado do Planalto e fichas no Senado. Data: 01/11/2026.
+Conferência: CF, CC, Decreto 20.910/1932 e Lei 9.494/1997 no texto compilado oficial e fichas no Senado. Data: 01/11/2026.
 
 ## Normas
 - CF art. 37, § 6º (texto literal): "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa."

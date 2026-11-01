@@ -25,4 +25,4 @@ Redação conferida em 01/11/2026 no texto compilado do CPC.
 - **Súmula 519**: rejeitada a impugnação, não cabem honorários (adicionais). Uso: não pedir nova verba na rejeição da impugnação.
 
 ## Juros e correção
-Não escrever taxa nesta skill. Cível desde 30/08/2024: IPCA + taxa legal (CC arts. 389, p.ú., e 406, Lei 14.905/2024). Fazenda: SELIC única desde 09/12/2021. Detalhamento e períodos anteriores na skill `juros-e-correcao`.
+Não escrever taxa nesta skill. Cível desde 30/08/2024: IPCA + taxa legal (CC arts. 389, p.ú., e 406, Lei 14.905/2024). Fazenda: EC 113/2021 (SELIC única a partir de 09/12/2021) com as mudanças da EC 136/2025 para requisitórios. Detalhamento e períodos anteriores na skill `juros-e-correcao`.

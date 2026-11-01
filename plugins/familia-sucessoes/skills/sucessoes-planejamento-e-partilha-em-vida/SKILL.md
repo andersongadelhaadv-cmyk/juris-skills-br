@@ -45,7 +45,7 @@ Parecer: consulta → fatos e premissas → quadro sucessório hipotético → l
 - Contrato sobre herança de pessoa viva é vedado (CC 426).
 - Doação de bens comuns exige anuência do cônjuge, salvo separação absoluta (CC 1.647, IV).
 - Cláusulas: reversão só ao doador (CC 547); inalienabilidade implica impenhorabilidade e incomunicabilidade (CC 1.911); sobre a legítima, só com justa causa se por testamento (CC 1.848).
-- Holding: integralização de bens, avaliação de quotas a valor de mercado para ITCMD (LC 227/2026, segundo fontes secundárias), ITBI na integralização conforme atividade, governança e acordo de sócios; a morte do sócio liquida a quota salvo previsão contratual (CC 1.028).
+- Holding: integralização de bens, avaliação de quotas a valor de mercado para ITCMD (LC 227/2026 [VERIFICAR texto oficial]), ITBI na integralização conforme atividade, governança e acordo de sócios; a morte do sócio liquida a quota salvo previsão contratual (CC 1.028).
 
 ## Fundamentos verificados
 CC 426, 538, 541, 544, 547 a 549, 555, 557, 1.028, 1.390, 1.410, 1.647, 1.789, 1.845 a 1.848, 1.911, 2.002 a 2.007, 2.018, 2.027; CPC 639 a 641; CF 155 §1º (EC 132/2023); LC 227/2026; Súmula 112 STF; STF Tema 825. Detalhe em [fundamentos](references/fundamentos.md).

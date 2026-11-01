@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## CF, art. 40 — LEI (corpus compilado, inclusive EC 140/2026)
+## CF, art. 40 — LEI (texto compilado, inclusive EC 140/2026)
 - §1º, III: na União, 62 anos (M) e 65 (H), com tempo de contribuição e requisitos em lei complementar.
 - §4º (redação da EC 140/2026) e §§4º-A a 4º-C: requisitos diferenciados apenas nas hipóteses constitucionais; §4º-C atividades com exposição a agentes nocivos por lei complementar do ente.
 - §5º-A (EC 140/2026): agente comunitário de saúde e de combate às endemias: 57 (M) e 60 (H) com 25 anos de contribuição e exercício.

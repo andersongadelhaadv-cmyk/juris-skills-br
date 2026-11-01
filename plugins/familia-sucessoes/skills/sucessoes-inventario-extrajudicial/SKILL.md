@@ -31,7 +31,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Prazo e contagem
 - Mesmo prazo de abertura de 2 meses (CPC 611) para fins de multa estadual (Súmula 542 STF) — confirmar a lei local.
-- Desde a Res. CNJ 695/2026, a escritura não depende de prévio recolhimento do ITCMD; o tabelião comunica o fisco em 5 dias (ou no prazo da lei tributária). O imposto continua devido pela alíquota da data do óbito (Súmula 112 STF).
+- Desde a Res. CNJ 695/2026, a escritura não depende de prévio recolhimento do ITCMD; o tabelião comunica o fisco em 5 dias (ou no prazo da lei tributária). O imposto continua devido pela alíquota da data do óbito (Súmula 112 STF). [VERIFICAR texto oficial da Res. 695/2026 antes de citá-la.]
 - Prazo para pagar despesas após venda de bem autorizada na escritura: até 1 ano (Res. 35, art. 11-A §1º).
 
 ## Estrutura da peça
@@ -39,7 +39,7 @@ Minuta de escritura (ou roteiro para o tabelião) → nomeação do inventariant
 
 ## Requisitos e preliminares
 - Todos capazes e concordes, ou incapaz com quinhão em parte ideal em cada bem e parecer favorável do MP (Res. 35, art. 12-A).
-- Testamento: autorização expressa do juízo sucessório em ação de abertura e cumprimento; todos capazes e concordes; dúvida → tabelião suscita o juízo (Res. 35, art. 12-B).
+- Testamento: autorização expressa do juízo sucessório em ação de abertura e cumprimento, com trânsito em julgado; interessados concordes; havendo incapaz, somam-se as exigências do art. 12-A; dúvida → tabelião suscita o juízo (Res. 35, art. 12-B) [VERIFICAR texto oficial].
 - Advogado ou defensor obrigatório, com qualificação e assinatura no ato (CPC 610 §2º).
 - Livre escolha do tabelião (Res. 35, art. 1º); escritura dispensa homologação e vale para registro e bancos (CPC 610 §1º).
 - Companheiro: herdeiro quando a união é reconhecida pelos demais sucessores (Res. 35, arts. 18 e 19); se houver disputa, via judicial ou ação declaratória antes.

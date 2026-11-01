@@ -1,6 +1,6 @@
 # Fundamentos verificados — mandado de segurança
 
-Conferência: texto da Lei 12.016/2009 em corpus compilado do Planalto e ficha da norma no Senado (alterações: Lei 13.676/2018 no art. 16; ADI 4.296 e ADI 4.403 registradas). Data: 01/11/2026.
+Conferência: texto da Lei 12.016/2009 no texto compilado oficial e ficha da norma no Senado (alterações: Lei 13.676/2018 no art. 16; ADI 4.296 e ADI 4.403 registradas). Data: 01/11/2026.
 
 ## Constituição
 - Art. 5º, LXIX: cabimento para proteger direito líquido e certo contra ilegalidade ou abuso de autoridade pública ou de agente no exercício de atribuições do Poder Público.

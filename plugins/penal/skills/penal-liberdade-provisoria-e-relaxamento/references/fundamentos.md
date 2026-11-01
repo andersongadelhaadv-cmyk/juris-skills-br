@@ -1,6 +1,6 @@
 # Fundamentos verificados — liberdade provisória e relaxamento
 
-Redação conferida no CPP compilado (corpus local de 18/10/2026; alterações das Leis 15.272/2025, 15.358/2026 e 15.487/2026 registradas no Senado). Precedentes conferidos no JuriBase em 01/11/2026.
+Redação conferida no CPP compilado (alterações das Leis 15.272/2025, 15.358/2026 e 15.487/2026 registradas no Senado). Precedentes conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo resumido | Como usar |

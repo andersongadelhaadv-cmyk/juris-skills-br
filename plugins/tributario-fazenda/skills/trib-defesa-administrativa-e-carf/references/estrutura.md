@@ -14,7 +14,7 @@
 
 ## Recurso voluntário (2ª instância, CARF)
 1. Endereçamento ao CARF, protocolado no órgão indicado na intimação.
-2. Tempestividade (20 dias úteis da ciência do acórdão de 1ª instância).
+2. Tempestividade: protocolar em até 20 dias úteis da ciência do acórdão de 1ª instância (CTN art. 208-D; o art. 33 do Decreto ainda fala em 30 dias) [VERIFICAR].
 3. Síntese da decisão recorrida e dos pontos vencidos.
 4. Preliminares (nulidade da decisão por omissão ou cerceamento).
 5. Mérito: só a matéria impugnada (inovação é vedada, salvo matéria de ordem pública e fato superveniente).

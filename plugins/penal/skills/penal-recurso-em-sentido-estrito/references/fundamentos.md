@@ -1,6 +1,6 @@
 # Fundamentos verificados — RESE
 
-Dispositivos conferidos no CPP compilado (corpus local de 18/10/2026); Lei 15.358/2026 registrada no Senado (norma 42931693, vigência na publicação). Súmulas conferidas no JuriBase em 01/11/2026.
+Dispositivos conferidos no CPP compilado; Lei 15.358/2026 registrada no Senado (norma 42931693, vigência na publicação). Súmulas conferidas no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo / uso |

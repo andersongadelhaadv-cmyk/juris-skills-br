@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## Lei 8.213/1991 — LEI (corpus compilado)
+## Lei 8.213/1991 — LEI (texto compilado)
 - Art. 16: classes de dependentes; §2º equiparados a filho (redação da Lei 15.108/2025); §4º presunção de dependência na 1ª classe; §5º prova material contemporânea em até 24 meses antes do óbito; §6º prova de 2 anos de união quando exigida; §7º exclusão do autor de homicídio doloso.
 - Art. 26, I: pensão independe de carência.
 - Art. 74: termo inicial (180 dias para filhos menores de 16; 90 dias para os demais); §§3º-4º habilitação provisória para rateio.

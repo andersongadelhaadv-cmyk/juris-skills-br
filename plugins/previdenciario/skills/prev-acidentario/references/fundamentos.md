@@ -3,7 +3,7 @@
 ## CF, art. 109, I — LEI
 Excluídas da competência federal as causas de acidentes de trabalho.
 
-## Lei 8.213/1991 — LEI (corpus compilado)
+## Lei 8.213/1991 — LEI (texto compilado)
 - Art. 19: conceito de acidente do trabalho (inclui segurado especial).
 - Art. 20: doença profissional e do trabalho; §1º exclusões; §2º caso excepcional.
 - Art. 21: equiparações (concausa, agressão no trabalho, trajeto etc.).

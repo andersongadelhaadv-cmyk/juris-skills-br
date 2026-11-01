@@ -1,6 +1,6 @@
 # Fundamentos verificados — concurso público
 
-Conferência: Constituição em corpus compilado do Planalto; precedentes na base de jurisprudência. Data: 01/11/2026.
+Conferência: Constituição no texto compilado oficial; precedentes no JuriBase. Data: 01/11/2026.
 
 ## Constituição, art. 37
 - I: acesso a cargos na forma da lei.

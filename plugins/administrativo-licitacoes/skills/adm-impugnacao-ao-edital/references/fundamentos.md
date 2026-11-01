@@ -1,6 +1,6 @@
 # Fundamentos verificados — impugnação ao edital
 
-Conferência: texto da Lei 14.133/2021 em corpus compilado do Planalto e ficha da norma no Senado (alterações 2024–2026 não atingem os arts. 5º, 9º, 18, 164, 170 e 183). Data: 01/11/2026.
+Conferência: texto da Lei 14.133/2021 no texto compilado oficial e ficha da norma no Senado (alterações 2024–2026 não atingem os arts. 5º, 9º, 18, 164, 170 e 183). Data: 01/11/2026.
 
 ## Lei 14.133/2021
 - Art. 164, caput (texto literal): "Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame."

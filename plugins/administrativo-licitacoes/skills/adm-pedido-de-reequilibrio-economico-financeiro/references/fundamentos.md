@@ -1,6 +1,6 @@
 # Fundamentos verificados — reequilíbrio econômico-financeiro
 
-Conferência: Lei 14.133/2021 em corpus compilado do Planalto; ficha da norma no Senado (2024–2026: ressalvas ao art. 125 por calamidade pública, sem alteração nos arts. 103, 124, 130, 131, 134 a 136). Data: 01/11/2026.
+Conferência: Lei 14.133/2021 no texto compilado oficial; ficha da norma no Senado (2024–2026: ressalvas ao art. 125 por calamidade pública, sem alteração nos arts. 103, 124, 130, 131, 134 a 136). Data: 01/11/2026.
 
 ## Constituição
 - Art. 37, XXI: licitação com cláusulas que mantenham as condições efetivas da proposta.

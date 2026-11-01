@@ -68,9 +68,9 @@ regime em [quadro cronológico](references/quadro-cronologico.md).
 | Fazenda Pública (não tributário) | Até 08/12/2021: Tema 810/STF e Tema 905/STJ (índice conforme a natureza [VERIFICAR item do Tema 905]) | 09/12/2021 a 09/09/2025: SELIC única (EC 113, redação original; STF Tema 1419, julgado antes da EC 136). Desde 10/09/2025, até a expedição: [VERIFICAR] – ver alerta |
 | Fazenda: requisitório expedido | — | IPCA + juros simples 2% a.a., limitado à SELIC (União: art. 3º EC 113 com redação da EC 136; Estados/DF/Municípios: ADCT art. 97, §§16 e 16-A); sem juros no período de graça (CF 100, §5º; STF Tema 1335) |
 | Indébito tributário federal | SELIC desde o pagamento indevido, sem outro índice (Lei 9.250, art. 39, §4º) | Idem (CTN 165-A, LC 236/2026); EC 136: no requisitório tributário, mesmos critérios do crédito tributário |
-| Indébito tributário estadual/municipal | Mesma taxa que o ente cobra em atraso (Súm. 523/STJ), limitada à SELIC (STF Temas 1062 e 1217); sem lei local: correção desde o pagamento (Súm. 162/STJ) e juros desde o trânsito (Súm. 188/STJ; CTN 167, p.ú.) | CTN 165-A (LC 236/2026, DOU 04/09/2026): indébito atualizado pelos mesmos índices do crédito tributário do ente; vigência do dispositivo [VERIFICAR] |
+| Indébito tributário estadual/municipal | Mesma taxa que o ente cobra em atraso (Súm. 523/STJ), limitada à SELIC (STF Temas 1062 e 1217); sem lei local: correção desde o pagamento (Súm. 162/STJ) e juros desde o trânsito (Súm. 188/STJ; CTN 167, p.ú.) | CTN 165-A (LC 236/2026, em vigor desde a publicação no DOU de 04/09/2026): indébito atualizado pelos mesmos índices do crédito tributário do ente |
 | Previdenciário (RGPS) | Correção INPC (Lei 8.213, art. 41-A; Tema 905/STJ, item 3.2); juros da poupança (Tema 810) desde a citação (Súm. 204/STJ) | 09/12/2021 em diante: SELIC (EC 113). Após a EC 136: ver alerta |
-| Alimentos | Atualização por índice oficial (CC 1.710); prestação vencida em mora desde o vencimento (CC 397) | Sem índice no título: IPCA + taxa legal após 30/08/2024 (no período anterior, STJ aplicou SELIC: REsp 2.192.918) |
+| Alimentos | Atualização por índice oficial (CC 1.710); prestação vencida em mora desde o vencimento (CC 397) | Sem índice no título: IPCA + taxa legal após 30/08/2024 (o REsp 2.192.918, STJ, aplicou SELIC sem índice no título; a decisão não trata da Lei 14.905, então use-a com cautela para períodos posteriores) |
 
 Alerta Fazenda e previdenciário: a EC 136/2025 (DOU 10/09/2025) deu nova redação
 ao art. 3º da EC 113, que passou a tratar só do período posterior à expedição do
@@ -106,7 +106,7 @@ do prejuízo/vencimento] e acrescido de juros de mora pela taxa legal do art. 40
 - Contar juros trabalhistas pela regra antiga de 1% ao mês do art. 39, §1º, Lei 8.177.
 - Esquecer que no período de graça do precatório não correm juros.
 - Citar o número do Tema 905/STJ ou da ADC 58 como se a ementa tivesse sido lida:
-  ambos não foram localizados diretamente na base de verificação; use os
+  nenhum dos dois foi conferido diretamente em fonte oficial; use os
   precedentes confirmados que os aplicam.
 
 ## Integração com o núcleo

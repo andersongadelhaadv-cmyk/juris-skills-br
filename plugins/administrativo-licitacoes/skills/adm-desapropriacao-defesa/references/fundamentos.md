@@ -1,6 +1,6 @@
 # Fundamentos verificados — desapropriação (DL 3.365/1941)
 
-Conferência: DL 3.365/1941 em corpus compilado do Planalto e ficha da norma no Senado (alterações até Lei 14.620/2023; registro do julgamento da ADI 2.332 em 17/05/2018). Data: 01/11/2026.
+Conferência: DL 3.365/1941 no texto compilado oficial e ficha da norma no Senado (alterações até Lei 14.620/2023; registro do julgamento da ADI 2.332 em 17/05/2018). Data: 01/11/2026.
 
 ## Constituição
 - Art. 5º, XXIV: desapropriação por necessidade ou utilidade pública, ou interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos constitucionais.

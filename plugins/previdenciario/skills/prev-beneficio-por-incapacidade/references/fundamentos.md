@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## Lei 8.213/1991 — LEI (corpus compilado, inclusive alterações de 2023-2025)
+## Lei 8.213/1991 — LEI (texto compilado, inclusive alterações de 2023-2025)
 - Art. 15: período de graça (12 meses; +12 com mais de 120 contribuições; +12 desempregado).
 - Art. 25, I: carência de 12 contribuições.
 - Art. 26, II: isenção em acidente de qualquer natureza, doença profissional ou do trabalho e doenças da lista ministerial.

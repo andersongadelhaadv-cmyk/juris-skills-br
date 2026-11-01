@@ -38,4 +38,4 @@ Conferência em 01/11/2026: CF e CPC no texto compilado; Lei 15.484/2026 na pág
 - STJ, AREsp 3.231.785, Segunda Turma, rel. Min. Teodoro Silva Santos, j. 09/09/2026 (CONFIRMADO) — necessidade de alegar violação ao art. 1.022 para invocar o art. 1.025. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601445299
 
 ## Pendência
-A regulamentação interna do STJ sobre o processamento da relevância (regimento) não foi conferida nesta revisão: [VERIFICAR: emenda regimental do STJ sobre a relevância].
+A regulamentação interna do STJ sobre o processamento da relevância (regimento) não foi conferida em fonte oficial: [VERIFICAR: emenda regimental do STJ sobre a relevância].

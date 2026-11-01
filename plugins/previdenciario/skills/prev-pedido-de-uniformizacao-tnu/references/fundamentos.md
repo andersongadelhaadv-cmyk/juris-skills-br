@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## Lei 10.259/2001 — LEI (corpus compilado)
+## Lei 10.259/2001 — LEI (texto compilado)
 - Art. 14, caput: cabe pedido de uniformização quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais.
 - §1º: divergência na mesma Região — reunião conjunta das turmas (TRU).
 - §2º: divergência entre regiões ou contrariedade a súmula/jurisprudência dominante do STJ — Turma de Uniformização (TNU).

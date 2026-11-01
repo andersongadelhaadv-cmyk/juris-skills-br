@@ -1,6 +1,6 @@
 # Fundamentos verificados — ação popular
 
-Conferência: Lei 4.717/1965 em corpus compilado do Planalto e ficha da norma no Senado (últimas alterações: Leis 6.014/1973 e 6.513/1977). Data: 01/11/2026.
+Conferência: Lei 4.717/1965 no texto compilado oficial e ficha da norma no Senado (últimas alterações: Leis 6.014/1973 e 6.513/1977). Data: 01/11/2026.
 
 ## Constituição
 - Art. 5º, LXXIII (texto literal): "qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;"

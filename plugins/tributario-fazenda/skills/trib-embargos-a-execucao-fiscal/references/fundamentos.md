@@ -8,7 +8,7 @@
 
 ## CTN
 - Art. 202 (LC 236/2026) e art. 203: requisitos do termo de inscrição; nulidade sanável até a decisão de primeira instância com devolução de prazo limitado à parte modificada.
-- Art. 174, §1º (LC 236/2026): causas interruptivas, incluindo protesto da CDA e sentença de extinção por não localização (inciso VII).
+- Art. 174, §1º (incisos sancionados na LC 236/2026; o novo caput do §1º foi vetado e o anterior permanece): causas interruptivas, incluindo protesto da CDA e sentença de extinção por não localização (inciso VII).
 
 ## CPC
 - Art. 496, II: sentença que julga procedentes os embargos à execução fiscal sujeita a remessa necessária (observados os limites do §3º).

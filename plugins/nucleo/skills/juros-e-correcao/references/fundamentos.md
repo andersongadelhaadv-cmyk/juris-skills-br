@@ -81,7 +81,7 @@ Use sempre a série oficial publicada.
   (a) IPCA-E na fase pré-judicial mais juros do art. 39, caput, da Lei 8.177;
   (b) do ajuizamento até 29/08/2024, SELIC; (c) desde 30/08/2024, IPCA para correção
   e juros pela subtração SELIC − IPCA, com taxa zero se negativa.
-  Status: o número da SDI-1 não foi localizado diretamente na base (NAO_ENCONTRADO).
+  Status: o número do julgado da SDI-1 não foi conferido diretamente em fonte oficial [VERIFICAR].
   O conteúdo acima consta transcrito em acórdão confirmado: TST, 5ª Turma,
   Ag-AIRR 0160100-79.2008.5.15.0009, rel. Min. Douglas Alencar Rodrigues, j. maio/2026.
   https://jurisprudencia.tst.jus.br/#/jurisprudencia/55a36e4dd48695efaa5b4f28faf0757f
@@ -99,8 +99,8 @@ Use sempre a série oficial publicada.
   juros da poupança valem para débitos não tributários; débitos tributários seguem os
   juros que a Fazenda cobra.
   https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4723934&numeroProcesso=870947&classeProcesso=RE&numeroTema=810
-- Tema 905/STJ (REsp 1.495.146/MG e afetados): não localizado diretamente na base
-  (NAO_ENCONTRADO/SEM_COBERTURA). Seu conteúdo aparece em acórdãos confirmados, como o
+- Tema 905/STJ (REsp 1.495.146/MG e afetados): não conferido diretamente em fonte oficial
+  [VERIFICAR]. Seu conteúdo aparece em acórdãos confirmados, como o
   AgInt no REsp 1.992.472 (STJ, 1ª Turma, rel. Min. Benedito Gonçalves, j. 22/08/2022):
   previdenciário, INPC desde a Lei 11.430/2006, mantido após a Lei 11.960/2009.
   https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200801748
@@ -144,9 +144,8 @@ Use sempre a série oficial publicada.
   julgado (regra geral, afastada onde a lei manda SELIC).
 - CTN art. 165-A, incluído pela LC 236/2026 (assinada e publicada em 04/09/2026, DOU edição
   extra): os indébitos tributários são atualizados pelos mesmos índices de atualização dos
-  créditos tributários da União, dos Estados, do DF e dos Municípios, conforme o caso. A
-  página da norma no Senado não traz cláusula de vigência: [VERIFICAR] a data de produção
-  de efeitos no texto publicado. Como usar: fundamento legal geral da simetria (antes
+  créditos tributários da União, dos Estados, do DF e dos Municípios, conforme o caso. Vigência
+  na data da publicação (LC 236/2026, art. 3º, texto publicado conferido no Senado). Como usar: fundamento legal geral da simetria (antes
   extraída da Súm. 523/STJ e do Tema 810/STF); na repetição de tributo federal, SELIC.
 - CTN art. 161, §1º: 1% ao mês só "se a lei não dispuser de modo diverso".
 - Súmula 162/STJ (correção desde o pagamento indevido) e Súmula 188/STJ (juros desde o

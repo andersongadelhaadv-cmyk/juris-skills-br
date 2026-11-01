@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## Lei 8.213/1991 — LEI (conferida no corpus compilado)
+## Lei 8.213/1991 — LEI (conferida no texto compilado)
 - Art. 126, caput e incisos: compete ao CRPS julgar recursos das decisões do INSS nos processos de interesse dos beneficiários (I), recursos relativos à atividade rural do segurado especial e ao CNIS (III), entre outros.
 - Art. 126, §3º: ação judicial com pedido idêntico importa renúncia ao direito de recorrer e desistência do recurso interposto.
 - Art. 126, §4º (Lei 14.441/2022): interposição direta ao CRPS, com notificação eletrônica ao INSS para reanálise em até 30 dias.

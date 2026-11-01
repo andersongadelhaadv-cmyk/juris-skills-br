@@ -24,4 +24,4 @@
 | Súmula 555 STJ: sem declaração, decadência pelo art. 173, I. | Contagem da decadência. |
 
 ## Vigência das alterações de 2026
-- LC 236/2026 (DOU edição extra de 04/09/2026): página do Senado não indica cláusula de vacância; fontes secundárias informam vigência desde 04/09/2026 [VERIFICAR o artigo de vigência no texto oficial].
+- LC 236/2026 (DOU edição extra de 04/09/2026): vigência na data da publicação (art. 3º, texto publicado conferido no Senado).

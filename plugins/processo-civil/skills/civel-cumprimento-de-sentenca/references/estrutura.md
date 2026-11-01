@@ -14,7 +14,7 @@
 1. Demonstrativo do art. 534, por exequente (litisconsórcio — §1º).
 2. Intimação da Fazenda para impugnar em 30 dias (art. 535).
 3. Sem impugnação ou rejeitada: precatório ou RPV (art. 535, §3º); parte incontroversa desde logo (§4º).
-4. Sem multa do art. 523 (art. 534, §2º). Correção e juros: SELIC única desde 09/12/2021 (EC 113) — aplicar pelo núcleo.
+4. Sem multa do art. 523 (art. 534, §2º). Correção e juros: regime da EC 113/2021 com as alterações da EC 136/2025 — aplicar pelo núcleo, que traz os marcos.
 
 ## C. Fazer, não fazer, entregar coisa (arts. 536 a 538)
 1. Título e obrigação específica.

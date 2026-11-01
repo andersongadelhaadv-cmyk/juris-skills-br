@@ -1,6 +1,6 @@
 # Fundamentos verificados — plenário do júri
 
-CPP e CF conferidos no texto compilado (corpus local de 18/10/2026). Súmulas e temas conferidos no JuriBase em 01/11/2026.
+CPP e CF conferidos no texto compilado. Súmulas e temas conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Uso |

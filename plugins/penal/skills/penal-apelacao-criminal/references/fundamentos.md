@@ -1,6 +1,6 @@
 # Fundamentos verificados — apelação criminal
 
-Dispositivos conferidos no CPP compilado (corpus local de 18/10/2026). Súmulas e temas conferidos no JuriBase em 01/11/2026.
+Dispositivos conferidos no CPP compilado. Súmulas e temas conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo / uso |

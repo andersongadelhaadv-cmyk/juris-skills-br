@@ -9,10 +9,10 @@
 - Art. 17: matéria não expressamente contestada considera-se não impugnada.
 - Art. 25, II: CARF como segunda instância; §9º: presidência com representantes da Fazenda e voto de qualidade; §9º-A (Lei 14.689/2023): julgamento resolvido pelo voto de qualidade exclui multas e cancela representação fiscal para fins penais; §12: sustentação oral; §13: observância das súmulas do CARF.
 - Art. 26-A: vedação de afastar lei por inconstitucionalidade, com exceções do §6º.
-- Art. 33: recurso voluntário com efeito suspensivo "dentro dos 20 (vinte) dias úteis seguintes à ciência da decisão".
+- Art. 33: recurso voluntário com efeito suspensivo, em 30 dias da ciência da decisão (dispositivo não alterado pela LC 227/2026; ver o CTN art. 208-D abaixo) [VERIFICAR qual prazo prevalece].
 - Art. 37, §2º: recurso especial à CSRF em 15 dias; §5º (LC 227/2026): CBS, 10 dias úteis.
 - Art. 59: nulidades; §3º: decisão de mérito favorável dispensa a nulidade.
-- Vigência da LC 227/2026 quanto a esses dispositivos: a partir da publicação (art. 182, III), DOU de 14/01/2026.
+- Vigência da LC 227/2026 quanto a esses dispositivos: DOU de 14/01/2026; termo inicial dos efeitos regido pelo art. 182 da LC 227 [VERIFICAR inciso aplicável].
 
 ## CTN – normas gerais de processo administrativo fiscal (LC 236/2026)
 - Art. 151, III: impugnações e recursos suspendem a exigibilidade; §2º: vedada caução ou garantia para impugnar ou recorrer.

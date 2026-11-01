@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## Lei 8.213/1991 — LEI (corpus compilado, inclusive Lei 15.072/2024)
+## Lei 8.213/1991 — LEI (texto compilado, inclusive Lei 15.072/2024)
 - Art. 11, VII: segurado especial; §1º economia familiar; §6º participação ativa; §7º até 120 pessoas/dia; §8º hipóteses que não descaracterizam (inciso VI com redação da Lei 15.072/2024); §9º outras rendas admitidas; §10 exclusão.
 - Art. 26, III: benefícios do art. 39, I, independem de carência (contribuições), mas exigem atividade rural no período.
 - Art. 38-A e 38-B: cadastro do segurado especial no CNIS; prova exclusiva pelo cadastro a partir de 01/01/2023; autodeclaração para período anterior.

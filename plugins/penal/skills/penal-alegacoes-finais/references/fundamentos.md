@@ -1,6 +1,6 @@
 # Fundamentos verificados — alegações finais
 
-Dispositivos conferidos no CPP e CP compilados (corpus local de 18/10/2026). Súmulas e temas conferidos no JuriBase em 01/11/2026.
+Dispositivos conferidos no CPP e CP compilados. Súmulas e temas conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Como usar |

@@ -1,6 +1,6 @@
 # Fundamentos verificados — agravo em execução
 
-LEP conferida no texto compilado (corpus local de 18/10/2026) e no Senado (norma 549086). Súmulas e precedentes conferidos no JuriBase em 01/11/2026.
+LEP conferida no texto compilado e no Senado (norma 549086). Súmulas e precedentes conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Uso |

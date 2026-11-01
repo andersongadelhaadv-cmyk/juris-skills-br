@@ -1,6 +1,6 @@
 # Fundamentos verificados — improbidade administrativa
 
-Conferência: Lei 8.429/1992 (com Lei 14.230/2021) em corpus compilado do Planalto; ficha da norma no Senado com decisões do STF registradas. Data: 01/11/2026.
+Conferência: Lei 8.429/1992 (com Lei 14.230/2021) no texto compilado oficial; ficha da norma no Senado com decisões do STF registradas. Data: 01/11/2026.
 
 ## Lei 8.429/1992
 - Art. 1º, § 1º: improbidade = condutas dolosas dos arts. 9º, 10 e 11.

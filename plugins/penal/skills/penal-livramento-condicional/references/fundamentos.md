@@ -1,6 +1,6 @@
 # Fundamentos verificados — livramento condicional
 
-CP e LEP conferidos no texto compilado (corpus local de 18/10/2026); normas registradas no Senado. Súmulas conferidas no JuriBase em 01/11/2026.
+CP e LEP conferidos no texto compilado; normas registradas no Senado. Súmulas conferidas no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo resumido |

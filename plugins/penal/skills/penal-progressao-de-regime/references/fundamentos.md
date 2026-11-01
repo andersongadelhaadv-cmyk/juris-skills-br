@@ -8,7 +8,7 @@
 | Lei 14.843/2024 (publ. 11/04/2024) | norma 38326115 | §1º: exame criminológico obrigatório |
 | Lei 15.358/2026 (publ. DOU 25/03/2026; vigência na publicação, art. 44) | norma 42931693 | Caput alterado; incisos V, VI, VII, VIII; revoga VI-A; cria VI, d (feminicídio 75%) |
 | Lei 15.402/2026 (publ. DOU extra 08/05/2026; vigência na publicação, art. 3º) | norma 43271992 | Caput (1/6) e incisos I a III; alterações aos incisos IV a VIII e inclusão de IX e X vetadas; §9º do art. 126 |
-Texto atual conferido no corpus compilado local (gerado em 18/10/2026) e na publicação original da Lei 15.402/2026 no portal da Câmara.
+Texto atual conferido no texto compilado e na publicação original da Lei 15.402/2026 no portal da Câmara.
 Observação: o portal da Câmara registra, para o PL de origem da Lei 15.402, menção a rejeição de veto, enquanto o texto mantém os incisos IV a X como vetados. [VERIFICAR: situação final dos vetos da Lei 15.402/2026 no Congresso antes de sustentar tese que dependa dos incisos IV a X.]
 
 ## Texto vigente (síntese fiel)

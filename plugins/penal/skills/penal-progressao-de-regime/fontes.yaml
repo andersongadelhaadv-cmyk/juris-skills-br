@@ -114,3 +114,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601773281
     consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1169 do STF (ARE 1.327.963): reincidente não específico em hediondo sem morte, analogia in bonam partem com o inciso V do art. 112 da LEP (40%)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6180884&numeroProcesso=1327963&classeProcesso=ARE&numeroTema=1169
+    consultado_em: 2026-11-01

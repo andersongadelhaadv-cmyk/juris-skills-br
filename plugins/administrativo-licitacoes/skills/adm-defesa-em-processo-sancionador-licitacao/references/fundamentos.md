@@ -1,6 +1,6 @@
 # Fundamentos verificados — processo sancionador (Lei 14.133/2021)
 
-Conferência: corpus compilado do Planalto e ficha da norma no Senado (alterações 2024–2026 não atingem os arts. 155 a 168). Data: 01/11/2026.
+Conferência: texto compilado oficial e ficha da norma no Senado (alterações 2024–2026 não atingem os arts. 155 a 168). Data: 01/11/2026.
 
 ## Infrações (art. 155)
 I inexecução parcial; II inexecução parcial com grave dano; III inexecução total; IV não entregar documentação do certame; V não manter a proposta sem fato superveniente justificado; VI não celebrar o contrato ou não entregar documentação da contratação; VII retardamento injustificado; VIII declaração ou documentação falsa; IX fraude à licitação ou na execução; X comportamento inidôneo ou fraude; XI atos ilícitos para frustrar a licitação; XII ato lesivo do art. 5º da Lei 12.846/2013.

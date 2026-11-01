@@ -24,7 +24,7 @@
 
 ## Tributário
 - **CF 155 §1º** (EC 132/2023): imóveis — Estado da situação; móveis, títulos e créditos — Estado do domicílio do falecido ou do doador; progressividade obrigatória (inciso VI).
-- **LC 227/2026** (13/01/2026): normas gerais do ITCMD; segundo fontes secundárias, quotas não negociadas em bolsa por valor de mercado (no mínimo patrimônio líquido ajustado), soma de doações sucessivas conforme lei estadual, tributação de trusts e bens no exterior; depende de lei estadual com anterioridade. [VERIFICAR: artigos e texto oficial; tratamento de previdência privada.]
+- **LC 227/2026** (13/01/2026): normas gerais do ITCMD; conteúdo não conferido em fonte oficial [VERIFICAR]: quotas não negociadas em bolsa por valor de mercado (no mínimo patrimônio líquido ajustado), soma de doações sucessivas conforme lei estadual, tributação de trusts e bens no exterior; depende de lei estadual com anterioridade. [VERIFICAR: artigos e texto oficial; tratamento de previdência privada.]
 - **Súmula 112 STF**: alíquota do ITCMD causa mortis é a vigente na abertura da sucessão.
 - **STF Tema 825**: Estados não podiam instituir ITCMD nas hipóteses do art. 155 §1º, III (exterior) sem lei complementar.
 

@@ -29,7 +29,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Para redirecionamento: certidão do oficial de justiça ou documento que demonstre o encerramento irregular; ficha da Junta com os administradores na data da dissolução.
 
 ## Prazo e contagem
-- Prescrição: 5 anos da constituição definitiva (CTN art. 174); interrompem, entre outros, o despacho citatório e o protesto da CDA (art. 174, §1º, I e II, LC 236/2026). Inscrição suspende 180 dias apenas para dívida não tributária (LEF art. 2º, §3º).
+- Prescrição: 5 anos da constituição definitiva (CTN art. 174); interrompem, entre outros, o despacho citatório e o protesto da CDA (art. 174, §1º, I e II; incisos II a IX na redação da LC 236/2026, cujo novo caput do §1º foi vetado). Inscrição suspende 180 dias apenas para dívida não tributária (LEF art. 2º, §3º).
 - Ajuíze com folga: a demora atribuível ao Judiciário não prejudica (Súmula 106 STJ), mas a da Fazenda sim.
 - Redirecionamento: controle a prescrição para o redirecionamento [VERIFICAR o termo inicial fixado pelo STJ em repetitivo antes de citar número].
 - Use `prazos-processuais`.

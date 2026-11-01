@@ -51,7 +51,7 @@ CF art. 37, § 6º; CC art. 43; Decreto 20.910/1932; Lei 9.494/1997, art. 1º-C.
 - Danos materiais (emergentes e lucros cessantes) comprovados.
 - Danos morais e estéticos, com parâmetros de arbitramento.
 - Pensão mensal, quando cabível, com constituição de capital ou inclusão em folha.
-- Correção e juros: exclusivamente pela skill `juros-e-correcao` (condenações da Fazenda: SELIC única desde 09/12/2021, EC 113/2021; prestadora privada: regra cível).
+- Correção e juros: exclusivamente pela skill `juros-e-correcao` (condenações da Fazenda: regime da EC 113/2021 alterado pela EC 136/2025, com marcos e períodos no núcleo; prestadora privada: regra cível).
 - Honorários nas faixas do CPC art. 85, § 3º, quando a Fazenda for vencida.
 - Gratuidade, se cabível.
 

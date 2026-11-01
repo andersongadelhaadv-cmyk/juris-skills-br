@@ -1,9 +1,9 @@
 # Fundamentos verificados
 
-## Lei 8.213/1991 — LEI (corpus compilado)
+## Lei 8.213/1991 — LEI (texto compilado)
 - Art. 103, caput e incisos I e II (redação da Lei 13.846/2019, com remissão à ADI 6096): decadência de 10 anos; parágrafo único: prescrição de 5 anos das prestações, ressalvados menores, incapazes e ausentes.
 - Art. 29 (salário de benefício) e art. 29-A (CNIS).
-- ADI 6096: a base de verificação não localizou o julgado (NAO_ENCONTRADO) — [VERIFICAR no portal do STF o resultado e o alcance quanto à decadência de atos de indeferimento, cancelamento e cessação].
+- ADI 6096: não conferida em fonte oficial [VERIFICAR no portal do STF o resultado e o alcance quanto à decadência de atos de indeferimento, cancelamento e cessação].
 
 ## Precedentes — CONFIRMADO
 - STF Tema 313 (RE 626.489): sem decadência para a concessão inicial; decadência de 10 anos para revisão, inclusive de benefícios anteriores à MP 1.523/1997, contada de 01/08/1997.

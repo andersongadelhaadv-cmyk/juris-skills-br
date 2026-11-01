@@ -29,7 +29,7 @@ Redação conferida em 01/11/2026 no texto compilado do CPC.
 - **Súmula 375 do STJ** (CONFIRMADO): fraude à execução depende do registro da penhora ou de prova da má-fé do terceiro adquirente. Uso: justificar a averbação imediata (art. 828).
 
 ## Pendência
-- Constitucionalidade do art. 139, IV, no STF: a ação de controle concentrado sobre o tema não foi localizada na base de verificação nesta revisão — [VERIFICAR: ação direta no STF sobre o art. 139, IV, do CPC e tese fixada].
+- Constitucionalidade do art. 139, IV, no STF: não conferida em fonte oficial [VERIFICAR: ação direta no STF sobre o art. 139, IV, do CPC e tese fixada].
 
 ## Juros
 Demonstrativo: usar `juros-e-correcao`. Sem pactuação válida, aplica-se o regime legal vigente (cível desde 30/08/2024: IPCA + taxa legal, CC arts. 389, p.ú., e 406).

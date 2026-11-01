@@ -3,7 +3,7 @@ name: trib-defesa-administrativa-e-carf
 description: >
   Redige impugnação administrativa a auto de infração e recurso voluntário ao
   CARF no processo administrativo fiscal federal (Decreto 70.235/1972, com prazos
-  de 20 dias úteis dados pela LC 227/2026), observando as normas gerais de
+  de impugnação de 20 dias úteis dados pela LC 227/2026), observando as normas gerais de
   processo administrativo fiscal do CTN (arts. 208-A a 208-J, LC 236/2026) e o
   voto de qualidade restabelecido pela Lei 14.689/2023. Use quando o usuário pedir
   impugnação de auto de infração, defesa administrativa, manifestação de
@@ -31,8 +31,8 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Valor do crédito e interesse em pagamento ou parcelamento com redução de multa (CTN art. 142, §5º).
 
 ## Prazo e contagem
-- **Federal, impugnação**: 20 dias úteis da intimação (Decreto 70.235 arts. 10, V e 15, redação da LC 227/2026, com efeitos desde a publicação em 14/01/2026).
-- **Federal, recurso voluntário**: 20 dias úteis da ciência da decisão, com efeito suspensivo (art. 33).
+- **Federal, impugnação**: 20 dias úteis da intimação (Decreto 70.235 arts. 10, V e 15, redação da LC 227/2026, publicada em 14/01/2026; termo inicial dos efeitos no art. 182 da LC 227 [VERIFICAR]).
+- **Federal, recurso voluntário**: o art. 33 do Decreto 70.235 (não alterado pela LC 227/2026) prevê 30 dias da ciência, com efeito suspensivo; o CTN art. 208-D, II e §3º (LC 236/2026) fixa 20 dias úteis como norma geral [VERIFICAR qual prevalece no CARF; na dúvida, protocole em até 20 dias úteis, o prazo mais curto].
 - **Recurso especial à CSRF**: o Decreto mantém 15 dias (art. 37, §2º; 10 dias úteis para CBS, §5º), enquanto o CTN art. 208-D, III fixa 20 dias úteis como garantia geral [VERIFICAR qual prevalece no CARF; na dúvida, protocole em 15 dias].
 - **Embargos de declaração**: 5 dias (CTN art. 208-D, IV), com efeito interruptivo (art. 208-C, §1º).
 - Suspensão de prazos de 20/12 a 20/01 (Decreto 70.235 art. 5º-A; CTN art. 208-D, §5º).
@@ -71,7 +71,7 @@ Decreto 70.235/1972 arts. 5º, 5º-A, 9º, 10, 14 a 17, 23, 25, 26-A, 33, 37, 42
 - [ ] Súmulas do CARF conferidas no site oficial antes de citar.
 
 ## Erros a evitar
-- Usar o prazo antigo de 30 dias corridos (alterado pela LC 227/2026 para 20 dias úteis).
+- Usar na impugnação o prazo antigo de 30 dias corridos (alterado pela LC 227/2026 para 20 dias úteis).
 - Guardar documentos para o recurso voluntário.
 - Pedir que a DRJ ou o CARF declare lei inconstitucional fora das hipóteses do art. 26-A.
 - Ajuizar ação com o mesmo objeto sem avisar o cliente da renúncia ao recurso.

@@ -1,6 +1,6 @@
 # Fundamentos verificados — dosimetria
 
-CP e CPP compilados (corpus local de 18/10/2026); Lei 14.994/2024 (Senado, norma 39748605) e Lei 15.160/2025 (Senado, norma 41109625). Súmulas e tema conferidos no JuriBase em 01/11/2026.
+CP e CPP compilados; Lei 14.994/2024 (Senado, norma 39748605) e Lei 15.160/2025 (Senado, norma 41109625). Súmulas e tema conferidos no JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo |

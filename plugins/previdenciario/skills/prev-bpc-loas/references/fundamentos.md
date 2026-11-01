@@ -3,7 +3,7 @@
 ## CF, art. 203, V — LEI
 Garantia de um salário mínimo à pessoa com deficiência e ao idoso sem meios de prover a própria manutenção ou de tê-la provida pela família.
 
-## Lei 8.742/1993 — LEI (corpus compilado, com alterações até 2025)
+## Lei 8.742/1993 — LEI (texto compilado, com alterações até 2025)
 - Art. 20, caput: um salário mínimo à pessoa com deficiência e ao idoso de 65 anos ou mais.
 - §1º: composição da família (mesmo teto).
 - §2º e §10: deficiência e impedimento de longo prazo (2 anos).

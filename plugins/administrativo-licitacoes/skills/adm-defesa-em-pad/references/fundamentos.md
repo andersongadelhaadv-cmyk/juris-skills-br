@@ -1,6 +1,6 @@
 # Fundamentos verificados — PAD (Lei 8.112/1990)
 
-Conferência: Lei 8.112/1990 em corpus compilado do Planalto e ficha da norma no Senado (a ficha disponível lista alterações só até 1997; os artigos citados foram conferidos no texto compilado). Data: 01/11/2026.
+Conferência: Lei 8.112/1990 no texto compilado oficial e ficha da norma no Senado (a ficha disponível lista alterações só até 1997; os artigos citados foram conferidos no texto compilado). Data: 01/11/2026.
 
 ## Lei 8.112/1990
 - Arts. 116 e 117: deveres e proibições. Art. 132: hipóteses de demissão.

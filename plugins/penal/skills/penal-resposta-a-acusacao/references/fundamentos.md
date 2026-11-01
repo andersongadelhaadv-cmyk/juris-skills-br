@@ -1,6 +1,6 @@
 # Fundamentos verificados — resposta à acusação
 
-Redação conferida no texto compilado do CPP e da Lei 11.343/2006 (corpus local gerado em 18/10/2026) e normas registradas no Senado. Precedentes conferidos na base JuriBase em 01/11/2026.
+Redação conferida no texto compilado do CPP e da Lei 11.343/2006 e normas registradas no Senado. Precedentes conferidos na base JuriBase em 01/11/2026.
 
 ## Dispositivos
 | Dispositivo | Conteúdo | Como usar |

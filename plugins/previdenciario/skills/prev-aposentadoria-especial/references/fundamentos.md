@@ -1,6 +1,6 @@
 # Fundamentos verificados
 
-## Lei 8.213/1991 — LEI (corpus compilado)
+## Lei 8.213/1991 — LEI (texto compilado)
 - Art. 57: aposentadoria especial com 15, 20 ou 25 anos de trabalho em condições especiais; §3º trabalho permanente, não ocasional nem intermitente; §4º prova da exposição; §5º conversão (hoje limitada pela EC 103, art. 25, §2º); §8º aplica-se o art. 46 a quem continuar exposto.
 - Art. 58: relação de agentes pelo Poder Executivo; §1º formulário com base em LTCAT de médico do trabalho ou engenheiro de segurança; §2º laudo informa tecnologia de proteção; §4º PPP.
 
@@ -12,7 +12,7 @@
 - CF, art. 201, §1º, II: vedada caracterização por categoria profissional ou ocupação.
 
 ## Precedentes
-- STJ Tema 694 — paradigma REsp 1.398.260/PR. A base de verificação não indexou o tema nem o REsp diretamente (NAO_ENCONTRADO); a tese foi CONFIRMADA por transcrição literal no AgInt no REsp 1.950.196 (STJ, 2ª Turma, Rel. Og Fernandes, j. 13/06/2022): "O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC)". Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102272317
+- STJ Tema 694 — paradigma REsp 1.398.260/PR. O paradigma não foi conferido diretamente em fonte oficial [VERIFICAR número]; a tese está transcrita literalmente no AgInt no REsp 1.950.196 (STJ, 2ª Turma, Rel. Og Fernandes, j. 13/06/2022): "O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC)". Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102272317
   Como usar: citar o Tema 694 e, para conferência, o acórdão que o reproduz. O limite de 80 dB até 05/03/1997 decorre dos decretos da época [VERIFICAR anexo regulamentar se o INSS impugnar].
 - STF Tema 555 (ARE 664.335) — CONFIRMADO: EPI eficaz afasta a especialidade, salvo ruído acima dos limites.
 - STF Tema 709 (RE 791.961) — CONFIRMADO: constitucional a vedação de continuar recebendo se permanecer ou retornar à atividade especial; DIB na DER.

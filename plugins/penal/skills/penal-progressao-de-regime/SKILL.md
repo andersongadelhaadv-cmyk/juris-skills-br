@@ -51,6 +51,7 @@ Frações vigentes (LEP 112, conferidas no texto compilado e nas Leis 15.358/202
 | VIII — reincidente em hediondo com morte | 85% | Lei 15.358/2026 |
 
 - Vedação de livramento expressa em VI, a, b, d e VIII.
+- Reincidente não específico condenado por hediondo sem morte: para fatos regidos pela Lei 13.964/2019, o STF (Tema 1169, ARE 1.327.963) afastou o inciso VII e mandou aplicar por analogia o inciso V então vigente (40%), inclusive retroativamente. Para fatos posteriores à Lei 15.358/2026, confira se a nova redação do inciso VII exige reincidência específica [VERIFICAR].
 - Lei mais grave não retroage (CF 5º XL): o crime cometido antes de 25/03/2026 (vigência da Lei 15.358) ou de 08/05/2026 (vigência da Lei 15.402) segue a fração da lei do tempo do fato, se mais benéfica. Ver o quadro histórico em fundamentos.
 - Requisito subjetivo: boa conduta atestada pelo diretor e resultado do exame criminológico (LEP 112 §1º, Lei 14.843/2024). Para crimes anteriores a essa lei, o STJ afasta a obrigatoriedade (novatio legis in pejus); o exame só cabe por decisão concreta (Súmula 439 STJ).
 - Falta grave interrompe a contagem, que recomeça sobre a pena remanescente (LEP 112 §6º; Súmula 534 STJ). Bom comportamento readquirido após 1 ano ou ao cumprir o requisito temporal (§7º).

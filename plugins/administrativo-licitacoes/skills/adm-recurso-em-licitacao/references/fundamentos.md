@@ -1,6 +1,6 @@
 # Fundamentos verificados — recurso em licitação
 
-Conferência: Lei 14.133/2021 em corpus compilado do Planalto; ficha da norma no Senado sem alterações 2024–2026 nos arts. 165 a 168. Data: 01/11/2026.
+Conferência: Lei 14.133/2021 no texto compilado oficial; ficha da norma no Senado sem alterações 2024–2026 nos arts. 165 a 168. Data: 01/11/2026.
 
 ## Lei 14.133/2021
 - Art. 165, I: recurso em 3 dias úteis contra (a) pré-qualificação e registro cadastral; (b) julgamento das propostas; (c) habilitação ou inabilitação; (d) anulação ou revogação; (e) extinção unilateral do contrato.

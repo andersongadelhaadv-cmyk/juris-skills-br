@@ -94,3 +94,8 @@ itens:
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/41412162
     consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1190 do STJ (REsp 2.031.118, 1ª Seção, j. 20/06/2024): sem impugnação, não há honorários no cumprimento contra a Fazenda, ainda que por RPV; efeitos modulados"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203100730
+    consultado_em: 2026-11-01
