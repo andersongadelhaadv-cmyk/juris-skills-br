@@ -50,9 +50,12 @@ regime em [quadro cronológico](references/quadro-cronologico.md).
 ## Requisitos e preliminares
 - Juros e correção estão compreendidos no principal (CPC art. 322, §1º), mas o
   pedido expresso evita omissão e embargos de declaração.
-- Taxa legal negativa vale zero (CC art. 406, §3º). A taxa é calculada pela
-  metodologia da Resolução CMN 5.171/2024 e divulgada pelo Banco Central; use a
-  série oficial, nunca a subtração manual "SELIC anual menos IPCA anual".
+- Taxa legal = SELIC deduzido o IPCA (CC 406, §1º), apurada mês a mês pela
+  metodologia da Resolução CMN 5.171/2024: razão entre o fator SELIC e o fator do
+  IPCA-15 do mês anterior, menos 1, com piso zero (CC 406, §3º), acumulada em juros
+  simples e divulgada pelo Banco Central. Use a série oficial; nunca faça a subtração
+  manual "SELIC anual menos IPCA anual". Onde este texto diz "SELIC − IPCA", leia
+  "taxa legal pela metodologia do CMN".
 - Índice negativo de correção (deflação) não é taxa legal: a regra do §3º não o
   alcança. [VERIFICAR] o entendimento atual do STJ antes de aplicar ou afastar deflação.
 - SELIC já embute correção e juros: nunca cumule SELIC com outro índice no mesmo
@@ -61,10 +64,10 @@ regime em [quadro cronológico](references/quadro-cronologico.md).
 ## Fundamentos verificados (tabela de regimes)
 | Natureza | Até 29/08/2024 (ou marco próprio) | Regime atual |
 |---|---|---|
-| Cível sem índice pactuado | Correção pelo índice do tribunal até o termo inicial dos juros; daí em diante só SELIC (art. 406 original; STJ Tema 1368) | Desde 30/08/2024: IPCA (CC 389, p.ú.) + taxa legal = SELIC − IPCA, piso zero (CC 406, §§1º e 3º) |
+| Cível sem índice pactuado | Correção pelo índice do tribunal até o termo inicial dos juros; daí em diante só SELIC (art. 406 original; STJ Tema 1368) | Desde 30/08/2024: IPCA (CC 389, p.ú.) + taxa legal (SELIC − IPCA pela metodologia do CMN, piso zero; CC 406, §§1º a 3º) |
 | Dano moral | Correção desde o arbitramento (Súm. 362/STJ); juros desde o evento danoso, se extracontratual (Súm. 54/STJ; CC 398), ou desde a citação, se contratual (CC 405) | Mesmos termos iniciais; IPCA + taxa legal após 30/08/2024 (STJ, REsp 2.252.259) |
 | Dano material | Correção desde o efetivo prejuízo (Súm. 43/STJ) | Idem, com IPCA e taxa legal |
-| Trabalhista | Fase pré-judicial: IPCA-E + juros do art. 39, caput, Lei 8.177; do ajuizamento até 29/08/2024: só SELIC (STF Tema 1191, que reafirma ADC 58/59) | Desde 30/08/2024: IPCA + (SELIC − IPCA), piso zero (TST SDI-1, E-ED-RR-713-03.2010.5.04.0029, conforme transcrito em acórdão confirmado; número da SDI-1 [VERIFICAR]) |
+| Trabalhista | Fase pré-judicial: IPCA-E + juros do art. 39, caput, Lei 8.177; do ajuizamento até 29/08/2024: só SELIC (STF Tema 1191, que reafirma ADC 58/59) | Desde 30/08/2024: IPCA + juros pela taxa legal do art. 406 do CC (SELIC − IPCA), piso zero (TST SDI-1, E-ED-RR-713-03.2010.5.04.0029, conforme transcrito em acórdão do TST; número da SDI-1 [VERIFICAR]) |
 | Fazenda Pública (não tributário) | Até 08/12/2021: Tema 810/STF e Tema 905/STJ (índice conforme a natureza [VERIFICAR item do Tema 905]) | 09/12/2021 a 09/09/2025: SELIC única (EC 113, redação original; STF Tema 1419, julgado antes da EC 136). Desde 10/09/2025, até a expedição: [VERIFICAR] – ver alerta |
 | Fazenda: requisitório expedido | — | IPCA + juros simples 2% a.a., limitado à SELIC (União: art. 3º EC 113 com redação da EC 136; Estados/DF/Municípios: ADCT art. 97, §§16 e 16-A); sem juros no período de graça (CF 100, §5º; STF Tema 1335) |
 | Indébito tributário federal | SELIC desde o pagamento indevido, sem outro índice (Lei 9.250, art. 39, §4º) | Idem (CTN 165-A, LC 236/2026); EC 136: no requisitório tributário, mesmos critérios do crédito tributário |

@@ -1,9 +1,9 @@
 # Fundamentos verificados: juros e correção monetária
 
 Consulta em 01/11/2026. Normas conferidas no Senado (página da norma e texto
-publicado) e no texto compilado dos códigos; precedentes conferidos na base de
-jurisprudência (estado CONFIRMADO, salvo indicação). Súmulas: a base não informa
-cancelamento ou revisão; conferir na página do tribunal antes de citar.
+publicado) e no texto compilado dos códigos; precedentes conferidos em fonte oficial,
+salvo indicação. Súmulas: conferir cancelamento ou revisão na página do tribunal antes
+de citar.
 
 ## 1. Cível (Código Civil, Lei 10.406/2002, com a Lei 14.905/2024)
 
@@ -29,10 +29,15 @@ metodologia).
 - Art. 398: ato ilícito – mora desde o fato.
 - Art. 405: demais casos – juros desde a citação.
 
-**Metodologia da taxa legal**: Resolução CMN 5.171/2024 (assinada em 29/08/2024).
-A taxa é mensal: máximo entre zero e (fator SELIC do mês anterior ÷ fator IPCA-15
-do mês anterior − 1). Acumulação por juros simples. Divulgação pelo Banco Central.
-Use sempre a série oficial publicada.
+**Metodologia da taxa legal**: Resolução CMN 5.171/2024, de 29/08/2024 (vigência na
+publicação, art. 9º; texto conferido no site do Banco Central). A taxa é mensal: máximo
+entre zero e (fator SELIC do mês anterior ÷ fator IPCA-15 do mês anterior − 1), com seis
+casas decimais (art. 2º). O fator SELIC é composto pelas taxas diárias dos dias úteis do
+mês anterior (arts. 3º e 4º); o índice de preços é o IPCA-15 do mês anterior (art. 5º).
+Acumulação e cálculo proporcional por juros simples (art. 6º); havendo atualização
+monetária, a taxa incide sobre o valor atualizado (art. 7º). Divulgação pelo Banco
+Central (art. 8º). Por isso a fórmula "SELIC − IPCA" é só abreviação: a conta usa a
+série oficial publicada, não a diferença aritmética entre as duas taxas.
 
 **Período anterior a 30/08/2024**:
 - STJ, Corte Especial, REsp 2.199.164, Tema 1368 (repetitivo), rel. Min. Ricardo
@@ -80,7 +85,9 @@ Use sempre a série oficial publicada.
 - Pós-Lei 14.905/2024: a SDI-1 do TST, no E-ED-RR-713-03.2010.5.04.0029, fixou:
   (a) IPCA-E na fase pré-judicial mais juros do art. 39, caput, da Lei 8.177;
   (b) do ajuizamento até 29/08/2024, SELIC; (c) desde 30/08/2024, IPCA para correção
-  e juros pela subtração SELIC − IPCA, com taxa zero se negativa.
+  e juros pela taxa legal do art. 406 do CC (SELIC deduzido o IPCA), com taxa zero se
+  negativa. Na liquidação, use a série oficial da taxa legal (metodologia do CMN), salvo
+  se o título fixar outro critério.
   Status: o número do julgado da SDI-1 não foi conferido diretamente em fonte oficial [VERIFICAR].
   O conteúdo acima consta transcrito em acórdão confirmado: TST, 5ª Turma,
   Ag-AIRR 0160100-79.2008.5.15.0009, rel. Min. Douglas Alencar Rodrigues, j. maio/2026.
@@ -93,7 +100,8 @@ Use sempre a série oficial publicada.
 
 ## 4. Fazenda Pública
 
-- Lei 9.494/1997, art. 1º-F (Lei 11.960/2009): poupança para correção e juros. O texto
+- Lei 9.494/1997, art. 1º-F (Lei 11.960, de 29/06/2009, publicada no DOU de 30/06/2009,
+  conforme a página da norma no Senado): poupança para correção e juros. O texto
   compilado remete à ADI 5348.
 - STF, Tema 810 (RE 870.947), j. 20/09/2017: correção pela poupança é inconstitucional;
   juros da poupança valem para débitos não tributários; débitos tributários seguem os

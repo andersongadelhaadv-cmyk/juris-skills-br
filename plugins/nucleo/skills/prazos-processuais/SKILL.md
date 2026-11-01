@@ -4,10 +4,12 @@ description: >
   Calcula e confere prazos processuais no cível (CPC arts. 219 a 232, dias
   úteis), trabalhista (CLT art. 775), penal (CPP art. 798, dias corridos),
   juizados (Lei 9.099, art. 12-A; Leis 10.259 e 12.153) e contra a Fazenda,
-  com termo inicial por modo de intimação, prazo em dobro, recesso e DJe
-  (Lei 11.419, art. 4º). Use quando o usuário pedir prazo, vencimento, "até
-  quando posso", tempestividade, contagem, dias úteis, prazo em dobro,
-  recesso forense, intimação pelo DJe ou pelo portal, ou tabela de prazos.
+  com termo inicial por modo de intimação (DJEN e Domicílio Judicial
+  Eletrônico, Res. CNJ 455/2022; CPC arts. 224 e 231; Lei 11.419, arts. 4º e
+  5º), prazo em dobro e recesso. Use quando o usuário pedir prazo, vencimento,
+  "até quando posso", tempestividade, contagem, dias úteis, prazo em dobro,
+  recesso forense, intimação pelo DJEN, pelo DJe, pelo Domicílio ou pelo
+  portal, citação eletrônica, ou tabela de prazos.
 metadata:
   area: nucleo
   tipo_peca: outro
@@ -31,8 +33,9 @@ suspensão do tribunal e no calendário de feriados locais.
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
 1. Ramo e rito: cível comum, juizado cível, JEF, juizado da Fazenda, trabalhista, penal.
 2. Ato a praticar (contestação, apelação, ED etc.).
-3. Modo e data da comunicação: DJe (data de disponibilização), portal eletrônico
-   (data do envio e da consulta), mandado, correio, audiência, carga, citação eletrônica.
+3. Modo e data da comunicação: DJEN ou DJe (data de disponibilização), Domicílio
+   Judicial Eletrônico ou portal (data do envio e da consulta), mandado, correio,
+   audiência, carga, citação eletrônica (data da confirmação).
 4. Quem pratica: particular, Fazenda, MP, Defensoria, núcleo de prática jurídica;
    litisconsortes com escritórios distintos; autos físicos ou eletrônicos.
 5. Comarca/seção e tribunal (para feriados locais e portarias de suspensão).
@@ -40,11 +43,23 @@ suspensão do tribunal e no calendário de feriados locais.
 ## Prazo e contagem (regras de base)
 - **Cível (CPC)**: só dias úteis (art. 219); exclui o dia do começo e inclui o do
   vencimento (art. 224); suspensão de 20/12 a 20/01 (art. 220).
-- **DJe**: publicação é o primeiro dia útil seguinte à disponibilização; o prazo
-  começa no primeiro dia útil seguinte à publicação (CPC 224, §§2º e 3º; Lei 11.419,
-  art. 4º, §§3º e 4º).
-- **Portal eletrônico**: intimação no dia da consulta; sem consulta em 10 dias
-  corridos do envio, considera-se feita no fim desse prazo (Lei 11.419, art. 5º, §3º).
+- **DJEN (Diário de Justiça Eletrônico Nacional)**: é o meio de intimação do advogado
+  quando a lei não exige intimação pessoal; outra comunicação simultânea (aba do
+  sistema, e-mail) é só informativa (Res. CNJ 455/2022, art. 11, §§2º e 3º, com a
+  redação da Res. 569/2024). Publicação = 1º dia útil seguinte à disponibilização;
+  a contagem começa no 1º dia útil seguinte à publicação (CPC 224, §§2º e 3º; Lei
+  11.419, art. 4º, §§3º e 4º). O DJe do tribunal segue a mesma regra.
+- **Domicílio Judicial Eletrônico**: só para citação eletrônica e para comunicações
+  que exigem intimação pessoal (Res. CNJ 455/2022, art. 18). Intimação: feita no dia
+  da consulta (em dia não útil, no 1º dia útil seguinte); sem consulta em 10 dias
+  corridos do envio, considera-se feita no fim desse prazo (Res. 455, art. 20, caput,
+  §§1º e 4º; Lei 11.419, art. 5º, §§1º a 3º); o dia do começo é o dia útil seguinte
+  (CPC 231, V), excluído da contagem (CPC 224). Citação confirmada: o dia do começo é o
+  5º dia útil seguinte à confirmação (CPC 231, IX; Res. 455, art. 20, §3º-B), também
+  excluído da contagem. Detalhe em
+  [fundamentos](references/fundamentos.md), seção 1-A.
+- **Portal próprio do tribunal**: mesma regra da consulta e dos 10 dias corridos
+  (Lei 11.419, art. 5º, §3º).
 - **Trabalhista**: dias úteis (CLT 775); suspensão de 20/12 a 20/01 (CLT 775-A).
 - **Penal**: dias corridos, contínuos e peremptórios (CPP 798); vencimento em dia
   sem expediente prorroga para o dia útil seguinte (§3º); contam-se da intimação, não da
@@ -85,7 +100,7 @@ com a memória de contagem. Modelo e passo a passo em
 | Pagamento voluntário / impugnação ao cumprimento | 15 + 15 dias úteis | CPC 523 e 525 |
 | Embargos à execução | 15 dias úteis | CPC 915 |
 | Fazenda: impugnação ao cumprimento / embargos à execução | 30 dias | CPC 535; 910 |
-| Embargos à execução fiscal / impugnação da Fazenda | 30 dias | LEF 16 e 17 |
+| Embargos à execução fiscal / impugnação da Fazenda | 30 dias (úteis × corridos: ver nota) | LEF 16 e 17 |
 | Juizado: recurso inominado e resposta | 10 dias úteis | Lei 9.099, 42 e 12-A |
 | Juizado: embargos de declaração | 5 dias úteis | Lei 9.099, 49 |
 | Trabalhista: RO, RR, AP, AI, embargos no TST e contrarrazões | 8 dias úteis | CLT 895, 896, 897, 894; Lei 5.584, art. 6º |
@@ -99,6 +114,10 @@ com a memória de contagem. Modelo e passo a passo em
 | Habeas corpus / revisão criminal | sem prazo | CPP 647 e 622 |
 | Mandado de segurança | 120 dias (decadencial) | Lei 12.016, art. 23 |
 
+Nota LEF: a lei fixa 30 dias e manda aplicar o CPC subsidiariamente (LEF 1º); a
+contagem em dias úteis (CPC 219) não foi conferida em fonte oficial [VERIFICAR]. Por
+cautela, conte em dias corridos e não deixe para o último dia.
+
 Tabela completa e notas em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
@@ -108,7 +127,8 @@ Tabela completa e notas em [fundamentos](references/fundamentos.md).
 
 ## Checklist pré-protocolo
 - [ ] Ramo e regra de contagem certos (úteis × corridos).
-- [ ] Termo inicial conforme o modo de intimação (CPC 231; DJe; portal).
+- [ ] Termo inicial conforme o modo de intimação (CPC 231; DJEN/DJe; Domicílio; portal).
+- [ ] Intimação pessoal (Fazenda, MP, Defensoria) conferida no Domicílio, não no DJEN.
 - [ ] Dobra aplicável ou expressamente afastada.
 - [ ] Recesso de 20/12 a 20/01 e exceções penais considerados.
 - [ ] Feriados nacionais, locais e portarias do tribunal conferidos; comprovante anexado.
@@ -117,7 +137,11 @@ Tabela completa e notas em [fundamentos](references/fundamentos.md).
 ## Erros a evitar
 - Contar em dias úteis o prazo penal, inclusive REsp e agravo em matéria penal.
 - Aplicar dobra do CPC 229 em processo eletrônico.
-- Contar a partir da disponibilização no DJe, e não da publicação.
+- Contar a partir da disponibilização no DJEN ou no DJe, e não da publicação.
+- Esperar a intimação pela aba do sistema quando já houve publicação no DJEN: o prazo
+  corre da publicação.
+- Tratar a citação eletrônica como intimação: o dia do começo do prazo de resposta é o 5º
+  dia útil após a confirmação (excluído da contagem), não o dia seguinte.
 - Esquecer que o ED interrompe o prazo (CPC 1.026; CLT 897-A, §3º; Lei 9.099, arts. 50
   e 83, §2º) e o recurso seguinte corre por inteiro.
 - Tratar o prazo de 8 dias trabalhista como 15 por analogia ao CPC.

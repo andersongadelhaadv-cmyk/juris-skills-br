@@ -23,6 +23,57 @@ identificadas no Senado (ver fontes.yaml). Dias "úteis" ou "corridos" conforme 
 | Penal | CPP 798 e 798-A | contínuos e peremptórios; recesso com exceções (réu preso, Maria da Penha, urgência) |
 | Juizados | Lei 9.099, art. 12-A | dias úteis, inclusive recursos |
 
+## 1-A. DJEN e Domicílio Judicial Eletrônico (Res. CNJ 455/2022)
+
+Texto conferido na versão compilada da Res. CNJ 455/2022 (com as Resoluções 569/2024
+e 624/2025), no site de atos do CNJ, e no texto da Res. 569/2024 (vigência na
+publicação, art. 6º). Os dispositivos de lei foram conferidos no texto compilado.
+
+**Qual canal vale para quê**
+- DJEN: instrumento de publicação dos atos judiciais; substitui qualquer outro meio
+  oficial para intimação, salvo quando a lei exige vista ou intimação pessoal (art. 11,
+  caput e §2º). Também é o canal da citação por edital (art. 18).
+- Quando a lei não exige intimação pessoal, os prazos contam da publicação no DJEN, na
+  forma do CPC 224, e qualquer comunicação simultânea por outro meio tem valor apenas
+  informativo (art. 11, §3º).
+- Domicílio Judicial Eletrônico: exclusivo para citação eletrônica e para comunicações
+  que exigem vista, ciência ou intimação pessoal (art. 18). O destinatário é identificado
+  pelo CPF ou CNPJ (art. 19).
+- Adesão e cronograma de cada tribunal: definidos por portarias da Presidência do CNJ
+  (art. 25). A data em que o tribunal do caso passou a contar prazos só pelo DJEN não foi
+  conferida em fonte oficial [VERIFICAR o ato do tribunal].
+
+**Termo inicial – DJEN (intimação do advogado)**
+| Passo | Regra | Base |
+|---|---|---|
+| Disponibilização | dia em que o ato aparece no DJEN | Res. 455, art. 11 |
+| Publicação | 1º dia útil seguinte à disponibilização | CPC 224, §2º; Lei 11.419, art. 4º, §3º |
+| Início da contagem | 1º dia útil seguinte à publicação | CPC 224, §3º; Lei 11.419, art. 4º, §4º |
+| Dia do começo para o CPC | a data da publicação | CPC 231, VII |
+
+**Termo inicial – Domicílio Judicial Eletrônico**
+| Situação | Quando se considera feita | Base |
+|---|---|---|
+| Intimação pessoal consultada em dia útil | no dia da consulta | Res. 455, art. 20, caput; Lei 11.419, art. 5º, §1º |
+| Consulta em dia não útil | no 1º dia útil seguinte | Res. 455, art. 20, §1º; Lei 11.419, art. 5º, §2º |
+| Intimação pessoal sem consulta | no término dos 10 dias corridos contados do envio (não se aplica o CPC 219 a esse intervalo) | Res. 455, art. 20, §4º; Lei 11.419, art. 5º, §3º |
+| Dia do começo após a intimação eletrônica | dia útil seguinte à consulta ou ao término do prazo de consulta; excluído da contagem | CPC 231, V; CPC 224 |
+| Citação eletrônica confirmada | dia do começo do prazo de resposta = 5º dia útil seguinte à confirmação; excluído da contagem | CPC 231, IX; Res. 455, art. 20, §3º-B |
+| Citação de pessoa jurídica de direito privado sem confirmação em 3 dias úteis | não há citação; repete-se por correio, oficial, escrivão ou edital, e o réu deve justificar a falta de confirmação | CPC 246, §§1º-A e 1º-B; Res. 455, art. 20, §3º |
+| Falta de confirmação sem justa causa | ato atentatório, multa de até 5% do valor da causa | CPC 246, §1º-C |
+| Citação de pessoa jurídica de direito público sem consulta | citada automaticamente no término de 10 dias corridos do envio (sem CPC 219) | Res. 455, art. 20, §3º-A |
+
+O termo inicial do prazo de resposta da pessoa jurídica de direito público citada
+automaticamente (fim dos 10 dias, sem consulta) não foi conferido em fonte oficial
+[VERIFICAR]; confira a orientação do tribunal antes de alegar intempestividade.
+
+**Cuidados**
+- Fazenda, MP e Defensoria têm intimação pessoal (CPC 180, 183, §1º, e 186): o prazo
+  deles corre do Domicílio, não do DJEN; o advogado privado da outra parte, do DJEN.
+- Havendo DJEN e aviso pela aba do sistema para o mesmo ato, vale o DJEN (art. 11, §3º).
+- Prova da data: certidão de publicação do DJEN ou registro de acesso do Domicílio
+  (art. 20, §2º). Guarde o comprovante junto à memória de contagem.
+
 ## 2. Prazos em dobro e prazos próprios
 - MP: CPC 180 (dobro desde a intimação pessoal; não se aplica a prazo próprio, §2º).
 - Fazenda (União, Estados, DF, Municípios, autarquias e fundações de direito público):
@@ -88,8 +139,19 @@ identificadas no Senado (ver fontes.yaml). Dias "úteis" ou "corridos" conforme 
 | JECrim: apelação e resposta | 10 | 82, §§1º e 2º |
 | JECrim: ED | 5 | 83, §1º |
 
-Atenção: nos juizados criminais, a contagem do art. 12-A é discutida; prefira dias
-corridos por cautela [VERIFICAR o entendimento da turma recursal].
+Atenção: nos juizados criminais, o art. 12-A está no capítulo dos juizados cíveis, e
+o art. 92 da Lei 9.099 manda aplicar o CPP subsidiariamente, que prevê prazos contínuos
+(CPP 798). Há julgado de turma recursal nesse sentido: TJBA, 2ª Turma Recursal,
+Apelação 0059457-76.2022.8.05.0001, rel. Juíza Maria Auxiliadora Sobral Leite,
+j. 29/10/2024 (sessão) – apelação de juizado criminal em dias corridos.
+https://jurisprudencia.tjba.jus.br/?processo=0059457-76.2022.8.05.0001
+Conte em dias corridos e confira a orientação da turma recursal do caso.
+
+### Execução fiscal: dias úteis × corridos
+O art. 16 da LEF fixa 30 dias, e o art. 1º manda aplicar o CPC subsidiariamente. Se o
+CPC 219 (dias úteis) alcança esse prazo não foi conferido em fonte oficial [VERIFICAR].
+Por cautela, conte em dias corridos; se o prazo já tiver sido perdido nessa conta,
+examine a tese dos dias úteis com precedente conferido em `verificacao-de-citacoes`.
 
 ### Trabalhista (CLT; dias úteis)
 | Ato | Prazo | Dispositivo |
@@ -122,7 +184,7 @@ corridos por cautela [VERIFICAR o entendimento da turma recursal].
 | Habeas corpus | sem prazo | 647 e 648 |
 | Revisão criminal | a qualquer tempo | 622 |
 
-## 4. Precedentes e súmulas (confirmados na base; vigência de súmulas a conferir)
+## 4. Precedentes e súmulas (conferidos em fonte oficial; vigência de súmulas a conferir)
 - STJ, 5ª Turma, AgRg no AREsp 2.552.378, rel. Min. Reynaldo Soares da Fonseca,
   j. 13/08/2024: em matéria penal não se aplica o CPC 219; prazos em dias corridos.
   https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400198452

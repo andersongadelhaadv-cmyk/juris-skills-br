@@ -41,8 +41,9 @@ o regime então vigente, sem cumulação de índices;"
 **Trabalhista**
 "a atualização dos créditos deferidos com IPCA-E e juros do art. 39, caput, da Lei
 8.177/1991 na fase pré-judicial; taxa SELIC do ajuizamento até 29/08/2024; e, a partir de
-30/08/2024, IPCA como correção e juros equivalentes à diferença entre SELIC e IPCA,
-considerada zero se negativa (arts. 389, p.ú., e 406 do CC; ADC 58);"
+30/08/2024, IPCA como correção e juros pela taxa legal do art. 406 do CC (SELIC
+deduzido o IPCA, na metodologia da Resolução CMN 5.171/2024), considerada zero se
+negativa (arts. 389, p.ú., e 406 do CC; ADC 58);"
 
 **Fazenda Pública, não tributário**
 "a incidência de correção e juros conforme o período: [critério do Tema 810/STF e Tema
