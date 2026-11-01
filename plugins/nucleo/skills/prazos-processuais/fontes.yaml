@@ -104,3 +104,38 @@ itens:
     status: CONFIRMADO
     url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2600
     consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução CNJ 455/2022, arts. 11, 18, 19, 20 e 25 (DJEN e Domicílio Judicial Eletrônico), versão compilada com as Resoluções 569/2024 e 624/2025"
+    status: LEI
+    url: https://atos.cnj.jus.br/files/compilado18070620250603683f39ca8ca16.pdf
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução CNJ 569/2024 (altera a Res. 455/2022: art. 11, §3º; art. 18; art. 20, §§3º-A, 3º-B e 4º; vigência na publicação)"
+    status: LEI
+    url: https://atos.cnj.jus.br/files/original1654112024081566be32b3134ef.pdf
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 224, §§2º e 3º, 231, V, VII e IX, e 246, §§1º-A a 1º-C (citação e intimação eletrônicas)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.607/2002 (nova redação do art. 1º da Lei 662/1949: feriados nacionais, inclusive 2 de novembro)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552483/publicacao/15677132
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.759/2023 (20 de novembro, feriado nacional; DOU 22/12/2023)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/38009421
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TJBA, 2ª Turma Recursal, Apelação 0059457-76.2022.8.05.0001 (juizado criminal: prazos em dias corridos, CPP 798 e Lei 9.099, art. 92)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=0059457-76.2022.8.05.0001
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), art. 16: contagem em dias úteis ou corridos não conferida em fonte oficial"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01

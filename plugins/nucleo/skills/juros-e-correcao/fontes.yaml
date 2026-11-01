@@ -10,7 +10,7 @@ itens:
     url: https://legis.senado.leg.br/norma/552282
     consultado_em: 2026-11-01
   - tipo: resolucao
-    referencia: "Resolução CMN 5.171/2024 (metodologia da taxa legal do art. 406 do CC)"
+    referencia: "Resolução CMN 5.171/2024, de 29/08/2024, arts. 2º a 9º (taxa legal do art. 406 do CC: fator SELIC ÷ fator IPCA-15 do mês anterior − 1, piso zero, juros simples)"
     status: LEI
     url: https://www.bcb.gov.br/content/estabilidadefinanceira/especialnor/Resolução5171.pdf
     consultado_em: 2026-11-01
@@ -38,6 +38,11 @@ itens:
     referencia: "Lei 9.494/1997, art. 1º-F (redação da Lei 11.960/2009)"
     status: LEI
     url: https://legis.senado.leg.br/norma/551370
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 11.960/2009, de 29/06/2009, publicada no DOU de 30/06/2009 (nova redação do art. 1º-F da Lei 9.494/1997)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580183
     consultado_em: 2026-11-01
   - tipo: lei
     referencia: "Lei 8.213/1991, art. 41-A (INPC)"
