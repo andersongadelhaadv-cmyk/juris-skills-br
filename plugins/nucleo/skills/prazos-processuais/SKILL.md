@@ -53,9 +53,10 @@ suspensão do tribunal e no calendário de feriados locais.
   que exigem intimação pessoal (Res. CNJ 455/2022, art. 18). Intimação: feita no dia
   da consulta (em dia não útil, no 1º dia útil seguinte); sem consulta em 10 dias
   corridos do envio, considera-se feita no fim desse prazo (Res. 455, art. 20, caput,
-  §§1º e 4º; Lei 11.419, art. 5º, §§1º a 3º); o prazo começa no dia útil seguinte
-  (CPC 231, V). Citação confirmada: prazo de resposta a partir do 5º dia útil seguinte
-  à confirmação (CPC 231, IX; Res. 455, art. 20, §3º-B). Detalhe em
+  §§1º e 4º; Lei 11.419, art. 5º, §§1º a 3º); o dia do começo é o dia útil seguinte
+  (CPC 231, V), excluído da contagem (CPC 224). Citação confirmada: o dia do começo é o
+  5º dia útil seguinte à confirmação (CPC 231, IX; Res. 455, art. 20, §3º-B), também
+  excluído da contagem. Detalhe em
   [fundamentos](references/fundamentos.md), seção 1-A.
 - **Portal próprio do tribunal**: mesma regra da consulta e dos 10 dias corridos
   (Lei 11.419, art. 5º, §3º).
@@ -139,8 +140,8 @@ Tabela completa e notas em [fundamentos](references/fundamentos.md).
 - Contar a partir da disponibilização no DJEN ou no DJe, e não da publicação.
 - Esperar a intimação pela aba do sistema quando já houve publicação no DJEN: o prazo
   corre da publicação.
-- Tratar a citação eletrônica como intimação: o prazo de resposta começa no 5º dia útil
-  após a confirmação, não no dia seguinte.
+- Tratar a citação eletrônica como intimação: o dia do começo do prazo de resposta é o 5º
+  dia útil após a confirmação (excluído da contagem), não o dia seguinte.
 - Esquecer que o ED interrompe o prazo (CPC 1.026; CLT 897-A, §3º; Lei 9.099, arts. 50
   e 83, §2º) e o recurso seguinte corre por inteiro.
 - Tratar o prazo de 8 dias trabalhista como 15 por analogia ao CPC.

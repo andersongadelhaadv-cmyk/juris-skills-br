@@ -1,9 +1,9 @@
 # Fundamentos verificados: juros e correção monetária
 
 Consulta em 01/11/2026. Normas conferidas no Senado (página da norma e texto
-publicado) e no texto compilado dos códigos; precedentes conferidos na base de
-jurisprudência (estado CONFIRMADO, salvo indicação). Súmulas: a base não informa
-cancelamento ou revisão; conferir na página do tribunal antes de citar.
+publicado) e no texto compilado dos códigos; precedentes conferidos em fonte oficial,
+salvo indicação. Súmulas: conferir cancelamento ou revisão na página do tribunal antes
+de citar.
 
 ## 1. Cível (Código Civil, Lei 10.406/2002, com a Lei 14.905/2024)
 

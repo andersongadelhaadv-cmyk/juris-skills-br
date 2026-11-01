@@ -57,8 +57,8 @@ publicação, art. 6º). Os dispositivos de lei foram conferidos no texto compil
 | Intimação pessoal consultada em dia útil | no dia da consulta | Res. 455, art. 20, caput; Lei 11.419, art. 5º, §1º |
 | Consulta em dia não útil | no 1º dia útil seguinte | Res. 455, art. 20, §1º; Lei 11.419, art. 5º, §2º |
 | Intimação pessoal sem consulta | no término dos 10 dias corridos contados do envio (não se aplica o CPC 219 a esse intervalo) | Res. 455, art. 20, §4º; Lei 11.419, art. 5º, §3º |
-| Começo do prazo após a intimação eletrônica | dia útil seguinte à consulta ou ao término do prazo de consulta | CPC 231, V |
-| Citação eletrônica confirmada | prazo de resposta a partir do 5º dia útil seguinte à confirmação | CPC 231, IX; Res. 455, art. 20, §3º-B |
+| Dia do começo após a intimação eletrônica | dia útil seguinte à consulta ou ao término do prazo de consulta; excluído da contagem | CPC 231, V; CPC 224 |
+| Citação eletrônica confirmada | dia do começo do prazo de resposta = 5º dia útil seguinte à confirmação; excluído da contagem | CPC 231, IX; Res. 455, art. 20, §3º-B |
 | Citação de pessoa jurídica de direito privado sem confirmação em 3 dias úteis | não há citação; repete-se por correio, oficial, escrivão ou edital, e o réu deve justificar a falta de confirmação | CPC 246, §§1º-A e 1º-B; Res. 455, art. 20, §3º |
 | Falta de confirmação sem justa causa | ato atentatório, multa de até 5% do valor da causa | CPC 246, §1º-C |
 | Citação de pessoa jurídica de direito público sem consulta | citada automaticamente no término de 10 dias corridos do envio (sem CPC 219) | Res. 455, art. 20, §3º-A |
@@ -184,7 +184,7 @@ examine a tese dos dias úteis com precedente conferido em `verificacao-de-citac
 | Habeas corpus | sem prazo | 647 e 648 |
 | Revisão criminal | a qualquer tempo | 622 |
 
-## 4. Precedentes e súmulas (confirmados na base; vigência de súmulas a conferir)
+## 4. Precedentes e súmulas (conferidos em fonte oficial; vigência de súmulas a conferir)
 - STJ, 5ª Turma, AgRg no AREsp 2.552.378, rel. Min. Reynaldo Soares da Fonseca,
   j. 13/08/2024: em matéria penal não se aplica o CPC 219; prazos em dias corridos.
   https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400198452

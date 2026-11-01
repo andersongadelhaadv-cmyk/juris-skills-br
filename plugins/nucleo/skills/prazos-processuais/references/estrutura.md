@@ -4,10 +4,10 @@
 1. **Classifique o prazo**: processual ou material; ramo (cível, juizado, trabalhista, penal).
 2. **Ache o dia da comunicação** pelo modo:
    - DJEN ou DJe: data de disponibilização → publicação no 1º dia útil seguinte → início no 1º dia útil após a publicação.
-   - Domicílio Judicial Eletrônico ou portal: data da consulta (em dia não útil, o 1º dia útil seguinte); sem consulta, o término dos 10 dias corridos do envio; o prazo começa no dia útil seguinte (CPC 231, V).
+   - Domicílio Judicial Eletrônico ou portal: data da consulta (em dia não útil, o 1º dia útil seguinte); sem consulta, o término dos 10 dias corridos do envio; o dia do começo é o dia útil seguinte (CPC 231, V), excluído da contagem (CPC 224).
    - Intimação pessoal (Fazenda, MP, Defensoria): confira o Domicílio, não o DJEN.
    - Correio ou oficial: data da juntada do AR ou do mandado (CPC 231, I e II).
-   - Citação eletrônica: 5º dia útil após a confirmação de recebimento (CPC 231, IX).
+   - Citação eletrônica: dia do começo = 5º dia útil após a confirmação de recebimento (CPC 231, IX), excluído da contagem.
    - Audiência: a própria data, se a decisão foi proferida nela (CPC 1.003, §1º).
    - Penal: a data da intimação, não a da juntada do mandado (Súm. 710/STF).
 3. **Exclua o dia do começo** e comece no dia seguinte (CPC 224; CPP 798, §1º).
