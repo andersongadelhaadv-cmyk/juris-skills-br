@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.1.1 — 2026-11
+
+Correções e conferências em fonte oficial nos plugins nucleo, penal e tributario-fazenda.
+
+- nucleo: intimações pelo DJEN e pelo Domicílio Judicial Eletrônico (Res. CNJ 455/2022 com a Res. 569/2024; CPC 224 e 231), com exemplo de contagem; taxa legal de juros descrita pela metodologia da Res. CMN 5.171/2024.
+- penal: inovação de tese na tréplica do júri é vedada (STJ); Tema 1260/STJ trata da pronúncia; Tema 1084/STJ e argumento do Tema 1169/STF sob a Lei 15.358/2026; habeas corpus contra ato de turma recursal.
+- tributario-fazenda: **correção** — o recurso voluntário ao CARF é de 20 dias úteis (art. 33 do Decreto 70.235, alterado pelo art. 173 da LC 227/2026), com a transição do ADI RFB 2/2026; recurso especial à CSRF e CTN art. 211-B; ADI 4.296.
+- Itens não conferidos em fonte oficial continuam marcados com [VERIFICAR].
+
 ## v0.1.0 — 2026-11
 
 Primeira versão pública.

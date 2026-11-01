@@ -1,6 +1,6 @@
 {
   "name": "nucleo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Camada comum: juros e correção, prazos processuais, verificação de citações, fidelidade factual, estilo forense e roteador de peças.",
   "author": {
     "name": "PreviusIA Serviço Digital Ltda.",
