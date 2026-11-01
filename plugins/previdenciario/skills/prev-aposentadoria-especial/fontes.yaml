@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 57 e 58"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 103/2019, arts. 19, 21, 25, §2º, e 26"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 201, §1º, II"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 694 (REsp 1.398.260/PR) — tese confirmada via AgInt no REsp 1.950.196"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102272317
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 555 (ARE 664.335)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4170732&numeroProcesso=664335&classeProcesso=ARE&numeroTema=555
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 709 (RE 791.961)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4518055&numeroProcesso=791961&classeProcesso=RE&numeroTema=709
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, EDcl no REsp 1.886.795 (1ª Seção, ruído NEN/pico)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001906666
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Número do tema repetitivo do STJ sobre NEN/pico de ruído"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001906666
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "TNU Tema 174 (metodologia de aferição do ruído)"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-174
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 9 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=9
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 68 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=68
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 87 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=87
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-01

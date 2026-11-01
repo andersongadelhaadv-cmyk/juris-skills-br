@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto 70.235/1972 (PAF federal), arts. 5, 5-A, 9, 10, 14 a 17, 23, 25, 26-A, 33, 37, 42 e 59"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/492875
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 227/2026, art. 173 (alterou arts. 5, 5-A, 5-B, 7, 10, 15, 27, 33 e 37 do Decreto 70.235) e art. 182 (vigência)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42042119
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.689/2023 (voto de qualidade no CARF; art. 25 §§9º-A, 12 e 13 do Decreto 70.235)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37641134
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (CTN arts. 113-A, 127-A, 142, 151, 208-A a 208-J, 211-A, 211-B)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 21 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1255
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmulas do CARF (não citadas por número; base de jurisprudência não cobre)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/492875
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Prazo do recurso especial à CSRF: Decreto 70.235 art. 37 §2º (15 dias) x CTN art. 208-D III (20 dias úteis) - conflito a confirmar"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01

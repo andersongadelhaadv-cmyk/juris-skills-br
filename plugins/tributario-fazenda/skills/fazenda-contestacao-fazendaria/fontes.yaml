@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 85, 183, 219, 242, 335 a 337, 341, 345, 496, 1.007"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 20.910/1932 (prescrição quinquenal contra a Fazenda)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/439925
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 113/2021, art. 3º (redação dada pela EC 136/2025)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41412162
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 166 e 168"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 85 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=85.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 483 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=483.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 490 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=490.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 325 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=325.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 546 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2210
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1419 do STF (ARE 1.557.312) - SELIC do art. 3º da EC 113/2021"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=7292835&numeroProcesso=1557312&classeProcesso=ARE&numeroTema=1419
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Regime de atualização das condenações da Fazenda antes da expedição do requisitório após a EC 136/2025"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/41412162
+    consultado_em: 2026-11-01

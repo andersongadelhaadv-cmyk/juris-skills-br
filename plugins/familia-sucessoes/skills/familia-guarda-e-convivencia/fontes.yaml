@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.583 a 1.590"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 693 a 699-A"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.713/2023 (risco de violência doméstica impede guarda compartilhada)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37757044
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.318/2010 (alienação parental), arts. 2º, 4º, 5º, 6º e 8º-A"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/585315
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.340/2022 (altera a Lei 12.318/2010)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35862908
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.431/2017 (escuta especializada e depoimento especial)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/17674073
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.058/2014 (guarda compartilhada)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584870
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 383 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=383.num.
+    consultado_em: 2026-11-01

@@ -1,0 +1,16 @@
+{
+  "name": "consumidor",
+  "version": "0.1.0",
+  "description": "Consumidor: indenizatória, vício, negativação, plano de saúde, revisional bancária, superendividamento, transporte aéreo e defesa do fornecedor.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "peticao"
+  ]
+}

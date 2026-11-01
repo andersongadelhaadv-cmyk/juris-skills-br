@@ -1,0 +1,86 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), arts. 1, 2, 3, 6 a 9, 11, 25, 39, 40"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 134, 135, 174, 185, 185-A, 202 a 204"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (CTN arts. 174 e 202)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.492/1997, art. 1º, parágrafo único (protesto de CDA)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551368
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.522/2002, art. 20-B"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552398
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução CNJ 547/2024 (texto compilado; Res. 617/2025 e 689/2026)"
+    status: CONFIRMADO
+    url: https://atos.cnj.jus.br/files/compilado212506202607206a5e92325a6f2.pdf
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1184 do STF (RE 1.355.208)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6291425&numeroProcesso=1355208&classeProcesso=RE&numeroTema=1184
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "REsp 1.643.944 (STJ, 1ª Seção, repetitivo, 25/05/2022) - redirecionamento por dissolução irregular"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201603209921
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 435 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=435.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 430 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=430.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 392 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=392.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 558 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=558.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 559 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=559.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 106 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=106.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 452 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=452.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 515 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=515.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Repetitivo do STJ sobre prescrição para o redirecionamento (número não confirmado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201603209921
+    consultado_em: 2026-11-01

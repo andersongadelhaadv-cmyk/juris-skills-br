@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 19, 20, 21, 21-A e 118"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 11, 223-A a 223-G, 840"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 186, 927 e 950"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXVIII e XXIX"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 378 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=378&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 392 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=392&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 396 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=396&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 443 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=443&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 932 da repercussão geral do STF (RE 828040)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4608798&numeroProcesso=828040&classeProcesso=RE&numeroTema=932
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 22 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1259
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADIs 6050, 6069 e 6082 (STF) - tarifação do dano extrapatrimonial (CLT 223-G); não localizadas no JuriBase; anotadas no texto compilado da CLT"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01

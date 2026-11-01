@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 775, 896, 896-A, 897, 899"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 218 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=218&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 422 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=422&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, 1ª Turma, RRAg-1001078-47.2019.5.02.0072 (julg. 27/05/2026) - preclusão de tema não examinado no despacho de admissibilidade"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/594737cd4848c4a0b025b12e01b9803f
+    consultado_em: 2026-11-01

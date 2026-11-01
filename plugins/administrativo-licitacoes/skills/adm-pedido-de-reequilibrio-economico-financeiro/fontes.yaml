@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 37, XXI"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.133/2021, arts. 92, 103, 124, 130, 131, 134 a 137 e 190"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/33382036
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, art. 1º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/439925
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.013.011, rel. Min. Herman Benjamin, j. 23/05/2023"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103000741
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 2.491.214, rel. Min. Francisco Falcão, j. 19/02/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303813551
+    consultado_em: 2026-11-01

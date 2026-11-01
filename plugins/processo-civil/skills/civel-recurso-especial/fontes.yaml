@@ -1,0 +1,96 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, arts. 102, III e §3º, e 105, III e §§2º-3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Emenda Constitucional 125/2022 (relevância no recurso especial, CF art. 105, §§2º e 3º)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/36089342
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.484/2026 (regime da relevância no REsp; inclui CPC art. 1.035-A; vigência 30 dias após publicação no DOU de 04/08/2026; art. 4º: exigível em recursos contra acórdãos publicados após a vigência)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43627311
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.484/2026 - texto publicado (Câmara dos Deputados, publicação original)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2026/lei-15484-4-agosto-2026-799698-publicacaooriginal-180680-pl.html
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 5 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=5.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 7 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=7.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 13 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=13.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 83 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=83.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 115 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=115.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 126 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=126.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 203 do STJ (redação alterada em 23/05/2002)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=203.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 211 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=211.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 518 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=518.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 282 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2496
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 283 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2226
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 284 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2230
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 356 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2648
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.231.785, Segunda Turma, rel. Min. Teodoro Silva Santos, j. 09/09/2026 (art. 1.025 do CPC exige alegação de violação ao art. 1.022 no REsp)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601445299
+    consultado_em: 2026-11-01

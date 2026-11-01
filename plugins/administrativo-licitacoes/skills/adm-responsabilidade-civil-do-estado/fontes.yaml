@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 37, § 6º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), art. 43"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, art. 1º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/439925
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.494/1997, art. 1º-C"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551370
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 85, § 3º, 183 e 292"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Emenda Constitucional 113/2021 (atualização de condenações da Fazenda)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35268195
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 940 do STF (RE 1.027.633)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5136782&numeroProcesso=1027633&classeProcesso=RE&numeroTema=940
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 592 do STF (RE 841.526)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4645403&numeroProcesso=841526&classeProcesso=RE&numeroTema=592
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 362 do STF (RE 608.880)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3838114&numeroProcesso=608880&classeProcesso=RE&numeroTema=362
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 366 do STF (RE 136.861)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=1515920&numeroProcesso=136861&classeProcesso=RE&numeroTema=366
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 85 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=85.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 652 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=652.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 39 do STJ (enunciado confirmado; editada sob o CC/1916, aplicação atual a verificar no texto)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=39.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Repetitivo do STJ sobre prescrição quinquenal (Decreto 20.910/1932) em ação indenizatória contra a Fazenda — número não localizado na base"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

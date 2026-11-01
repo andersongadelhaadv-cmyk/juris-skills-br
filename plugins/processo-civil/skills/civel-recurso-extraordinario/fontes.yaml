@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, arts. 102, III e §3º, e 105, III e §§2º-3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 279 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2174
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 282 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2496
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 283 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2226
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 284 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2230
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 356 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2648
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 640 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2787
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 735 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2177
+    consultado_em: 2026-11-01

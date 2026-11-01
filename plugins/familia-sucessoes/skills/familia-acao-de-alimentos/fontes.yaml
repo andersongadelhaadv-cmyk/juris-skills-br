@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.694 a 1.710"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.478/1968 (Lei de Alimentos), arts. 1º, 2º, 4º, 5º, 8º e 13"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547347
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 11.804/2008 (alimentos gravídicos), arts. 2º, 6º e 7º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/583429
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 189, 292 e 698"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 594 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=594.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 596 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=596.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 621 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=621.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 358 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=358.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 1 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=1.num.
+    consultado_em: 2026-11-01

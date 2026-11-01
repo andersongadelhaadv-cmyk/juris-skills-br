@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, 18, 19, 20, 23, 24, 25, 26, 50, 51"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 219, 292, 319"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.419.630 (vício oculto: termo inicial; restituição integral)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302366579
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 1.980.652 (decadência art. 26 x prescrição art. 27)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200048504
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Tese da vida útil do bem e garantia legal após a contratual (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

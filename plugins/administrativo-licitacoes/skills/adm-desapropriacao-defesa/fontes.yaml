@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, XXIV"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.365/1941, arts. 9º, 10, 10-A, 10-B, 11, 13, 15, 15-A, 15-B, 20, 26, 27, 32 a 35 e 42"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528452
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADI 2.332 do STF (arts. 15-A e 27, § 1º, do DL 3.365/1941) — registro na ficha da norma no Senado; não localizada na base de jurisprudência; relação com a redação da Lei 14.620/2023 a verificar"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/528452
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 69 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=69.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 114 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=114.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 131 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=131.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 618 do STF (existente; superada — não usar como regra vigente)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2191
+    consultado_em: 2026-11-01

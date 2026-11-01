@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 11, 223-A, 477, 483, 487, 818, 840"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 13 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=13&pesquisar=1
+    consultado_em: 2026-11-01

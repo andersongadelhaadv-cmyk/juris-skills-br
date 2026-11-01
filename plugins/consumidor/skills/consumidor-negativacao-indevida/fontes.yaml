@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, 14, 17, 29, 43"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 396 a 404"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 359 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=359.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 385 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=385.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 323 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=323.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 404 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=404.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 548 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=548.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 550 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=550.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 479 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=479.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.777.211 (Súmula 385 afastada se anotação anterior sub judice)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403920149
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.069.520 (notificação prévia por e-mail isolado insuficiente)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301352876
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Prazo prescricional da indenização por inscrição indevida (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

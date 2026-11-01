@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 15, 16, 26, 74 a 77"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 103/2019, arts. 23 e 24"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.846/2019 (art. 16, §5º; art. 74)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31052388
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 340 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=340.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 416 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=416.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 63 da TNU (redação de 18/09/2025)"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=63
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Ato ministerial de atualização das idades do art. 77, §2º-B"
+    status: VERIFICAR
+    url: https://www.gov.br/previdencia
+    consultado_em: 2026-11-01

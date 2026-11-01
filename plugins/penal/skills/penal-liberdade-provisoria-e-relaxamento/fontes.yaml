@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (XXXVIII, XL, LXV, LXVI, LXVIII), 102, 105 e 108"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.964/2019 (pacote anticrime: juiz das garantias, ANPP, art. 112 LEP, art. 316 p.ú. CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31865675
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.272/2025 (arts. 310 §§5º-6º e 312 §§3º-4º CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41759201
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.358/2026 (marco do crime organizado; art. 112 V-VIII LEP; arts. 3º-B §1º, 310, 313 V e 584 §4º CPP; vigência na publicação, DOU 25/03/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42931693
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.487/2026 (art. 313 VI CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43648873
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 52 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=52.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 21 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=21.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, RHC 224.269, rel. Min. Sebastião Reis Júnior, j. 18/03/2026 — atraso na revisão do art. 316 p.ú. não gera ilegalidade automática"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503716683
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no RHC 236.988, rel. Min. Rogerio Schietti, j. 12/08/2026 — ausência de revisão nonagesimal: nulidade não automática"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601592641
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF ADIs 6.298, 6.299, 6.300 e 6.305 (juiz das garantias) — acórdão não localizado na base; ementa transcrita em acórdão do TRF3 (ação penal 5002663-53.2024.4.03.6181) indica julgamento parcialmente procedente; detalhes a conferir"
+    status: VERIFICAR
+    url: https://pje2g.trf3.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?x=26052816204199000000373679540
+    consultado_em: 2026-11-01

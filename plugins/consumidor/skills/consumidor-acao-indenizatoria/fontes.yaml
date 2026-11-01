@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 2º, 3º, 6º, 7º, 12, 13, 14, 17, 25, 27, 34, 101"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 85, 219, 292, 300, 319, 373"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.099/1995 (Juizados Especiais)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550975
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 37 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=37.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 479 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=479.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.798.479 (método bifásico)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201900489458
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.069.520 (método bifásico; notificação prévia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301352876
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.195.198 (fraude bancária sem peculiaridades não gera dano moral)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500324997
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 54 do STJ (termo inicial dos juros — aplicar via núcleo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=54.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 362 do STJ (correção do dano moral desde o arbitramento — aplicar via núcleo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=362.num.
+    consultado_em: 2026-11-01

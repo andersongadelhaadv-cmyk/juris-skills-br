@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), arts. 2, 3, 16, 25 e 40"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 135, 151, 156, 173, 174, 202, 203"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (nova redação do art. 174 do CTN)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 85, 485, 487 e 803"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 393 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=393.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 409 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=409.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 436 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 430 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=430.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 435 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=435.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1229 do STJ (REsp 2.076.321)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301424335
+    consultado_em: 2026-11-01

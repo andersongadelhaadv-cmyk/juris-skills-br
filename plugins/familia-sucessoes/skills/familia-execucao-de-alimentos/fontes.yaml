@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 517, 528 a 533, 782 e 911 a 913"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 197, 206 §2º e 1.707"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 309 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=309.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.199.718, 3ª Turma, j. 29/09/2025 (cumulação de ritos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500647441
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.700.790, 3ª Turma, j. 16/03/2026 (cumulação de ritos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402744302
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Prisão civil por alimentos indenizatórios (ato ilícito) — posição atual do STJ"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

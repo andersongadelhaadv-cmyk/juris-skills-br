@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 37, I a IV e VIII"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.016/2009, art. 23"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, art. 1º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/439925
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 161 do STF (RE 598.099)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2667158&numeroProcesso=598099&classeProcesso=RE&numeroTema=161
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 784 do STF (RE 837.311)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4634356&numeroProcesso=837311&classeProcesso=RE&numeroTema=784
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 485 do STF (RE 632.853)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3992645&numeroProcesso=632853&classeProcesso=RE&numeroTema=485
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 15 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1456
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 683 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2413
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 44 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=2358
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 266 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=266.num.
+    consultado_em: 2026-11-01

@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.112/1990, arts. 104 a 110, 116, 117, 126, 128, 132, 141 a 182 e 238"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549988
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.784/1999 (aplicação subsidiária)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551660
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 5 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1199
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 343 do STJ (cancelada em 2021 — citar apenas como cancelada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=343.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 591 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=591.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 592 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=592.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 611 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=611.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 635 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=635.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 641 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=641.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 650 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=650.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 665 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=665.num.
+    consultado_em: 2026-11-01

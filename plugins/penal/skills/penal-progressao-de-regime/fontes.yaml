@@ -1,0 +1,116 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 7.210/1984 (LEP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549086
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (XXXVIII, XL, LXV, LXVI, LXVIII), 102, 105 e 108"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/527942
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.964/2019 (pacote anticrime: juiz das garantias, ANPP, art. 112 LEP, art. 316 p.ú. CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31865675
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.964/2019, publicação original (art. 4º, redação do art. 112 LEP: 16% a 70%)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2019/lei-13964-24-dezembro-2019-789639-publicacaooriginal-159754-pl.html
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.843/2024 (exame criminológico obrigatório, art. 112 §1º LEP; monitoração)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/38326115
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.994/2024 (feminicídio autônomo, art. 121-A CP; pena do art. 24-A LMP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39748605
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.994/2024, publicação (inclui art. 112, VI-A, LEP: 55% feminicídio primário)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39748605/publicacao/39751753
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.358/2026 (marco do crime organizado; art. 112 V-VIII LEP; arts. 3º-B §1º, 310, 313 V e 584 §4º CPP; vigência na publicação, DOU 25/03/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42931693
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.358/2026, publicação original (art. 35 — art. 112 LEP; art. 38 — CPP; art. 44 — vigência)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2026/lei-15358-24-marco-2026-798846-publicacaooriginal-178585-pl.html
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.402/2026 (art. 112 caput e I-III LEP; vetos aos incisos IV-X; art. 126 §9º LEP; vigência na publicação, DOU extra 08/05/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43271992
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.402/2026, publicação original (texto do art. 112 caput e I-III; vetos IV-X; vigência art. 3º)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2026/lei-15402-8-maio-2026-799086-publicacaooriginal-179231-pl.html
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.072/1990 (crimes hediondos)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549948
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 491 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=491.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 534 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=534.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 439 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=439.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 471 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=471.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 26 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1271
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 715 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2548
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 700 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3633
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no HC 943.774, rel. Min. Reynaldo Soares da Fonseca, j. 19/11/2024 — exame criminológico obrigatório (Lei 14.843/2024) é novatio legis in pejus"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403387141
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, HC 950.729, rel. Min. Rogerio Schietti Cruz, j. 03/12/2024 — irretroatividade do art. 112 §1º LEP"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403763175
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no HC 1.095.179, rel. Min. Reynaldo Soares da Fonseca, j. 12/08/2026 — exame só com fundamentação concreta (Súmula 439)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601773281
+    consultado_em: 2026-11-01

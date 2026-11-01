@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 12, 13, 14, 25, 26, 27, 51, 88"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 80, 219, 335 a 343, 357, 373"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 7.565/1986 (CBA), arts. 251-A e 256"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549441
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.238.532 (engenharia social com credenciais legítimas: excludente do art. 14, § 3º)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503763310
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 479 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=479.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 385 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=385.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 359 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=359.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 404 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=404.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.777.211 (Súmula 385 flexibilizada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403920149
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.038.979 (atraso de voo: dano moral não presumido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503200875
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.195.198 (fraude sem peculiaridades; devolução simples)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500324997
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, EAREsp 1.501.756 (modulação da repetição em dobro)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201901346505
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 210 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4040813&numeroProcesso=636331&classeProcesso=RE&numeroTema=210
+    consultado_em: 2026-11-01

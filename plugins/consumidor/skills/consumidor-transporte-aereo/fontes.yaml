@@ -1,0 +1,41 @@
+itens:
+  - tipo: tema
+    referencia: "Tema 210 do STF (RE 636.331) — Montreal/Varsóvia prevalecem; não se aplica a danos extrapatrimoniais"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4040813&numeroProcesso=636331&classeProcesso=RE&numeroTema=210
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1240 do STF (RE 1.394.401) — convenções não se aplicam a danos extrapatrimoniais"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6450365&numeroProcesso=1394401&classeProcesso=RE&numeroTema=1240
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 7.565/1986 (Código Brasileiro de Aeronáutica), arts. 251-A, 256, 260, 317"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549441
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.034/2020 (altera o CBA: arts. 251-A e 256)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/32530099
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 5.910/2006 (promulga a Convenção de Montreal)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/409501
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, 7º, 14, 25"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.038.979 (atraso de voo: dano moral não presumido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503200875
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução ANAC 400/2016 e alteração aprovada em 22/09/2026 (número e vigência a confirmar)"
+    status: VERIFICAR
+    url: https://agenciagov.ebc.com.br/noticias/202609/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-e-amplia-deveres-de-informacao-aos-passageiros
+    consultado_em: 2026-11-01

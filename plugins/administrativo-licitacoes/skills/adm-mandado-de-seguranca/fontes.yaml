@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LXIX e LXX"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º a 25"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADI 4.296 (arts. 7º, § 2º, e 22, § 2º, da Lei 12.016/2009) — registro na ficha da norma no Senado; não localizada na base de jurisprudência"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 266 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2459
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 269 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2468
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 271 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2471
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 430 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2771
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 510 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2671
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 625 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2817
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 629 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2826
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 632 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2832
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 105 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=105.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 333 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=333.num.
+    consultado_em: 2026-11-01

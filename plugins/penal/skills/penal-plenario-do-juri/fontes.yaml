@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (XXXVIII, XL, LXV, LXVI, LXVIII), 102, 105 e 108"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.964/2019 (pacote anticrime: juiz das garantias, ANPP, art. 112 LEP, art. 316 p.ú. CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31865675
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 156 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2745
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 162 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2749
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 713 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2580
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 721 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1486
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 1068 (RE 1.235.340) — execução imediata da condenação pelo Júri"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5776893&numeroProcesso=1235340&classeProcesso=RE&numeroTema=1068
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 1087 (ARE 1.225.185) — apelação do MP contra absolvição por quesito genérico"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5745131&numeroProcesso=1225185&classeProcesso=ARE&numeroTema=1087
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF ADPF 779 (referida no art. 483 CPP compilado) — conteúdo não verificado na base"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01

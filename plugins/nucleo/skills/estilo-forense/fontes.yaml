@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 85, 192, 272, §5º, 319, 320, 322, 324 e 326"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 840, §§1º e 3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), art. 41"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 11.419/2006, arts. 10 e 11"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/572571
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução CNJ 185/2013 (PJe), arts. 13 e 14, compilada após a Resolução CNJ 656/2025"
+    status: LEI
+    url: https://atos.cnj.jus.br/files/compilado1333052025112469245e9143629.pdf
+    consultado_em: 2026-11-01

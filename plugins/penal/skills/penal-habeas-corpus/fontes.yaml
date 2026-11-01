@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (XXXVIII, XL, LXV, LXVI, LXVIII), 102, 105 e 108"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.836/2024 (art. 647-A CPP — HC de ofício)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/38309549
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.964/2019 (pacote anticrime: juiz das garantias, ANPP, art. 112 LEP, art. 316 p.ú. CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31865675
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 691 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1480
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 606 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2290
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 695 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2717
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 52 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=52.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 21 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=21.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no HC 1.067.403, rel. Min. Ribeiro Dantas, j. 15/06/2026 — HC substitutivo não conhecido, ordem concedida de ofício"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600115370
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, RHC 224.269, rel. Min. Sebastião Reis Júnior, j. 18/03/2026 — atraso na revisão do art. 316 p.ú. não gera ilegalidade automática"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503716683
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no RHC 236.988, rel. Min. Rogerio Schietti, j. 12/08/2026 — ausência de revisão nonagesimal: nulidade não automática"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601592641
+    consultado_em: 2026-11-01

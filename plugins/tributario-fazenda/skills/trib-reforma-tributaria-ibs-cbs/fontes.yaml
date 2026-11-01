@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "EC 132/2023 (CF arts. 156-A e 195 V; ADCT arts. 125 a 133)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37959796
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 214/2025 (IBS, CBS e IS), arts. 1, 2, 10-12, 26, 27, 31-33, 39, 47, 343-348, 353, 544"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/40180341
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 227/2026 (CGIBS, PAF do IBS, alterações na LC 214)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42042119
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 235/2026 (altera arts. 82 e 174 da LC 214 - conteúdo a conferir)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/43717839
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADIs 7.779 e 7.790 (STF, 03/08/2026) sobre arts. 149 e 150 da LC 214 - registradas no Senado, não conferidas na base de jurisprudência"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/40180341
+    consultado_em: 2026-11-01

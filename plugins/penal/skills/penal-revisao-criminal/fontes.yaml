@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 7.210/1984 (LEP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549086
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 393 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2741
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, REsp 2.244.764, rel. Min. Sebastião Reis Júnior, j. 02/09/2026 — revisão criminal (art. 621, I) não é nova apelação; mera revaloração da prova não configura contrariedade à evidência"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504416338
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, REsp 2.170.160, rel. Des. conv. Otávio de Almeida Toledo, j. 30/04/2025 — declaração por ata notarial não é prova nova sem justificação criminal prévia; condenação do júri só em elementos informativos (Tema 1260/STJ)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403433554
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, Terceira Seção, AgRg na RvCr 6.818, rel. Min. Ribeiro Dantas, j. 07/05/2026 — revaloração jurídica de fatos incontroversos cabe em revisão criminal"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601326765
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 1260 (referido no REsp 2.170.160) — condenação do júri fundada só em elementos informativos"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

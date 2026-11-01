@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.742/1993, arts. 20, 20-B e 21"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550618
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.176/2021 (renda igual ou inferior a 1/4; art. 20-B)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/34215147
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.077/2024 (art. 20, §§2º-A, 3º-A e 12-B da Lei 8.742)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/40019691
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.157/2025 (art. 21, §5º, da Lei 8.742)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41100951
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 203, V"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 27 (RE 567.985)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2569060&numeroProcesso=567985&classeProcesso=RE&numeroTema=27
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 312 (RE 580.963)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2602629&numeroProcesso=580963&classeProcesso=RE&numeroTema=312
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 173 (RE 587.970)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2621386&numeroProcesso=587970&classeProcesso=RE&numeroTema=173
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 185 (REsp 1.112.557/MG) — confirmado via REsp 1.944.353"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101812972
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Salário mínimo de 2026 (ato oficial)"
+    status: VERIFICAR
+    url: https://www.gov.br/previdencia
+    consultado_em: 2026-11-01

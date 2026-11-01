@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 77, 80, 81, 489, §1º, 926, 927 e 1.029, §1º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.484/2026 (CPC art. 927, III-A; relevância do REsp)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43627311
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.906/1994 (Estatuto da Advocacia), art. 34, XIV e XXIV"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550782
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 896, §8º (prova da divergência)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.905/2024 (exemplo de consulta à API do Senado)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/38672088
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, Tema 1368 (exemplo de citação no padrão)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500618396
+    consultado_em: 2026-11-01

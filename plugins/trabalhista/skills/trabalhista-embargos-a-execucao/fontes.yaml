@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 11-A, 775, 789-A, 879, 880, 882, 883, 884"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.494/1997, art. 1º-B"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551370
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 835"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 417 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=417&pesquisar=1
+    consultado_em: 2026-11-01

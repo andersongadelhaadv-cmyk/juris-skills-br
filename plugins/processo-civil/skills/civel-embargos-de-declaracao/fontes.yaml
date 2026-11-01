@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.099/1995 (Juizados Especiais), arts. 3º, 9º, 12-A, 30-31, 41-43, 48-50, 52-55"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550975
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 98 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=98.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 211 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=211.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 579 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=579.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 282 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2496
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 356 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2648
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.231.785, Segunda Turma, rel. Min. Teodoro Silva Santos, j. 09/09/2026 (art. 1.025 do CPC exige alegação de violação ao art. 1.022 no REsp)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601445299
+    consultado_em: 2026-11-01

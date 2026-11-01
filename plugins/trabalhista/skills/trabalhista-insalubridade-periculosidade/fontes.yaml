@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 189 a 196, 790-B, 840"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIII"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.684/2023 (art. 193, III, CLT - agentes de trânsito)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37640279
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.766/2023 (art. 193, §5º, CLT - tanques de combustível)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/38019910
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 39 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=39&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 47 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=47&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 191 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=191&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 289 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=289&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 364 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=364&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 448 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=448&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 453 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=453&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 4 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1195
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 228 do TST (base de cálculo do adicional de insalubridade) - consta da base, mas a eficácia é questionada após a SV 4; não citar sem conferir situação"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=228&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADI 5766 (STF) - gratuidade, honorários periciais e sucumbenciais; não localizada no JuriBase; a anotação consta do texto compilado da CLT (arts. 790-B e 791-A §4º)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01

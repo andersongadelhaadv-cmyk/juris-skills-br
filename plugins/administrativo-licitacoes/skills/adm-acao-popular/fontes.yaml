@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LXXIII"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 4.717/1965, arts. 1º, 2º, 4º a 7º, 11 a 13, 19 e 21"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/546570
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 836 do STF (ARE 824.781)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4602244&numeroProcesso=824781&classeProcesso=ARE&numeroTema=836
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 101 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1966
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 365 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2667
+    consultado_em: 2026-11-01

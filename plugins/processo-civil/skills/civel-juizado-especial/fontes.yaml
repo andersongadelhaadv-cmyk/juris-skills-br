@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.976/2024 (CPC art. 1.063 - competência dos juizados para as causas do art. 275, II, do CPC/1973)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39644648
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.099/1995 (Juizados Especiais), arts. 3º, 9º, 12-A, 30-31, 41-43, 48-50, 52-55"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550975
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001 (Juizados Especiais Federais), art. 3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.153/2009 (Juizados da Fazenda Pública), art. 2º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580845
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 203 do STJ (redação alterada em 23/05/2002)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=203.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 640 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2787
+    consultado_em: 2026-11-01

@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "EC 103/2019, arts. 3º, 15 a 20, 26 e 36"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 109, §3º, e 201, §7º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 25, 29-A, 48, 49 e 103"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001, arts. 3º e 9º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 183, 219, 292, 300 e 311"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 334 (RE 630.501)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3954926&numeroProcesso=630501&classeProcesso=RE&numeroTema=334
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 75 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=75
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Portaria interministerial MPS/MF 2026 (teto e salário mínimo)"
+    status: VERIFICAR
+    url: https://www.gov.br/previdencia
+    consultado_em: 2026-11-01

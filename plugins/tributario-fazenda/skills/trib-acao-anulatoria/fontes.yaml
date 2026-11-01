@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), arts. 3 e 38"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 106, 113-A, 142, 150, 151, 173, 204, 206, 208-B, 208-E, 208-H"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (alterações ao CTN; vigência a confirmar no texto oficial)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 183, 242, 300, 311, 319"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, prescrição quinquenal contra a Fazenda"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/439925
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 28 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1278
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 112 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=112.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 436 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 555 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=555.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Aplicação retroativa dos tetos de multa do art. 113-A do CTN a fatos anteriores à LC 236/2026"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01

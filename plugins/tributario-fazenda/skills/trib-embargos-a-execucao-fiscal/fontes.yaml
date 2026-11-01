@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), arts. 2, 3, 8, 9, 12, 15 a 20"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.689/2023 (incluiu o § 7º do art. 9º da LEF)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37641134
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 135, 150, 173, 174, 202 a 204"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (alterou arts. 174 e 202 do CTN)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 496 e 919"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 392 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=392.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 394 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=394.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 409 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=409.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 430 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=430.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 435 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=435.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 251 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=251.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1235 do STJ (REsp 2.066.882) - impenhorabilidade até 40 SM não reconhecível de ofício"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301319368
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Contagem do prazo de 30 dias dos embargos (art. 16 LEF) em dias úteis ou corridos"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01

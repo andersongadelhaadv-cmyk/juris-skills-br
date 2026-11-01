@@ -1,0 +1,76 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 12.016/2009 (Lei do Mandado de Segurança), arts. 1, 5, 6, 7, 10, 14, 19, 23 e 25"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 151, 170 e 170-A (redação após LC 236/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (alterou o art. 151 do CTN)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 213 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=213.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 460 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=460.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 461 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=461.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 212 do STJ (cancelada em 14/09/2022 - citada apenas como não vigente)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=212.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 105 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=105.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 266 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2459
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 269 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2468
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 271 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2471
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 512 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2685
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 632 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2832
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1262 do STF (RE 1.420.691) - restituição administrativa de indébito judicial"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6569023&numeroProcesso=1420691&classeProcesso=RE&numeroTema=1262
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Controle concentrado sobre o art. 7º, § 2º, da Lei 12.016/2009 (registrado na página da norma no Senado; ação não confirmada na base de jurisprudência)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01

@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.560/1992, arts. 2º e 2º-A"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550436
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.138/2021 (DNA em parentes — Lei 8.560 art. 2º-A §2º)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/33548270
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.596, 1.606, 1.609, 1.614 a 1.616 e 1.824"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 189 e 628"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 301 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=301.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 277 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=277.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 1 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=1.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 149 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1986
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 622 do STF (RE 898.060)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4803092&numeroProcesso=898060&classeProcesso=RE&numeroTema=622
+    consultado_em: 2026-11-01

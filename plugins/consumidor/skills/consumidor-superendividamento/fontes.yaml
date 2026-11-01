@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 4º, 6º, 54-A a 54-G, 104-A a 104-C"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.181/2021 (superendividamento)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/34251655
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 11.150/2022 (mínimo existencial), art. 3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/36127194
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 11.567/2023 (altera art. 3º do Decreto 11.150 — R$ 600,00)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37200544
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.188.689 (sanções do art. 104-A, § 2º)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404773255
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.231.246 (procedimento bifásico; plano viável em 5 anos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503283615
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF, ADPFs de 23/04/2026 sobre o art. 3º do Decreto 11.150 (números não localizados na base)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/36127194
+    consultado_em: 2026-11-01

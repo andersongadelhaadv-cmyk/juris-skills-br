@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 14.133/2021, arts. 5º, 9º, 18, 55, 164, 170, 183, 191 e 193"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/33382036
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.666/1993 (revogada; regime histórico)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550542
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 473 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602
+    consultado_em: 2026-11-01

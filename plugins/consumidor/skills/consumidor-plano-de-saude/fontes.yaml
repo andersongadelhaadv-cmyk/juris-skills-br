@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.656/1998, arts. 10 (§§ 4º, 12, 13), 12, 13, 35-C"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551532
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.454/2022 (rol da ANS; art. 10, §§ 12 e 13, da Lei 9.656)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/36359942
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, 47, 51"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 373"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 302 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=302.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 597 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=597.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 608 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=608.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 609 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=609.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.253.522 (transcreve as teses do STF na ADI 7.265 — requisitos cumulativos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600118993
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF, ADI 7.265 (interpretação conforme do art. 10, § 13, da Lei 9.656) — não localizada na base; registro no Senado"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/551532
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "Prazo prescricional da indenização contra operadora (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

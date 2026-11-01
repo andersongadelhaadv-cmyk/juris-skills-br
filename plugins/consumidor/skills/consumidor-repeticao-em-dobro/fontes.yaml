@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 39, 42"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, EAREsp 1.501.756 (Corte Especial; tese e modulação do art. 42, p.ú.)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201901346505
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 2.043.984 (telefonia: modulação inaplicável)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203923842
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.195.198 (indébito anterior: devolução simples)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500324997
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.194.853 e EDcl (afetação ao Tema 929 e suspensão nacional)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600755959
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 929 do STJ (número não localizado diretamente na base)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, EAREsp 600.663/RS e EREsp 1.413.542/RS (paradigmas; não localizados diretamente)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 29-A, 49, 74 e 124-A"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 48 e 49"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551660
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 334 (RE 630.501)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3954926&numeroProcesso=630501&classeProcesso=RE&numeroTema=334
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 75 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=75
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Portaria interministerial MPS/MF 2026 (teto e salário mínimo) — não aberta em fonte oficial"
+    status: VERIFICAR
+    url: https://www.gov.br/previdencia
+    consultado_em: 2026-11-01

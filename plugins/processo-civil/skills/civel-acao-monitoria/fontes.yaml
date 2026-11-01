@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 247 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=247.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 292 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=292.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 299 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=299.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 384 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=384.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 503 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=503.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 531 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=531.num.
+    consultado_em: 2026-11-01

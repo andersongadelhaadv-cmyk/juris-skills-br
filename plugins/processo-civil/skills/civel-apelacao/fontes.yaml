@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.939/2024 (CPC art. 1.003, §6º - comprovação de feriado local)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39385229
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 484 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=484.num.
+    consultado_em: 2026-11-01

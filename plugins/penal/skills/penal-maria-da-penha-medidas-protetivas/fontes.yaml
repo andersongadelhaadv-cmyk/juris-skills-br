@@ -1,0 +1,81 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 11.340/2006 (Maria da Penha), arts. 18 a 24-A"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/572125
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.550/2023 (art. 19 §§4º-6º LMP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/36981001
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.994/2024 (feminicídio autônomo, art. 121-A CP; pena do art. 24-A LMP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39748605
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.383/2026 (monitoração eletrônica como MPU, art. 22 VIII e §§6º-9º; art. 24-A §4º LMP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43036753
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.384/2026 (violência vicária, art. 7º VI LMP; vicaricídio no CP; hediondo)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43037009
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.412/2026 (art. 22 §§4º e 10 LMP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43306759
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.365/2022 (art. 798-A CPP — suspensão de prazos de 20/12 a 20/01)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35924693
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 1249 (REsp 2.071.109) — natureza e duração das medidas protetivas"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301571939
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 600 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=600.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 542 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=542.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 536 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=536.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 589 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=589.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 588 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=588.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no HC 868.057, rel. Des. conv. Jesuíno Rissato, j. 12/03/2024 — afastamento das MPUs exige oitiva prévia da vítima; HC não comporta reexame de prova"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304074761
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no RHC 209.701, rel. Des. conv. Carlos Cini Marchionatti, j. 28/05/2025 — prorrogação de MPUs sem oitiva do requerido não configurou ilegalidade no caso"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500031550
+    consultado_em: 2026-11-01

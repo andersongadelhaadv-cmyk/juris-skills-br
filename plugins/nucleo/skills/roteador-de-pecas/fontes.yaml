@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 3º e 8º (limite de 40 SM, exclusões e legitimidade no JEC)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550975
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001, art. 3º (JEF, 60 SM)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.153/2009, art. 2º (juizado da Fazenda, 60 SM)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580845
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 1.015, 1.021 e 1.042 (redação da Lei 15.484/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 581 e 593, §4º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.016/2009, art. 23"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01

@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 11, 26, 38-A, 38-B, 39, 48, 55 e 106"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 201, §7º, II"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 149 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=149.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 577 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=577.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 6 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=6
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 14 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=14
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 34 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=34
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 41 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=41
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, tese repetitiva sobre ausência de início de prova material (extinção sem mérito)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, tese repetitiva sobre aposentadoria híbrida com tempo rural remoto"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01

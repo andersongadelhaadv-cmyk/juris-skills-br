@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, I"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 19 a 22, 26, 86 e 129"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 103/2019, art. 26, §3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 15 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=15.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 501 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1604
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 44 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=44.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 507 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=507.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 416 — confirmado via AgInt no AREsp 2.517.544"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304282979
+    consultado_em: 2026-11-01

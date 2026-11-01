@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.694, 1.699, 1.708 e 1.709"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.478/1968, arts. 13 e 15"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547347
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 292 e 698"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 358 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=358.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 621 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=621.num.
+    consultado_em: 2026-11-01

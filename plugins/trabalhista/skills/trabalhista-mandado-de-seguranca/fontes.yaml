@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, 5º e 23"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 678, 775, 895"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 33 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=33&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 201 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=201&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 414 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=414&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 416 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=416&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 417 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=417&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 418 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=418&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 425 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=425&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, SBDI-2, ROT-1002492-05.2019.5.02.0000 (julg. 05/05/2026) - MS incabível quando há recurso próprio; aplica orientação da SBDI-2"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/89ac3cdb6a6bd75f7c3b7aa61a7536b4
+    consultado_em: 2026-11-01
+  - tipo: oj
+    referencia: "Orientação jurisprudencial da SBDI-2 sobre MS contra decisão recorrível (citada como OJ 92 no acórdão ROT-1002492-05.2019.5.02.0000) - número e redação não confirmados diretamente no JuriBase"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/89ac3cdb6a6bd75f7c3b7aa61a7536b4
+    consultado_em: 2026-11-01

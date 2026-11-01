@@ -1,0 +1,16 @@
+{
+  "name": "previdenciario",
+  "version": "0.1.0",
+  "description": "RGPS e RPPS: requerimento e recurso administrativo, aposentadorias da EC 103, incapacidade, BPC/LOAS, pensão, revisão, TNU.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "peticao"
+  ]
+}

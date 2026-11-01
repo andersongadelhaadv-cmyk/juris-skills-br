@@ -1,0 +1,96 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 85, 183, 534, 535 e 910"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 136/2025 (CF art. 100; ADCT art. 97 §§16 e 16-A; nova redação do art. 3º da EC 113/2021)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41412162
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 113/2021 (art. 3º e CF art. 100 §§9, 11, 14, 21, 22)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35268195
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 114/2021 (precatórios; ADCT art. 107-A)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35289134
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001, art. 17"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.153/2009, art. 13"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580845
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 17 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1241
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 47 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=2504
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 150 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2127
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 279 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=279.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 311 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=311.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 345 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=345.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 461 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=461.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 625 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=625.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 28 do STF (RE 1.205.530)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5684509&numeroProcesso=1205530&classeProcesso=RE&numeroTema=28
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 96 do STF (RE 579.431)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2598262&numeroProcesso=579431&classeProcesso=RE&numeroTema=96
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1262 do STF (RE 1.420.691)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6569023&numeroProcesso=1420691&classeProcesso=RE&numeroTema=1262
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1419 do STF (ARE 1.557.312)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=7292835&numeroProcesso=1557312&classeProcesso=ARE&numeroTema=1419
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Atualização antes da expedição do requisitório após EC 136/2025 e efeitos de ADIs sobre CF art. 100 §§9 e 11"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/41412162
+    consultado_em: 2026-11-01

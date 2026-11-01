@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 15, 25, 26, 27-A, 42 a 47, 59 a 62, 101 e 151"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.157/2025 (dispensa de reavaliação; infectologista)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41100951
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.265/2025 (art. 60, §§11-A e 11-F a 11-I da Lei 8.213)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41715423
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 103/2019, art. 26"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 47 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=47
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 53 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=53
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 72 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=72
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 576 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=576.num.
+    consultado_em: 2026-11-01

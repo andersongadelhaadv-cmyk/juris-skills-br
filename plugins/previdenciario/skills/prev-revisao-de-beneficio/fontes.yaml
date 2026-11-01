@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 29, 29-A e 103"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 334 (RE 630.501)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3954926&numeroProcesso=630501&classeProcesso=RE&numeroTema=334
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 1102 (RE 1.276.977) — revisão da vida toda superada (ADIs 2110/2111)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5945131&numeroProcesso=1276977&classeProcesso=RE&numeroTema=1102
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADIs 2110 e 2111 (STF) — não indexadas diretamente na base"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADI 6096 (STF) — alcance sobre o art. 103 da Lei 8.213"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 85 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=85.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 81 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=81
+    consultado_em: 2026-11-01

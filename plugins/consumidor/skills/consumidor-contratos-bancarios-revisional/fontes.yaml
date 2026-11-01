@@ -1,0 +1,86 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 3º, 6º, 39, 51, 52, 54-B"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549954
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 330, 396 a 404, 1.037"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), art. 205"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 297 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=297.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 381 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=381.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 382 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=382.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 530 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=530.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 539 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=539.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 541 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=541.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 472 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=472.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 565 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=565.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 566 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=566.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1378 do STJ (afetação; taxa média do Bacen como critério exclusivo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501629070
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.009.614 (requisitos para revisão de juros remuneratórios)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201885364
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.230.380 (prescrição decenal da revisional; sobrestamento Tema 1378)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503198173
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Orientação repetitiva de 2008 sobre juros remuneratórios (número do tema não confirmado na base; tese citada genericamente)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Repetitivos sobre tarifas bancárias (números não confirmados na base; usadas as Súmulas 565 e 566)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-01

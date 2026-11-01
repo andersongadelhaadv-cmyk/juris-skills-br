@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 477, 507-B, 652, 832, 855-B a 855-E"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 100 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=100&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 418 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=418&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, 2ª Turma, Ag-RR-1000860-73.2025.5.02.0083 (julg. 05/05/2026) - homologação de acordo extrajudicial com quitação ampla"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/b7e99055de6dec678bc14261e7bc10c0
+    consultado_em: 2026-11-01

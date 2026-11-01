@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.641, 1.723 a 1.727, 1.790 e 1.829"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 628, 693 e 733"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 809 do STF (RE 878.694)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4744004&numeroProcesso=878694&classeProcesso=RE&numeroTema=809
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 498 do STF (RE 646.721)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4100069&numeroProcesso=646721&classeProcesso=RE&numeroTema=498
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 529 do STF (RE 1.045.273)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5181220&numeroProcesso=1045273&classeProcesso=RE&numeroTema=529
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1236 do STF (ARE 1.309.642)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6096433&numeroProcesso=1309642&classeProcesso=ARE&numeroTema=1236
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 655 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=655.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 149 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1986
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF — reconhecimento da união homoafetiva em controle concentrado (número a confirmar)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ — prazo e termo inicial da petição de herança"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Res. CNJ 35/2007, art. 46-A (incluído pela Res. CNJ 571/2024)"
+    status: CONFIRMADO
+    url: https://atos.cnj.jus.br/files/original2309432024083066d251371bc21.pdf
+    consultado_em: 2026-11-01

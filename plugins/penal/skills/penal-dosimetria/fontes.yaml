@@ -1,0 +1,86 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/527942
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.994/2024 (feminicídio autônomo, art. 121-A CP; pena do art. 24-A LMP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39748605
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.160/2025 (arts. 65 I e 115 CP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41109625
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.072/1990 (crimes hediondos)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549948
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 231 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=231.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 241 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=241.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 269 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=269.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 440 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=440.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 443 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=443.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 444 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=444.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 545 do STJ (redação revisada pela Terceira Seção em 10/09/2025, Tema 1194)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=545.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 588 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=588.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 718 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2545
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 719 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2556
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 972 (ARE 1.052.700) — inconstitucionalidade do regime inicial fechado obrigatório (Lei 8.072, art. 2º §1º)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5201890&numeroProcesso=1052700&classeProcesso=ARE&numeroTema=972
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF HC 111.840 (citado como referência da tese do regime inicial) — não localizado na base; tese mantida pelo Tema 972"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01

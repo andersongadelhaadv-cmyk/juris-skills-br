@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.964/2019 (pacote anticrime: juiz das garantias, ANPP, art. 112 LEP, art. 316 p.ú. CPP)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31865675
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.358/2026 (marco do crime organizado; art. 112 V-VIII LEP; arts. 3º-B §1º, 310, 313 V e 584 §4º CPP; vigência na publicação, DOU 25/03/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42931693
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 707 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2641
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 710 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2634
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 604 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=604.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 191 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=191.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 1258 (REsp 1.953.602) — reconhecimento de pessoas, art. 226 CPP"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102575876
+    consultado_em: 2026-11-01

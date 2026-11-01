@@ -1,0 +1,16 @@
+{
+  "name": "trabalhista",
+  "version": "0.1.0",
+  "description": "Peças trabalhistas: reclamação, contestação, recursos (RO, RR, agravos), execução, cálculos e temas recorrentes.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "peticao"
+  ]
+}

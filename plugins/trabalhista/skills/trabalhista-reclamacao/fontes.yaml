@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 11, 651, 775, 790, 791-A, 818, 840, 852-A a 852-I"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.584/1970, art. 2º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547454
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.467/2017 (Reforma Trabalhista)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/17728053
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 400 (aplicação subsidiária, CLT art. 769)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 463 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=463&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 268 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=268&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 308 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=308&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 338 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=338&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADI 5766 (STF) - gratuidade, honorários periciais e sucumbenciais; não localizada no JuriBase; a anotação consta do texto compilado da CLT (arts. 790-B e 791-A §4º)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, 5ª Turma, RRAg-11119-29.2019.5.18.0013 (julg. 07/05/2026) - valores da inicial e art. 840 §1º; menciona Tema 35 IRR afetado ao Pleno"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/13e254c8ee7baf95955298b0f7f33d7c
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 35 da tabela de IRR do TST (limitação da condenação aos valores da inicial) - tese não localizada no JuriBase"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/13e254c8ee7baf95955298b0f7f33d7c
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, 8ª Turma, RRAg-1000850-27.2019.5.02.0087 (julg. 20/05/2026) - honorários de beneficiário da gratuidade após ADI 5766; menciona Tema 21 IRR (declaração de hipossuficiência)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b64b93e19f1854a8a6fa3cf8b8bfd10
+    consultado_em: 2026-11-01

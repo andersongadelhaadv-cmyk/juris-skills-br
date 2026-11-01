@@ -1,0 +1,201 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 14.905/2024 (altera CC arts. 389, 395, 404, 406, 591); efeitos em 30/08/2024, §2º do art. 406 em 01/07/2024"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/38672088
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 389, 395, 397, 398, 404, 405, 406, 591, 1.710"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução CMN 5.171/2024 (metodologia da taxa legal do art. 406 do CC)"
+    status: LEI
+    url: https://www.bcb.gov.br/content/estabilidadefinanceira/especialnor/Resolução5171.pdf
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 113/2021, art. 3º (redação original; vigência na publicação, DOU 09/12/2021)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35268195/publicacao/35270106
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 136/2025, art. 3º (nova redação do art. 3º da EC 113) e ADCT art. 97, §§16 e 16-A; vigência na publicação"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41412162/publicacao/41413570
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.250/1995, art. 39, §4º (SELIC na restituição e compensação federais)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551126/publicacao/34619642
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.177/1991, art. 39, caput e §1º (juros de débitos trabalhistas)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550053/publicacao/34619947
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.494/1997, art. 1º-F (redação da Lei 11.960/2009)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551370
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.213/1991, art. 41-A (INPC)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 161 e 167"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (inclui o art. 165-A no CTN: indébito pelos índices do crédito tributário do ente); vigência a conferir"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 879, §7º, 883 e 899, §4º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 322, §1º, 524, 525, §4º, 535, §2º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, Tema 1368 (REsp 2.199.164, Corte Especial, j. 15/10/2025) – SELIC no art. 406 antes da Lei 14.905"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500618396
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, Corte Especial, REsp 1.795.982, j. 21/08/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201900326580
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 362 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=362.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 54 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=54.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 43 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=43.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 4ª Turma, REsp 2.149.677, j. 15/06/2026 (juros desde a citação na responsabilidade contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402097269
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 4ª Turma, REsp 2.252.259, j. 30/06/2026 (IPCA + SELIC com abatimento do IPCA)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202505069198
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 439 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=439&pesquisar=1
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1191 (RE 1.269.353) – reafirma ADC 58/59 e modulação"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5918060&numeroProcesso=1269353&classeProcesso=RE&numeroTema=1191
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF, ADC 58 (citada pelo número; não localizada diretamente na base – usar Tema 1191)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, SDI-1, E-ED-RR-713-03.2010.5.04.0029 (não localizado diretamente; tese transcrita no Ag-AIRR 0160100-79.2008.5.15.0009)"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, 5ª Turma, Ag-AIRR 0160100-79.2008.5.15.0009 (transcreve a tese da SDI-1 pós-Lei 14.905)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/55a36e4dd48695efaa5b4f28faf0757f
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1361 (RE 1.505.031) – lei ou entendimento superveniente sobre índices"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6984316&numeroProcesso=1505031&classeProcesso=RE&numeroTema=1361
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 810 (RE 870.947)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4723934&numeroProcesso=870947&classeProcesso=RE&numeroTema=810
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, Tema 905 (não localizado diretamente; conteúdo aplicado no AgInt no REsp 1.992.472)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 1ª Turma, AgInt no REsp 1.992.472, j. 22/08/2022 (INPC no previdenciário, Tema 905 item 3.2)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200801748
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1170 (RE 1.317.982)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6137386&numeroProcesso=1317982&classeProcesso=RE&numeroTema=1170
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1419 (ARE 1.557.312) – SELIC da EC 113 em qualquer condenação da Fazenda"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=7292835&numeroProcesso=1557312&classeProcesso=ARE&numeroTema=1419
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1335 (RE 1.515.163) – período de graça sem SELIC"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=7035265&numeroProcesso=1515163&classeProcesso=RE&numeroTema=1335
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 2ª Turma, REsp 2.170.124, j. 08/09/2026 (Fazenda: Tema 905 após a EC 136 até a expedição) – orientação de Turma, consolidação a verificar"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403469769
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 162 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=162.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 188 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=188.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 523 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=523.num.
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1062 (ARE 1.216.078)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5714607&numeroProcesso=1216078&classeProcesso=ARE&numeroTema=1062
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF, Tema 1217 (RE 1.346.152)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6255513&numeroProcesso=1346152&classeProcesso=RE&numeroTema=1217
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 204 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=204.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 3ª Turma, REsp 2.192.918, j. 22/04/2026 (SELIC em cumprimento de alimentos sem índice)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500195250
+    consultado_em: 2026-11-01

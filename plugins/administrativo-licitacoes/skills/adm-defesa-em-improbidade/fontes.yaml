@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.429/1992, arts. 1º, 3º, 9º a 12, 16, 17, 17-B, 17-C, 21 e 23"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550305
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.230/2021 (altera a Lei 8.429/1992)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35083056
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 219 e 231"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1199 do STF (ARE 843.989)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4652910&numeroProcesso=843989&classeProcesso=ARE&numeroTema=1199
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 897 do STF (RE 852.475)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4670950&numeroProcesso=852475&classeProcesso=RE&numeroTema=897
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 634 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=634.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADIs 7.042 e 7.043 do STF (art. 17 e 17-B da Lei 8.429/1992) — registro na ficha da norma no Senado; não localizadas na base de jurisprudência"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/550305
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "ADIs 7.156 e 7.236 do STF (art. 23, § 5º, e demais dispositivos anotados) — registro na ficha da norma no Senado; ADI 7.236 não localizada na base de jurisprudência"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/550305
+    consultado_em: 2026-11-01

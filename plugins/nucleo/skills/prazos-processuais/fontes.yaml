@@ -1,0 +1,106 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 178, 180, 183, 186, 213, 216, 219 a 231, 335, 350, 351, 523, 525, 535, 903, 910, 915, 975, 1.003, 1.007, 1.009, 1.010, 1.015, 1.021, 1.023, 1.024, 1.026, 1.028, 1.030, 1.042, 1.070"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.939/2024 (CPC art. 1.003, §6º, comprovação de feriado local)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39385229
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 11.419/2006, arts. 4º, 5º e 10 (DJe, portal, peticionamento)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/572571
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 775, 775-A, 841, 847, 879, 884, 894 a 897-A, 900"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.467/2017 (CLT art. 775 em dias úteis)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/17728053
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.584/1970, art. 6º (8 dias para recursos trabalhistas)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547454
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 779/1969, art. 1º, II e III (entes públicos na Justiça do Trabalho)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/524184/publicacao/15775552
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 382, 396, 403, 404, 406, 586, 588, 593, 600, 609, 619, 622, 647, 648, 798, 798-A"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.365/2022 (CPP art. 798-A, suspensão de 20/12 a 20/01)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/35924693
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 12-A, 42, 49, 50, 82, 83"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550975
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001, arts. 1º e 9º (JEF)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.153/2009, arts. 7º e 27 (juizados da Fazenda)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580845
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.494/1997, art. 1º-B (30 dias para embargos da Fazenda)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551370
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), arts. 16 e 17"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 7º, 14 e 23"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580239
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 7.210/1984 (LEP), art. 197"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549086
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 8.038/1990, arts. 30 e 39"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/549914
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no AREsp 2.552.378, j. 13/08/2024 (dias corridos em matéria penal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400198452
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 700 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3633
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 710 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2634
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 310 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2600
+    consultado_em: 2026-11-01

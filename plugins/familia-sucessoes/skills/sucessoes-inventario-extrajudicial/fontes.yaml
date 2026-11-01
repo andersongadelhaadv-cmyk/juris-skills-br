@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 610 e 611"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 11.441/2007 (inventário e divórcio extrajudiciais)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/572593
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.829, 2.002, 2.004 e 2.015"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Res. CNJ 35/2007 com redação da Res. CNJ 571/2024 (arts. 1º, 3º, 11-A, 12-A, 12-B, 18, 19, 26 e 32)"
+    status: CONFIRMADO
+    url: https://atos.cnj.jus.br/files/original2309432024083066d251371bc21.pdf
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Res. CNJ 695/2026 (art. 15 da Res. 35/2007 — dispensa de prévio recolhimento do ITCMD)"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/atos/detalhar/7010
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 112 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2043
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 542 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3345
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 1.951.456, 3ª Turma, j. 23/08/2022 (inventário extrajudicial com testamento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102372993
+    consultado_em: 2026-11-01

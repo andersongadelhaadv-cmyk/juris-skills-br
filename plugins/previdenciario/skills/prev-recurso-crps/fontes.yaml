@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 60, §11, e 126"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550089
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 56 e 59"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551660
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 3.048/1999, art. 305 (prazo de 30 dias) — redação atual não conferida"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/399211
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Regimento interno do CRPS (hipóteses de recurso especial)"
+    status: VERIFICAR
+    url: https://www.gov.br/previdencia
+    consultado_em: 2026-11-01

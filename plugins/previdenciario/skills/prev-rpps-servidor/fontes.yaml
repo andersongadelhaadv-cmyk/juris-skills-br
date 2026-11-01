@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "EC 103/2019, arts. 3º, 4º, 8º, 10, 20, 26 e 36"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 40 (§§1º, 4º a 4º-C, 5º-A, 19)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "EC 140/2026 (arts. 40 e 201 da CF; agentes comunitários de saúde)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/44187742
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001, art. 3º, §1º, III"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STF Tema 942 (RE 1.014.286)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5101075&numeroProcesso=1014286&classeProcesso=RE&numeroTema=942
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula Vinculante 33"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1941
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 85 do STJ (prescrição contra a Fazenda)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=85.num.
+    consultado_em: 2026-11-01

@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP) — texto compilado conferido no corpus local (gerado em 18/10/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/528776
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/527942
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 231 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=231.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 444 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=444.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 440 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=440.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 545 do STJ (redação revisada pela Terceira Seção em 10/09/2025, Tema 1194)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=545.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 718 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2545
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 719 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2556
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 523 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2729
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 710 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2634
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ Tema 1258 (REsp 1.953.602) — reconhecimento de pessoas, art. 226 CPP"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102575876
+    consultado_em: 2026-11-01

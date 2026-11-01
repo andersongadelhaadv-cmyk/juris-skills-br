@@ -1,0 +1,16 @@
+{
+  "name": "administrativo-licitacoes",
+  "version": "0.1.0",
+  "description": "Administrativo e licitações (Lei 14.133): mandado de segurança, impugnação e recurso, sanções, reequilíbrio, improbidade, PAD, concurso, responsabilidade do Estado.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "peticao"
+  ]
+}

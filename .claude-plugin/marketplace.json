@@ -1,0 +1,55 @@
+{
+  "name": "juris-skills-br",
+  "description": "Skills jurídicas brasileiras para Claude: peças e fundamentos verificados, por área do direito.",
+  "owner": {
+    "name": "Anderson Gadelha",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "plugins": [
+    {
+      "name": "nucleo",
+      "source": "./plugins/nucleo",
+      "description": "Camada comum: juros e correção, prazos processuais, verificação de citações, fidelidade factual, estilo forense e roteador de peças."
+    },
+    {
+      "name": "processo-civil",
+      "source": "./plugins/processo-civil",
+      "description": "Peças do processo civil: inicial, contestação, réplica, reconvenção, tutelas, recursos (inclusive REsp com relevância), execução e juizado especial."
+    },
+    {
+      "name": "trabalhista",
+      "source": "./plugins/trabalhista",
+      "description": "Peças trabalhistas: reclamação, contestação, recursos (RO, RR, agravos), execução, cálculos e temas recorrentes."
+    },
+    {
+      "name": "previdenciario",
+      "source": "./plugins/previdenciario",
+      "description": "RGPS e RPPS: requerimento e recurso administrativo, aposentadorias da EC 103, incapacidade, BPC/LOAS, pensão, revisão, TNU."
+    },
+    {
+      "name": "penal",
+      "source": "./plugins/penal",
+      "description": "Defesa penal: resposta à acusação, habeas corpus, prisão e cautelares, recursos, execução penal, ANPP, júri, Maria da Penha, dosimetria."
+    },
+    {
+      "name": "tributario-fazenda",
+      "source": "./plugins/tributario-fazenda",
+      "description": "Tributário e Fazenda Pública: mandado de segurança, anulatória, repetição de indébito, execução fiscal, CARF, reforma tributária, cumprimento contra a Fazenda."
+    },
+    {
+      "name": "familia-sucessoes",
+      "source": "./plugins/familia-sucessoes",
+      "description": "Família e sucessões: alimentos, execução de alimentos, divórcio, guarda, união estável, paternidade, inventário, testamento e planejamento."
+    },
+    {
+      "name": "consumidor",
+      "source": "./plugins/consumidor",
+      "description": "Consumidor: indenizatória, vício, negativação, plano de saúde, revisional bancária, superendividamento, transporte aéreo e defesa do fornecedor."
+    },
+    {
+      "name": "administrativo-licitacoes",
+      "source": "./plugins/administrativo-licitacoes",
+      "description": "Administrativo e licitações (Lei 14.133): mandado de segurança, impugnação e recurso, sanções, reequilíbrio, improbidade, PAD, concurso, responsabilidade do Estado."
+    }
+  ]
+}

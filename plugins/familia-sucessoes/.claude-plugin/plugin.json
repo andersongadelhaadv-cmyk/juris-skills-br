@@ -1,0 +1,16 @@
+{
+  "name": "familia-sucessoes",
+  "version": "0.1.0",
+  "description": "Família e sucessões: alimentos, execução de alimentos, divórcio, guarda, união estável, paternidade, inventário, testamento e planejamento.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "peticao"
+  ]
+}

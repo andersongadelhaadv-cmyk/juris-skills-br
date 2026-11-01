@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Emenda Constitucional 66/2010 (CF art. 226 §6º)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/540669
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.571, 1.581, 1.639, 1.641 e 1.658 a 1.660"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 189, 693 a 699-A e 731 a 733"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 14.713/2023 (CPC art. 699-A; CC art. 1.584 §2º)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37757044
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Res. CNJ 35/2007 alterada pela Res. CNJ 571/2024 (arts. 34 §2º e 46-A)"
+    status: CONFIRMADO
+    url: https://atos.cnj.jus.br/files/original2309432024083066d251371bc21.pdf
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Res. CNJ 695/2026 (nova redação do art. 15 da Res. 35/2007 — ITCMD)"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/atos/detalhar/7010
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1053 do STF (RE 1.167.478)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5562994&numeroProcesso=1167478&classeProcesso=RE&numeroTema=1053
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1236 do STF (ARE 1.309.642)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6096433&numeroProcesso=1309642&classeProcesso=ARE&numeroTema=1236
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 197 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=197.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 377 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=4022
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 655 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=655.num.
+    consultado_em: 2026-11-01

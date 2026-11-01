@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 14.133/2021, arts. 5º, 17, 59, 64, 71, 137, 165 a 168 e 183"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/33382036
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 56 e 64"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551660
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 473 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602
+    consultado_em: 2026-11-01

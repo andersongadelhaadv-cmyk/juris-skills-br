@@ -1,0 +1,76 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), arts. 2 §3º, 8 §2º e 40"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548706
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 150, 156, 173 e 174"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/547034
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "LC 236/2026 (arts. 150 §§5º-6º e 174 do CTN)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43756276
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 487 e 921"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 314 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=314.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 106 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=106.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 409 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=409.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 436 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 555 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=555.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 622 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=622.num.
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "AgInt no AREsp 3.049.264 (STJ, 1ª Turma, julg. 01/06/2026)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503561132
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Repetitivo paradigma do STJ sobre art. 40 LEF (número do tema e do REsp não confirmados na base)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503561132
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1229 do STJ (REsp 2.076.321)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301424335
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 1184 do STF (RE 1.355.208)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6291425&numeroProcesso=1355208&classeProcesso=RE&numeroTema=1184
+    consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Resolução CNJ 547/2024 (texto compilado; alterada pelas Res. 617/2025 e 689/2026)"
+    status: CONFIRMADO
+    url: https://atos.cnj.jus.br/files/compilado212506202607206a5e92325a6f2.pdf
+    consultado_em: 2026-11-01

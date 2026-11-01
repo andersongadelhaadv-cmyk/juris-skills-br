@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC) - norma consultada no Senado; alterações 2024-2026: Leis 14.833/2024, 14.879/2024, 14.939/2024, 14.976/2024, 15.109/2025, 15.484/2026"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.259/2001 (Juizados Especiais Federais), art. 3º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552135
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 12.153/2009 (Juizados da Fazenda Pública), art. 2º"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/580845
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 988 do STJ (taxatividade mitigada do rol do CPC art. 1.015) - número não confirmado diretamente pela base; tese reproduzida em acórdão confirmado (REsp 2.129.011)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.129.011, Segunda Turma, rel. Min. Teodoro Silva Santos, j. 13/05/2026 (reproduz a tese da taxatividade mitigada; agravo contra decisão sobre competência)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400805356
+    consultado_em: 2026-11-01

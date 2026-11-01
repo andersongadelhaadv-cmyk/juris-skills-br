@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 48, 515 e 610 a 673"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.784, 1.829 a 1.847, 2.002 a 2.017 e 2.027"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Constituição Federal, art. 155 §1º (redação da EC 132/2023)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Emenda Constitucional 132/2023 (ITCMD progressivo; competência sobre móveis)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37959796
+    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei Complementar 227/2026 (normas gerais do ITCMD) — artigos específicos a conferir"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/42042119
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 112 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2043
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 542 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3345
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 809 do STF (RE 878.694)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4744004&numeroProcesso=878694&classeProcesso=RE&numeroTema=809
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 825 do STF (RE 851.108)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4667945&numeroProcesso=851108&classeProcesso=RE&numeroTema=825
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 2.057.707, 4ª Turma, j. 20/02/2024 (valor dos bens na colação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202869684
+    consultado_em: 2026-11-01
