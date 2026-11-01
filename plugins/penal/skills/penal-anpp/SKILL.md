@@ -41,7 +41,7 @@ Resumo (detalhe em [estrutura](references/estrutura.md)): requerimento ao MP (ou
 - Condições (cumulativas e alternativas): reparar o dano; renunciar a bens instrumento ou produto; prestação de serviços pelo período da pena mínima reduzida de 1/3 a 2/3; prestação pecuniária; outra condição proporcional (28-A, I a V).
 - Homologação em audiência com oitiva do investigado e defensor (§4º); juiz pode devolver para reformular (§5º) ou recusar (§7º).
 - Cumprido o acordo, extinção da punibilidade (§13); não consta de certidão de antecedentes, salvo para a vedação dos 5 anos (§12).
-- O juiz das garantias homologa ANPP celebrado na investigação (CPP 3-B, XVII), onde implantado [VERIFICAR: estado da implantação e da decisão do STF nas ADIs 6.298 e outras, ver `penal-liberdade-provisoria-e-relaxamento`].
+- O juiz das garantias homologa ANPP celebrado na investigação (CPP 3-B, XVII), onde implantado. Estado da implantação e teor da decisão do STF nas ADIs 6.298, 6.299, 6.300 e 6.305 não conferidos em fonte oficial [VERIFICAR] (ver `penal-liberdade-provisoria-e-relaxamento`).
 
 ## Fundamentos verificados
 Resumo (detalhe em [fundamentos](references/fundamentos.md)): CPP 28, 28-A, 581 XXV; CF 5º XL; Lei 9.099/1995 (transação e suspensão); STJ sobre aplicação do ANPP a processos em curso.

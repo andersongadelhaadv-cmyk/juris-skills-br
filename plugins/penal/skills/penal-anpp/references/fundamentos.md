@@ -19,7 +19,7 @@ CPP compilado; Lei 13.964/2019 registrada no Senado (norma 31865675). Precedente
 - STJ, 5ª Turma, AgRg no AREsp 2.295.371, rel. Min. Daniela Teixeira, j. 04/11/2024 — adequação ao novo entendimento do STF; ANPP pode ser aplicado retroativamente mesmo quando a denúncia já foi recebida.
 - STJ, 5ª Turma, AgRg no HC 817.613, rel. Min. Daniela Teixeira, j. 26/02/2025 — mesma linha; ordem concedida de ofício.
 - STJ, 6ª Turma, AgRg nos EDcl no AREsp 3.111.863, rel. Min. Rogerio Schietti Cruz, j. 09/06/2026 — compatibilidade do ANPP com processos em curso, sem direito subjetivo do réu; avaliação do MP deve ser motivada e sujeita a controle; pedido antes do trânsito e na primeira oportunidade após a tese do STF.
-- Tese do Plenário do STF referida nesses acórdãos (julgamento de 18/09/2024): admite o ANPP em processos em andamento na vigência da Lei 13.964/2019, ainda que sem confissão anterior. [VERIFICAR: o julgado do STF não está na base consultada; confirmar número, redação literal da tese e eventuais embargos no portal do STF antes de citá-lo diretamente.]
+- Tese do Plenário do STF referida nesses acórdãos (julgamento de 18/09/2024): admite o ANPP em processos em andamento na vigência da Lei 13.964/2019, ainda que sem confissão anterior. Número do julgado do STF, redação literal da tese e eventuais embargos não conferidos em fonte oficial [VERIFICAR]; confira no portal do STF antes de citá-lo diretamente e, enquanto isso, cite os acórdãos do STJ acima.
 Como usar: citar os acórdãos do STJ acima (confirmados) e, para o STF, apenas após a verificação indicada.
 
 ## Lei 9.099/1995

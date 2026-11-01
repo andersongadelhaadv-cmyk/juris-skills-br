@@ -21,7 +21,7 @@ Um tópico por fundamento, sempre ligado ao art. 648:
 - III — incompetência da autoridade.
 - IV — cessação do motivo: fatos novos que desfazem o risco; tempo de prisão desproporcional à pena provável.
 - V — fiança negada quando cabível.
-- VI — nulidade manifesta: falta de fundamentação concreta (CPP 312 §2º, 315 §§1º e 2º); prisão de ofício; audiência de custódia não realizada (CPP 310 §4º).
+- VI — nulidade manifesta: falta de fundamentação concreta (CPP 312 §2º, 315 §§1º e 2º); prisão de ofício; audiência de custódia não realizada (CPP 310 §4º — ver ressalva em [fundamentos](fundamentos.md): o STJ não reconhece nulidade automática, e a eficácia do §4º foi objeto das ADIs 6.298, 6.299, 6.300 e 6.305).
 - VII — extinção da punibilidade.
 Para preventiva: confrontar a decisão com os requisitos (prova da existência do crime, indícios de autoria, perigo da liberdade) e com as hipóteses do art. 313; demonstrar a suficiência das cautelares do art. 319 (CPP 282 §6º).
 

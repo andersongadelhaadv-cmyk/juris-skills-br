@@ -36,6 +36,8 @@ Resumo (detalhe em [estrutura](references/estrutura.md)): endereçamento ao trib
 
 ## Requisitos e preliminares
 - Competência pela autoridade coatora: delegado ou juiz de 1º grau na fase de inquérito com juiz das garantias implantado (CPP 3-B, XII) — juiz; juiz de 1º grau — TJ ou TRF (CF 108, I, d, no federal); TJ/TRF — STJ (CF 105, I, c); Tribunal Superior — STF (CF 102, I, i).
+- Ato de turma recursal do juizado especial criminal: o STJ não conhece do HC (turma recursal não é tribunal para o art. 105 da CF) e remete os autos ao Tribunal de Justiça; impetrar no TJ (ou TRF). A Súmula 690 do STF indica outra competência; situação dela não conferida em fonte oficial [VERIFICAR] (ver Fundamentos).
+- Audiência de custódia (CPP 310 §4º): o STJ não reconhece nulidade automática pelo atraso, e o §4º foi impugnado nas ADIs 6.298, 6.299, 6.300 e 6.305, com teor do julgamento não conferido em fonte oficial [VERIFICAR]. Use como reforço, não como tese única.
 - Súmula 691 do STF: não cabe HC ao STF contra decisão de relator que indefere liminar em HC no tribunal superior (superável só em ilegalidade flagrante — fundamente a exceção). A mesma lógica é aplicada pelos tribunais em geral; evite pular instâncias.
 - Súmula 606 do STF: não cabe HC originário ao Pleno contra decisão de Turma ou do Plenário em HC.
 - Prova pré-constituída: juntar a decisão atacada e os documentos que demonstram a ilegalidade.
@@ -43,7 +45,7 @@ Resumo (detalhe em [estrutura](references/estrutura.md)): endereçamento ao trib
 - Juízes e tribunais podem conceder a ordem de ofício (CPP 654 §2º; CPP 647-A, incluído pela Lei 14.836/2024, inclusive em HC coletivo e quando não conhecido o recurso).
 
 ## Fundamentos verificados
-Resumo (detalhe em [fundamentos](references/fundamentos.md)): CF 5º LXV, LXVI, LXVIII; CF 102, 105, 108; CPP 647, 647-A, 648, 654, 660; CPP 312 a 316; Súmulas 691, 606, 695 do STF; Súmulas 21 e 52 do STJ (excesso de prazo superado); STJ sobre HC substitutivo e concessão de ofício.
+Resumo (detalhe em [fundamentos](references/fundamentos.md)): CF 5º LXV, LXVI, LXVIII; CF 102, 105, 108; CPP 647, 647-A, 648, 654, 660; CPP 312 a 316; Súmulas 691, 606, 695 do STF; Súmulas 21 e 52 do STJ (excesso de prazo superado); STJ sobre HC substitutivo e concessão de ofício, HC contra turma recursal e atraso da audiência de custódia.
 
 ## Pedidos e requerimentos
 - Liminar: expedição imediata de alvará de soltura, suspensão do ato, salvo-conduto ou suspensão da ação penal até o julgamento.
@@ -62,7 +64,8 @@ Resumo (detalhe em [fundamentos](references/fundamentos.md)): CF 5º LXV, LXVI, 
 - [ ] Precedentes novos conferidos em `verificacao-de-citacoes`.
 
 ## Erros a evitar
-- Impetrar no tribunal errado (ex.: STJ contra decisão de juiz de 1º grau — supressão de instância).
+- Impetrar no tribunal errado (ex.: STJ contra decisão de juiz de 1º grau — supressão de instância; STJ contra acórdão de turma recursal — incompetência).
+- Sustentar relaxamento automático só porque a custódia atrasou, sem demonstrar prejuízo nem atacar o decreto de preventiva.
 - Pedir reexame aprofundado de prova (autoria controvertida) em vez de demonstrar ilegalidade documental.
 - Alegar excesso de prazo depois de encerrada a instrução ou pronunciado o réu sem enfrentar as Súmulas 52 e 21 do STJ.
 - Atacar fundamento genérico da preventiva sem transcrever a decisão (o tribunal precisa ver a falta de fatos concretos, CPP 312 §2º e 315).

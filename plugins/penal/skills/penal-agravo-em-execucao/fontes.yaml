@@ -79,3 +79,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601773281
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no REsp 2.214.069, rel. Min. Og Fernandes, j. 25/02/2026 — prescrição da falta grave: 3 anos (CP 109, VI, por analogia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501779655
+    consultado_em: 2026-11-01

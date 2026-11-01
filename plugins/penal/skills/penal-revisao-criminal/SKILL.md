@@ -48,7 +48,7 @@ Resumo (detalhe em [fundamentos](references/fundamentos.md)): CPP 621 a 631; Sú
 
 ## Pedidos e requerimentos
 - Procedência para absolver, alterar a classificação, reduzir a pena ou anular o processo (626).
-- Liminar para suspender a execução, quando houver prova robusta [VERIFICAR: admissibilidade de tutela de urgência na revisão no regimento do tribunal].
+- Liminar para suspender a execução, só com prova robusta e ilegalidade evidente: a revisão não tem efeito suspensivo, e o STJ não admite HC contra o indeferimento dessa liminar, salvo flagrante ilegalidade (Súmula 691 STF por analogia; AgRg no HC 1.087.730, ver fundamentos). Confira no regimento interno do tribunal competente a previsão e o rito do pedido liminar.
 - Reconhecimento do direito à indenização (630), salvo hipóteses do §2º.
 - Restabelecimento de direitos perdidos (627).
 

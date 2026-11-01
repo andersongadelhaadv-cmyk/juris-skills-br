@@ -20,7 +20,7 @@ Tabela por condenação: processo, crime, data do fato, pena, primário/reincide
 
 ## 5. Exame criminológico
 - Fato anterior a 11/04/2024 (Lei 14.843): sustentar a inexigibilidade (novatio legis in pejus) e exigir fundamentação concreta (Súmula 439 STJ).
-- Fato posterior: requerer realização imediata e fixação de prazo; demora injustificada não pode prejudicar o apenado [VERIFICAR: precedente específico sobre demora do exame antes de citar].
+- Fato posterior: requerer realização imediata e fixação de prazo; demora injustificada não pode prejudicar o apenado. O STJ exige que a defesa demonstre demora irrazoável ou desídia estatal (HC 980.165, ver fundamentos); junte a cronologia documentada.
 
 ## 6. Hipóteses especiais
 - Progressão especial da mulher (§3º).

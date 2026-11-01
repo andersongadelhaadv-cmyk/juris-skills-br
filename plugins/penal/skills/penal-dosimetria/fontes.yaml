@@ -15,6 +15,16 @@ itens:
     url: https://legis.senado.leg.br/norma/39748605
     consultado_em: 2026-11-01
   - tipo: lei
+    referencia: "Lei 14.994/2024, publicação (DOU 10/10/2024, p. 2; art. 10 — vigência na publicação)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/39748605/publicacao/39751753
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 585 do STJ (revisado), REsp 1.947.845, 3ª Seção, rel. Min. Sebastião Reis Júnior, j. 22/06/2022 — compensação integral entre confissão e reincidência; multirreincidência: compensação proporcional"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102097725
+    consultado_em: 2026-11-01
+  - tipo: lei
     referencia: "Lei 15.160/2025 (arts. 65 I e 115 CP)"
     status: LEI
     url: https://legis.senado.leg.br/norma/41109625
@@ -80,7 +90,12 @@ itens:
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5201890&numeroProcesso=1052700&classeProcesso=ARE&numeroTema=972
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "STF HC 111.840 (citado como referência da tese do regime inicial) — não localizado na base; tese mantida pelo Tema 972"
+    referencia: "STF HC 111.840 (citado como referência da tese do regime inicial) — não conferido em fonte oficial; tese mantida pelo Tema 972"
     status: VERIFICAR
     url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, 3ª Seção, REsp 1.931.145, rel. Min. Sebastião Reis Júnior, j. 22/06/2022 — Tema 585 revisado (compensação entre confissão e reincidência)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100961299
     consultado_em: 2026-11-01

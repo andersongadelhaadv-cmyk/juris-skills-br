@@ -32,4 +32,11 @@ CP e CPP compilados; Lei 14.994/2024 (Senado, norma 39748605) e Lei 15.160/2025 
 
 ## Regime inicial em crime hediondo
 - STF Tema 972 (ARE 1.052.700, j. 03/11/2017): "É inconstitucional a fixação ex lege, com base no art. 2º, § 1º, da Lei 8.072/1990, do regime inicial fechado, devendo o julgador, quando da condenação, ater-se aos parâmetros previstos no artigo 33 do Código Penal."
-- O precedente do Plenário frequentemente citado para essa tese (HC 111.840) não foi localizado na base consultada. [VERIFICAR: conferir número e dados do HC 111.840 no portal do STF antes de citá-lo; enquanto isso, citar o Tema 972, confirmado.]
+- O precedente do Plenário frequentemente citado para essa tese (HC 111.840): número, data e ementa não conferidos em fonte oficial [VERIFICAR]. Até a conferência no portal do STF, cite o Tema 972.
+
+## Compensação entre confissão e reincidência
+- STJ, Tema 585 (revisado), REsp 1.947.845 e REsp 1.931.145, 3ª Seção, rel. Min. Sebastião Reis Júnior, j. 22/06/2022: a reincidência, ainda que específica, compensa-se integralmente com a confissão; só na multirreincidência prepondera a agravante do art. 61, I, admitida compensação proporcional.
+Como usar: com uma única condenação anterior, pedir compensação integral; com várias, exigir que a sentença explique a fração de preponderância e pedir a menor.
+
+## Vigência da Lei 14.994/2024
+- Publicada no DOU de 10/10/2024 (p. 2); art. 10: "Esta Lei entra em vigor na data de sua publicação." (Senado, norma 39748605, publicação 39751753). O art. 121-A só alcança fatos a partir de 10/10/2024.

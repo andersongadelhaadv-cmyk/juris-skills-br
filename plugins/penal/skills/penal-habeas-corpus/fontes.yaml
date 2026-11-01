@@ -59,3 +59,28 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601592641
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no HC 1.046.987, rel. Min. Maria Marluce Caldas, j. 17/06/2026 — HC contra turma recursal: incompetência do STJ, remessa ao TJSP"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504184749
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no HC 1.082.013, rel. Min. Sebastião Reis Júnior, j. 27/05/2026 — não compete ao STJ julgar HC contra ato de turma recursal"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601017970
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 690 do STF (HC contra turma recursal) — enunciado existe; vigência ou superação não conferida"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1502
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no HC 1.090.943, rel. Min. Rogerio Schietti, j. 12/08/2026 — atraso na audiência de custódia: nulidade não automática"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601535338
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF ADIs 6.298, 6.299, 6.300 e 6.305 (juiz das garantias; inclui o art. 310 §4º CPP) — teor do acórdão quanto ao §4º não conferido em fonte oficial"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-01

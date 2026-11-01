@@ -79,3 +79,18 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500031550
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no REsp 2.216.609, rel. Min. Og Fernandes, j. 17/06/2026 — consentimento incontroverso da ofendida afasta a tipicidade do art. 24-A"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502017417
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, REsp 2.140.598, rel. Min. Daniela Teixeira, j. 11/02/2025 — aproximação consentida pela vítima: atipicidade do art. 24-A"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401553505
+    consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no REsp 2.279.947, rel. Min. Reynaldo Soares da Fonseca, j. 18/08/2026 — art. 24-A é crime formal; reaproximação sem revogação judicial é irrelevante"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202602421172
+    consultado_em: 2026-11-01

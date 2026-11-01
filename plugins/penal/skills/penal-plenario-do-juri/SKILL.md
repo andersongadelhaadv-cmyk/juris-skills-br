@@ -38,10 +38,10 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 Resumo (detalhe em [estrutura](references/estrutura.md)): (1) petição do art. 422; (2) roteiro de sustentação (abertura, prova, teses, quesitos explicados, fechamento); (3) minuta de quesitos e impugnação (CPP 484); (4) requerimentos para a ata.
 
 ## Requisitos e preliminares
-- A acusação fala nos limites da pronúncia (476); a defesa pode inovar teses, inclusive na tréplica, desde que preserve o contraditório [VERIFICAR: entendimento atual do STJ sobre tese nova na tréplica antes de sustentar].
+- A acusação fala nos limites da pronúncia (476). Tréplica: o STJ veda a inovação de tese defensiva nessa fase, por ofensa ao contraditório; não há inovação quando a tese já foi levantada pelo réu no interrogatório (AgRg no AREsp 2.897.958, ver fundamentos). Apresente todas as teses técnicas no primeiro tempo da defesa.
 - Vedações nos debates (478): referir-se à pronúncia ou ao uso de algemas como argumento de autoridade; ou ao silêncio do acusado em seu prejuízo — sob pena de nulidade. Registre em ata imediatamente.
 - Quesitos (483): materialidade; autoria; "O jurado absolve o acusado?" (quesito genérico obrigatório); causa de diminuição alegada pela defesa; qualificadoras e majorantes. Desclassificação e tentativa têm posição própria (§§4º e 5º). Séries distintas por crime e por réu (§6º).
-- Tese de legítima defesa da honra: o art. 483 traz remissão à ADPF 779 [VERIFICAR: conteúdo da decisão do STF não confirmado na base; não usar a tese e conferir os limites fixados antes do plenário].
+- Tese de legítima defesa da honra: o art. 483 traz remissão à ADPF 779; teor e limites da decisão do STF não conferidos em fonte oficial [VERIFICAR]. Não use a tese e confira o julgado no portal do STF antes do plenário.
 - Nulidades do plenário: arguir logo depois de ocorrerem e fazer constar da ata (CPP 571, VIII; 495, XV); posteriores à pronúncia, logo após apregoadas as partes (571, V).
 - Ausência de quesito obrigatório é nulidade absoluta (Súmula 156 STF); quesitos da defesa antes das agravantes (Súmula 162 STF — referência histórica; hoje agravantes são decididas pelo juiz, CPP 492, I, b).
 
@@ -67,6 +67,7 @@ Resumo (detalhe em [fundamentos](references/fundamentos.md)): CF 5º XXXVIII; CP
 - Não registrar em ata a nulidade no momento em que ocorre (preclusão).
 - Sustentar tese sem quesito correspondente ou não impugnar quesito mal redigido (484).
 - Exibir documento não juntado no prazo do 479.
+- Guardar tese nova para a tréplica: o STJ considera inovação vedada.
 - Esquecer de alegar atenuantes nos debates (492, I, b).
 - Contar com efeito suspensivo da apelação: o STF fixou execução imediata da condenação do júri (Tema 1068).
 
