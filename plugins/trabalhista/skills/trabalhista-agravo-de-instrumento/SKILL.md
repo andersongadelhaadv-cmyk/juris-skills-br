@@ -10,7 +10,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: agravo
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Agravo de instrumento trabalhista
 
@@ -37,10 +37,10 @@ Interposição ao prolator da decisão; razões ao tribunal competente para o re
 - **Formação do instrumento** (art. 897 §5º): no processo eletrônico o AI tramita nos próprios autos; em autos físicos, o instrumento exige as cópias do §5º I sob pena de não conhecimento. Confirmar com o usuário se o processo é eletrônico.
 - **Dialeticidade**: atacar todos os fundamentos da decisão denegatória (Súmula 422 I do TST); fundamento não impugnado mantém o trancamento.
 - **Juízo de admissibilidade do TRT** não examina transcendência (art. 896-A §6º): se a decisão negou com base nela, apontar o excesso.
-- Tema do RR não examinado no despacho de admissibilidade: verificar a necessidade de ED contra o despacho para evitar preclusão [VERIFICAR regra vigente da instrução normativa do TST sobre admissibilidade parcial].
+- Tema do RR não examinado no despacho de admissibilidade: a IN 40/2016 do TST (art. 1º §1º) impõe à parte opor ED ao próprio despacho para suprir a omissão (CPC art. 1.024 §2º), sob pena de preclusão; sem os ED, o AI não devolve esse tema (aplicação no RR-0020127-65.2024.5.04.0782, TST, 7ª Turma).
 
 ## Fundamentos verificados
-CLT arts. 775, 896 §§1º e 12, 896-A §§5º-6º, 897 "b" e §§4º-7º, 899 §§7º-10; Súmulas 218, 422 do TST. Detalhes em [fundamentos](references/fundamentos.md).
+CLT arts. 775, 896 §§1º e 12, 896-A §§5º-6º, 897 "b" e §§4º-7º, 899 §§7º-10; IN 40/2016 do TST art. 1º §1º; Súmulas 218, 422 do TST. Detalhes em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Conhecimento e provimento do agravo para destrancar o recurso.

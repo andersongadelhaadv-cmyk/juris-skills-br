@@ -11,7 +11,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: mandado-seguranca
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Mandado de segurança trabalhista
 
@@ -23,7 +23,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Não usar:
   - tutela concedida na sentença — cabe RO, com pedido de efeito suspensivo ao tribunal (Súmula 414 I);
   - decisão já transitada em julgado (Lei 12.016 art. 5º III; Súmula 33 do TST);
-  - decisão que comporte recurso com efeito suspensivo (art. 5º II); a SBDI-2 aplica orientação jurisprudencial nesse sentido (citada como OJ 92 no ROT-1002492-05.2019.5.02.0000) [VERIFICAR redação e número da OJ no site do TST];
+  - decisão que comporte recurso com efeito suspensivo (art. 5º II) e, mais amplo, decisão passível de reforma por recurso próprio, ainda que com efeito diferido (OJ 92 da SBDI-2 do TST; aplicada no ROT-1002492-05.2019.5.02.0000);
   - recusa de homologação de acordo — faculdade do juiz (Súmula 418 do TST);
   - penhora em dinheiro em execução — não fere direito líquido e certo (Súmula 417 I);
   - prosseguimento da execução quanto ao que não foi delimitado em AP (Súmula 416).

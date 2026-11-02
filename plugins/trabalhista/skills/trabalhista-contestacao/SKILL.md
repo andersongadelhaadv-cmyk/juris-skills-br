@@ -10,7 +10,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: contestacao
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Contestação trabalhista
 
@@ -39,7 +39,7 @@ Qualificação e síntese; preliminares; prejudiciais (prescrição); mérito pe
 ## Requisitos e preliminares
 - Presença: a ausência da reclamada na audiência gera revelia e confissão, mesmo com advogado presente (art. 844 caput; Súmula 122 do TST); mas, presente o advogado, a contestação e os documentos devem ser aceitos (art. 844 §5º). Alertar o cliente sobre ambos os efeitos.
 - A revelia não produz efeito de confissão nas hipóteses do art. 844 §4º (outro réu contestou, direito indisponível, falta de documento essencial, alegação inverossímil).
-- Preposto: não precisa ser empregado (art. 843 §3º). A Súmula 377 do TST, que exige preposto empregado, conflita com o texto legal posterior; tratar o tema com cautela [VERIFICAR vigência da Súmula 377].
+- Preposto: "não precisa ser empregado da parte reclamada" (art. 843 §3º, incluído pela Lei 13.467/2017; redação conferida). A Súmula 377 do TST, que exige preposto empregado, conflita com esse texto posterior; sua vigência não foi conferida em fonte oficial [VERIFICAR no site do TST]. Em processos anteriores a 11/11/2017, tratar o tema com cautela e, se possível, indicar preposto empregado.
 - Preposto deve conhecer os fatos: o desconhecimento gera confissão (art. 843 §1º).
 - Compensação ou retenção só como matéria de defesa (art. 767).
 - Prescrição deve ser arguida na instância ordinária (Súmula 153 do TST). Arguir já na contestação.

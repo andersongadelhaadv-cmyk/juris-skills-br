@@ -19,3 +19,18 @@ itens:
     status: CONFIRMADO
     url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/594737cd4848c4a0b025b12e01b9803f
     consultado_em: 2026-11-01
+  - tipo: resolucao
+    referencia: "Instrução Normativa 40/2016 do TST, art. 1º §1º (omissão no juízo de admissibilidade do RR: ED sob pena de preclusão) - texto transcrito em acórdãos do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/d7c4969e8d7e806b8e3331d881b10d9b
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 7ª Turma, RR-0020127-65.2024.5.04.0782 (rel. José Pedro de Camargo Rodrigues de Souza, abril/2026) - preclusão por falta de ED contra omissão do despacho de admissibilidade (IN 40/2016, art. 1º §1º)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/d7c4969e8d7e806b8e3331d881b10d9b
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 1.024 §2º (aplicação subsidiária, CLT art. 769)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-02

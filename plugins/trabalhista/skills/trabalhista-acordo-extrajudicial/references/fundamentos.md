@@ -12,4 +12,9 @@
 | CLT art. 507-B | Termo de quitação anual no sindicato (instrumento distinto) | Diferenciar |
 | Súmula 418 do TST | Homologação é faculdade; sem MS | Recusa |
 | Súmula 100 V do TST | Acordo homologado transita na data da homologação | Rescisória |
+| CLT art. 895 I | Recurso ordinário contra decisão definitiva da Vara | Recusa de homologação |
+| TST, 1ª Turma, RR-1000110-61.2025.5.02.0054 | Jurisdição voluntária: juiz não pode recusar nem limitar quitação ampla sem vício no negócio | Argumento a favor da quitação geral |
+| TST, 2ª Turma, Ag-RR-1000995-57.2024.5.02.0718 | Recusa válida de quitação ampla e genérica com lesão desproporcional ao empregado | Risco a avisar ao cliente |
 | TST Ag-RR-1000860-73.2025.5.02.0083 | Discute homologação com quitação ampla | Ler inteiro teor antes de usar |
+
+Pendência: orientação da SBDI-1 sobre quitação geral em acordo extrajudicial, não conferida em fonte oficial [VERIFICAR].

@@ -19,6 +19,6 @@
 | Súmula 422 III do TST | Dialeticidade atenuada no RO ao TRT | Mérito |
 | Súmula 201 do TST | RO contra decisão de TRT em MS, 8 dias | Cabimento |
 | Súmula 414 I do TST | Efeito suspensivo a RO por requerimento ao tribunal | Tutela |
-| DL 779/1969 | Prerrogativas processuais dos entes públicos | Prazo em dobro — [VERIFICAR inciso do art. 1º] |
+| DL 779/1969, art. 1º III, IV e V | Entes públicos sem atividade econômica: prazo em dobro para recurso, dispensa de depósito, recurso ordinário de ofício das decisões contrárias | Prazo e preparo do ente público |
 
-Pendência: valor atual do teto do depósito recursal (ato anual do TST) [VERIFICAR na data do protocolo].
+Pendência: número do ato do TST e valor atual do teto do depósito recursal, não conferidos em fonte oficial [VERIFICAR na data da interposição].

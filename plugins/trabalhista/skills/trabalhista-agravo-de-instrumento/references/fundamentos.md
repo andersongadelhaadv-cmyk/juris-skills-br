@@ -12,4 +12,6 @@
 | Súmula 422 I do TST | Impugnar os fundamentos da decisão | Dialeticidade |
 | Súmula 218 do TST | Não cabe RR de acórdão em AI | Limite posterior |
 
-Pendência: regra sobre tema não examinado no despacho de admissibilidade do RR (instrução normativa do TST) [VERIFICAR texto vigente]. O acórdão TST RRAg-1001078-47.2019.5.02.0072 (1ª Turma, 27/05/2026) aplicou preclusão em hipótese desse tipo; ler o inteiro teor antes de usar.
+| IN 40/2016 do TST, art. 1º §1º | Omissão do despacho de admissibilidade do RR quanto a um ou mais temas: ônus de opor ED ao órgão prolator (CPC art. 1.024 §2º), sob pena de preclusão | Antes do AI, conferir se cada tema foi examinado; se não, ED no prazo |
+
+A regra da IN 40/2016 está transcrita e aplicada em acórdãos do TST: RR-0020127-65.2024.5.04.0782 (7ª Turma, abril de 2026) e RRAg-1001078-47.2019.5.02.0072 (1ª Turma, 27/05/2026). Ler o inteiro teor antes de citar.

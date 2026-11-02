@@ -10,7 +10,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: recurso-ordinario
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Recurso ordinário trabalhista
 
@@ -31,13 +31,13 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - 8 dias úteis (CLT art. 895; Lei 5.584/1970 art. 6º; CLT art. 775). ED interrompem o prazo (art. 897-A §3º).
 - Intimação na sexta-feira: prazo começa na segunda (Súmula 1 do TST).
 - Feriado local deve ser comprovado no ato da interposição (Súmula 385 do TST).
-- Entes públicos: prazo em dobro para recorrer (Decreto-Lei 779/1969) [VERIFICAR inciso do art. 1º no texto oficial].
+- Entes públicos que não exploram atividade econômica: prazo em dobro para recorrer (Decreto-Lei 779/1969, art. 1º III) e dispensa de depósito recursal (art. 1º IV).
 
 ## Estrutura da peça
 Petição de interposição ao juízo a quo + razões ao TRT: admissibilidade (tempestividade, representação, preparo), preliminares, mérito por capítulo, pedido. Roteiro em [estrutura](references/estrutura.md).
 
 ## Requisitos e preliminares
-- **Depósito recursal** (art. 899): exigido do empregador condenado em pecúnia; limitado ao teto vigente fixado pelo TST e ao valor da condenação (§6º); comprovado no prazo do recurso (Súmula 245 do TST). Metade para entidade sem fins lucrativos, empregador doméstico, MEI, ME e EPP (§9º); isenção para beneficiário da gratuidade, entidade filantrópica e empresa em recuperação judicial (§10); pode ser substituído por fiança bancária ou seguro garantia (§11). Recolher integralmente em cada recurso até atingir a condenação (Súmula 128 I). O valor do teto é atualizado periodicamente por ato do TST: confirmar o valor vigente na data [VERIFICAR ato do TST em vigor].
+- **Depósito recursal** (art. 899): exigido do empregador condenado em pecúnia; limitado ao teto vigente fixado pelo TST e ao valor da condenação (§6º); comprovado no prazo do recurso (Súmula 245 do TST). Metade para entidade sem fins lucrativos, empregador doméstico, MEI, ME e EPP (§9º); isenção para beneficiário da gratuidade, entidade filantrópica e empresa em recuperação judicial (§10); pode ser substituído por fiança bancária ou seguro garantia (§11). Recolher integralmente em cada recurso até atingir a condenação (Súmula 128 I). O valor do teto é atualizado periodicamente por ato do TST; número do ato e valor vigente não conferidos em fonte oficial [VERIFICAR na data da interposição].
 - **Custas** (art. 789): 2% sobre a condenação ou o valor arbitrado, com mínimo e máximo legais; pagas e comprovadas no prazo do recurso (§1º). Inversão de sucumbência no TRT: Súmula 25 do TST.
 - **Representação**: procuração nos autos até a interposição (Súmula 383 do TST).
 - **Dialeticidade**: no RO ao TRT a exigência é atenuada, salvo razões totalmente dissociadas da sentença (Súmula 422 III).

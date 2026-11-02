@@ -1,9 +1,14 @@
 itens:
   - tipo: lei
-    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 775, 832, 896, 896-A, 896-C, 897-A"
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 775, 832, 896, 896-A, 896-C, 897-A, 899 §§9º a 11 (incluídos pela Lei 13.467/2017)"
     status: LEI
     url: https://legis.senado.leg.br/norma/530547
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Decreto-Lei 779/1969, art. 1º, III e IV"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/524184
+    consultado_em: 2026-11-02
   - tipo: lei
     referencia: "Lei 5.584/1970, art. 6º"
     status: LEI

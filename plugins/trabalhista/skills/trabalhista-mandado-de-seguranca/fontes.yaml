@@ -50,7 +50,12 @@ itens:
     url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/89ac3cdb6a6bd75f7c3b7aa61a7536b4
     consultado_em: 2026-11-01
   - tipo: oj
-    referencia: "Orientação jurisprudencial da SBDI-2 sobre MS contra decisão recorrível (citada como OJ 92 no acórdão ROT-1002492-05.2019.5.02.0000) - número e redação não confirmados diretamente no JuriBase"
-    status: VERIFICAR
-    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/89ac3cdb6a6bd75f7c3b7aa61a7536b4
-    consultado_em: 2026-11-01
+    referencia: "OJ 92 da SBDI-2 do TST (MS contra decisão passível de reforma por recurso próprio, ainda que com efeito diferido)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=OJ&orgao=TST&numero=92&pesquisar=1
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, SBDI-2, ROT-1016740-97.2024.5.02.0000 (rel. Douglas Alencar Rodrigues, julg. 05/05/2026) - MS admitido excepcionalmente contra penhora de percentual de salário, apesar da OJ 92"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/b86ed14104debfc1ddbf64b24f15e358
+    consultado_em: 2026-11-02

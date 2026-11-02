@@ -20,7 +20,7 @@ itens:
     url: https://legis.senado.leg.br/norma/17728053
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Lei 13.105/2015 (CPC), art. 400 (aplicação subsidiária, CLT art. 769)"
+    referencia: "Lei 13.105/2015 (CPC), arts. 99 e 400 (aplicação subsidiária, CLT art. 769)"
     status: LEI
     url: https://legis.senado.leg.br/norma/584917
     consultado_em: 2026-11-01
@@ -45,22 +45,52 @@ itens:
     url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=338&pesquisar=1
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADI 5766 (STF) - gratuidade, honorários periciais e sucumbenciais; não localizada no JuriBase; a anotação consta do texto compilado da CLT (arts. 790-B e 791-A §4º)"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/530547
-    consultado_em: 2026-11-01
+    referencia: "ADI 5766 (STF) - inconstitucionalidade apenas da expressão do art. 791-A §4º sobre créditos obtidos em juízo, mantida a condição suspensiva; e do art. 790-B caput. Alcance transcrito nos acórdãos do TST RRAg-1000850-27.2019.5.02.0087 e RR-1000603-64.2018.5.02.0351"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b64b93e19f1854a8a6fa3cf8b8bfd10
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 1ª Turma, RR-1000603-64.2018.5.02.0351 (rel. Luiz José Dezena da Silva, julg. 13/05/2026) - ADI 5766: art. 790-B caput inconstitucional; Súmula 457 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/a0cf33779fa133d83063a7dc65dbcbc6
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 7.115/1983 (declaração destinada a fazer prova de pobreza)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/548991
+    consultado_em: 2026-11-02
+  - tipo: resolucao
+    referencia: "Instrução Normativa 41/2018 do TST, art. 12 §2º (valor da causa estimado para o art. 840 §§1º e 2º) - texto transcrito no Ag-AIRR-1000065-58.2024.5.02.0065"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b3f30b4139d991d0d64aa9bda1fef8c
+    consultado_em: 2026-11-02
   - tipo: precedente
     referencia: "TST, 5ª Turma, RRAg-11119-29.2019.5.18.0013 (julg. 07/05/2026) - valores da inicial e art. 840 §1º; menciona Tema 35 IRR afetado ao Pleno"
     status: CONFIRMADO
     url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/13e254c8ee7baf95955298b0f7f33d7c
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Tema 35 da tabela de IRR do TST (limitação da condenação aos valores da inicial) - tese não localizada no JuriBase"
+    referencia: "Tema 35 da tabela de IRR do TST (limitação da condenação aos valores da inicial) - afetação em 06/02/2025 e ausência de suspensão confirmadas no Ag-AIRR-1000065-58.2024.5.02.0065; tese ainda não conferida"
     status: VERIFICAR
-    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/13e254c8ee7baf95955298b0f7f33d7c
-    consultado_em: 2026-11-01
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b3f30b4139d991d0d64aa9bda1fef8c
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "TST, 8ª Turma, RRAg-1000850-27.2019.5.02.0087 (julg. 20/05/2026) - honorários de beneficiário da gratuidade após ADI 5766; menciona Tema 21 IRR (declaração de hipossuficiência)"
+    referencia: "TST, 3ª Turma, Ag-AIRR-1000065-58.2024.5.02.0065 (rel. Mauricio Godinho Delgado, julg. 05/05/2026) - Tema 35 afetado sem suspensão; valores da inicial como estimativa; transcreve a IN 41/2018 art. 12 §2º"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b3f30b4139d991d0d64aa9bda1fef8c
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 5ª Turma, RRAg-1001271-42.2022.5.02.0465 (rel. Douglas Alencar Rodrigues, maio/2026) - Tema 21 (gratuidade) e, no rito ordinário, limitação da condenação aos valores da inicial (Tema 35 pendente)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/527815987804164a93074ba91dac1e4c
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Tema 21 da tabela de IRR do TST (justiça gratuita; declaração de hipossuficiência) - tese transcrita no RRAg-1000850-27.2019.5.02.0087"
     status: CONFIRMADO
     url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b64b93e19f1854a8a6fa3cf8b8bfd10
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 8ª Turma, RRAg-1000850-27.2019.5.02.0087 (rel. João Pedro Silvestrin, julg. 20/05/2026) - transcreve a tese do Tema 21 IRR e aplica a ADI 5766 ao art. 791-A §4º"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/9b64b93e19f1854a8a6fa3cf8b8bfd10
+    consultado_em: 2026-11-02

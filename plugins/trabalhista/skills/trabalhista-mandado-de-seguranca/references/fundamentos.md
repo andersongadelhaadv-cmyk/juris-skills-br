@@ -13,4 +13,4 @@
 | Súmula 33 do TST | Não cabe MS de decisão transitada | Vedação |
 | Súmula 201 do TST | RO ao TST em 8 dias | Recurso |
 | Súmula 425 do TST | Jus postulandi não alcança MS | Representação |
-| Orientação da SBDI-2 sobre decisão recorrível | Aplicada no ROT-1002492-05.2019.5.02.0000 (SBDI-2, 05/05/2026), que a cita como OJ 92 | [VERIFICAR número e redação no site do TST] |
+| OJ 92 da SBDI-2 do TST | Não cabe MS contra decisão passível de reforma por recurso próprio, ainda que com efeito diferido | Cabimento; aplicada no ROT-1002492-05.2019.5.02.0000 (SBDI-2, 05/05/2026). Em hipóteses excepcionais de gravame imediato a SBDI-2 tem admitido o MS (ex.: penhora sobre salário, ROT-1016740-97.2024.5.02.0000) |

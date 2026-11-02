@@ -30,7 +30,12 @@ itens:
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6048634&numeroProcesso=1298647&classeProcesso=RE&numeroTema=1118
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Tema 1389 do STF (pejotização) - não localizado no JuriBase"
-    status: VERIFICAR
-    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/pesquisarProcesso.asp
-    consultado_em: 2026-11-01
+    referencia: "Tema 1389 da repercussão geral do STF (ARE 1532603, rel. Min. Gilmar Mendes) - existência, objeto e ausência de tese conferidos no portal do STF; suspensão nacional (14/04/2025) retirada na 1ª instância e nos TRTs em 18/06/2026 (notícia oficial do STF)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1389
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STF, Tema 1389 (ARE 1532603): retirada da suspensão de processos na primeira instância e nos TRTs, mantida após o julgamento no TRT (18/06/2026)"
+    status: CONFIRMADO
+    url: https://noticias.stf.jus.br/postsnoticias/stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts/
+    consultado_em: 2026-11-02

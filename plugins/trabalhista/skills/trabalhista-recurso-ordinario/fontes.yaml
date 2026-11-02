@@ -10,10 +10,10 @@ itens:
     url: https://legis.senado.leg.br/norma/547454
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Decreto-Lei 779/1969 (entes públicos)"
+    referencia: "Decreto-Lei 779/1969, art. 1º, III (prazo em dobro para recurso), IV (dispensa de depósito) e V (recurso ordinário de ofício) - texto da publicação original conferido no Senado"
     status: LEI
     url: https://legis.senado.leg.br/norma/524184
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 1 do TST"
     status: CONFIRMADO

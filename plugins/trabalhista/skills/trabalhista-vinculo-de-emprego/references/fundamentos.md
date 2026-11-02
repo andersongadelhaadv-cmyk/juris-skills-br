@@ -12,4 +12,4 @@
 | Súmula 331 do TST (itens II a VI) | Ente público; atividade-meio; responsabilidade subsidiária; item I cancelado | Terceirização |
 | Tema 725 do STF | Terceirização lícita em qualquer atividade; responsabilidade subsidiária | Terceirização |
 | Tema 1118 do STF | Ente público: responsabilidade subsidiária exige prova de negligência | Ente público |
-| Tema 1389 do STF (pejotização) | Não localizado no JuriBase | [VERIFICAR no portal do STF] |
+| Tema 1389 do STF (ARE 1532603) | Competência da Justiça do Trabalho para fraude em contrato civil/comercial; licitude da contratação de autônomo ou PJ; ônus da prova. Sem tese fixada em 02/11/2026 | Enfrentar os três pontos. Suspensão nacional em 14/04/2025; desde 18/06/2026, retirada na 1ª instância e nos TRTs, mantida após o julgamento no TRT até a tese (notícias oficiais do STF) |
