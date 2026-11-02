@@ -2,7 +2,7 @@
 
 ## 1. Endereçamento
 - Valor até 60 SM: Juizado Especial Federal da subseção do domicílio (competência absoluta onde instalado).
-- Acima: Vara Federal. Comarca sem vara federal: verificar se a lei autoriza a competência delegada (CF, art. 109, §3º) [VERIFICAR distância e regra vigente].
+- Acima: Vara Federal. Competência delegada à Justiça Estadual (CF, art. 109, §3º): desde 01/01/2020, só quando a comarca de domicílio do segurado ficar a mais de 70 km de município sede de Vara Federal (Lei 5.010/1966, art. 15, III, redação da Lei 13.876/2019); a lista de comarcas é indicada pelo TRF da região (§2º). Conferir a lista do TRF antes de endereçar.
 
 ## 2. Qualificação
 Dados completos, NIT, e-mail. Pedido de prioridade (idoso, deficiência, doença grave), com documento.
@@ -23,6 +23,7 @@ Para cada regra aplicável, uma tabela "requisito exigido x requisito cumprido":
 - Pedágio 100% (art. 20).
 - Permanente (art. 19), se filiado depois de 13/11/2019.
 Concluir qual regra dá o maior valor (Tema 334 STF).
+Reafirmação da DER (STJ Tema 995): se nenhuma regra estava cumprida na DER, mostrar em que data cada uma passa a ser cumprida e pedir a fixação da DER nessa data, inclusive por fato ocorrido no curso do processo (CPC, arts. 493 e 933). Requisitos completados entre o indeferimento e o ajuizamento dispensam novo requerimento administrativo (STJ, AgInt no REsp 1.987.188). Manter a causa de pedir: os períodos posteriores invocados devem constar da inicial ou ser trazidos como fato superveniente.
 
 ## 6. Períodos controvertidos
 Um subtítulo por período: o fato, a prova, o fundamento (CTPS: TNU Súmula 75; especial: remeter à skill de aposentadoria especial; rural: remeter à skill rural).
@@ -34,7 +35,7 @@ RMI estimada por regra, com memória (média, coeficiente, fator previdenciário
 Urgência (CPC, art. 300) se idade avançada, doença ou perda de renda; evidência (art. 311) se a prova documental for suficiente e houver tese firmada.
 
 ## 9. Pedidos
-Averbação; concessão pela regra mais vantajosa desde a DER; reafirmação da DER; atrasados; tutela; gratuidade; honorários.
+Averbação; concessão pela regra mais vantajosa desde a DER; subsidiariamente, reafirmação da DER (Tema 995 STJ); atrasados; tutela; gratuidade; honorários.
 
 ## 10. Provas e valor da causa
 Documentos, prova testemunhal (se houver), perícia (se especial). Valor: parcelas vencidas + 12 vincendas (Lei 10.259, art. 3º, §2º, e CPC, art. 292).

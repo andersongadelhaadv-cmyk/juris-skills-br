@@ -5,10 +5,10 @@ itens:
     url: https://legis.senado.leg.br/norma/579494
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Lei 8.213/1991, arts. 19 a 22, 26, 86 e 129"
+    referencia: "Lei 8.213/1991, arts. 18, §1º, 19 a 22, 26, 86 e 129"
     status: LEI
-    url: https://legis.senado.leg.br/norma/550089
-    consultado_em: 2026-11-01
+    url: https://legis.senado.leg.br/norma/550089/publicacao/34619956
+    consultado_em: 2026-11-02
   - tipo: lei
     referencia: "EC 103/2019, art. 26, §3º"
     status: LEI
@@ -39,3 +39,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304282979
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, CC 197.182 (pensão por morte por acidente do trabalho: Justiça Federal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301628948
+    consultado_em: 2026-11-02

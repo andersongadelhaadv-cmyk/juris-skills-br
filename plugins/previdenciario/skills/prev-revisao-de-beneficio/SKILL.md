@@ -28,7 +28,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 5. Simulação da nova RMI (sem simulação positiva não ajuizar).
 
 ## Prazo e contagem
-- Decadência de 10 anos para revisar o ato de concessão, contada do dia 1º do mês seguinte ao do recebimento da primeira prestação (art. 103, I) ou da ciência da decisão administrativa de revisão (II) [VERIFICAR alcance após a ADI 6096 para atos de indeferimento, cancelamento ou cessação].
+- Decadência de 10 anos para revisar o ato de concessão, contada do dia 1º do mês seguinte ao do recebimento da primeira prestação (art. 103, I) ou da ciência da decisão administrativa de revisão (II). Na ADI 6096, o STF declarou inconstitucional o art. 24 da Lei 13.846/2019 na parte em que deu nova redação ao art. 103: não há decadência nem prescrição do fundo de direito contra indeferimento, cancelamento ou cessação; só prescrevem as parcelas anteriores ao quinquênio (STJ, AgInt no REsp 2.067.701).
 - Benefícios anteriores à MP 1.523/1997: decadência contada a partir de 01/08/1997 (STF Tema 313).
 - Indeferimento, cessação ou cancelamento: TNU Súmula 81 (não se submetem a prazo extintivo quanto ao fundo de direito).
 - Prescrição das diferenças anteriores a 5 anos do ajuizamento (art. 103, p.ú.; STJ Súmula 85), ressalvados menores, incapazes e ausentes.
@@ -43,13 +43,13 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Requisitos e preliminares
 - Interesse de agir: revisão pode ser pedida diretamente em juízo, salvo se depender de matéria de fato não levada ao INSS (STF Tema 350, item III). Se o fato é novo (ex.: PPP obtido depois), requerer antes ao INSS.
-- Revisões cabíveis (exemplos a avaliar no caso): inclusão de período ou salário omitido; reconhecimento de tempo especial/rural; melhor benefício (Tema 334 STF); correção de erro material de cálculo; inclusão de verbas reconhecidas em sentença trabalhista [VERIFICAR requisitos de prova].
+- Revisões cabíveis (exemplos a avaliar no caso): inclusão de período ou salário omitido; reconhecimento de tempo especial/rural; melhor benefício (Tema 334 STF); correção de erro material de cálculo; inclusão de verbas reconhecidas em sentença trabalhista (sentença homologatória de acordo e anotação dela decorrente só valem como início de prova se houver elementos contemporâneos, STJ Tema 1188). Em todos os casos, prova documental contemporânea de cada período ou remuneração.
 - Revisões superadas (não ajuizar): revisão da vida toda. O STF declarou constitucional o art. 3º da Lei 9.876/1999 (ADIs 2110 e 2111) e, no Tema 1102, fixou que o segurado não pode optar pela regra do art. 29, I e II, da Lei 8.213, com modulação: irrepetibilidade dos valores recebidos por decisões até 05/04/2024 e dispensa de sucumbência nas ações pendentes até essa data.
 - Riscos: a revisão pode reduzir o benefício (reformatio) se houver erro a favor do segurado em outro ponto: simular tudo.
 
 ## Fundamentos verificados   (detalhe em [fundamentos](references/fundamentos.md))
 - Lei 8.213, arts. 29, 29-A, 103.
-- STF Temas 313, 334, 350 e 1102; STJ Súmula 85; TNU Súmula 81.
+- STF Temas 313, 334, 350 e 1102; ADI 6096; ADIs 2.110 e 2.111; STJ Súmula 85 e Tema 1188; TNU Súmula 81.
 
 ## Pedidos e requerimentos
 - Revisão da RMI com inclusão de X, desde a DIB, observada a prescrição quinquenal.

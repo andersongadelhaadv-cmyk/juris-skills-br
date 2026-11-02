@@ -48,12 +48,13 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Documento de cônjuge que o qualifica como rurícola serve como início de prova (TNU Súmula 6).
 - Atividade urbana de um membro não descaracteriza por si só o grupo (TNU Súmula 41), mas atenção às hipóteses legais de exclusão (art. 11, §§9º e 10).
 - Área de até 4 módulos fiscais; empregados temporários até 120 pessoas/dia no ano (art. 11, VII, a, 1, e §7º).
-- Ausência de prova material: [VERIFICAR consequência processual — extinção sem resolução do mérito, segundo tese repetitiva do STJ cujo número não foi confirmado na base].
+- Ausência de prova material eficaz: extinção sem resolução do mérito, por falta de pressuposto de desenvolvimento válido do processo, o que permite nova ação com prova nova (STJ, REsp 1.352.721/SP, Corte Especial, repetitivo, conforme AgInt no AREsp 2.285.370). Se a ação anterior foi julgada improcedente e transitou, a via é a rescisória (CPC, art. 966, VII), não nova ação.
+- Híbrida: o tempo rural remoto e descontínuo, anterior à Lei 8.213, conta como carência sem recolhimento, seja qual for o trabalho no implemento da idade (STJ Tema 1007).
 
 ## Fundamentos verificados   (detalhe em [fundamentos](references/fundamentos.md))
 - Lei 8.213, arts. 11, VII e §§1º, 7º a 10; 26, III; 38-A; 38-B; 39; 48, §§1º a 4º; 55, §§2º e 3º; 106.
 - CF, art. 201, §7º, II.
-- STJ Súmulas 149 e 577; TNU Súmulas 6, 14, 34 e 41.
+- STJ Súmulas 149 e 577; STJ Tema 1007; STJ, REsp 1.352.721/SP; TNU Súmulas 6, 14, 34 e 41; TNU Tema 131.
 
 ## Pedidos e requerimentos
 - Reconhecimento e averbação do período rural de __/__ a __/__ como segurado especial.

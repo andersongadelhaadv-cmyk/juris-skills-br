@@ -15,7 +15,9 @@
 - Art. 14, §§2º, 3º e 5º: agravos em 15 dias (à TNU ou interno, conforme o fundamento).
 - Art. 27, §2º: contagem em dias úteis.
 - Art. 31: pedido de uniformização ao STJ.
-Alterações posteriores registradas no documento (Res. 790/2022, 923/2024, 938/2025) referem-se ao art. 1º; conferir se houve outras [VERIFICAR].
+- Art. 12, §1º: o recorrente demonstra divergência entre a decisão recorrida e (a) decisão de turma recursal ou regional vinculada a outro TRF ou (b) súmula ou entendimento dominante do STJ ou da TNU. Paradigma da mesma região não serve para a TNU.
+- Art. 46: entendimento dominante é o adotado reiteradamente em decisões idênticas em casos semelhantes.
+Alterações registradas no texto compilado (consultado em 02/11/2026): Res. CJF 790/2022, 923/2024 e 938/2025, todas sobre o art. 1º; nenhuma nota de alteração nos arts. 12 a 14. Resoluções posteriores não incorporadas ao compilado não foram conferidas em fonte oficial [VERIFICAR].
 
 ## Súmulas da TNU — CONFIRMADO
 - Súmula 42: não se conhece de incidente que implique reexame de matéria de fato.

@@ -21,8 +21,8 @@ Garantia de um salário mínimo à pessoa com deficiência e ao idoso sem meios 
 - STF Tema 27 (RE 567.985) — CONFIRMADO: inconstitucional o §3º do art. 20 como requisito obrigatório (julgado sob a redação antiga, "inferior a 1/4").
 - STF Tema 312 (RE 580.963) — CONFIRMADO: inconstitucional, por omissão parcial, o parágrafo único do art. 34 do Estatuto do Idoso (base da exclusão de benefícios de outros membros).
 - STF Tema 173 (RE 587.970) — CONFIRMADO: estrangeiros residentes no País são beneficiários do art. 203, V.
-- STJ Tema 185 (REsp 1.112.557/MG) — CONFIRMADO via transcrição no REsp 1.944.353 (STJ, 2ª Turma, Rel. Assusete Magalhães, j. 23/05/2023): a limitação da renda per capita não é a única forma de comprovar a miserabilidade; é elemento objetivo. O paradigma não foi indexado diretamente na base de verificação.
+- STJ Tema 185 (REsp 1.112.557/MG) — CONFIRMADO via transcrição no REsp 1.944.353 (STJ, 2ª Turma, Rel. Assusete Magalhães, j. 23/05/2023): a limitação da renda per capita não é a única forma de comprovar a miserabilidade; é elemento objetivo. Citar o tema e, para conferência, o acórdão que transcreve a tese.
   Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101812972
 
-## Salário mínimo 2026
-[VERIFICAR em decreto/portaria oficial antes de calcular a per capita.]
+## Salário mínimo 2026 — LEI
+Decreto 12.797/2025, art. 1º: R$ 1.621,00 mensais a partir de 01/01/2026. Um quarto: R$ 405,25 (renda per capita igual ou inferior a esse valor atende ao art. 20, §3º). Para DER ou períodos de outros anos, usar o decreto do ano correspondente.

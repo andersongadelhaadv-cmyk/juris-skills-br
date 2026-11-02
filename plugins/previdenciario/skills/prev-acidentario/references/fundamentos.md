@@ -4,6 +4,7 @@
 Excluídas da competência federal as causas de acidentes de trabalho.
 
 ## Lei 8.213/1991 — LEI (texto compilado)
+- Art. 18, §1º: somente os segurados dos incisos I (empregado), II (doméstico), VI (avulso) e VII (segurado especial) do art. 11 recebem auxílio-acidente (texto conferido no Senado em 02/11/2026).
 - Art. 19: conceito de acidente do trabalho (inclui segurado especial).
 - Art. 20: doença profissional e do trabalho; §1º exclusões; §2º caso excepcional.
 - Art. 21: equiparações (concausa, agressão no trabalho, trajeto etc.).
@@ -21,4 +22,5 @@ Excluídas da competência federal as causas de acidentes de trabalho.
 - STF Súmula 501: competência da Justiça Ordinária Estadual, em ambas as instâncias, ainda que contra autarquias federais.
 - STJ Súmula 44: grau mínimo de disacusia em ato regulamentar não exclui o benefício.
 - STJ Súmula 507: acumulação de auxílio-acidente com aposentadoria só se a lesão e a aposentadoria forem anteriores a 11/11/1997.
-- STJ Tema 416: o tema não foi indexado diretamente na base; a tese foi CONFIRMADA por transcrição no AgInt no AREsp 2.517.544 (STJ, 2ª Turma, Rel. Afrânio Vilela, j. 19/02/2025): para o auxílio-acidente é necessária lesão decorrente de acidente do trabalho que implique redução da capacidade para o labor habitualmente exercido. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304282979
+- STJ, CC 197.182 (1ª Seção, Rel. Afrânio Vilela, j. 12/06/2024): a pensão por morte, ainda que o óbito decorra de acidente de trabalho, tem natureza previdenciária e é da competência da Justiça Federal, afastadas as Súmulas 15/STJ e 501/STF. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301628948
+- STJ Tema 416: tese conferida pela transcrição no AgInt no AREsp 2.517.544 (STJ, 2ª Turma, Rel. Afrânio Vilela, j. 19/02/2025): para o auxílio-acidente é necessária lesão decorrente de acidente do trabalho que implique redução da capacidade para o labor habitualmente exercido. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304282979

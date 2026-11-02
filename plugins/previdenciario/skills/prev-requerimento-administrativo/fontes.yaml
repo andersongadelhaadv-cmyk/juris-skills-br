@@ -29,8 +29,13 @@ itens:
     status: CONFIRMADO
     url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=75
     consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 12.797/2025 (salário mínimo de R$ 1.621,00 a partir de 01/01/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41882097
+    consultado_em: 2026-11-02
   - tipo: resolucao
-    referencia: "Portaria interministerial MPS/MF 2026 (teto e salário mínimo) — não aberta em fonte oficial"
+    referencia: "Portaria interministerial MPS/MF 2026 (teto do RGPS)"
     status: VERIFICAR
     url: https://www.gov.br/previdencia
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

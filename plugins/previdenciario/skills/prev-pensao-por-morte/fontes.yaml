@@ -33,4 +33,14 @@ itens:
     referencia: "Ato ministerial de atualização das idades do art. 77, §2º-B"
     status: VERIFICAR
     url: https://www.gov.br/previdencia
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, CC 197.182 (pensão por morte por acidente do trabalho: Justiça Federal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301628948
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TRF1, AC 1032545-82.2021.4.01.9999 (art. 77, §2º-A: acidente de qualquer natureza)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.cjf.jus.br/trf1
+    consultado_em: 2026-11-02

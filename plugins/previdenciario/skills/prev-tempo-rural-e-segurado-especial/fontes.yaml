@@ -39,13 +39,38 @@ itens:
     status: CONFIRMADO
     url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=41
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 1.352.721/SP (repetitivo; extinção sem mérito por falta de prova material) — confirmado via AgInt no AREsp 2.285.370"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300214239
+    consultado_em: 2026-11-02
   - tipo: tema
-    referencia: "STJ, tese repetitiva sobre ausência de início de prova material (extinção sem mérito)"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    referencia: "STJ Tema 1007 (híbrida com tempo rural remoto) — tese confirmada via AgRg no REsp 1.525.744"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201402031894
+    consultado_em: 2026-11-02
   - tipo: tema
-    referencia: "STJ, tese repetitiva sobre aposentadoria híbrida com tempo rural remoto"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    referencia: "TNU Tema 168 (reproduz a tese do STJ Tema 1007)"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-168
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "TNU Tema 131 (híbrida: mesma idade da aposentadoria urbana)"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-131
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Constituição Federal, art. 201, §7º, I (redação da EC 103)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/579494
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "EC 103/2019, art. 18"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31727296
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 13.876/2019, art. 3º (Lei 5.010/1966, art. 15, III — competência delegada, 70 km)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/31412614
+    consultado_em: 2026-11-02

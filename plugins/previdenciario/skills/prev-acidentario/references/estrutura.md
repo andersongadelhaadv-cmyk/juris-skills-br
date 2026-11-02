@@ -1,7 +1,7 @@
 # Roteiro da ação acidentária
 
 ## 1. Endereçamento
-Vara de Acidentes do Trabalho ou Vara Cível/Fazenda Pública da comarca do domicílio, conforme a organização judiciária estadual [VERIFICAR vara competente local].
+Justiça Estadual da comarca do domicílio (CF, art. 109, I; STJ Súmula 15). A vara (Acidentes do Trabalho, Fazenda Pública ou Cível) depende da lei de organização judiciária de cada estado: consultar o código de organização judiciária ou o regimento do TJ local antes de endereçar.
 
 ## 2. Qualificação e categoria
 Empregado, doméstico, avulso ou segurado especial.

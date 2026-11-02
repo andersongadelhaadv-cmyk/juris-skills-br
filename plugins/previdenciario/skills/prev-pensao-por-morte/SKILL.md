@@ -18,7 +18,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Quando usar / quando não usar
 - Usar: indeferimento por falta de qualidade de dependente (união estável, dependência econômica), por perda da qualidade de segurado do falecido, ou disputa de cotas e duração.
-- Servidor público: regras do RPPS (ver `prev-rpps-servidor`). Óbito por acidente do trabalho: a pensão segue a Lei 8.213 e a competência para a ação acidentária é estadual (ver `prev-acidentario`) [VERIFICAR competência quando o pedido for só a pensão].
+- Servidor público: regras do RPPS (ver `prev-rpps-servidor`). Óbito por acidente do trabalho: a pensão segue a Lei 8.213 e a ação é da Justiça Federal, pois o benefício tem natureza previdenciária, não acidentária típica (STJ, CC 197.182; não se aplicam as Súmulas 15/STJ e 501/STF).
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
 1. Data e causa do óbito (certidão); se decorreu de acidente ou doença do trabalho.
@@ -47,13 +47,13 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - União estável e dependência: início de prova material contemporânea, produzida em até 24 meses antes do óbito; sem prova exclusivamente testemunhal, salvo força maior (art. 16, §5º). Para óbitos anteriores à MP 871/2019, a TNU dispensa prova material da união estável (Súmula 63, redação alterada em 18/09/2025).
 - Enteado e menor tutelado equiparam-se a filho mediante declaração e prova da dependência (art. 16, §2º, redação Lei 15.108/2025; EC 103, art. 23, §6º).
 - Valor (EC 103, art. 23): cota familiar de 50% da aposentadoria (ou da que teria por incapacidade permanente) + 10 p.p. por dependente, até 100%; cotas não reversíveis (§1º); dependente inválido ou com deficiência grave: 100% até o teto (§2º).
-- Duração para cônjuge/companheiro (art. 77, §2º, V): 4 meses se menos de 18 contribuições ou menos de 2 anos de união; caso contrário, conforme a idade no óbito: menos de 21 = 3 anos; 21-26 = 6; 27-29 = 10; 30-40 = 15; 41-43 = 20; 44 ou mais = vitalícia. Óbito por acidente/doença do trabalho dispensa os 18 meses e os 2 anos (§2º-A). As faixas podem ser alteradas por ato ministerial (§2º-B) [VERIFICAR se houve atualização de idades em ato do MPS].
+- Duração para cônjuge/companheiro (art. 77, §2º, V): 4 meses se menos de 18 contribuições ou menos de 2 anos de união; caso contrário, conforme a idade no óbito: menos de 21 = 3 anos; 21-26 = 6; 27-29 = 10; 30-40 = 15; 41-43 = 20; 44 ou mais = vitalícia. Óbito por acidente de qualquer natureza (não só do trabalho) ou por doença profissional ou do trabalho dispensa os 18 meses e os 2 anos (§2º-A; TRF1, AC 1032545-82.2021.4.01.9999). As faixas acima são as do texto da lei; o §2º-B permite que ato ministerial eleve as idades, e não foi conferido em fonte oficial se houve ato que as alterou [VERIFICAR o ato ministerial vigente na data do óbito antes de calcular a duração].
 - Acumulação com aposentadoria ou outra pensão: redutores do art. 24 da EC 103.
 
 ## Fundamentos verificados   (detalhe em [fundamentos](references/fundamentos.md))
 - Lei 8.213, arts. 15, 16, 26, I (sem carência), 74 a 77.
 - EC 103, arts. 23 e 24.
-- STJ Súmulas 340 e 416; TNU Súmula 63.
+- STJ Súmulas 340 e 416; TNU Súmula 63; STJ, CC 197.182 (competência federal).
 
 ## Pedidos e requerimentos
 - Reconhecimento da qualidade de dependente e concessão desde o óbito (ou DER).

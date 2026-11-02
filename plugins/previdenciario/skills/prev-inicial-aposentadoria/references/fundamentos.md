@@ -36,5 +36,15 @@ Art. 3º (60 SM; 12 vincendas; competência absoluta); art. 9º (sem prazo difer
 - STF Tema 334 (RE 630.501): quadro mais favorável.
 - TNU, Súmula 75: CTPS sem defeito formal.
 
-## Pendências
-Teto do RGPS e salário mínimo de 2026: [VERIFICAR na portaria interministerial MPS/MF de 2026 em fonte oficial].
+## Lei 5.010/1966, art. 15, III (redação da Lei 13.876/2019) — LEI
+Competência delegada só para comarca de domicílio do segurado situada a mais de 70 km de município sede de Vara Federal; vigência em 01/01/2020 (Lei 13.876, art. 5º, I); o TRF indica as comarcas (§2º).
+
+## STJ Tema 995 — CONFIRMADO
+Tese, transcrita no AgInt no REsp 2.260.442 (STJ, 2ª Turma, Rel. Marco Aurélio Bellizze, j. 19/08/2026), que indica como paradigma o REsp 1.727.063/SP (1ª Seção, Rel. Mauro Campbell Marques, j. 23/10/2019): "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir".
+- O mesmo acórdão considerou alinhado ao STJ o entendimento de que examinar o pedido de reafirmação não torna a decisão extra ou ultra petita e de que a reafirmação pode ocorrer a requerimento ou de ofício enquanto o processo estiver nas instâncias ordinárias. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600673343
+- STJ, AgInt no REsp 1.987.188 (1ª Turma, Rel. Paulo Sérgio Domingues, j. 03/09/2024): requisitos completados entre o indeferimento administrativo e o ajuizamento permitem pedir a reafirmação sem novo requerimento; há interesse de agir, afastado o Tema 350 do STF nessa hipótese. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200490411
+Como usar: citar a tese do Tema 995 no tópico de direito e no pedido subsidiário; os efeitos financeiros e os encargos da condenação seguem a skill `juros-e-correcao`.
+
+## Valores de 2026
+- Salário mínimo: R$ 1.621,00 a partir de 01/01/2026 (Decreto 12.797/2025, art. 1º). Teto do JEF em 2026: 60 × R$ 1.621,00.
+- Teto do RGPS de 2026: não conferido em fonte oficial [VERIFICAR na portaria interministerial MPS/MF de 2026].

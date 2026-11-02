@@ -26,4 +26,4 @@ Revisão; diferenças; preservação da RMI atual se a revisão for desfavoráve
 | Inclusão de período/salário omitido | Cabível | Prova documental |
 | Tempo especial/rural não computado | Cabível | Ver skills próprias |
 | Melhor benefício (Tema 334) | Cabível | Simular datas anteriores |
-| Outras teses | [VERIFICAR] | Conferir com `verificacao-de-citacoes` |
+| Outras teses | Avaliar caso a caso | Conferir a situação atual com `verificacao-de-citacoes` antes de citar |
