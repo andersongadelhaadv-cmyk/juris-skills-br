@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.1.3 — 2026-11
+
+Correções e conferências em fonte oficial nos plugins familia-sucessoes, consumidor e administrativo-licitacoes (PRs #21, #22 e #23). Com esta versão, os nove plugins passaram por conferência em fonte oficial.
+
+- familia-sucessoes: **correções** — ITCMD não incide sobre previdência complementar, seguro e pecúlio (LC 227/2026, art. 150, III); avaliação de quotas pelo art. 154; regime de bens em contrato de união estável só vale para frente (STJ); sem prisão civil por alimentos indenizatórios; companheiro como herdeiro necessário (4ª Turma do STJ). Res. CNJ 35, art. 12-B, conferido.
+- consumidor: **correções** — consignado entra no mínimo existencial (STF, ADPFs 1.005, 1.006 e 1.097); hipóteses de força maior no transporte aéreo (CBA art. 256, §§3º e 4º); tese literal do Tema 27/STJ; repetição em dobro contratual com prazo decenal. Inclui o Tema 1082/STJ (planos coletivos).
+- administrativo-licitacoes: **correções** — oitiva prévia no MS coletivo e vedações à liminar declaradas inconstitucionais (ADI 4.296); improbidade conforme ADIs 7.156/7.236 e 7.042/7.043; juros compensatórios na desapropriação após a Lei 14.620/2023; decadência do MS em concurso conta do fim da validade (STJ, REsp 2.178.391).
+- Itens não conferidos em fonte oficial continuam marcados com [VERIFICAR].
+
 ## v0.1.2 — 2026-11
 
 Correções e conferências em fonte oficial nos plugins previdenciario, trabalhista e processo-civil (PRs #18, #19 e #20).
