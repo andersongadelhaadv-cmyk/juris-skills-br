@@ -20,11 +20,14 @@ Conferência: DL 3.365/1941 no texto compilado oficial e ficha da norma no Senad
 - Art. 35: bens incorporados não podem ser reivindicados; procedência resolve-se em perdas e danos.
 - Art. 42: aplicação subsidiária do CPC.
 
-## ADI 2.332 (registro na ficha da norma no Senado; não localizada na base de jurisprudência)
+## STF, ADI 2.332 (acórdão de 17/05/2018; DOU de 28/05/2018, republicado em 06/07/2023; dispositivo registrado na ficha da norma no Senado)
 - Art. 15-A, caput (redação de 2001): inconstitucional a palavra "até"; interpretação conforme para que a base de cálculo dos juros compensatórios seja a diferença entre 80% do preço ofertado e o valor fixado na sentença; mantido o percentual de 6% ao ano.
-- Art. 15-A, § 4º: inconstitucional. §§ 1º a 3º: constitucionais.
-- Art. 27, § 1º: inconstitucional o teto de R$ 151.000,00; mantidos os limites percentuais.
-- Ponto de atenção: a Lei 14.620/2023 deu nova redação ao art. 15-A, reintroduzindo a expressão "de até 6% a.a." e a base "valor da diferença". A relação entre a nova redação e o decidido na ADI 2.332 deve ser verificada [VERIFICAR].
+- Art. 15-A: a ementa registrada no Senado menciona a constitucionalidade dos §§ 1º, 2º e 4º; o resultado quanto a cada parágrafo (em especial o § 3º) não foi conferido no acórdão do STF [VERIFICAR antes de citar].
+- Art. 27, § 1º: inconstitucional o teto nominal em reais; mantidos os limites percentuais (mínimo e máximo).
+- Lei 14.620/2023: deu nova redação ao art. 15-A, com a base "valor da diferença" e a expressão "de até 6% a.a.". Quanto à base, o STJ aplica a nova redação aos juros incidentes em sua vigência (precedente abaixo). Quanto à palavra "até", declarada inconstitucional na redação anterior, não há decisão do STF sobre a nova redação conferida em fonte oficial [VERIFICAR].
+
+## STJ — base dos juros compensatórios após a Lei 14.620/2023
+- AgInt no REsp 2.096.836, 2ª Turma, rel. Min. Teodoro Silva Santos, j. 27/08/2025: os juros compensatórios regem-se pela lei vigente na data em que incidem, inclusive em recurso especial; a Lei 14.620/2023 fixou a base na diferença entre o valor ofertado e o fixado na sentença, e essa redação deve ser aplicada. Uso: pedir a base integral da diferença para o período posterior à lei e separar o cálculo por períodos.
 
 ## Súmulas (confirmadas; vigência a conferir no site do tribunal)
 - STJ 69: juros compensatórios desde a imissão (direta) ou a ocupação (indireta).

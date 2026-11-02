@@ -5,15 +5,35 @@ itens:
     url: https://legis.senado.leg.br/norma/579494
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Decreto-Lei 3.365/1941, arts. 9º, 10, 10-A, 10-B, 11, 13, 15, 15-A, 15-B, 20, 26, 27, 32 a 35 e 42"
+    referencia: "Decreto-Lei 3.365/1941, arts. 9º, 10, 10-A, 10-B, 11, 13, 15, 15-A, 15-B, 16 a 20, 26, 27, 32 a 35 e 42"
     status: LEI
     url: https://legis.senado.leg.br/norma/528452
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADI 2.332 do STF (arts. 15-A e 27, § 1º, do DL 3.365/1941) — registro na ficha da norma no Senado; não localizada na base de jurisprudência; relação com a redação da Lei 14.620/2023 a verificar"
+    referencia: "ADI 2.332 do STF, acórdão de 17/05/2018 (DOU 28/05/2018; republicado 06/07/2023) — arts. 15-A e 27, § 1º, do DL 3.365/1941"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/26913072
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.096.836, 2ª Turma, j. 27/08/2025 — base dos juros compensatórios pela redação da Lei 14.620/2023"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303262008
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "Validade da palavra 'até' reintroduzida no art. 15-A pela Lei 14.620/2023 em face da ADI 2.332 — sem decisão do STF conferida"
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/528452
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 14.620/2023 (nova redação do art. 15-A do DL 3.365/1941)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/37377355
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 219, 231 e 335"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 69 do STJ"
     status: CONFIRMADO

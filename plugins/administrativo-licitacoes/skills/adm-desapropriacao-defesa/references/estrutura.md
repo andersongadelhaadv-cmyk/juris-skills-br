@@ -21,7 +21,7 @@ Registrar expressamente se há ou não oposição à validade do decreto (art. 3
 
 ## 5. Juros e correção
 - Correção se a avaliação tiver mais de 1 ano (art. 26, § 2º).
-- Juros compensatórios: sobre a diferença entre oferta e valor fixado, desde a imissão (art. 15-A, caput; Súmula 69 do STJ; desapropriação indireta: desde a ocupação — Súmula 114 do STJ), destinados a lucros cessantes comprovados (§ 1º). Indicar a controvérsia sobre a base (80% da oferta, conforme a ADI 2.332, ou diferença integral na redação de 2023) para cálculo pela skill `juros-e-correcao`.
+- Juros compensatórios: sobre a diferença entre oferta e valor fixado, desde a imissão (art. 15-A, caput; Súmula 69 do STJ; desapropriação indireta: desde a ocupação — Súmula 114 do STJ), destinados a lucros cessantes comprovados (§ 1º). Separar os períodos: na vigência da Lei 14.620/2023, base na diferença entre a oferta e o valor fixado (STJ, AgInt no REsp 2.096.836); antes dela, diferença entre 80% da oferta e o valor fixado (ADI 2.332). Cálculo pela skill `juros-e-correcao`.
 - Juros moratórios: art. 15-B, a partir de 1º de janeiro do exercício seguinte ao em que o pagamento deveria ser feito.
 
 ## 6. Honorários

@@ -32,7 +32,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Decadência: 120 dias contados da ciência do ato (art. 23; Súmula 632 do STF confirma a validade do prazo). Prazo de direito material: corre em dias corridos, sem suspensão em férias forenses; confirme o termo final com `prazos-processuais`.
 - Pedido de reconsideração administrativo não interrompe o prazo (Súmula 430 do STF).
 - Omissão continuada e MS preventivo: em regra não há termo inicial fixo; registre o fundamento.
-- Informações da autoridade: 10 dias (art. 7º, I). Liminar em MS coletivo exige oitiva prévia do representante judicial em 72 horas (art. 22, § 2º) — dispositivo com registro de inconstitucionalidade na ADI 4.296 [VERIFICAR: alcance atual na fonte oficial do STF].
+- Informações da autoridade: 10 dias (art. 7º, I). Liminar em MS coletivo não depende mais de oitiva prévia do representante judicial em 72 horas: o art. 22, § 2º, foi declarado inconstitucional na ADI 4.296 (acórdão de 09/06/2021; DOU de 28/06/2021).
 
 ## Estrutura da peça (resumo; detalhe em [estrutura](references/estrutura.md))
 Endereçamento (competência pela autoridade) → qualificação do impetrante → indicação da autoridade coatora e da pessoa jurídica → síntese do ato → tempestividade → cabimento e direito líquido e certo → mérito → liminar → pedidos → valor da causa → documentos.
@@ -45,7 +45,7 @@ Endereçamento (competência pela autoridade) → qualificação do impetrante �
 - Antecipar defesas típicas: ilegitimidade passiva, decadência, necessidade de dilação probatória, via eleita.
 
 ## Fundamentos verificados (resumo; detalhe em [fundamentos](references/fundamentos.md))
-CF art. 5º, LXIX e LXX; Lei 12.016/2009 arts. 1º, 2º, 5º, 6º, 7º, 10, 14, 15, 21 a 23, 25; Súmulas STF 266, 269, 271, 430, 510, 625, 629, 632; Súmulas STJ 105 e 333.
+CF art. 5º, LXIX e LXX; Lei 12.016/2009 arts. 1º, 2º, 5º, 6º, 7º, 10, 14, 15, 21 a 23, 25; STF, ADI 4.296; Súmulas STF 266, 269, 271, 430, 510, 625, 629, 632; Súmulas STJ 105 e 333.
 
 ## Pedidos e requerimentos
 - Liminar para suspender o ato (art. 7º, III), com indicação objetiva do fundamento relevante e do risco de ineficácia.
@@ -61,7 +61,7 @@ CF art. 5º, LXIX e LXX; Lei 12.016/2009 arts. 1º, 2º, 5º, 6º, 7º, 10, 14, 
 - [ ] Competência definida pela autoridade (federal, estadual, originária de tribunal).
 - [ ] Toda afirmação de fato tem documento anexado e citado.
 - [ ] Não há recurso administrativo com efeito suspensivo pendente sem caução.
-- [ ] Liminar não cai nas vedações do art. 7º, § 2º, ou o pedido enfrenta o tema [VERIFICAR: ADI 4.296].
+- [ ] Pedido de liminar pronto para rebater a invocação do art. 7º, § 2º (vedações declaradas inconstitucionais na ADI 4.296) e conferido contra eventual restrição prevista em outra lei.
 - [ ] Pedido não busca efeitos patrimoniais pretéritos.
 - [ ] Coletivo: legitimidade, pertinência temática e documentos da entidade.
 - [ ] Custas recolhidas conforme regimento local.

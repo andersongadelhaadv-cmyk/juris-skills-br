@@ -32,7 +32,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 6. Prova de lucros cessantes, se houver pedido de juros compensatórios (art. 15-A, § 1º).
 
 ## Prazo e contagem
-- Contestação: rito subsidiário do CPC (art. 42) — 15 dias úteis [VERIFICAR: termo inicial conforme a forma de citação; conferir com `prazos-processuais`].
+- Contestação: feita a citação, a causa segue o rito ordinário (art. 19) e o CPC se aplica no que o decreto-lei for omisso (art. 42) — 15 dias úteis (CPC arts. 219 e 335). Termo inicial: a audiência de conciliação, se designada (CPC art. 335, I e II); nos demais casos, a data do CPC art. 231 conforme o modo da citação — mandado ou hora certa (inciso II e § 4º), precatória (inciso VI), edital (inciso IV); ver DL arts. 16 a 18. Conferir com `prazos-processuais`.
 - Notificação extrajudicial: 15 dias para aceitar ou rejeitar a oferta; silêncio = rejeição (art. 10-A, § 1º, IV).
 - Urgência: o expropriante deve requerer a imissão em 120 dias da alegação de urgência, sem renovação (art. 15, §§ 2º e 3º).
 - Caducidade do decreto: 5 anos sem acordo ou ajuizamento (art. 10).
@@ -47,12 +47,12 @@ Tempestividade → preliminares processuais (caducidade, falta de notificação,
 - Se não houver oposição expressa à validade do decreto na contestação, a propriedade é transferida desde logo e o processo segue só quanto ao litigioso (art. 34-A, § 4º) — decidir com o cliente antes de contestar.
 
 ## Fundamentos verificados (resumo; detalhe em [fundamentos](references/fundamentos.md))
-CF art. 5º, XXIV (justa e prévia indenização em dinheiro); DL 3.365/1941, arts. 9º, 10, 10-A, 10-B, 13, 15, 15-A, 15-B, 20, 26, 27, 32 a 34-A, 42. ADI 2.332 (registro no Senado). STJ: Súmulas 69, 114, 131.
+CF art. 5º, XXIV (justa e prévia indenização em dinheiro); DL 3.365/1941, arts. 9º, 10, 10-A, 10-B, 13, 15, 15-A, 15-B, 20, 26, 27, 32 a 34-A, 42. STF, ADI 2.332. STJ: Súmulas 69, 114, 131; AgInt no REsp 2.096.836 (base dos juros após a Lei 14.620/2023).
 
 ## Pedidos e requerimentos
 - Indenização justa, contemporânea da avaliação (art. 26), incluindo benfeitorias (art. 26, § 1º) e desvalorização da área remanescente (art. 27).
 - Correção do valor se passado mais de 1 ano da avaliação (art. 26, § 2º) — índice e cálculo pela skill `juros-e-correcao`.
-- Juros compensatórios sobre a diferença, desde a imissão (art. 15-A; Súmula 69 do STJ), e juros moratórios do art. 15-B — percentuais, base e interação com a EC 113/2021 calculados exclusivamente pela skill `juros-e-correcao` [VERIFICAR: compatibilidade da redação dada pela Lei 14.620/2023 ao art. 15-A com o julgamento da ADI 2.332].
+- Juros compensatórios sobre a diferença, desde a imissão (art. 15-A; Súmula 69 do STJ), e juros moratórios do art. 15-B — percentuais, base e interação com a EC 113/2021 calculados exclusivamente pela skill `juros-e-correcao`. Base: para os juros incidentes na vigência da Lei 14.620/2023, a diferença entre o preço ofertado e o valor fixado na sentença, pois os juros compensatórios seguem a lei vigente quando incidem (STJ, AgInt no REsp 2.096.836); para períodos anteriores, a redação então vigente, com a interpretação da ADI 2.332 (diferença entre 80% da oferta e o valor fixado).
 - Honorários entre 0,5% e 5% da diferença (art. 27, § 1º), sem o teto em reais declarado inconstitucional na ADI 2.332, incluindo juros na base (Súmula 131 do STJ).
 - Levantamento de até 80% do depósito (art. 33, § 2º), ou 100% em caso de concordância com a imissão (art. 34-A, § 2º), observado o art. 34.
 - Perícia com assistente técnico e quesitos.

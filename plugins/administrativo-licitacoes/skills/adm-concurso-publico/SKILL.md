@@ -31,7 +31,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 6. Lei da carreira (para exigências como idade, altura, psicotécnico, diploma).
 
 ## Prazo e contagem
-- MS: 120 dias da ciência do ato (Lei 12.016/2009, art. 23). Em omissão na nomeação, discutir o termo inicial (fim da validade do concurso) e registrar a dúvida [VERIFICAR: orientação atual do STJ sobre o termo inicial em caso de não nomeação].
+- MS: 120 dias da ciência do ato (Lei 12.016/2009, art. 23). Na omissão em nomear, o prazo começa após o término da validade do concurso, quando surge o direito líquido e certo (STJ, REsp 2.178.391, 2ª Turma, j. 12/11/2025, que reproduz o AgInt no RMS 71.315/SP; ver [fundamentos](references/fundamentos.md)). Havendo ato comissivo de preterição (nomeação fora da ordem, contratação precária), contar com cautela também da ciência desse ato.
 - Ação comum contra a Fazenda: prescrição quinquenal (Decreto 20.910/1932, art. 1º).
 - Validade do concurso: até 2 anos, prorrogável uma vez por igual período (CF art. 37, III). Prioridade dos aprovados durante a validade (art. 37, IV).
 - Conferir datas com `prazos-processuais`.

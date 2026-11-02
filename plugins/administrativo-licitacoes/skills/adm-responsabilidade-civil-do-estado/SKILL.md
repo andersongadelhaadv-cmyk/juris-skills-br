@@ -20,7 +20,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 ## Quando usar / quando não usar
 - Usar: dano causado por agente de pessoa jurídica de direito público ou de direito privado prestadora de serviço público, nessa qualidade; omissão estatal com dever específico de agir; contestação da Fazenda ou da concessionária.
 - Não usar para cobrar o agente público diretamente: a ação vai contra o Estado ou a prestadora; o agente é parte ilegítima (Tema 940 do STF). O regresso contra o agente cabe ao ente, por dolo ou culpa.
-- Sociedade de economia mista que explora atividade econômica (não prestadora de serviço público) segue o regime privado — avaliar o prazo prescricional à parte [VERIFICAR: alcance atual da Súmula 39 do STJ após o CC/2002].
+- Sociedade de economia mista que explora atividade econômica (não prestadora de serviço público) segue o regime privado — avaliar o prazo prescricional à parte: a Súmula 39 do STJ (20 anos) apoia-se no prazo do CC/1916; no CC/2002 a reparação civil prescreve em 3 anos (art. 206, § 3º, V), com a transição do art. 2.028; entendimento atual do STJ sobre a súmula não conferido em fonte oficial [VERIFICAR].
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
 1. Fato danoso: data, local, agente/órgão envolvido, ação ou omissão.

@@ -10,10 +10,10 @@ itens:
     url: https://legis.senado.leg.br/norma/580239
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADI 4.296 (arts. 7º, § 2º, e 22, § 2º, da Lei 12.016/2009) — registro na ficha da norma no Senado; não localizada na base de jurisprudência"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/580239
-    consultado_em: 2026-11-01
+    referencia: "ADI 4.296 do STF, acórdão de 09/06/2021 (DOU 28/06/2021; republicado 22/10/2021) — inconstitucionais os arts. 7º, § 2º, e 22, § 2º, da Lei 12.016/2009; constitucionais os arts. 1º, § 2º, 7º, III, 23 e 25"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/34223802
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 266 do STF"
     status: CONFIRMADO
