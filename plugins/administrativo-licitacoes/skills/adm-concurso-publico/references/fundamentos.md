@@ -22,7 +22,7 @@ Conferência: Constituição no texto compilado oficial; precedentes no JuriBase
 - STF 510 (competência delegada) e Súmulas 269/271 (efeitos patrimoniais em MS) — ver `adm-mandado-de-seguranca`.
 
 ## Decadência do MS na omissão em nomear
-- TJPI, 5ª Câmara de Direito Público, ApCív 0801108-88.2022.8.18.0032, rel. Des. Sebastião Ribeiro Martins, j. 26/02/2024: registra como firme no STJ que o prazo decadencial do MS tem início após o término da validade do certame, momento em que pode surgir o direito líquido e certo à nomeação. Uso: afastar a alegação de decadência quando a impetração ocorre até 120 dias após o fim da validade. O acórdão do STJ que fixou a orientação não foi identificado em fonte oficial; citar a tese pela transcrição do TJPI ou submeter acórdão do STJ a `verificacao-de-citacoes`.
+- STJ, REsp 2.178.391, 2ª Turma, rel. Min. Maria Thereza de Assis Moura, j. 12/11/2025: o termo inicial do prazo decadencial do MS é o término da validade do concurso, quando pode surgir o direito líquido e certo à nomeação; reproduz o AgInt no RMS 71.315/SP (1ª Turma, rel. Min. Regina Helena Costa, j. 26/02/2024). Uso: afastar a alegação de decadência quando a impetração ocorre até 120 dias após o fim da validade.
 - Prudência: se houver ato comissivo de preterição (nomeação fora da ordem, contratação precária), impetrar também dentro de 120 dias da ciência desse ato.
 
 ## Prescrição

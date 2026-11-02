@@ -22,7 +22,7 @@ Conferência: DL 3.365/1941 no texto compilado oficial e ficha da norma no Senad
 
 ## STF, ADI 2.332 (acórdão de 17/05/2018; DOU de 28/05/2018, republicado em 06/07/2023; dispositivo registrado na ficha da norma no Senado)
 - Art. 15-A, caput (redação de 2001): inconstitucional a palavra "até"; interpretação conforme para que a base de cálculo dos juros compensatórios seja a diferença entre 80% do preço ofertado e o valor fixado na sentença; mantido o percentual de 6% ao ano.
-- Art. 15-A, § 4º: inconstitucional. §§ 1º a 3º: constitucionais.
+- Art. 15-A: a ementa registrada no Senado menciona a constitucionalidade dos §§ 1º, 2º e 4º; o resultado quanto a cada parágrafo (em especial o § 3º) não foi conferido no acórdão do STF [VERIFICAR antes de citar].
 - Art. 27, § 1º: inconstitucional o teto nominal em reais; mantidos os limites percentuais (mínimo e máximo).
 - Lei 14.620/2023: deu nova redação ao art. 15-A, com a base "valor da diferença" e a expressão "de até 6% a.a.". Quanto à base, o STJ aplica a nova redação aos juros incidentes em sua vigência (precedente abaixo). Quanto à palavra "até", declarada inconstitucional na redação anterior, não há decisão do STF sobre a nova redação conferida em fonte oficial [VERIFICAR].
 
