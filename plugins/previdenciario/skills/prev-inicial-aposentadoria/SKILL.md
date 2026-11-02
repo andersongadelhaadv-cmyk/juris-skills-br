@@ -55,16 +55,18 @@ Regras da EC 103/2019 (texto conferido no Senado) e marcos de 2026:
 - Permanente (art. 19, para filiados depois de 13/11/2019): 62/65 anos e 15/20 anos de contribuição.
 - Cálculo geral (art. 26): média de 100% dos salários desde 07/1994; 60% + 2 pontos por ano acima de 20 anos (H) ou 15 anos (M).
 Conferir sempre os números na data exata da DER: a planilha é feita em dias (arts. 15, §2º).
+- Reafirmação da DER (STJ Tema 995): cabe fixar a DER no momento em que os requisitos se completam, inclusive entre o ajuizamento e o julgamento nas instâncias ordinárias (CPC, arts. 493 e 933), observada a causa de pedir. Se os requisitos se completaram entre o indeferimento e o ajuizamento, não é preciso novo requerimento ao INSS (STJ, AgInt no REsp 1.987.188). Pedir expressamente e indicar a data em que cada regra passaria a ser cumprida.
 
 ## Fundamentos verificados   (detalhe em [fundamentos](references/fundamentos.md))
 - EC 103/2019, arts. 3º, 15 a 20 e 26; CF, art. 201, §7º.
 - Lei 8.213/1991, arts. 25, II (carência de 180), 29-A, 48, 49.
 - STF Tema 350 (prévio requerimento), Tema 313 (sem decadência para concessão), Tema 334 (melhor benefício).
+- STJ Tema 995 (reafirmação da DER).
 - TNU, Súmula 75 (CTPS).
 
 ## Pedidos e requerimentos
 - Reconhecimento e averbação dos períodos controvertidos.
-- Concessão da aposentadoria pela regra mais vantajosa, desde a DER, ou com reafirmação da DER, se os requisitos forem completados depois.
+- Concessão da aposentadoria pela regra mais vantajosa, desde a DER, ou com reafirmação da DER para a data em que os requisitos forem completados (STJ Tema 995).
 - Pagamento das parcelas vencidas com correção e juros conforme `juros-e-correcao` do núcleo (não escrever índice na peça sem conferir lá).
 - Tutela de urgência para implantação, se houver idade avançada ou risco alimentar.
 - Justiça gratuita; prioridade de tramitação; honorários (fora do JEF de 1º grau).
@@ -76,7 +78,7 @@ Conferir sempre os números na data exata da DER: a planilha é feita em dias (a
 - [ ] Valor da causa calculado e competência (JEF x vara) definida.
 - [ ] Pedido de melhor benefício e de reafirmação da DER incluído.
 - [ ] Juros e correção remetidos ao núcleo.
-- [ ] Teto e salário mínimo de 2026 conferidos na portaria oficial [VERIFICAR].
+- [ ] Salário mínimo de 2026 (R$ 1.621,00, Decreto 12.797/2025) usado no valor da causa; teto do RGPS de 2026 não conferido em fonte oficial [VERIFICAR].
 
 ## Erros a evitar
 - Usar números de pontos ou idade de outro ano; os acréscimos são anuais desde 01/01/2020.

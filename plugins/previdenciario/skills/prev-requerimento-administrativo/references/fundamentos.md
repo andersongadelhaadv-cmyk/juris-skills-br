@@ -25,4 +25,5 @@ CTPS sem defeito formal goza de presunção relativa de veracidade, ainda que o 
 Arts. 48 e 49: dever de decidir e prazo de 30 dias após a instrução, prorrogável.
 
 ## Valores de 2026
-Teto do RGPS e salário mínimo de 2026: [VERIFICAR na portaria interministerial MPS/MF de 2026 publicada em fonte oficial gov.br/DOU]. Não foi possível abrir o ato oficial nesta verificação.
+- Salário mínimo: R$ 1.621,00 a partir de 01/01/2026 (Decreto 12.797/2025, art. 1º) — LEI.
+- Teto do RGPS de 2026: não conferido em fonte oficial [VERIFICAR na portaria interministerial MPS/MF de 2026 publicada no DOU].

@@ -44,11 +44,11 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 8. Pedidos e provas (perícia técnica).
 
 ## Requisitos e preliminares
-- Ruído: 80 dB até 05/03/1997; 90 dB de 06/03/1997 a 18/11/2003; 85 dB a partir de 19/11/2003 (STJ Tema 694, REsp 1.398.260/PR, tese reproduzida em AgInt no REsp 1.950.196). A partir de 19/11/2003, medição pela NHO-01/NR-15 com indicação da técnica no PPP (TNU Tema 174); com NEN superior a 85 dB, ou, sem NEN, nível de pico com perícia que comprove habitualidade (STJ, EDcl no REsp 1.886.795).
+- Ruído: 80 dB até 05/03/1997; 90 dB de 06/03/1997 a 18/11/2003; 85 dB a partir de 19/11/2003 (STJ Tema 694, REsp 1.398.260, tese reproduzida em AgInt no REsp 1.950.196). A partir de 19/11/2003, medição pela NHO-01/NR-15 com indicação da técnica no PPP (TNU Tema 174); com NEN superior a 85 dB, ou, sem NEN, nível de pico com perícia que comprove habitualidade (STJ, EDcl no REsp 1.886.795).
 - EPI: eficácia real afasta a especialidade, mas não para ruído (STF Tema 555); e não obsta o reconhecimento antes de 03/12/1998 (TNU Súmula 87).
 - Regras de concessão pós-EC 103: art. 21 (filiados até 13/11/2019): 66, 76 ou 86 pontos com 15, 20 ou 25 anos de exposição, sem acréscimo anual; art. 19, §1º, I (filiados depois): 55, 58 ou 60 anos com 15, 20 ou 25 anos.
 - Conversão em comum só para tempo até a entrada em vigor da EC 103 (art. 25, §2º).
-- Categoria profissional: vedada para fins de concessão após a EC 103 (CF, art. 201, §1º, II); o enquadramento por categoria para períodos antigos depende da legislação da época [VERIFICAR marco temporal antes de alegar].
+- Categoria profissional: vedada após a EC 103 (CF, art. 201, §1º, II). Para períodos anteriores à vigência da Lei 9.032, de 28/04/1995, admite-se o enquadramento pela categoria dos Decretos 53.831/1964 e 83.080/1979, ou a prova da exposição por qualquer meio, salvo ruído e calor, que sempre exigiram laudo (STJ, AgInt no AREsp 2.091.072).
 
 ## Fundamentos verificados   (detalhe em [fundamentos](references/fundamentos.md))
 - Lei 8.213, arts. 57 (15/20/25 anos; §8º vedação de continuar exposto) e 58 (PPP com base em LTCAT; §2º informação sobre EPI).

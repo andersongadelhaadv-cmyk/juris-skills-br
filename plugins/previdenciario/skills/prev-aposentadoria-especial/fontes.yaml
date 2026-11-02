@@ -15,7 +15,7 @@ itens:
     url: https://legis.senado.leg.br/norma/579494
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "STJ Tema 694 (REsp 1.398.260/PR) — tese confirmada via AgInt no REsp 1.950.196"
+    referencia: "STJ Tema 694 (REsp 1.398.260) — tese, relator e DJe confirmados via AgInt no REsp 1.950.196"
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102272317
     consultado_em: 2026-11-01
@@ -38,7 +38,22 @@ itens:
     referencia: "Número do tema repetitivo do STJ sobre NEN/pico de ruído"
     status: VERIFICAR
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001906666
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.060.462 (indica o REsp 1.398.260 como paradigma do Tema 694)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300959346
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.091.072 (enquadramento por categoria antes da Lei 9.032/1995)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200781346
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 9.032/1995 (28/04/1995)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/550908
+    consultado_em: 2026-11-02
   - tipo: tema
     referencia: "TNU Tema 174 (metodologia de aferição do ruído)"
     status: CONFIRMADO

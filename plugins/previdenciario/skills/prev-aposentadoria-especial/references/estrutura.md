@@ -7,10 +7,10 @@ JEF ou Vara Federal conforme o valor; prova do requerimento com os PPPs.
 | Período | Empresa/setor | Cargo | Agente | Intensidade | Técnica | Documento | INSS reconheceu? |
 
 ## 3. Fundamentação por época
-- Até 28/04/1995: [VERIFICAR regra de enquadramento por categoria e formulários da época].
+- Antes da vigência da Lei 9.032, de 28/04/1995: enquadramento pela categoria profissional listada nos Decretos 53.831/1964 e 83.080/1979, ou prova da exposição a agente desses decretos por qualquer meio; ruído e calor sempre exigiram laudo técnico (STJ, AgInt no AREsp 2.091.072). Depois: prova da efetiva exposição permanente, não ocasional nem intermitente.
 - Ruído por época: 80 dB / 90 dB / 85 dB, com a tese do STJ Tema 694.
 - A partir de 19/11/2003: metodologia NHO-01 ou NR-15 e NEN (TNU Tema 174; STJ EDcl no REsp 1.886.795).
-- Demais agentes: indicar o anexo regulamentar aplicável [VERIFICAR o decreto vigente na época de cada período].
+- Demais agentes: enquadrar cada período no decreto vigente à época da prestação do serviço (lei do tempo do trabalho, art. 6º da LINDB, conforme a tese do Tema 694): Decretos 53.831/1964 e 83.080/1979 nos períodos antigos; a partir de 06/03/1997, Anexo IV do Decreto 2.172/1997 e, depois, Anexo IV do Decreto 3.048/1999 (anexos citados na tese do Tema 694). Indicar no quadro de períodos o decreto e o código do agente.
 
 ## 4. EPI
 STF Tema 555: EPI realmente eficaz afasta a especialidade, salvo ruído; TNU Súmula 87: EPI não obsta reconhecimento antes de 03/12/1998. Questionar a mera anotação "S" no PPP sem prova de fornecimento, troca e fiscalização.

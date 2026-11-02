@@ -1,9 +1,9 @@
 itens:
   - tipo: lei
-    referencia: "EC 103/2019, arts. 3º, 4º, 8º, 10, 20, 26 e 36"
+    referencia: "EC 103/2019, arts. 3º, 4º, 8º, 10, 20 (inclusive §4º), 26 e 36"
     status: LEI
     url: https://legis.senado.leg.br/norma/31727296
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: lei
     referencia: "Constituição Federal, art. 40 (§§1º, 4º a 4º-C, 5º-A, 19)"
     status: LEI
@@ -34,3 +34,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=85.num.
     consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, arts. 1º e 3º (prescrição quinquenal contra a Fazenda)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/439925
+    consultado_em: 2026-11-02

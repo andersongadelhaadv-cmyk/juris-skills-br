@@ -25,15 +25,20 @@ itens:
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5945131&numeroProcesso=1276977&classeProcesso=RE&numeroTema=1102
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADIs 2110 e 2111 (STF) — não indexadas diretamente na base"
-    status: VERIFICAR
-    url: https://portal.stf.jus.br
-    consultado_em: 2026-11-01
+    referencia: "ADIs 2.110/DF e 2.111/DF (STF) — resultado e data da ata confirmados pela tese do Tema 1102"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5945131&numeroProcesso=1276977&classeProcesso=RE&numeroTema=1102
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "ADI 6096 (STF) — alcance sobre o art. 103 da Lei 8.213"
-    status: VERIFICAR
-    url: https://portal.stf.jus.br
-    consultado_em: 2026-11-01
+    referencia: "ADI 6096 (STF) — resultado e alcance confirmados via STJ, AgInt no REsp 2.067.701"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301324477
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "STJ Tema 1188 (REsp 2.056.866) — sentença trabalhista homologatória como início de prova"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103028324
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 85 do STJ"
     status: CONFIRMADO

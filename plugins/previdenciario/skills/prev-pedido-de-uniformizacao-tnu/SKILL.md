@@ -32,7 +32,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - 15 dias da intimação do acórdão recorrido, em dias úteis (RITNU, arts. 12 e 27, §2º). Contrarrazões no mesmo prazo (art. 12, §2º).
 - Agravo contra inadmissão: 15 dias (art. 14, §§2º e 3º). Verificar qual agravo cabe conforme o fundamento da inadmissão (§5º se ambos).
 - No JEF o INSS não tem prazo diferenciado (Lei 10.259, art. 9º).
-- Conferir alterações posteriores do regimento [VERIFICAR resoluções CJF após 2025 sobre os arts. 12 a 14].
+- O texto compilado do RITNU no portal do CJF (consultado em 02/11/2026) não registra alteração dos arts. 12 a 14; resoluções posteriores ainda não incorporadas não foram conferidas em fonte oficial [VERIFICAR].
 
 ## Estrutura da peça   (detalhe em [estrutura](references/estrutura.md))
 1. Petição de interposição à Turma Recursal de origem (dirigida ao Presidente).
@@ -66,7 +66,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - [ ] Nenhum pedido de reexame de prova.
 
 ## Erros a evitar
-- Usar paradigma da mesma turma recursal ou decisão monocrática sem caráter de jurisprudência dominante [VERIFICAR regra do regimento].
+- No pedido à TNU, usar paradigma de turma vinculada ao mesmo TRF: o RITNU exige decisão de turma recursal ou regional vinculada a outro TRF, ou súmula/entendimento dominante do STJ ou da TNU (art. 12, §1º). Divergência dentro da região vai à TRU (Lei 10.259, art. 14, §1º).
 - Fazer "cotejo" apenas com ementas.
 - Discutir valoração do laudo pericial (Súmula 42 TNU).
 - Citar paradigma de memória: sempre confirmar número e link.

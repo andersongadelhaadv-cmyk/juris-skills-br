@@ -44,8 +44,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101812972
     consultado_em: 2026-11-01
-  - tipo: resolucao
-    referencia: "Salário mínimo de 2026 (ato oficial)"
-    status: VERIFICAR
-    url: https://www.gov.br/previdencia
-    consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 12.797/2025 (salário mínimo de R$ 1.621,00 a partir de 01/01/2026)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/41882097
+    consultado_em: 2026-11-02

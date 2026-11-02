@@ -18,7 +18,8 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Quando usar / quando não usar
 - Usar: benefício decorrente de acidente do trabalho, doença profissional ou do trabalho (inclusive equiparados do art. 21); conversão de benefício comum (B31) em acidentário (B91); auxílio-acidente por sequela que reduza a capacidade.
-- Auxílio-acidente por acidente de qualquer natureza (não laboral): é previdenciário comum, de competência federal [VERIFICAR enquadramento do caso].
+- Auxílio-acidente por acidente de qualquer natureza (sem relação com o trabalho): benefício previdenciário comum, de competência federal, pois a exceção do CF, art. 109, I, alcança só as causas de acidente de trabalho. Definir pelos fatos (CAT, nexo, NTEP) se o caso é acidentário antes de escolher a Justiça.
+- Pensão por morte de segurado vítima de acidente do trabalho: competência da Justiça Federal (STJ, CC 197.182); ver `prev-pensao-por-morte`.
 - Indenização contra o empregador: Justiça do Trabalho (outra área).
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
@@ -45,7 +46,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Requisitos e preliminares
 - Competência: Justiça Estadual (CF, art. 109, I, exclui acidentes de trabalho da Justiça Federal; STJ Súmula 15; STF Súmula 501). Juntar prova de notificação do evento ao INSS (CAT) (art. 129, II).
-- Segurados cobertos: empregado, doméstico, avulso e segurado especial (art. 19; art. 18, §1º [VERIFICAR rol do auxílio-acidente no art. 18]).
+- Segurados cobertos: empregado, doméstico, avulso e segurado especial (art. 19); só eles recebem auxílio-acidente (art. 18, §1º: incisos I, II, VI e VII do art. 11). Contribuinte individual e facultativo não têm direito ao auxílio-acidente.
 - Nexo: doença profissional ou do trabalho (art. 20), concausa e equiparações (art. 21), NTEP (art. 21-A). Não são doença do trabalho: degenerativa, inerente ao grupo etário, sem incapacidade e endêmica (art. 20, §1º), salvo prova de relação com o trabalho.
 - Auxílio-acidente (art. 86): sequela consolidada que reduza a capacidade para o trabalho habitual; 50% do salário de benefício; não acumula com aposentadoria (§2º; STJ Súmula 507 para benefícios anteriores a 11/11/1997). Perda auditiva exige nexo e redução da capacidade (§4º); grau mínimo regulamentar não exclui o benefício (STJ Súmula 44). STJ Tema 416: basta lesão que implique redução da capacidade para o labor habitual.
 - Sem carência (art. 26, I e II).

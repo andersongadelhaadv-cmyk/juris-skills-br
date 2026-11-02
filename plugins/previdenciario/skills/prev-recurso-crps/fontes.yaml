@@ -13,9 +13,14 @@ itens:
     referencia: "Decreto 3.048/1999, art. 305 (prazo de 30 dias) — redação atual não conferida"
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/399211
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: resolucao
-    referencia: "Regimento interno do CRPS (hipóteses de recurso especial)"
+    referencia: "Portaria MPS 125/2026 (Regimento Interno do CRPS vigente), alterada pelas Portarias MPS 235/2026 e 462/2026 — identificação do ato"
+    status: CONFIRMADO
+    url: https://www.gov.br/previdencia/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/conselho-de-recursos-da-previdencia-social/regimento-interno
+    consultado_em: 2026-11-02
+  - tipo: resolucao
+    referencia: "Regimento Interno do CRPS (Portaria MPS 125/2026): hipóteses de recurso especial, alçada e embargos"
     status: VERIFICAR
-    url: https://www.gov.br/previdencia
-    consultado_em: 2026-11-01
+    url: https://www.gov.br/previdencia/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/conselho-de-recursos-da-previdencia-social/regimento-interno
+    consultado_em: 2026-11-02

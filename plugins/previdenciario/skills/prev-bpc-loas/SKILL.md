@@ -67,7 +67,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - [ ] Prova de gastos do art. 20-B, III (receitas, notas, negativas do SUS).
 - [ ] CadÚnico atualizado e biometria regular.
 - [ ] Impedimento de longo prazo (2 anos) documentado.
-- [ ] Valor do salário mínimo de 2026 conferido em fonte oficial antes de calcular a renda [VERIFICAR].
+- [ ] Per capita comparada com o salário mínimo vigente em cada data (2026: R$ 1.621,00, Decreto 12.797/2025; 1/4 = R$ 405,25).
 
 ## Erros a evitar
 - Escrever "renda inferior a 1/4" (a lei vigente diz igual ou inferior).

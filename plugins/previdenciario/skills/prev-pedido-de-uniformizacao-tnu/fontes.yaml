@@ -5,15 +5,15 @@ itens:
     url: https://legis.senado.leg.br/norma/552135
     consultado_em: 2026-11-01
   - tipo: resolucao
-    referencia: "Regimento Interno da TNU (Resolução CJF 586/2019), arts. 12 a 14, 27 e 31"
+    referencia: "Regimento Interno da TNU (Resolução CJF 586/2019), arts. 12 (inclusive §1º), 13, 14, 27, 31 e 46"
     status: LEI
     url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/regimento_interno/res-586-2019-regimento-interno-da-tnu.pdf
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: resolucao
-    referencia: "Alterações do RITNU posteriores a 2025 nos arts. 12 a 14"
+    referencia: "Alterações do RITNU posteriores a 2025 nos arts. 12 a 14 (compilado sem notas; atos não incorporados não conferidos)"
     status: VERIFICAR
     url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/regimento_interno/atos-oficiais/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 42 da TNU"
     status: CONFIRMADO

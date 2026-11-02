@@ -21,5 +21,10 @@
 - TNU Súmula 41: atividade urbana de membro do grupo não descaracteriza, por si só, o segurado especial.
 
 ## Pendências
-- Tese repetitiva do STJ sobre extinção sem resolução de mérito por ausência de início de prova material: número não confirmado na base [VERIFICAR].
-- Tese repetitiva do STJ sobre aposentadoria híbrida com tempo rural remoto: número não confirmado na base [VERIFICAR].
+- STJ, REsp 1.352.721/SP (Corte Especial, repetitivo): a ausência de conteúdo probatório eficaz a instruir a inicial é falta de pressuposto de constituição e desenvolvimento válido do processo e leva à extinção sem julgamento do mérito; a flexibilização vale para o processo em curso, não para demanda já coberta pela coisa julgada (rescisória do CPC, art. 966, VII). Conferido pela transcrição no AgInt no AREsp 2.285.370 (STJ, 1ª Turma, Rel. Gurgel de Faria, j. 23/10/2023). O número do tema correspondente não foi conferido em fonte oficial: citar pelo número do processo. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300214239
+- STJ Tema 1007: "o tempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8.213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3o. da Lei 8.213/1991, seja qual for a predominância do labor misto exercido no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo". Tese transcrita no AgRg no REsp 1.525.744 (STJ, 1ª Turma, Rel. Paulo Sérgio Domingues, j. 20/02/2024) e reproduzida no Tema 168 da TNU. Fontes: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201402031894 e https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-168
+- TNU Tema 131: na híbrida, o requisito etário é o mesmo da aposentadoria por idade urbana, e é irrelevante a natureza da atividade no período imediatamente anterior à idade ou ao requerimento. Fonte: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-131
+
+## CF e EC 103 — LEI
+- CF, art. 201, §7º, I (redação da EC 103): 65 anos (H) e 62 anos (M) na aposentadoria urbana.
+- EC 103, art. 18: transição da idade da mulher (60 anos em 2019, + 6 meses por ano a partir de 2020, até 62).

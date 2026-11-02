@@ -73,7 +73,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Deixar de pedir o acerto do CNIS, levando o INSS a calcular com remunerações ausentes.
 - Perder a janela de 90/180 dias da pensão por morte (art. 74, I) por esperar documentos.
 - Prometer prazo de análise ao cliente; o prazo legal é frequentemente descumprido.
-- Citar valor de teto ou salário mínimo de 2026 sem conferir a portaria interministerial vigente [VERIFICAR].
+- Citar o teto do RGPS de 2026 sem conferir a portaria interministerial vigente [VERIFICAR]. Salário mínimo de 2026: R$ 1.621,00 (Decreto 12.797/2025).
 
 ## Integração com o núcleo
 - `prazos-processuais` para o controle das datas de exigência e de recurso.

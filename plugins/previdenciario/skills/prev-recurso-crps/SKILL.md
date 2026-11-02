@@ -17,7 +17,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Quando usar / quando não usar
 - Usar: indeferimento, cessação, suspensão ou concessão em valor/espécie inferior ao devido; decisão sobre CNIS ou atividade rural de segurado especial (art. 126, I e III); resultado de reavaliação de benefício por incapacidade (art. 60, §11).
-- Recurso ordinário: da decisão do INSS para a Junta de Recursos. Recurso especial: do acórdão da Junta para a Câmara de Julgamento, nas hipóteses do regimento do CRPS [VERIFICAR hipóteses de cabimento no regimento interno vigente].
+- Recurso ordinário: da decisão do INSS para a Junta de Recursos. Recurso especial: do acórdão da Junta para a Câmara de Julgamento, nas hipóteses do Regimento Interno do CRPS vigente, aprovado pela Portaria MPS 125/2026 (alterada pelas Portarias MPS 235/2026 e 462/2026); as hipóteses de cabimento e a alçada não foram conferidas em fonte oficial [VERIFICAR no texto compilado publicado pelo MPS].
 - Não usar quando já houver ação judicial com o mesmo pedido: a propositura importa renúncia ao recurso e desistência do já interposto (art. 126, §3º). Avaliar com o cliente a via mais rápida antes de recorrer.
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
@@ -28,7 +28,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 5. Se há ação judicial em curso ou planejada.
 
 ## Prazo e contagem
-- 30 dias, contados da ciência da decisão, para o recurso ordinário e para o recurso especial; mesmo prazo para contrarrazões (Decreto 3.048/1999, art. 305, §1º) [VERIFICAR redação atual do art. 305 no texto compilado; o Senado só disponibiliza a publicação original].
+- 30 dias, contados da ciência da decisão, para o recurso ordinário e para o recurso especial; mesmo prazo para contrarrazões (Decreto 3.048/1999, art. 305, §1º). Redação atual do art. 305 não conferida em fonte oficial [VERIFICAR no texto compilado do Decreto 3.048 e no regimento do CRPS].
 - Para reavaliação de benefício por incapacidade, a Lei 8.213, art. 60, §11, fixa expressamente prazo máximo de 30 dias para recurso ao CRPS.
 - Recurso pode ser interposto diretamente ao CRPS nos casos dos incisos I e III do art. 126, com notificação ao INSS para reanálise em até 30 dias (art. 126, §4º).
 - Use `prazos-processuais` para o controle; o prazo administrativo segue as regras do regulamento, não o CPC.

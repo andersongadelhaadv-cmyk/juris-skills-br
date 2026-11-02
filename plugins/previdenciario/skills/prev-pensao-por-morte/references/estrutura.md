@@ -1,7 +1,7 @@
 # Roteiro da ação de pensão por morte
 
 ## 1. Competência e interesse
-Justiça Federal/JEF. Requerimento e decisão do INSS. Se houver outro dependente já recebendo, incluí-lo no polo passivo (litisconsórcio) [VERIFICAR necessidade no caso concreto].
+Justiça Federal/JEF, inclusive quando o óbito decorreu de acidente do trabalho (STJ, CC 197.182). Requerimento e decisão do INSS. Se houver outro dependente já recebendo, incluí-lo no polo passivo, porque a procedência reduz a cota dele; a obrigatoriedade do litisconsórcio não foi conferida em fonte oficial [VERIFICAR].
 
 ## 2. Instituidor
 Data do óbito; categoria; última contribuição; período de graça; ou aposentadoria em manutenção; ou direito adquirido (Súmula 416 STJ).

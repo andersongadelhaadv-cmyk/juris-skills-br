@@ -18,7 +18,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Quando usar / quando não usar
 - Usar: servidor titular de cargo efetivo da União (inclusive autarquias e fundações federais).
-- Servidores de Estados, DF e Municípios: as regras da EC 103 para a União NÃO se aplicam automaticamente; dependem de reforma local (EC 103, arts. 20, §4º, e 36, II) [VERIFICAR legislação do ente].
+- Servidores de Estados, DF e Municípios: as regras da EC 103 para a União NÃO se aplicam automaticamente; continuam valendo para eles as regras anteriores até que a legislação do respectivo regime seja alterada (EC 103, arts. 20, §4º, e 36, II). Pedir ao cliente a lei local de reforma, se houver, e aplicar as regras dela.
 - Empregado público celetista: RGPS (ver `prev-inicial-aposentadoria`).
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
@@ -30,8 +30,8 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 6. Requerimento administrativo e decisão do órgão.
 
 ## Prazo e contagem
-- Ação contra a União/autarquia: prescrição quinquenal das parcelas [VERIFICAR fundamento no Decreto 20.910/1932 e STJ Súmula 85].
-- Vara Federal ou JEF (JEF não julga anulação de ato administrativo, salvo previdenciário — Lei 10.259, art. 3º, §1º, III) [VERIFICAR se o caso se enquadra na exceção].
+- Ação contra a União/autarquia: prescrição de 5 anos (Decreto 20.910/1932, art. 1º), que atinge progressivamente as prestações (art. 3º); se o próprio direito não foi negado, só se perdem as parcelas anteriores ao quinquênio do ajuizamento (STJ Súmula 85). Se houve ato expresso que negou o próprio direito, avaliar a prescrição contada desse ato (art. 1º: "da data do ato ou fato").
+- Vara Federal ou JEF: o JEF não julga anulação ou cancelamento de ato administrativo federal, salvo o de natureza previdenciária ou de lançamento fiscal (Lei 10.259, art. 3º, §1º, III). Se o pedido exigir anular ato funcional sem natureza previdenciária (ex.: enquadramento de cargo), propor na Vara Federal.
 - Prazos processuais em dias úteis; União tem prazo em dobro fora do JEF (CPC, art. 183).
 
 ## Estrutura da peça   (detalhe em [estrutura](references/estrutura.md))
