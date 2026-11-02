@@ -25,4 +25,4 @@ Redação conferida em 01/11/2026 no texto compilado da CF e do CPC.
 | 735 | Não cabe RE contra acórdão que defere liminar | Limite |
 
 ## Temas de repercussão geral
-Nenhum tema específico é citado nesta skill. Todo tema que o usuário ou o modelo queira mencionar deve passar por `verificacao-de-citacoes`; se não confirmado, escreva a tese sem número com "[VERIFICAR: tema de repercussão geral]".
+Nenhum tema específico é citado nesta skill. Todo tema que o usuário ou o modelo queira mencionar deve passar por `verificacao-de-citacoes`; se não confirmado, escreva só a tese, sem número, com a marca de pendência definida naquela skill.

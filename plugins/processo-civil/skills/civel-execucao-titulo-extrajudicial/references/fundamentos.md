@@ -23,13 +23,15 @@ Redação conferida em 01/11/2026 no texto compilado do CPC.
 | CPC art. 921 | Suspensão e prescrição intercorrente | Prazo |
 
 ## Tema repetitivo
-- **Tema 1137 do STJ** (CONFIRMADO) — REsp 1.955.539, Segunda Seção, rel. Min. Marco Buzzi, j. 04/12/2025. Tese: nas execuções cíveis regidas exclusivamente pelo CPC, os meios executivos atípicos são cabíveis desde que, cumulativamente, (i) se ponderem a efetividade e a menor onerosidade; (ii) sejam usados de modo prioritariamente subsidiário; (iii) a decisão tenha fundamentação adequada ao caso; (iv) se observem contraditório, proporcionalidade e razoabilidade, inclusive quanto à duração. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102575119. A base não registra revisão posterior; confira a situação do tema no portal de repetitivos do STJ antes de citar.
+- **Tema 1137 do STJ** (CONFIRMADO) — REsp 1.955.539, Segunda Seção, rel. Min. Marco Buzzi, j. 04/12/2025. Tese: nas execuções cíveis regidas exclusivamente pelo CPC, os meios executivos atípicos são cabíveis desde que, cumulativamente, (i) se ponderem a efetividade e a menor onerosidade; (ii) sejam usados de modo prioritariamente subsidiário; (iii) a decisão tenha fundamentação adequada ao caso; (iv) se observem contraditório, proporcionalidade e razoabilidade, inclusive quanto à duração. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102575119. Não há registro conferido de revisão posterior; confira a situação do tema no portal de repetitivos do STJ antes de citar.
 
 ## Súmula
 - **Súmula 375 do STJ** (CONFIRMADO): fraude à execução depende do registro da penhora ou de prova da má-fé do terceiro adquirente. Uso: justificar a averbação imediata (art. 828).
 
-## Pendência
-- Constitucionalidade do art. 139, IV, no STF: não conferida em fonte oficial [VERIFICAR: ação direta no STF sobre o art. 139, IV, do CPC e tese fixada].
+## Constitucionalidade do art. 139, IV
+- **STF, ADI 5.941/DF, Plenário, rel. Min. Luiz Fux, j. 09/02/2023** (CONFIRMADO no portal do STF) — o pedido foi julgado improcedente e o art. 139, IV, declarado constitucional, por maioria. Segundo a divulgação oficial, as medidas atípicas não podem avançar sobre direitos fundamentais, devem respeitar proporcionalidade, razoabilidade e dignidade da pessoa humana, ser a forma menos gravosa ao executado e ter a adequação examinada caso a caso. Fonte: https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=502102
+- **STJ, RHC 216.240, Terceira Turma, rel. Min. Humberto Martins, j. 23/06/2025** (CONFIRMADO) — registra que, na ADI 5.941/DF, o STF rejeitou o pedido de declarar inconstitucionais, como medidas possíveis com base no dispositivo, a apreensão de CNH ou suspensão do direito de dirigir, a apreensão de passaporte e as proibições de participar de concurso e de licitação públicos. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501781621
+- Como usar: a ADI afasta a tese de inconstitucionalidade em abstrato; o pedido concreto continua sujeito aos requisitos do Tema 1137 (subsidiariedade, fundamentação, contraditório, proporcionalidade). Demonstre as tentativas frustradas de penhora e o padrão de vida incompatível com a alegada falta de bens.
 
 ## Juros
 Demonstrativo: usar `juros-e-correcao`. Sem pactuação válida, aplica-se o regime legal vigente (cível desde 30/08/2024: IPCA + taxa legal, CC arts. 389, p.ú., e 406).

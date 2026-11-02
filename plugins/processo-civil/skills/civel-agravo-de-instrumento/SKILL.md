@@ -42,7 +42,7 @@ Petição ao tribunal → qualificação e advogados (art. 1.016) → tempestivi
 - Efeito suspensivo ou antecipação da pretensão recursal pelo relator em 5 dias (art. 1.019, I).
 
 ## Fundamentos verificados
-CPC arts. 356, §5º, 932, 1.001, 1.003, 1.009, §1º, 1.015 a 1.020; Tema 988 do STJ [VERIFICAR número]; REsp 2.129.011 (STJ, 2026). Detalhe em [fundamentos](references/fundamentos.md).
+CPC arts. 356, §5º, 932, 1.001, 1.003, 1.009, §1º, 1.015 a 1.020; Tema 988 do STJ (REsp 1.696.396/MT e 1.704.520/MT, Corte Especial); REsp 2.129.011 (STJ, 2026). Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Efeito suspensivo ou tutela antecipada recursal, liminarmente.

@@ -16,5 +16,10 @@ Redação conferida em 01/11/2026 no texto compilado do CPC (inclusive alteraç�
 ## Súmula
 - **Súmula 182 do STJ** (CONFIRMADO): "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." Editada sob o CPC/1973; o STJ a aplica, por analogia, ao dever de impugnação específica, hoje previsto no art. 1.021, §1º.
 
+## Agravo interno no STJ e representação (Súmula 115)
+- **Súmula 115 do STJ** (CONFIRMADO): na instância especial, é inexistente o recurso interposto por advogado sem procuração nos autos. Ressalva: o STJ a aplica junto com os arts. 76, §2º, I, e 932, parágrafo único, do CPC — primeiro intima para regularizar; só se o vício persistir o recurso não é conhecido.
+- **STJ, AgInt no AREsp 2.652.718, Terceira Turma, rel. Min. Marco Aurélio Bellizze, j. 23/09/2024** (CONFIRMADO) — agravo interno desprovido porque, intimada, a parte não completou a cadeia de procuração e substabelecimentos; documentos tardios não foram aproveitados. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401816750
+- Como usar: se a decisão agravada aplicou a Súmula 115, o agravo interno só prospera mostrando que a procuração já estava nos autos antes da interposição ou que não houve intimação válida para regularizar; juntar o instrumento agora, depois do prazo, não resolve. O próprio agravo interno também precisa estar assinado por advogado com poderes.
+
 ## Precedente conferido
 - **STJ, AgInt nos EDcl no REsp 2.245.277, Quarta Turma, rel. Min. Maria Isabel Gallotti, j. 12/08/2026** (CONFIRMADO). A ementa registra que a falta de impugnação de fundamentos autônomos não leva ao não conhecimento do agravo interno, mas, no máximo, à preclusão do tema correspondente. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504201325. Como usar: em contrarrazões ou para afastar o não conhecimento total; mesmo assim, impugne todos os fundamentos.

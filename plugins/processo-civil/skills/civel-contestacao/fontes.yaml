@@ -9,3 +9,8 @@ itens:
     status: LEI
     url: https://legis.senado.leg.br/norma/38588813
     consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 65 (prorrogação da competência relativa) e art. 337, §§5º e 6º (arbitragem e incompetência relativa; renúncia ao juízo arbitral)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-02
