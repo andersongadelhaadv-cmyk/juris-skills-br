@@ -24,7 +24,7 @@
 | LC 227/2026, arts. 146 a 164 | Normas gerais do ITCMD (Livro II): incidência, não incidência, base de cálculo, alíquotas, contribuintes, competência, inclusive exterior | Ver quadro abaixo |
 
 ### LC 227/2026 — ITCMD (texto conferido na publicação oficial)
-Lei Complementar 227, de 13/01/2026 (DOU 14/01/2026). As regras do ITCMD estão no Livro II (arts. 146 a 164) e produzem efeitos desde a publicação (art. 182, III). A cobrança continua dependendo da lei do Estado competente vigente na data do óbito; criação ou aumento de tributo na lei estadual observa a anterioridade (CF 150, III, b e c).
+Lei Complementar 227, de 13/01/2026 (DOU 14/01/2026). As regras do ITCMD estão no Livro II (arts. 146 a 164) e produzem efeitos desde a publicação (art. 182 [VERIFICAR inciso]). A cobrança continua dependendo da lei do Estado competente vigente na data do óbito; criação ou aumento de tributo na lei estadual observa a anterioridade (CF 150, III, b e c).
 - Art. 147, IV: transmissão causa mortis inclui a reversão gratuita de bens de trust no exterior ao beneficiário por morte do instituidor.
 - Art. 150: não incidência sobre renúncia pura e simples em favor do monte (sem ato de aceitação); benefício de previdência complementar, seguro, pecúlio e negócios similares; extinção de usufruto que consolide a propriedade no instituidor; extinção de fideicomisso; certas transmissões ligadas a trust.
 - Art. 152: base de cálculo = valor de mercado; §1º: dedução das dívidas do falecido com origem, autenticidade e preexistência comprovadas; §2º: aplicações financeiras pelo valor de mercado da aplicação.

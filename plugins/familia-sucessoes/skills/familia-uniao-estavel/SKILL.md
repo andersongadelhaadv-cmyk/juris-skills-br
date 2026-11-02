@@ -29,7 +29,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 7. Post mortem: herdeiros do falecido (serão os réus), inventário aberto?
 
 ## Prazo e contagem
-- Reconhecimento: sem prazo. Petição de herança prescreve (Súmula 149 STF) e o prazo conta da abertura da sucessão, sem suspensão ou interrupção pela ação de reconhecimento do vínculo (STJ Tema 1200). Duração do prazo: não conferida em fonte oficial [VERIFICAR: prazo aplicável à petição de herança].
+- Reconhecimento: sem prazo. Petição de herança prescreve (Súmula 149 STF) e o prazo conta da abertura da sucessão, sem suspensão ou interrupção pela ação de reconhecimento do vínculo (STJ Tema 1200, firmado para a investigação de paternidade; aplicação à união estável por analogia). Duração do prazo: não conferida em fonte oficial [VERIFICAR: prazo aplicável à petição de herança].
 - Prazos processuais pelo rito das ações de família; contagem via `prazos-processuais`.
 
 ## Estrutura da peça

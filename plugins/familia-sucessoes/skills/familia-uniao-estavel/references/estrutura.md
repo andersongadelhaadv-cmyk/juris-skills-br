@@ -21,4 +21,4 @@
 Sem nascituro ou filhos incapazes (ou com questões dos filhos já resolvidas judicialmente); advogado; declaração de período, regime, partilha, alimentos e nome; declaração sobre obrigações tributárias da partilha.
 
 ## C. Contrato de convivência (consultivo)
-Período reconhecido, regime escolhido (escrito, CC 1.725), regras sobre bens futuros. Alertar o cliente: a escolha ou alteração do regime por contrato escrito só produz efeitos dali em diante, e cláusula de retroatividade é inválida segundo o STJ (REsp 2.246.314 e REsp 1.863.879); para o período anterior vale a comunhão parcial.
+Período reconhecido, regime escolhido (escrito, CC 1.725), regras sobre bens futuros. Alertar o cliente: a escolha ou alteração do regime por contrato escrito só produz efeitos dali em diante, e cláusula de retroatividade é inválida, salvo hipóteses excepcionais, segundo o STJ (REsp 2.246.314 e REsp 1.863.879); para o período anterior vale a comunhão parcial.

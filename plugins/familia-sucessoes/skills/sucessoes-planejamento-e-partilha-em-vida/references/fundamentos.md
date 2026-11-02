@@ -24,7 +24,7 @@
 
 ## Tributário
 - **CF 155 §1º** (EC 132/2023): imóveis — Estado da situação; móveis, títulos e créditos — Estado do domicílio do falecido ou do doador; progressividade obrigatória (inciso VI).
-- **LC 227/2026** (13/01/2026; DOU 14/01/2026), Livro II, arts. 146 a 164 (texto conferido na publicação oficial; efeitos desde a publicação, art. 182, III):
+- **LC 227/2026** (13/01/2026; DOU 14/01/2026), Livro II, arts. 146 a 164 (texto conferido na publicação oficial; efeitos desde a publicação, art. 182 [VERIFICAR inciso]):
   - art. 147, IV: reversão gratuita de bens de trust no exterior ao beneficiário, por morte do instituidor, é transmissão causa mortis;
   - art. 150: não incide sobre renúncia pura e simples em favor do monte (I); extinção de usufruto que consolide a propriedade no instituidor (II); benefício de previdência complementar, seguro e pecúlio, ainda que o beneficiário seja terceiro (III); extinção de fideicomisso e certas transmissões ligadas a trust (IV a VI);
   - art. 152: base de cálculo = valor de mercado;
