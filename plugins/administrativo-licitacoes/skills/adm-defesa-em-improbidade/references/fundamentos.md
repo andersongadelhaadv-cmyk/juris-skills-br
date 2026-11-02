@@ -1,6 +1,6 @@
 # Fundamentos verificados — improbidade administrativa
 
-Conferência: Lei 8.429/1992 (com Lei 14.230/2021) no texto compilado oficial; ficha da norma no Senado com decisões do STF registradas. Data: 01/11/2026.
+Conferência: Lei 8.429/1992 (com Lei 14.230/2021) no texto compilado oficial; ficha da norma no Senado com decisões do STF registradas. Data: 01/11/2026; decisões do STF revistas em 02/11/2026.
 
 ## Lei 8.429/1992
 - Art. 1º, § 1º: improbidade = condutas dolosas dos arts. 9º, 10 e 11.
@@ -17,12 +17,13 @@ Conferência: Lei 8.429/1992 (com Lei 14.230/2021) no texto compilado oficial; f
 - Art. 21: independência relativa das instâncias; § 4º absolvição criminal colegiada; § 5º compensação de sanções.
 - Art. 23: prescrição de 8 anos; §§ 1º a 8º.
 
-## Decisões do STF registradas na ficha da norma (Senado)
-- ADIs 7.042 e 7.043 (acórdão de 31/08/2022): inconstitucionalidade parcial sem redução de texto do art. 17, caput, §§ 6º-A e 10-C, e do art. 17-B, caput, §§ 5º e 7º (restabelece legitimidade concorrente da pessoa jurídica lesada); art. 17, § 20, inconstitucional em parte (não há obrigatoriedade de defesa judicial pela assessoria jurídica); art. 17, § 14, constitucional.
-- ADIs 7.156 e 7.236 (acórdão de 01/07/2026, DOU de 05/08/2026): constitucionais os incisos II a V do § 4º do art. 23; inconstitucional, no § 5º do art. 23, a expressão "pela metade do prazo previsto no caput deste artigo".
-- Outros dispositivos trazem a anotação "Vide ADI 7236" ou "Vide ADI 7156" no texto compilado (ex.: arts. 1º, § 8º; 12, §§ 1º, 4º e 10; 17, §§ 10-C, 10-D, 10-F, I, e 19, II; 17-C, § 2º; 21, § 4º; 23-C). A base de jurisprudência não localizou as ADIs; o resultado do julgamento para esses dispositivos deve ser conferido no acórdão [VERIFICAR].
+## Decisões do STF (dispositivo publicado no DOU e registrado na ficha da norma no Senado)
+- ADIs 7.042 e 7.043 (acórdão de 31/08/2022; DOU de 05/09/2022, republicado em 10/03/2023): procedência parcial. Legitimidade concorrente e disjuntiva do Ministério Público e da pessoa jurídica interessada para a ação e para o acordo de não persecução civil (interpretação conforme, sem redução de texto, do art. 17, caput, §§ 6º-A e 10-C, e do art. 17-B, caput, §§ 5º e 7º); art. 17, § 20, inconstitucional em parte (não há obrigatoriedade de defesa judicial do agente pela advocacia pública, salvo lei específica); art. 17, § 14, constitucional; art. 3º da Lei 14.230/2021 inconstitucional.
+- ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026; DOU de 05/08/2026): constitucionais os incisos II a V do § 4º do art. 23; inconstitucional, no § 5º do art. 23, a expressão "pela metade do prazo previsto no caput deste artigo", com prazo máximo de 20 anos de prescrição. Ficaram vencidos, nesse ponto, ministros que julgavam improcedente o pedido e modulavam os efeitos; a modulação não integra a parte vencedora do dispositivo publicado.
+- A mesma decisão registra que os arts. 8º e 21, § 4º, foram julgados na sessão de 25/06/2026, sem indicar o resultado. Outros dispositivos trazem a anotação "Vide ADI 7236" ou "Vide ADI 7156" no texto compilado (ex.: arts. 1º, § 8º; 12, §§ 1º, 4º e 10; 16, §§ 3º, 4º e 10; 17, §§ 10-C, 10-D, 10-F, I, e 19, II; 17-C, § 2º; 21, § 4º; 23-C). O resultado para esses dispositivos não foi conferido em fonte oficial [VERIFICAR]; até lá, a peça não deve afirmar que estão válidos ou invalidados.
+- Reflexo da decisão sobre a prescrição intercorrente (art. 23, § 8º): não conferido em fonte oficial [VERIFICAR].
 
-## Precedentes (confirmados na base de jurisprudência)
+## Precedentes (conferidos em fonte oficial)
 - STF, Tema 1199 (ARE 843.989), j. 18/08/2022 — teses: (1) exige-se dolo nos arts. 9º, 10 e 11; (2) a revogação da modalidade culposa é irretroativa quanto à coisa julgada e à execução; (3) aplica-se aos atos culposos sem condenação transitada em julgado, cabendo ao juízo analisar eventual dolo; (4) o novo regime prescricional é irretroativo, com novos marcos a partir da publicação da lei.
 - STF, Tema 897 (RE 852.475), j. 08/08/2018 — são imprescritíveis as ações de ressarcimento fundadas em ato doloso tipificado na LIA.
 - STJ, Súmula 634 — o particular segue o mesmo regime prescricional do agente público.

@@ -49,3 +49,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=266.num.
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TJPI, ApCív 0801108-88.2022.8.18.0032, 5ª Câmara de Direito Público, j. 26/02/2024 — transcreve a orientação do STJ: decadência do MS conta-se após o término da validade do concurso"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjpi.jus.br/jurisprudences/14649819/public
+    consultado_em: 2026-11-02

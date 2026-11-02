@@ -18,7 +18,7 @@ Conferência: Lei 14.133/2021 no texto compilado oficial; ficha da norma no Sena
 - Art. 137, § 3º, II: opção do contratado por suspender a execução com reequilíbrio.
 - Art. 190: contratos anteriores seguem a Lei 8.666/1993 (art. 65, II, "d", no regime histórico).
 
-## Precedentes (confirmados na base de jurisprudência)
+## Precedentes (conferidos em fonte oficial)
 - STJ, Segunda Turma, AgInt no AREsp 2.013.011, rel. Min. Herman Benjamin, j. 23/05/2023. Uso: a teoria da imprevisão exige evento extraordinário e o ônus da prova é de quem alega; aditivo celebrado após o evento, sem ressalva expressa, presume-se abranger as situações anteriores. Ementa menciona expressamente o art. 124, II, "d", da Lei 14.133/2021. Serve tanto para orientar o pedido (fazer ressalvas, provar a extraordinariedade) quanto para a defesa da Administração.
 - STJ, Segunda Turma, AgInt nos EDcl no AREsp 2.491.214, rel. Min. Francisco Falcão, j. 19/02/2025. Uso: reajuste não exercido ao longo de sucessivas prorrogações sem ressalva não pode ser cobrado retroativamente após o fim do contrato (boa-fé objetiva, supressio). Reforça a exigência de pedir no momento oportuno.
 

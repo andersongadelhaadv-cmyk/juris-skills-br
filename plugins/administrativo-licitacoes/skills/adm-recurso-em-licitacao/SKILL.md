@@ -70,7 +70,7 @@ Lei 14.133/2021: arts. 5º, 17, 59, 64, 71, 165, 168, 183. Lei 9.784/1999 (aplic
 ## Erros a evitar
 - Não manifestar a intenção de recorrer na sessão e apresentar só as razões depois.
 - Contar o prazo em dias corridos.
-- Inovar nas razões com motivos não ligados à intenção manifestada, quando o sistema exigir a motivação sintética da intenção [VERIFICAR: regra do regulamento do ente e do edital].
+- Supor a regra da motivação da intenção sem ler o edital e o regulamento do ente: a Lei 14.133/2021 exige só a manifestação imediata da intenção (art. 165, § 1º, I); se o edital ou o sistema pedir motivação sintética, manter as razões coerentes com o motivo registrado.
 - Pedir anulação de todo o certame quando bastaria refazer o ato viciado.
 - Fundamentar em artigos da Lei 8.666/1993 em certame regido pela Lei 14.133/2021.
 

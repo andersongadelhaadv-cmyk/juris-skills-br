@@ -30,12 +30,27 @@ itens:
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=634.num.
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADIs 7.042 e 7.043 do STF (art. 17 e 17-B da Lei 8.429/1992) — registro na ficha da norma no Senado; não localizadas na base de jurisprudência"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/550305
-    consultado_em: 2026-11-01
+    referencia: "ADI 7.042 do STF, acórdão de 31/08/2022 (DOU 05/09/2022) — art. 17, caput, §§ 6º-A, 10-C, 14 e 20; art. 17-B, caput, §§ 5º e 7º"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/36329586
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "ADIs 7.156 e 7.236 do STF (art. 23, § 5º, e demais dispositivos anotados) — registro na ficha da norma no Senado; ADI 7.236 não localizada na base de jurisprudência"
+    referencia: "ADI 7.043 do STF, acórdão de 31/08/2022 — mesmos dispositivos da ADI 7.042"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/36329623
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "ADI 7.156 do STF, acórdão de 01/07/2026 (DOU 05/08/2026) — art. 23, § 4º, II a V (constitucionais) e § 5º (expressão 'pela metade do prazo previsto no caput deste artigo' inconstitucional; teto de 20 anos)"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/43628428
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "ADI 7.236 do STF, acórdão de 01/07/2026 (DOU 05/08/2026) — art. 23, § 5º"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/43628390
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "ADIs 7.156 e 7.236 — resultado quanto aos arts. 1º, § 8º; 8º; 12; 16, §§ 3º, 4º e 10; 17-C, § 2º; 21, § 4º; 23, § 8º; 23-C e demais anotados"
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/550305
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

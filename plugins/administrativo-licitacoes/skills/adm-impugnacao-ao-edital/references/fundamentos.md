@@ -19,4 +19,4 @@ Conferência: texto da Lei 14.133/2021 no texto compilado oficial e ficha da nor
 
 ## Como usar
 - A força da peça está no nexo cláusula → dispositivo → prejuízo à competição. Evitar listas de princípios sem aplicação.
-- Decisões de tribunais de contas sobre cláusulas específicas só entram após `verificacao-de-citacoes`; sem confirmação, usar "[VERIFICAR: ...]".
+- Decisões de tribunais de contas sobre cláusulas específicas só entram após `verificacao-de-citacoes`; sem confirmação, não citar número de acórdão e sustentar a tese pelo texto da lei.

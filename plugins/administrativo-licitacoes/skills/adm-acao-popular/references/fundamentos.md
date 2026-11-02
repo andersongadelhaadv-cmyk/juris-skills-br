@@ -18,7 +18,7 @@ Conferência: Lei 4.717/1965 no texto compilado oficial e ficha da norma no Sena
 - Art. 19: reexame necessário da sentença de carência ou improcedência; apelação com efeito suspensivo da procedência.
 - Art. 21 (texto literal): "A ação prevista nesta lei prescreve em 5 (cinco) anos."
 
-## Precedentes (confirmados na base de jurisprudência)
+## Precedentes (conferidos em fonte oficial)
 - STF, Tema 836 (ARE 824.781), j. 2015: não é condição da ação popular a prova de prejuízo material aos cofres públicos.
 - Súmula 101 do STF: o mandado de segurança não substitui a ação popular.
 - Súmula 365 do STF: pessoa jurídica não tem legitimidade para propor ação popular.

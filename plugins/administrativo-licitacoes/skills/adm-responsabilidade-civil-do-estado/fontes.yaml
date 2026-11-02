@@ -60,12 +60,17 @@ itens:
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=652.num.
     consultado_em: 2026-11-01
   - tipo: sumula
-    referencia: "Súmula 39 do STJ (enunciado confirmado; editada sob o CC/1916, aplicação atual a verificar no texto)"
+    referencia: "Súmula 39 do STJ (enunciado existente; editada sob o CC/1916; entendimento atual marcado [VERIFICAR] no texto)"
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=39.num.
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "Repetitivo do STJ sobre prescrição quinquenal (Decreto 20.910/1932) em ação indenizatória contra a Fazenda — número não localizado na base"
+    referencia: "Repetitivo do STJ sobre prescrição quinquenal (Decreto 20.910/1932) em ação indenizatória contra a Fazenda — número não conferido em fonte oficial"
     status: VERIFICAR
     url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 205, 206, § 3º, V, e 2.028"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/552282
+    consultado_em: 2026-11-02

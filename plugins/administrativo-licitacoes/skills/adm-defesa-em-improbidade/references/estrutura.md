@@ -15,7 +15,7 @@ Narrativa do cliente, com documentos: atribuições do cargo, procedimento segui
 ## 4. Mérito
 - Tipicidade: a conduta não corresponde ao inciso imputado; no art. 11, o rol é taxativo após a Lei 14.230/2021 (caput: "caracterizada por uma das seguintes condutas").
 - Dolo específico: art. 1º, § 2º (vontade livre e consciente de alcançar o resultado ilícito, não bastando voluntariedade); § 3º (mero exercício da função não basta); art. 11, §§ 1º e 2º (fim de obter proveito ou benefício indevido).
-- Divergência interpretativa baseada em jurisprudência (art. 1º, § 8º) [VERIFICAR: dispositivo com registro "Vide ADI 7236/7156"].
+- Divergência interpretativa baseada em jurisprudência (art. 1º, § 8º) [VERIFICAR: dispositivo impugnado nas ADIs 7.156/7.236; resultado não conferido em fonte oficial].
 - Art. 10: exige perda patrimonial efetiva e comprovada; sem perda, sem ressarcimento (§ 1º); perda decorrente da atividade econômica não basta (§ 2º).
 - Art. 11, § 4º: lesividade relevante.
 - Contexto do gestor (art. 17-C, III; LINDB art. 22).

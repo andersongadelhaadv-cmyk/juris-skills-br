@@ -34,7 +34,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Contestação: 30 dias, iniciado na forma do art. 231 do CPC (art. 17, § 7º), em dias úteis (CPC art. 219) — conferir com `prazos-processuais`.
 - Possível interrupção do prazo de contestação por até 90 dias para solução consensual (art. 17, § 10-A).
 - Prescrição: 8 anos do fato ou da cessação da permanência (art. 23, caput); suspensão por até 180 dias com o inquérito civil (§ 1º); marcos interruptivos do § 4º; prescrição intercorrente (§ 8º).
-- Atenção ao § 5º do art. 23: o Senado registra que as ADIs 7.156 e 7.236 (acórdão de 01/07/2026, publicado em 05/08/2026) declararam inconstitucional a expressão "pela metade do prazo previsto no caput deste artigo". O prazo recomeçado após a interrupção não é mais de 4 anos [VERIFICAR: modulação de efeitos e reflexo no § 8º no acórdão].
+- Atenção ao § 5º do art. 23: nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026; decisão publicada no DOU de 05/08/2026), o STF declarou inconstitucional a expressão "pela metade do prazo previsto no caput deste artigo", com prazo máximo de 20 anos de prescrição, e declarou constitucionais os incisos II a V do § 4º. Interrompida a prescrição, o prazo não recomeça mais pela metade (4 anos). Na decisão publicada, a modulação de efeitos aparece só nos votos vencidos. Reflexo sobre a prescrição intercorrente (§ 8º): não conferido em fonte oficial [VERIFICAR].
 - Tema 1199 do STF: novo regime prescricional não retroage; os novos marcos valem a partir da publicação da Lei 14.230/2021 (26/10/2021).
 
 ## Estrutura da peça (resumo; detalhe em [estrutura](references/estrutura.md))
@@ -43,8 +43,8 @@ Tempestividade → preliminares (inépcia por falta de individualização e de i
 ## Requisitos e preliminares
 - Inicial deve individualizar a conduta e trazer elementos mínimos de autoria e dolo (art. 17, § 6º); senão, rejeição (§ 6º-B).
 - Um único tipo por ato (§ 10-D); vedado ao juiz modificar o fato principal e a capitulação (§ 10-C); condenação por tipo diverso é nula (§ 10-F, I).
-- Legitimidade ativa: o Senado registra que as ADIs 7.042 e 7.043 restabeleceram a legitimidade concorrente do Ministério Público e da pessoa jurídica lesada (art. 17, caput).
-- Absolvição criminal colegiada pelos mesmos fatos impede o trâmite (art. 21, § 4º) [VERIFICAR: dispositivo com registro "Vide ADI 7236"; conferir situação].
+- Legitimidade ativa: nas ADIs 7.042 e 7.043 (acórdão de 31/08/2022), o STF fixou a legitimidade concorrente e disjuntiva do Ministério Público e da pessoa jurídica interessada (art. 17, caput; art. 17-B, caput).
+- Absolvição criminal colegiada pelos mesmos fatos impede o trâmite (art. 21, § 4º). O dispositivo foi julgado pelo STF nas ADIs 7.156/7.236 em sessão de 25/06/2026; o resultado não foi conferido em fonte oficial [VERIFICAR].
 - Não há presunção de veracidade por revelia nem inversão do ônus da prova (art. 17, § 19, I e II).
 
 ## Fundamentos verificados (resumo; detalhe em [fundamentos](references/fundamentos.md))
@@ -53,9 +53,9 @@ Lei 8.429/1992: arts. 1º, §§ 1º a 4º e 8º; 3º; 9º; 10; 11, §§ 1º a 4�
 ## Pedidos e requerimentos
 - Rejeição da inicial ou extinção (prescrição, inépcia, ilegitimidade).
 - Improcedência por inexistência de ato doloso tipificado (art. 17, § 11).
-- Subsidiariamente: sanção isolada e proporcional (art. 12, caput e § 5º; art. 17-C, IV), limitação à participação e ao benefício de cada réu, sem solidariedade (art. 17-C, § 2º) [VERIFICAR: "Vide ADI 7156"], dedução de ressarcimentos já feitos (art. 12, § 6º) e compensação de sanções de outras esferas (art. 21, § 5º).
+- Subsidiariamente: sanção isolada e proporcional (art. 12, caput e § 5º; art. 17-C, IV), limitação à participação e ao benefício de cada réu, sem solidariedade (art. 17-C, § 2º) [VERIFICAR: dispositivo impugnado na ADI 7.156; resultado não conferido em fonte oficial], dedução de ressarcimentos já feitos (art. 12, § 6º) e compensação de sanções de outras esferas (art. 21, § 5º).
 - Interrogatório do réu (art. 17, § 18) e provas especificadas (§ 10-E).
-- Levantamento ou redução da indisponibilidade: exige perigo concreto e probabilidade, urgência não presumida, limite ao dano indicado, sem incidir sobre multa civil, preservados 40 salários mínimos e bem de família (art. 16, §§ 3º, 4º, 5º, 10, 13 e 14) [VERIFICAR: §§ 3º, 4º e 10 anotados "Vide ADI 7156"]; substituição por caução ou seguro-garantia (§ 6º).
+- Levantamento ou redução da indisponibilidade: exige perigo concreto e probabilidade, urgência não presumida, limite ao dano indicado, sem incidir sobre multa civil, preservados 40 salários mínimos e bem de família (art. 16, §§ 3º, 4º, 5º, 10, 13 e 14) [VERIFICAR: §§ 3º, 4º e 10 impugnados na ADI 7.156; resultado não conferido em fonte oficial]; substituição por caução ou seguro-garantia (§ 6º).
 - Qualquer valor de ressarcimento discutido: atualização pela skill `juros-e-correcao`.
 
 ## Checklist pré-protocolo

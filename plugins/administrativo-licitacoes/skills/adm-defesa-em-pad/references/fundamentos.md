@@ -21,7 +21,7 @@ Conferência: Lei 8.112/1990 no texto compilado oficial e ficha da norma no Sena
 - Arts. 104 a 110: direito de petição, reconsideração e recurso em 30 dias.
 - Arts. 174 a 182: revisão.
 
-## Súmulas (confirmadas na base de jurisprudência; vigência a conferir no site do tribunal)
+## Súmulas (vigência a conferir no site do tribunal)
 | Enunciado | Uso |
 |---|---|
 | SV 5 (STF) — falta de defesa técnica por advogado não ofende a Constituição | Não alegar nulidade só por isso |

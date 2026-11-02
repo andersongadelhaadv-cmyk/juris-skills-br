@@ -9,14 +9,14 @@ Conferência: CF, CC, Decreto 20.910/1932 e Lei 9.494/1997 no texto compilado of
 - Lei 9.494/1997, art. 1º-C (texto literal): "Prescreverá em cinco anos o direito de obter indenização dos danos causados por agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado prestadoras de serviços públicos."
 - EC 113/2021: regime de atualização das condenações da Fazenda — aplicação via `juros-e-correcao`.
 
-## Precedentes (confirmados na base de jurisprudência)
+## Precedentes
 - STF, Tema 940 (RE 1.027.633), j. 14/08/2019 — a ação deve ser ajuizada contra o Estado ou a prestadora; o autor do ato é parte ilegítima; assegurado o regresso por dolo ou culpa.
 - STF, Tema 592 (RE 841.526), j. 30/03/2016 — o Estado responde pela morte de detento quando inobservado o dever específico de proteção (CF art. 5º, XLIX).
 - STF, Tema 362 (RE 608.880), j. 08/09/2020 — sem nexo causal direto entre a fuga e o crime, não há responsabilidade objetiva por crime de foragido.
 - STF, Tema 366 (RE 136.861), j. 11/03/2020 — danos de comércio de fogos: exige violação de dever jurídico específico (licença sem cautelas ou ciência de irregularidades).
 - STJ, Súmula 85 — trato sucessivo: prescrevem só as parcelas anteriores ao quinquênio.
 - STJ, Súmula 652 — omissão na fiscalização ambiental: responsabilidade solidária, execução subsidiária.
-- STJ, Súmula 39 (sociedade de economia mista, 20 anos) — enunciado confirmado, mas editado sob o CC/1916; não usar sem verificar o entendimento atual [VERIFICAR].
+- STJ, Súmula 39 (sociedade de economia mista, 20 anos) — enunciado existente, editado sob o CC/1916. No CC/2002, a pretensão de reparação civil prescreve em 3 anos (art. 206, § 3º, V) e o prazo geral é de 10 anos (art. 205); prazos reduzidos seguem a lei anterior se, na entrada em vigor do CC/2002, já tivesse transcorrido mais da metade (art. 2.028). Entendimento atual do STJ sobre a súmula: não conferido em fonte oficial [VERIFICAR].
 
 ## Como usar
-- A prevalência do prazo quinquenal sobre o trienal do Código Civil é tese do STJ em recurso repetitivo; o número do precedente não foi localizado na base — citar só a tese genérica com "[VERIFICAR: repetitivo do STJ sobre prescrição quinquenal em ação indenizatória contra a Fazenda]" até confirmação por `verificacao-de-citacoes`.
+- Contra a tese do prazo trienal do CC (art. 206, § 3º, V), sustentar o prazo quinquenal pela lei especial: Decreto 20.910/1932, art. 1º, e Lei 9.494/1997, art. 1º-C, que fixa expressamente 5 anos para a indenização de danos causados por agentes de pessoas jurídicas de direito público e de prestadoras de serviço público. Precedente repetitivo do STJ sobre o tema: número e tese não conferidos em fonte oficial [VERIFICAR]; só citar após `verificacao-de-citacoes`.
