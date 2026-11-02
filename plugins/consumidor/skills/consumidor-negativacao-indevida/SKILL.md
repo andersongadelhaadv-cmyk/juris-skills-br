@@ -11,7 +11,7 @@ description: >
 metadata:
   area: consumidor
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Negativação indevida
 
@@ -31,7 +31,8 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 7. Boletim de ocorrência, se houve fraude.
 
 ## Prazo e contagem
-- Prescrição da pretensão indenizatória: [VERIFICAR: há leituras distintas — art. 27 do CDC, art. 206 § 3º, V, ou art. 205 do CC — confirme o entendimento atual do STJ para a hipótese concreta via `verificacao-de-citacoes`]. Enquanto a inscrição persiste, registre a data de inclusão e a de exclusão.
+- Prescrição — débito inexistente (contrato não celebrado, fraude): 5 anos do art. 27 do CDC, aplicado ao consumidor por equiparação, inclusive para negativação e descontos indevidos (AREsp 2.481.029, 4ª Turma, 2026), afastado o art. 206, § 3º, V, do CC.
+- Prescrição — demais hipóteses (dívida existente com inscrição irregular, falta de notificação, manutenção após quitação): prazo não conferido em fonte oficial [VERIFICAR via `verificacao-de-citacoes`]. Registre sempre a data de inclusão e a de exclusão.
 - Prazos processuais em dias úteis: `prazos-processuais`.
 
 ## Estrutura da peça

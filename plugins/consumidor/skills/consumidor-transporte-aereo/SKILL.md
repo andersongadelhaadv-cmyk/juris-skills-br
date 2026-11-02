@@ -12,7 +12,7 @@ description: >
 metadata:
   area: consumidor
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Transporte aéreo de passageiros
 
@@ -31,9 +31,10 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 6. **Repercussões concretas** para o dano moral: compromisso perdido, horas de espera, pernoite em aeroporto, criança/idoso/PCD, falta de informação.
 
 ## Prazo e contagem
-- Voo internacional — danos materiais: prazo da Convenção de Montreal [VERIFICAR: art. 35 — 2 anos; conferir texto no Decreto 5.910/2006]. Protesto de bagagem: [VERIFICAR: art. 31 — prazos para avaria e atraso].
-- Voo doméstico: CBA art. 317, I (2 anos) convive com o art. 27 do CDC; a definição do prazo é controvertida [VERIFICAR: confirmar entendimento atual do STJ].
-- Dano moral em voo internacional: fora da Convenção (Tema 1240/STF) — prazo do direito interno [VERIFICAR].
+- Voo internacional — danos materiais: 2 anos contados da chegada ao destino, do dia em que a aeronave deveria chegar ou da interrupção do transporte (Convenção de Montreal, art. 35, 1 — Decreto 5.910/2006).
+- Protesto de bagagem (Montreal, art. 31, 2): avaria — logo após a constatação e no máximo em 7 dias do recebimento (14 dias para carga); atraso — no máximo em 21 dias da data em que a bagagem foi posta à disposição. Guarde prova escrita do protesto.
+- Voo doméstico: CBA art. 317, I (2 anos) convive com o art. 27 do CDC; qual prazo o STJ aplica hoje não foi conferido em fonte oficial [VERIFICAR] — na dúvida, ajuíze dentro de 2 anos.
+- Dano moral em voo internacional: fora da Convenção (Tema 1240/STF), logo segue o direito interno; o prazo específico não foi conferido em fonte oficial [VERIFICAR].
 - Prazos processuais: `prazos-processuais`.
 
 ## Estrutura da peça
@@ -41,14 +42,15 @@ Fatos com linha do tempo → regime jurídico (doméstico x internacional; Montr
 
 ## Requisitos e preliminares
 - **Dano moral não é presumido** no atraso/cancelamento: o STJ exige prova de que os transtornos ultrapassaram o mero aborrecimento (AREsp 3.038.979); o CBA art. 251-A condiciona a indenização extrapatrimonial à demonstração do prejuízo e de sua extensão.
-- Excludentes do transportador no atraso (CBA art. 256 § 1º, II e § 3º): caso fortuito ou força maior (meteorologia, infraestrutura, determinação de autoridade etc.) quando impossível adotar medidas — **a assistência material continua devida**.
+- Excludentes do transportador no atraso (CBA art. 256 § 1º, II e § 3º): caso fortuito ou força maior só nas **quatro hipóteses do § 3º** (restrição de pouso/decolagem por meteorologia imposta pelo controle do espaço aéreo; por indisponibilidade de infraestrutura aeroportuária; restrição de voo, pouso ou decolagem por determinação de autoridade; pandemia e atos de governo dela decorrentes), desde que supervenientes, imprevisíveis e inevitáveis, e se impossível adotar medidas para evitar o dano. Problema técnico da aeronave, tripulação ou malha não está na lista. Mesmo na excludente, **continuam devidos assistência material e reembolso, reacomodação ou reexecução por outro modal** (§ 4º).
 - Polo passivo: companhia operadora; codeshare e agência conforme a cadeia (CDC arts. 7º p.ú. e 25 § 1º).
 
 ## Fundamentos verificados
 - STF Tema 210: normas e tratados limitadores (Varsóvia/Montreal) prevalecem sobre o CDC; o entendimento não se aplica a danos extrapatrimoniais.
 - STF Tema 1240: Varsóvia e Montreal não se aplicam aos danos extrapatrimoniais em transporte aéreo internacional.
 - CBA (Lei 7.565/1986) arts. 251-A, 256, 260, 317 (com Lei 14.034/2020); CDC arts. 6º, 14.
-- Resolução ANAC 400/2016 (assistência material, reacomodação, reembolso) — alterada em set/2026 [VERIFICAR: número e vigência da resolução alteradora].
+- Convenção de Montreal (Decreto 5.910/2006): arts. 19 (atraso), 22 (limites em DES), 31 (protesto), 35 (prazo de 2 anos).
+- Resolução ANAC 400/2016 (assistência material, reacomodação, reembolso) — alteração aprovada em set/2026; número, publicação e vigência da resolução alteradora não conferidos em fonte oficial [VERIFICAR no portal da ANAC/DOU].
 Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
@@ -72,6 +74,7 @@ Detalhe em [fundamentos](references/fundamentos.md).
 - Aplicar Montreal (limites ou prazo) ao dano moral.
 - Pedir dano moral presumido por atraso.
 - Esquecer que força maior não dispensa assistência material.
+- Aceitar como força maior evento fora das quatro hipóteses do CBA art. 256 § 3º (ex.: manutenção não programada, readequação de malha).
 - Deixar de registrar a irregularidade de bagagem no aeroporto ou de protestar no prazo.
 
 ## Integração com o núcleo

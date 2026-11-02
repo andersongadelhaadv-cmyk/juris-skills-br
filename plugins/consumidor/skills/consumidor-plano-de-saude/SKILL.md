@@ -11,7 +11,7 @@ description: >
 metadata:
   area: consumidor
   tipo_peca: tutela
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Plano de saúde — negativa de cobertura com tutela de urgência
 
@@ -32,7 +32,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 ## Prazo e contagem
 - Urgência: a peça é de tutela (CPC 300); pedir apreciação imediata e intimação por meio célere.
 - Carência máxima em urgência/emergência: 24 horas (Lei 9.656, art. 12, V, "c"; Súmula 597).
-- Indenização: prescrição [VERIFICAR: confirmar prazo aplicável ao caso — contratual (art. 205 CC) ou outro — via `verificacao-de-citacoes`].
+- Reembolso e indenização por negativa indevida de cobertura (inadimplemento contratual): prescrição decenal do art. 205 do CC (REsp 1.992.301, 3ª Turma, 2025). Não confundir com o prazo do Tema 610/STJ, que trata de repetição fundada em enriquecimento sem causa, nem com o prazo da cobrança de mensalidades pela operadora.
 - Prazos processuais: `prazos-processuais`.
 
 ## Estrutura da peça
@@ -43,10 +43,12 @@ Tutela de urgência em destaque → fatos → relação de consumo (Súmula 608)
 - Pedir que o juízo consulte o NATJUS, quando houver — a decisão não pode se apoiar só no laudo da parte (tese do STF transcrita no REsp 2.253.522); juntar parecer técnico/literatura antecipa essa etapa.
 - Medicamento de uso domiciliar: há exclusão legal (art. 10, VI) com exceções; verificar antes de pedir (o STJ reconheceu licitude da negativa em hipótese de uso domiciliar fora das exceções).
 - Autogestão: retirar fundamentos de CDC.
+- Plano coletivo cancelado pela operadora durante tratamento: mesmo com rescisão regular, a operadora mantém os cuidados ao usuário internado ou em tratamento essencial à sobrevivência ou à incolumidade física até a alta, desde que o titular pague a mensalidade integral (Tema 1082/STJ). Coletivo empresarial com menos de 30 vidas: a resilição exige motivação idônea (Tema 1047/STJ). Pedir a manutenção e juntar comprovante de pagamento ou oferta de depósito.
 
 ## Fundamentos verificados
 - Lei 9.656/1998: art. 10 §§ 4º, 12 e 13; art. 12, V, "c"; art. 13, p.ú., II e III; art. 35-C.
-- STF, ADI 7.265 (interpretação conforme do § 13, requisitos cumulativos) — teses transcritas no REsp 2.253.522/STJ.
+- STF, ADI 7.265 (julg. 18/09/2025; interpretação conforme do § 13, requisitos cumulativos).
+- STJ, Tema 1082 (REsp 1.842.751/RS): continuidade dos cuidados após rescisão de plano coletivo, até a alta. STJ, Tema 1047 (REsp 1.841.692): resilição de coletivo empresarial com menos de 30 beneficiários exige motivação idônea.
 - Súmulas STJ 302 (limite de internação), 597 (carência em urgência), 608 (CDC, salvo autogestão), 609 (doença preexistente).
 Detalhe em [fundamentos](references/fundamentos.md).
 
@@ -65,6 +67,7 @@ Detalhe em [fundamentos](references/fundamentos.md).
 - [ ] Orçamento e prazo de necessidade
 - [ ] Multa e prazo de cumprimento propostos
 - [ ] Dano moral com fatos (não automático)
+- [ ] Cancelamento de coletivo: tratamento em curso documentado e mensalidade paga ou oferecida (Tema 1082)
 
 ## Erros a evitar
 - Tratar o rol como "meramente exemplificativo" sem demonstrar os requisitos legais e os do STF.

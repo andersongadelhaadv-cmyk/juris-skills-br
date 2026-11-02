@@ -11,7 +11,7 @@ description: >
 metadata:
   area: consumidor
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Superendividamento — repactuação de dívidas
 
@@ -35,7 +35,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Plano consensual: prazo máximo de 5 anos (art. 104-A caput).
 - Plano judicial compulsório: primeira parcela em até 180 dias da homologação; liquidação total em até 5 anos após a quitação do plano consensual; credores recebem ao menos o principal corrigido (art. 104-B § 4º).
 - Credores citados na fase compulsória: 15 dias para documentos e razões (art. 104-B § 2º); administrador: até 30 dias para o plano (§ 3º).
-- Mínimo existencial: **R$ 600,00** mensais (Decreto 11.150/2022, art. 3º, na redação do Decreto 11.567/2023). O STF, em 23/04/2026, deu interpretação conforme ao § 3º do art. 3º e determinou estudos anuais do CMN para decidir sobre atualização do valor (registro na página oficial do decreto no Senado). **Confirmar na data do protocolo se houve novo decreto ou atualização.**
+- Mínimo existencial: **R$ 600,00** mensais (Decreto 11.150/2022, art. 3º, na redação do Decreto 11.567/2023). O STF (ADPFs 1.005, 1.006 e 1.097, julg. 23/04/2026) deu interpretação conforme ao § 3º do art. 3º, determinou estudos anuais do CMN sobre a atualização do valor e declarou inconstitucional a exclusão do consignado do cômputo (art. 4º, p.ú., I, "h"). **Confirmar na data do protocolo se houve novo decreto ou atualização.**
 
 ## Estrutura da peça
 Fatos e boa-fé → enquadramento (art. 54-A) → quadro de dívidas (incluídas e excluídas) → orçamento e mínimo existencial → plano de pagamento → pedido de audiência global (art. 104-A) → pedido subsidiário de processo compulsório (art. 104-B) → tutelas. Detalhe em [estrutura](references/estrutura.md).
@@ -47,7 +47,7 @@ Fatos e boa-fé → enquadramento (art. 54-A) → quadro de dívidas (incluídas
 
 ## Fundamentos verificados
 - CDC arts. 4º IX e X; 6º XI e XII; 54-A a 54-G; 104-A a 104-C.
-- Decreto 11.150/2022, art. 3º (redação do Decreto 11.567/2023): mínimo existencial de R$ 600,00.
+- Decreto 11.150/2022, art. 3º (redação do Decreto 11.567/2023): mínimo existencial de R$ 600,00; art. 4º: dívidas fora do cômputo — sem a alínea "h" do inciso I do parágrafo único (consignado), declarada inconstitucional nas ADPFs 1.005, 1.006 e 1.097.
 - STJ: sanções do art. 104-A § 2º só para ausência injustificada ou procurador sem poderes; não há obrigação legal de o credor aderir ou contrapropor (REsp 2.188.689).
 - STJ: exigência de plano viável com quitação em 5 anos (REsp 2.231.246).
 Detalhe em [fundamentos](references/fundamentos.md).
@@ -76,6 +76,7 @@ Detalhe em [fundamentos](references/fundamentos.md).
 - Pedir sanção do § 2º contra credor que compareceu com poderes e só recusou o plano.
 - Incluir financiamento imobiliário ou dívida com garantia real no plano.
 - Tratar o mínimo existencial como valor fixo eterno sem conferir a regulamentação vigente.
+- Deixar as parcelas de consignado fora do cálculo do mínimo existencial com base no art. 4º, p.ú., I, "h", do Decreto 11.150 (dispositivo declarado inconstitucional pelo STF).
 
 ## Integração com o núcleo
 `juros-e-correcao`, `prazos-processuais`, `verificacao-de-citacoes`, `fidelidade-factual`, `estilo-forense`.

@@ -24,13 +24,33 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600755959
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EAREsp 2.764.264 (Segunda Seção; repetição de cobrança contratual indevida: prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403775685
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgRg no AREsp 723.011 (telefonia, serviços não contratados: prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201501320127
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.481.029 (empréstimo não contratado: art. 27 do CDC ao consumidor por equiparação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303290521
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, REsp 2.230.380 (revisional bancária com repetição: prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503198173
+    consultado_em: 2026-11-02
   - tipo: tema
-    referencia: "Tema 929 do STJ (número não localizado diretamente na base)"
+    referencia: "Tema 929 do STJ — afetação e suspensão conferidas nos EDcl no AREsp 3.194.853; questão submetida e data da afetação não conferidas em fonte oficial"
     status: VERIFICAR
     url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "STJ, EAREsp 600.663/RS e EREsp 1.413.542/RS (paradigmas; não localizados diretamente)"
+    referencia: "STJ, EAREsp 600.663/RS e EREsp 1.413.542/RS (paradigmas citados apenas como referidos em acórdãos conferidos)"
     status: VERIFICAR
     url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

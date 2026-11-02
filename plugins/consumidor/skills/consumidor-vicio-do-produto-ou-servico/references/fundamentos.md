@@ -17,4 +17,4 @@
 - **REsp 1.980.652** (4ª Turma, julg. 04/05/2026) — distinção entre decadência do art. 26 (pretensão redibitória) e prescrição do art. 27 (pretensão indenizatória). *Uso:* separar os pedidos e afastar alegação de decadência sobre danos.
 
 ## Pontos a verificar caso a caso
-- Tese de que o prazo do vício oculto em bem durável observa a vida útil do bem e que a garantia legal corre após a contratual: [VERIFICAR: buscar precedente atual do STJ via `verificacao-de-citacoes` antes de citar número].
+- Tese de que, no vício oculto de bem durável, a responsabilidade do fornecedor se mede pela vida útil do bem, e de que o prazo da garantia legal só corre após o fim da contratual (art. 50): nenhum precedente com número foi conferido em fonte oficial [VERIFICAR via `verificacao-de-citacoes` antes de citar]. Até lá, sustente-a apenas com o texto dos arts. 26, § 3º, e 50 do CDC.

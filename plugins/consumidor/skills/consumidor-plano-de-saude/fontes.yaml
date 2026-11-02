@@ -45,12 +45,32 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600118993
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "STF, ADI 7.265 (interpretação conforme do art. 10, § 13, da Lei 9.656) — não localizada na base; registro no Senado"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/551532
-    consultado_em: 2026-11-01
+    referencia: "STF, ADI 7.265 (julg. 18/09/2025, DOU 26/09/2025) — interpretação conforme do art. 10, § 13, da Lei 9.656; teses e requisitos cumulativos"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/41502636
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Tema 1082 do STJ (REsp 1.842.751/RS) — continuidade dos cuidados após rescisão de plano coletivo, até a alta"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201901455953
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Tema 1047 do STJ (REsp 1.841.692) — resilição de coletivo empresarial com menos de 30 beneficiários exige motivação idônea"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902968030
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "Prazo prescricional da indenização contra operadora (sem número)"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    referencia: "STJ, REsp 1.992.301 (negativa de cobertura: prescrição decenal do art. 205 do CC)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200823523
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Tema 610 do STJ — referido no REsp 1.992.301 como próprio da repetição fundada em enriquecimento sem causa (citado só para distinção)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200823523
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 9.656/1998, arts. 8º, § 3º, 'b', 13, p.ú., e 35-C (fundamentos do Tema 1082)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/551532
+    consultado_em: 2026-11-02

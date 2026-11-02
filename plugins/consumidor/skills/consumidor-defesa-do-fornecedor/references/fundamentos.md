@@ -10,7 +10,7 @@
 ## CPC
 - **Art. 335** (15 dias; termos iniciais), **219** (dias úteis), **336** e **341** (concentração da defesa e impugnação específica), **337** (preliminares), **343** (reconvenção), **357, III** e **373 § 1º** (distribuição do ônus e momento), **80** (má-fé).
 
-## Precedentes (STJ, confirmados)
+## Precedentes (STJ)
 - **REsp 2.238.532** (4ª Turma, julg. 09/03/2026) — tese: "Incide a excludente do art. 14, § 3º, I e II, do CDC quando a fraude decorre de engenharia social e as transações são realizadas com senha e dispositivos legítimos do consumidor, caracterizando fortuito externo e rompendo o nexo causal" e "Não se aplica a Súmula n. 479 do STJ quando inexistente defeito do serviço bancário ou violação dos sistemas de segurança". *Uso:* defesa de banco em golpe da falsa central/PIX — demonstre com logs a autenticação legítima e a ausência de falha sistêmica. Atenção: há julgados reconhecendo falha do banco em golpes semelhantes, a depender da prova (Súmula 7) — o resultado é casuístico.
 - **Súmula 479** — fortuito interno: banco responde por fraudes de terceiros no âmbito das operações. *Uso:* a defesa precisa mostrar que o evento é externo à atividade.
 - **Súmula 385** — inscrição preexistente legítima afasta o dano moral (ressalvado o cancelamento). Atenção: flexibilizada se a anterior estiver sub judice (AREsp 2.777.211).
