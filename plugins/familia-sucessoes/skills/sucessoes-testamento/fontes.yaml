@@ -20,7 +20,12 @@ itens:
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4744004&numeroProcesso=878694&classeProcesso=RE&numeroTema=809
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "STJ — companheiro como herdeiro necessário após os Temas 809/498"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    referencia: "STJ, AgInt nos EDcl no REsp 1.982.343, 4ª Turma, j. 31/03/2025 (companheiro herdeiro necessário)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200197231
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Tema 498 do STF (RE 646.721): inconstitucional a distinção sucessória entre cônjuge e companheiro (art. 1.790 do CC); mesma tese do Tema 809"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4100069&numeroProcesso=646721&classeProcesso=RE&numeroTema=498
+    consultado_em: 2026-11-02

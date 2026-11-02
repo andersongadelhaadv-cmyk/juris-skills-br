@@ -40,7 +40,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 Minuta: qualificação e capacidade → revogação de anteriores → herdeiros necessários e legítima → disposições sobre a parte disponível → legados → cláusulas restritivas → disposições não patrimoniais → testamenteiro → fecho conforme a forma. Pós-óbito: requerimento de abertura/registro/cumprimento ou de publicação e confirmação do particular. Detalhe em [estrutura](references/estrutura.md).
 
 ## Requisitos e preliminares
-- Havendo herdeiros necessários (descendentes, ascendentes e cônjuge — CC 1.845; a qualidade de herdeiro necessário do companheiro não consta expressamente da tese dos Temas 809/498 [VERIFICAR: posição atual do STJ]), só se dispõe da metade (CC 1.789, 1.845, 1.846); legítima não entra no testamento (CC 1.857 §1º).
+- Havendo herdeiros necessários (descendentes, ascendentes e cônjuge — CC 1.845; a 4ª Turma do STJ inclui o companheiro, por força da equiparação dos Temas 809 e 498 do STF — AgInt nos EDcl no REsp 1.982.343), só se dispõe da metade (CC 1.789, 1.845, 1.846); legítima não entra no testamento (CC 1.857 §1º).
 - Testamento conjuntivo é proibido (CC 1.863).
 - Formas ordinárias (CC 1.862): público (tabelião, 2 testemunhas, leitura e assinatura — CC 1.864); cerrado (aprovação pelo tabelião com 2 testemunhas — CC 1.868; vedado a quem não sabe ler, CC 1.872); particular (3 testemunhas — CC 1.876; sem testemunhas só em circunstâncias excepcionais declaradas, CC 1.879).
 - Cego só pelo testamento público (CC 1.867).

@@ -24,11 +24,19 @@
 
 ## Tributário
 - **CF 155 §1º** (EC 132/2023): imóveis — Estado da situação; móveis, títulos e créditos — Estado do domicílio do falecido ou do doador; progressividade obrigatória (inciso VI).
-- **LC 227/2026** (13/01/2026): normas gerais do ITCMD; conteúdo não conferido em fonte oficial [VERIFICAR]: quotas não negociadas em bolsa por valor de mercado (no mínimo patrimônio líquido ajustado), soma de doações sucessivas conforme lei estadual, tributação de trusts e bens no exterior; depende de lei estadual com anterioridade. [VERIFICAR: artigos e texto oficial; tratamento de previdência privada.]
+- **LC 227/2026** (13/01/2026; DOU 14/01/2026), Livro II, arts. 146 a 164 (texto conferido na publicação oficial; efeitos desde a publicação, art. 182 [VERIFICAR inciso]):
+  - art. 147, IV: reversão gratuita de bens de trust no exterior ao beneficiário, por morte do instituidor, é transmissão causa mortis;
+  - art. 150: não incide sobre renúncia pura e simples em favor do monte (I); extinção de usufruto que consolide a propriedade no instituidor (II); benefício de previdência complementar, seguro e pecúlio, ainda que o beneficiário seja terceiro (III); extinção de fideicomisso e certas transmissões ligadas a trust (IV a VI);
+  - art. 152: base de cálculo = valor de mercado;
+  - art. 154: quotas e ações com mercado ativo nos 90 dias anteriores — cotação de fechamento do dia anterior à avaliação; demais casos — metodologia idônea, no mínimo o patrimônio líquido ajustado a valor de mercado mais o fundo de comércio;
+  - art. 155: doações sucessivas entre os mesmos doador e donatário somam-se no prazo da lei estadual; o imposto é recalculado a cada doação, abatido o já recolhido, com a progressividade aplicada ao total;
+  - art. 156: alíquotas progressivas por faixas até o teto do Senado; doação usa a alíquota da data da doação (§1º, II);
+  - arts. 158 e 159: competência quando há bens ou pessoas no exterior.
+  A cobrança segue a lei estadual; criação ou aumento de tributo nela observa a anterioridade (CF 150, III, b e c).
 - **Súmula 112 STF**: alíquota do ITCMD causa mortis é a vigente na abertura da sucessão.
 - **STF Tema 825**: Estados não podiam instituir ITCMD nas hipóteses do art. 155 §1º, III (exterior) sem lei complementar.
 
-## Precedente localizado (JuriBase, STJ — ENCONTRADO)
+## Precedente localizado (STJ, conferido no JuriBase)
 - STJ, 4ª Turma, REsp 2.057.707, rel. Min. Maria Isabel Gallotti, julgado em 20/02/2024: valor dos bens levados à colação e aplicação do art. 2.004 do CC. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202869684 — ler o inteiro teor.
 
 ## Para acrescentar julgados

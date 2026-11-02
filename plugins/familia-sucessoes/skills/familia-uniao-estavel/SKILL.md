@@ -29,7 +29,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 7. Post mortem: herdeiros do falecido (serão os réus), inventário aberto?
 
 ## Prazo e contagem
-- Reconhecimento: sem prazo. Partilha e petição de herança têm pretensão patrimonial: verificar prescrição específica [VERIFICAR: prazo da petição de herança e termo inicial na jurisprudência atual do STJ]. Súmula 149 STF: a petição de herança prescreve.
+- Reconhecimento: sem prazo. Petição de herança prescreve (Súmula 149 STF) e o prazo conta da abertura da sucessão, sem suspensão ou interrupção pela ação de reconhecimento do vínculo (STJ Tema 1200, firmado para a investigação de paternidade; aplicação à união estável por analogia). Duração do prazo: não conferida em fonte oficial [VERIFICAR: prazo aplicável à petição de herança].
 - Prazos processuais pelo rito das ações de família; contagem via `prazos-processuais`.
 
 ## Estrutura da peça
@@ -38,11 +38,11 @@ Endereçamento → qualificação → requisitos da união (fato a fato) → per
 ## Requisitos e preliminares
 - Requisitos materiais: convivência pública, contínua, duradoura e com objetivo de constituir família (CC 1.723); coabitação não é requisito legal, mas é prova forte.
 - Impedimentos do CC 1.521 impedem a união, salvo casado separado de fato ou judicialmente (CC 1.723 §1º); relação simultânea a casamento/união é concubinato (CC 1.727) e não gera união paralela (STF Tema 529).
-- Uniões homoafetivas: reconhecidas como entidade familiar pelo STF [VERIFICAR: número e data do julgamento em controle concentrado antes de citar].
+- Uniões homoafetivas: entidade familiar com o mesmo regime da união estável (STF, ADI 4277 e ADPF 132, interpretação conforme do CC 1.723); a publicidade pode ser relativizada quando presentes os demais requisitos (STJ, REsp 2.203.770).
 - Competência e rito: CPC 53, I, e 693 e seguintes. Post mortem: réus são os herdeiros (ou o espólio, se ainda não partilhado — conferir orientação do tribunal local).
 
 ## Fundamentos verificados
-CF 226 §3º; CC 1.723 a 1.727, 1.725 (comunhão parcial supletiva), 1.641, II; STF Temas 809/498 (sucessão igual à do cônjuge, art. 1.829), 529 (vedação de uniões paralelas) e 1236 (maior de 70 anos); Súmula 655 STJ; Súmula 149 STF. Detalhe em [fundamentos](references/fundamentos.md).
+CF 226 §3º; CC 1.723 a 1.727, 1.725 (comunhão parcial supletiva), 1.641, II; STF Temas 809/498 (sucessão igual à do cônjuge, art. 1.829), 529 (vedação de uniões paralelas) e 1236 (maior de 70 anos); STF ADI 4277/ADPF 132; STJ Tema 1200; Súmula 655 STJ; Súmula 149 STF. Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - [ ] Declaração da união estável com termo inicial e final.
@@ -65,6 +65,7 @@ CF 226 §3º; CC 1.723 a 1.727, 1.725 (comunhão parcial supletiva), 1.641, II; 
 - Tratar namoro qualificado como união sem demonstrar o objetivo atual de constituir família.
 - Esquecer de incluir todos os herdeiros no polo passivo do post mortem.
 - Partilhar bens adquiridos antes do início da união ou por herança/doação.
+- Dar efeito retroativo ao regime escolhido em contrato ou escritura posterior ao início da convivência: o STJ atribui eficácia ex nunc (REsp 2.246.314).
 
 ## Integração com o núcleo
 `prazos-processuais`, `juros-e-correcao` (reposições e alimentos), `verificacao-de-citacoes`, `fidelidade-factual` (datas e provas), `estilo-forense`.

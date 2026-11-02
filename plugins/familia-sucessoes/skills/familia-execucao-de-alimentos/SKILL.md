@@ -66,7 +66,7 @@ CF art. 5º, LXVII; CPC 528 a 533, 911 a 913, 517 (protesto), 782 §§3º e 5º 
 - Incluir no rito da prisão parcelas anteriores às 3 últimas antes do ajuizamento.
 - Escrever "prisão em regime semiaberto" ou "domiciliar" como regra: o CPC 528 §4º manda regime fechado (a substituição é excepcional e decidida pelo juiz).
 - Planilha sem abater pagamentos parciais (abre espaço para justificativa e excesso).
-- Pedir prisão na execução de alimentos indenizatórios por ato ilícito sem verificar o entendimento atual do tribunal [VERIFICAR: posição do STJ sobre prisão civil por alimentos indenizatórios].
+- Pedir prisão civil na execução de pensão indenizatória por ato ilícito: o STJ restringe a prisão aos alimentos de direito de família (HC 708.634, 3ª Turma, 2022); use o rito da expropriação.
 - Aplicar juros e índice "de cabeça": use o núcleo.
 
 ## Integração com o núcleo

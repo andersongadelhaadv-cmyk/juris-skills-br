@@ -40,15 +40,35 @@ itens:
     url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1986
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "STF — reconhecimento da união homoafetiva em controle concentrado (número a confirmar)"
-    status: VERIFICAR
-    url: https://portal.stf.jus.br/
-    consultado_em: 2026-11-01
+    referencia: "STF, ADI 4277 e ADPF 132, rel. Min. Ayres Britto, j. 4 e 5/05/2011 (união homoafetiva; Informativo 625)"
+    status: CONFIRMADO
+    url: https://www.stf.jus.br/arquivo/informativo/documento/informativo625.htm
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "STJ — prazo e termo inicial da petição de herança"
+    referencia: "STJ, REsp 2.203.770, 3ª Turma, j. 04/11/2025 (união homoafetiva; publicidade relativizada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403292064
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Tema 1200 do STJ (REsp 2.034.650) — termo inicial da petição de herança"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203347905
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "Duração do prazo prescricional da petição de herança"
     status: VERIFICAR
     url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, REsp 2.246.314, 3ª Turma, j. 14/09/2026 (regime por escritura posterior: sem retroatividade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504588407
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, REsp 1.863.879, 4ª Turma, j. 05/05/2026 (contrato de convivência: eficácia ex nunc)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902755085
+    consultado_em: 2026-11-02
   - tipo: resolucao
     referencia: "Res. CNJ 35/2007, art. 46-A (incluído pela Res. CNJ 571/2024)"
     status: CONFIRMADO

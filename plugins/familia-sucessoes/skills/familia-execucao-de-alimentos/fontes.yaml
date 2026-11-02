@@ -25,7 +25,7 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402744302
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "Prisão civil por alimentos indenizatórios (ato ilícito) — posição atual do STJ"
-    status: VERIFICAR
-    url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    referencia: "STJ, HC 708.634, 3ª Turma, j. 03/05/2022 (sem prisão civil por alimentos indenizatórios)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103767278
+    consultado_em: 2026-11-02

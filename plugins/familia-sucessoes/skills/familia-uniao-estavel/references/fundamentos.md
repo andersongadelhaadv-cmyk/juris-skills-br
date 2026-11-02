@@ -23,6 +23,14 @@
 - **Súmula 655 STJ**: "Aplica-se à união estável contraída por septuagenário o regime da separação obrigatória de bens, comunicando-se os adquiridos na constância, quando comprovado o esforço comum."
 - **Súmula 149 STF**: "É imprescritível a ação de investigação de paternidade, mas não o é a de petição de herança." (útil por analogia ao post mortem com pedido de herança).
 
-## Pendências [VERIFICAR]
-- Julgamento do STF em controle concentrado que reconheceu a união homoafetiva: a verificação automática não encontrou a citação; confirmar número e data antes de citar.
-- Prazo prescricional e termo inicial da petição de herança (STJ).
+## União homoafetiva (STF, controle concentrado)
+- **STF, ADI 4277/DF e ADPF 132/RJ**, rel. Min. Ayres Britto, julgadas em 4 e 5/05/2011 (Informativo STF 625): interpretação conforme do CC 1.723 para excluir qualquer leitura que impeça reconhecer a união de pessoas do mesmo sexo como entidade familiar, com as mesmas regras e consequências da união estável heteroafetiva. Fonte: https://www.stf.jus.br/arquivo/informativo/documento/informativo625.htm
+- STJ, 3ª Turma, REsp 2.203.770, rel. Min. Nancy Andrighi, julgado em 04/11/2025: admite relativizar a publicidade na união homoafetiva quando presentes os demais requisitos do CC 1.723. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403292064
+
+## Petição de herança (STJ)
+- **STJ Tema 1200 (REsp 2.034.650, 2ª Seção, rel. Min. Marco Aurélio Bellizze, julgado em 22/05/2024)**, tese: "O prazo prescricional para propor ação de petição de herança conta-se da abertura da sucessão, cuja fluência não é impedida, suspensa ou interrompida pelo ajuizamento de ação de reconhecimento de filiação, independentemente do seu trânsito em julgado." Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203347905. Confirme no site do STJ se o tema não foi revisado antes de citar.
+- Duração do prazo: não conferida em fonte oficial [VERIFICAR: prazo aplicável à petição de herança].
+
+## Regime de bens por contrato: eficácia ex nunc (STJ)
+- STJ, 3ª Turma, REsp 2.246.314, rel. Min. Nancy Andrighi, julgado em 14/09/2026: escritura declaratória lavrada depois do início da convivência não retroage; no período anterior aplica-se a comunhão parcial (CC 1.725). Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504588407
+- STJ, 4ª Turma, REsp 1.863.879, rel. Min. Maria Isabel Gallotti, julgado em 05/05/2026: eleição ou alteração do regime da união estável por contrato escrito tem eficácia ex nunc; cláusulas retroativas são inválidas, ressalvadas hipóteses excepcionais. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902755085

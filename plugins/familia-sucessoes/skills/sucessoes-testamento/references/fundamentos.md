@@ -28,4 +28,7 @@
 - 610: testamento e inventário; ver Res. CNJ 35, art. 12-B (redação de 2024), que admite escritura com autorização do juízo do cumprimento.
 
 ## Precedentes
+- **STF Tema 809 (RE 878.694)**: sucessão do companheiro pelo art. 1.829 do CC (inconstitucionalidade do art. 1.790).
+- STJ, 4ª Turma, AgInt nos EDcl no REsp 1.982.343, rel. Min. João Otávio de Noronha, julgado em 31/03/2025: a equiparação sucessória inclui a companheira como herdeira necessária; sem descendentes ou ascendentes, ela é herdeira independentemente do regime de bens, e os legados devem respeitar sua legítima. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200197231 — ler o inteiro teor e checar orientação posterior com `verificacao-de-citacoes`.
+
 Nenhuma súmula específica é necessária para a minuta. Para teses sobre flexibilização de formalidades do testamento (assinatura, número de testemunhas), pesquisar com `verificacao-de-citacoes` e citar apenas resultados confirmados.

@@ -41,7 +41,7 @@ Litigioso: endereçamento → qualificação → casamento e regime → filhos �
 - Segredo de justiça (CPC 189, II); MP só com incapaz ou vítima de violência doméstica (CPC 698).
 - O divórcio pode ser decretado sem prévia partilha (CC 1.581; Súmula 197 STJ) — pedir decretação liminar ou julgamento parcial do divórcio e prosseguir quanto ao resto.
 - Extrajudicial (CPC 733): sem nascituro nem filhos incapazes, salvo se guarda, convivência e alimentos já estiverem resolvidos judicialmente (Res. CNJ 35, art. 34 §2º, na redação da Res. 571/2024); advogado obrigatório.
-- Inventário/partilha em escritura não depende mais de prévio recolhimento do ITCMD (Res. CNJ 35, art. 15, na redação da Res. CNJ 695/2026), mas a escritura registra as obrigações tributárias declaradas e o tabelião comunica o fisco — relevante quando a partilha do divórcio for desigual (possível doação tributável).
+- Inventário/partilha em escritura não depende mais de prévio recolhimento do ITCMD (Res. CNJ 35, art. 15, na redação da Res. CNJ 695/2026 [VERIFICAR: texto oficial da Res. CNJ 695/2026]), mas a escritura registra as obrigações tributárias declaradas e o tabelião comunica o fisco — relevante quando a partilha do divórcio for desigual (possível doação tributável).
 
 ## Fundamentos verificados
 CF 226 §6º; CC 1.571, 1.581, 1.639, 1.658 a 1.660; CPC 53, 189, 693 a 699-A, 731 a 733; Súmula 197 STJ; STF Temas 1053 e 1236; Súmula 377 STF; Súmula 655 STJ. Detalhe em [fundamentos](references/fundamentos.md).

@@ -42,7 +42,7 @@ Petição de abertura → nomeação de inventariante → primeiras declaraçõe
 - Foro: domicílio do autor da herança no Brasil, ainda que o óbito tenha ocorrido no exterior; sem domicílio certo, situação dos imóveis (CPC 48).
 - MP se houver incapaz; Fazenda sempre intimada (CPC 626).
 - Companheiro sobrevivente concorre como cônjuge (STF Temas 809/498); direito real de habitação (CC 1.831).
-- ITCMD: alíquota vigente na abertura da sucessão (Súmula 112 STF). Desde a EC 132/2023, o imposto deve ser progressivo e a competência sobre móveis é do Estado do domicílio do falecido (CF 155 §1º, II e VI). A LC 227/2026 (publicada em janeiro de 2026) traz normas gerais do ITCMD, mas depende de lei de cada Estado, sujeita à anterioridade — conferir a lei estadual vigente na data do óbito.
+- ITCMD: alíquota vigente na abertura da sucessão (Súmula 112 STF). Desde a EC 132/2023, o imposto deve ser progressivo e a competência sobre móveis é do Estado do domicílio do falecido (CF 155 §1º, II e VI). A LC 227/2026 (arts. 146 a 164) traz as normas gerais do ITCMD, com efeitos desde 14/01/2026 (art. 182 [VERIFICAR inciso]): base no valor de mercado, dedução de dívidas comprovadas, homologação do cálculo pelo fisco (art. 160). A cobrança segue a lei do Estado vigente na data do óbito.
 
 ## Fundamentos verificados
 CPC 610 a 673; CC 1.784, 1.829 a 1.839, 1.845 a 1.847, 2.002 a 2.007, 2.015 a 2.017; CF 155 §1º; Súmulas 112 e 542 STF; STF Temas 809, 825. Detalhe em [fundamentos](references/fundamentos.md).

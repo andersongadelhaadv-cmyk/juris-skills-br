@@ -25,10 +25,15 @@ itens:
     url: https://atos.cnj.jus.br/files/original2309432024083066d251371bc21.pdf
     consultado_em: 2026-11-01
   - tipo: resolucao
-    referencia: "Res. CNJ 695/2026 (nova redação do art. 15 da Res. 35/2007 — ITCMD)"
+    referencia: "Res. CNJ 695, de 26/08/2026 (nova redação do art. 15 da Res. 35/2007 — ITCMD); texto não conferido"
     status: VERIFICAR
-    url: https://atos.cnj.jus.br/atos/detalhar/7010
-    consultado_em: 2026-11-01
+    url: https://atos.cnj.jus.br/files/original132829202608286a918cfd903c8.pdf
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei Complementar 227/2026, art. 161 (convênio CNJ, TJs e fiscos sobre processos com transmissão causa mortis ou doação)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42042119
+    consultado_em: 2026-11-02
   - tipo: tema
     referencia: "Tema 1053 do STF (RE 1.167.478)"
     status: CONFIRMADO
