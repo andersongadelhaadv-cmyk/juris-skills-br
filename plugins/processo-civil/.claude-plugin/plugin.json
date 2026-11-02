@@ -1,6 +1,6 @@
 {
   "name": "processo-civil",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Peças do processo civil: inicial, contestação, réplica, reconvenção, tutelas, recursos (inclusive REsp com relevância), execução e juizado especial.",
   "author": {
     "name": "PreviusIA Serviço Digital Ltda.",

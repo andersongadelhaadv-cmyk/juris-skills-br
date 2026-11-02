@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.1.2 — 2026-11
+
+Correções e conferências em fonte oficial nos plugins previdenciario, trabalhista e processo-civil (PRs #18, #19 e #20).
+
+- previdenciario: **correções** — pensão por morte decorrente de acidente do trabalho é da Justiça Federal (STJ, CC 197.182); duração da pensão para cônjuge com duas tabelas pela data do óbito (texto da Lei 13.135/2015 até 2020; Portaria ME 424/2020 desde 01/01/2021); art. 77, §2º-A, alcança acidente de qualquer natureza; regimento do CRPS pela Portaria MPS 125/2026. Inclui o Tema 995/STJ (reafirmação da DER).
+- trabalhista: **correções** — Tema 21 de IRR do TST trata de justiça gratuita (o de valor dos pedidos é o Tema 35); alcance da ADI 5766; faixas do art. 223-G orientativas; Tema 1389/STF (pejotização) com a situação da suspensão. Inclui IN 41/2018 e CLT art. 899, §§9º a 11.
+- processo-civil: **correções** — CPC art. 337, §6º, trata só da arbitragem (incompetência relativa: art. 65); transição da relevância no REsp pela redação literal do art. 4º da Lei 15.484/2026. Confere Tema 988/STJ, ADI 5.941 e Súmula 115/STJ.
+- Itens não conferidos em fonte oficial continuam marcados com [VERIFICAR].
+
 ## v0.1.1 — 2026-11
 
 Correções e conferências em fonte oficial nos plugins nucleo, penal e tributario-fazenda.

@@ -43,7 +43,7 @@ O plugin `nucleo` é a base dos demais: concentra juros e correção, prazos, ve
 
 - **Estrutura, não minuta pronta.** Cada skill traz entradas mínimas, prazo, estrutura da peça, requisitos, fundamentos, pedidos, checklist pré-protocolo e erros a evitar. O texto do caso é redigido na hora, a partir dos fatos que você informa.
 - **Juros e correção centralizados.** Nenhuma skill de área define taxa própria; todas aplicam `nucleo/juros-e-correcao` (Lei 14.905/2024, ADC 58, EC 113/2021 e EC 136/2025).
-- **Registro de verificação.** Cada skill tem um `fontes.yaml` com a norma ou precedente, o status, o link oficial e a data da consulta. Nesta versão: 552 citações de jurisprudência confirmadas, 391 registros de normas e 64 itens marcados para conferência.
+- **Registro de verificação.** Cada skill tem um `fontes.yaml` com a norma ou precedente, o status, o link oficial e a data da consulta. Nesta versão: 603 citações de jurisprudência confirmadas, 406 registros de normas e 52 itens marcados para conferência.
 - **Marcação `[VERIFICAR]`.** O que não pôde ser confirmado em fonte oficial aparece marcado no texto. Confira antes de usar.
 - **Detalhe sob demanda.** O `SKILL.md` é curto; o roteiro completo da peça e os fundamentos ficam em `references/`.
 
