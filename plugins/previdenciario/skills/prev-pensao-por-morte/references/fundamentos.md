@@ -5,7 +5,7 @@
 - Art. 26, I: pensão independe de carência.
 - Art. 74: termo inicial (180 dias para filhos menores de 16; 90 dias para os demais); §§3º-4º habilitação provisória para rateio.
 - Art. 76: habilitação posterior produz efeito da data da habilitação; §2º ex-cônjuge com alimentos concorre; §3º alimentos temporários limitam a duração.
-- Art. 77: rateio; §2º, V: duração para cônjuge/companheiro; §2º-A óbito por acidente de qualquer natureza ou doença profissional/do trabalho afasta as exigências de 18 contribuições e 2 anos de união; §2º-B atualização das idades por ato ministerial (ato vigente não conferido em fonte oficial [VERIFICAR]); §5º tempo de RPPS conta para as 18 contribuições.
+- Art. 77: rateio; §2º, V: duração para cônjuge/companheiro; §2º-A óbito por acidente de qualquer natureza ou doença profissional/do trabalho afasta as exigências de 18 contribuições e 2 anos de união; §2º-B atualização das idades por ato ministerial: a Portaria ME 424/2020 somou 1 ano a cada faixa para óbitos desde 01/01/2021 (texto no DOU e atos posteriores não conferidos em fonte oficial [VERIFICAR]); §5º tempo de RPPS conta para as 18 contribuições.
 
 ## EC 103/2019 — LEI
 - Art. 23: cota familiar 50% + 10 p.p. por dependente; §1º cotas não reversíveis, preservado 100% com 5 ou mais dependentes; §2º dependente inválido/deficiência grave; §4º duração e rol pela Lei 8.213; §6º enteado e menor tutelado.
