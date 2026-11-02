@@ -12,7 +12,7 @@
   - II – restrições ao pouso ou à decolagem decorrentes de indisponibilidade da infraestrutura aeroportuária;
   - III – restrições ao voo, ao pouso ou à decolagem decorrentes de determinações da autoridade de aviação civil ou de qualquer outra autoridade ou órgão da Administração Pública, que será responsabilizada;
   - IV – decretação de pandemia ou publicação de atos de Governo que dela decorram, com vistas a impedir ou a restringir o transporte aéreo ou as atividades aeroportuárias.
-  *Uso:* a lista é fechada; evento fora dela não exclui a responsabilidade por atraso.
+  *Uso:* sustentar que a enumeração é taxativa e que evento fora dela (fortuito interno) não exclui a responsabilidade por atraso; a lei não usa "somente", e precedente do STJ sobre a taxatividade não foi conferido em fonte oficial [VERIFICAR].
 - **Art. 256, § 4º** — a excludente do § 1º, II, não desobriga o transportador de prestar assistência material nem de oferecer reembolso (passagem e serviços acessórios), reacomodação ou reexecução por outra modalidade, inclusive no atraso ou interrupção superior a 4 horas (arts. 230 e 231).
 - **Art. 260** — limite de 150 OTN por passageiro para destruição, perda ou avaria de bagagem no transporte doméstico. Se esse limite prevalece sobre a reparação integral do CDC em voo doméstico não foi conferido em fonte oficial [VERIFICAR antes de invocá-lo ou de afastá-lo].
 - **Art. 317, I** — prescrição de 2 anos da ação por danos a passageiros, bagagem ou carga.

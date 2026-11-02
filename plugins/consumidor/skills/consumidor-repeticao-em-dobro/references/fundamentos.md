@@ -12,7 +12,7 @@
 - **EDcl no AREsp 3.194.853** (3ª Turma, julg. 22/09/2026) — embargos acolhidos porque a matéria (hipóteses de aplicação da repetição em dobro do art. 42 p.ú.) foi **afetada ao Tema 929/STJ**, com suspensão nacional dos processos que versem sobre a controvérsia, incidente a partir da interposição do REsp ou AREsp.
 
 ## Prescrição
-- **AgInt nos EAREsp 2.764.264** (Segunda Seção, julg. 11/03/2026) — a discussão sobre cobrança indevida de valores constantes de relação contratual e a respectiva repetição não se enquadram no art. 206, § 3º, IV, do CC (enriquecimento sem causa): há causa jurídica prévia e a repetição é ação específica; prazo decenal. *Uso:* afastar a prescrição trienal.
+- **AgInt nos EAREsp 2.764.264** (Segunda Seção, julg. 11/03/2026) — a discussão sobre cobrança indevida de valores constantes de relação contratual e a respectiva repetição não se enquadram no art. 206, § 3º, IV, do CC (enriquecimento sem causa): há causa jurídica prévia e a repetição é ação específica; prazo decenal. O caso concreto era de previdência complementar; a razão de decidir vale para qualquer cobrança contratual. *Uso:* afastar a prescrição trienal.
 - **AgRg no AREsp 723.011** (2ª Turma, julg. 13/05/2024) — repetição por serviços de telefonia não contratados segue o prazo decenal do art. 205 do CC.
 - **AREsp 2.481.029** (4ª Turma, julg. 09/03/2026) — descontos e negativação por empréstimos não contratados: prazo do art. 27 do CDC para o consumidor por equiparação. *Uso:* quando não há contrato válido, trabalhe com 5 anos.
 

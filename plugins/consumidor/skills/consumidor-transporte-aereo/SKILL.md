@@ -42,7 +42,7 @@ Fatos com linha do tempo → regime jurídico (doméstico x internacional; Montr
 
 ## Requisitos e preliminares
 - **Dano moral não é presumido** no atraso/cancelamento: o STJ exige prova de que os transtornos ultrapassaram o mero aborrecimento (AREsp 3.038.979); o CBA art. 251-A condiciona a indenização extrapatrimonial à demonstração do prejuízo e de sua extensão.
-- Excludentes do transportador no atraso (CBA art. 256 § 1º, II e § 3º): caso fortuito ou força maior só nas **quatro hipóteses do § 3º** (restrição de pouso/decolagem por meteorologia imposta pelo controle do espaço aéreo; por indisponibilidade de infraestrutura aeroportuária; restrição de voo, pouso ou decolagem por determinação de autoridade; pandemia e atos de governo dela decorrentes), desde que supervenientes, imprevisíveis e inevitáveis, e se impossível adotar medidas para evitar o dano. Problema técnico da aeronave, tripulação ou malha não está na lista. Mesmo na excludente, **continuam devidos assistência material e reembolso, reacomodação ou reexecução por outro modal** (§ 4º).
+- Excludentes do transportador no atraso (CBA art. 256 § 1º, II e § 3º): o § 3º enumera **quatro hipóteses** de caso fortuito ou força maior (restrição de pouso/decolagem por meteorologia imposta pelo controle do espaço aéreo; por indisponibilidade de infraestrutura aeroportuária; restrição de voo, pouso ou decolagem por determinação de autoridade; pandemia e atos de governo dela decorrentes), desde que supervenientes, imprevisíveis e inevitáveis, e se impossível adotar medidas para evitar o dano. Problema técnico da aeronave, tripulação ou malha não está na lista: sustente que a enumeração é taxativa e que esses eventos são fortuito interno (a lei não diz "somente"; precedente do STJ sobre a taxatividade não conferido em fonte oficial [VERIFICAR]). Mesmo na excludente, **continuam devidos assistência material e reembolso, reacomodação ou reexecução por outro modal** (§ 4º).
 - Polo passivo: companhia operadora; codeshare e agência conforme a cadeia (CDC arts. 7º p.ú. e 25 § 1º).
 
 ## Fundamentos verificados
@@ -74,7 +74,7 @@ Detalhe em [fundamentos](references/fundamentos.md).
 - Aplicar Montreal (limites ou prazo) ao dano moral.
 - Pedir dano moral presumido por atraso.
 - Esquecer que força maior não dispensa assistência material.
-- Aceitar como força maior evento fora das quatro hipóteses do CBA art. 256 § 3º (ex.: manutenção não programada, readequação de malha).
+- Aceitar sem contestação como força maior evento fora das quatro hipóteses do CBA art. 256 § 3º (ex.: manutenção não programada, readequação de malha).
 - Deixar de registrar a irregularidade de bagagem no aeroporto ou de protestar no prazo.
 
 ## Integração com o núcleo
