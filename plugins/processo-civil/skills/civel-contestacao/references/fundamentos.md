@@ -1,6 +1,6 @@
 # Fundamentos verificados — contestação
 
-Redação conferida em 01/11/2026 no texto compilado do CPC.
+Redação conferida em 01/11/2026 no texto compilado do CPC; arts. 65 e 337, §§5º e 6º, conferidos de novo em 02/11/2026.
 
 | Dispositivo | Conteúdo útil | Como usar |
 |---|---|---|
@@ -9,7 +9,8 @@ Redação conferida em 01/11/2026 no texto compilado do CPC.
 | CPC art. 231 | Dia do começo do prazo conforme o meio de citação (IX: citação eletrônica, quinto dia útil após a confirmação) | Termo do art. 335, III |
 | CPC art. 229, §2º | Prazo em dobro de litisconsortes não se aplica a autos eletrônicos | Evitar contar dobra indevida |
 | CPC art. 336 | Concentração da defesa e especificação de provas | Estrutura |
-| CPC art. 337 e §§5º e 6º | Rol de preliminares; arbitragem e incompetência relativa não conhecidas de ofício; omissão da arbitragem = renúncia | Ordem das preliminares |
+| CPC art. 337 e §§5º e 6º | Rol de preliminares; arbitragem e incompetência relativa não conhecidas de ofício (§5º); omissão da convenção de arbitragem = aceitação da jurisdição estatal e renúncia ao juízo arbitral (§6º) | Ordem das preliminares |
+| CPC art. 65, caput e p.ú. | Competência relativa se prorroga se o réu não alegar a incompetência em preliminar de contestação; o MP pode alegá-la nas causas em que atuar | Preliminar de incompetência relativa (o §6º do art. 337 não trata dela) |
 | CPC arts. 338 e 339 | Substituição do réu; dever de indicar o legitimado | Preliminar de ilegitimidade |
 | CPC art. 340 | Contestação no foro do réu quando alegada incompetência | Protocolo |
 | CPC art. 341 | Ônus da impugnação especificada; exceções (direito indisponível, documento substancial, contradição); não se aplica a defensor público, dativo e curador especial | Mérito |

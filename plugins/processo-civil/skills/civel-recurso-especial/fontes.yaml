@@ -15,7 +15,7 @@ itens:
     url: https://legis.senado.leg.br/norma/36089342
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Lei 15.484/2026 (regime da relevância no REsp; inclui CPC art. 1.035-A; vigência 30 dias após publicação no DOU de 04/08/2026; art. 4º: exigível em recursos contra acórdãos publicados após a vigência)"
+    referencia: "Lei 15.484/2026 (regime da relevância no REsp; inclui CPC art. 1.035-A; vigência 30 dias após publicação no DOU de 04/08/2026; em vigor desde 03/09/2026; art. 4º: tópico exigido em recursos contra acórdãos publicados após a data de entrada em vigor; art. 6º: regulamentação pelo RISTJ)"
     status: LEI
     url: https://legis.senado.leg.br/norma/43627311
     consultado_em: 2026-11-01
@@ -94,3 +94,33 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601445299
     consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Lei 15.484/2026, arts. 4º, 6º e 7º - texto conferido na publicação disponível no Senado"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/43627311/publicacao/43629521
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 76, §2º, I, e 932, parágrafo único (regularização da representação na fase recursal)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-02
+  - tipo: resolucao
+    referencia: "Emenda Regimental 55/2026 do STJ, de 21/08/2026, DJe 26/08/2026 (execução do regime de relevância da Lei 15.484/2026)"
+    status: CONFIRMADO
+    url: https://www.stj.jus.br/webstj/institucional/biblioteca/clipping/2Imprimir.asp?seq_edicao=6118
+    consultado_em: 2026-11-02
+  - tipo: resolucao
+    referencia: "Divulgação oficial do STJ sobre a Emenda Regimental 55/2026 (transição a partir de 03/09/2026; órgãos competentes; poderes do presidente e relatores)"
+    status: CONFIRMADO
+    url: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24082026-Tribunal-publica-regras-para-exame-da-relevancia--novo-regime-comeca-a-valer-no-proximo-dia-3.aspx
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.652.718, Terceira Turma, rel. Min. Marco Aurélio Bellizze, j. 23/09/2024 (Súmula 115 aplicada com os arts. 76, §2º, I, e 932, p.ú.; regularização fora do prazo não aproveitada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401816750
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.550.206, Terceira Turma, rel. Min. Marco Aurélio Bellizze, j. 12/08/2024 (procuração posterior à interposição não supre o vício; art. 1.017, §5º, só para agravo de instrumento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400146347
+    consultado_em: 2026-11-02

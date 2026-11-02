@@ -5,7 +5,7 @@ itens:
     url: https://legis.senado.leg.br/norma/584917
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Lei 15.484/2026 (regime da relevância no REsp; inclui CPC art. 1.035-A; vigência 30 dias após publicação no DOU de 04/08/2026; art. 4º: exigível em recursos contra acórdãos publicados após a vigência)"
+    referencia: "Lei 15.484/2026 (regime da relevância no REsp; inclui CPC art. 1.035-A; vigência 30 dias após publicação no DOU de 04/08/2026; em vigor desde 03/09/2026; art. 4º: tópico exigido em recursos contra acórdãos publicados após a data de entrada em vigor)"
     status: LEI
     url: https://legis.senado.leg.br/norma/43627311
     consultado_em: 2026-11-01
@@ -19,3 +19,13 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504201325
     consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 115 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=115.num.
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.652.718, Terceira Turma, rel. Min. Marco Aurélio Bellizze, j. 23/09/2024 (Súmula 115 aplicada com os arts. 76, §2º, I, e 932, p.ú.; regularização fora do prazo não aproveitada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401816750
+    consultado_em: 2026-11-02

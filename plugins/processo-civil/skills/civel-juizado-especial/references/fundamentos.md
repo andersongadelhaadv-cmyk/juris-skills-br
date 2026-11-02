@@ -28,5 +28,5 @@ Normas consultadas na página do Senado (Lei 9.099/1995: alterações de 2018 a 
 - **Súmula 203 do STJ**: não cabe REsp contra decisão de órgão de segundo grau dos juizados especiais (redação alterada em 2002).
 - **Súmula 640 do STF**: cabe RE contra decisão de turma recursal de juizado especial cível e criminal.
 
-## Pendência
-Enunciados do FONAJE não foram conferidos em fonte oficial; se usados, marcar "[VERIFICAR: enunciado FONAJE n.]" e conferir no site oficial.
+## Enunciados do FONAJE
+Nenhum enunciado do FONAJE é citado nesta skill. Enunciados orientam a prática dos juizados, mas não vinculam como súmula ou tema. Se o usuário quiser usar um, confira número e redação vigente na página oficial do fórum (os enunciados são revistos e cancelados com frequência) e siga `verificacao-de-citacoes`; sem essa conferência, cite só a ideia, sem número, com a marca de pendência definida naquela skill.

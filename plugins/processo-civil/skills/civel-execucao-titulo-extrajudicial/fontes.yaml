@@ -14,3 +14,13 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=375.num.
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF, ADI 5.941/DF, Plenário, rel. Min. Luiz Fux, j. 09/02/2023 (constitucionalidade do CPC art. 139, IV; pedido improcedente)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=502102
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, RHC 216.240, Terceira Turma, rel. Min. Humberto Martins, j. 23/06/2025 (transcreve o resultado da ADI 5.941/DF sobre CNH, passaporte, concurso e licitação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501781621
+    consultado_em: 2026-11-02

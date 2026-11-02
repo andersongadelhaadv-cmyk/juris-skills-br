@@ -46,7 +46,7 @@ Endereçamento → partes → título e exigibilidade → demonstrativo (art. 79
 - Intimações obrigatórias de terceiros com direitos sobre o bem penhorado (art. 799).
 
 ## Fundamentos verificados
-CPC arts. 139, IV, 774, 784, 792, 798, 799, 801, 803, 805, 827 a 830, 833, 835, 854, 921; Tema 1137 do STJ; Súmula 375 do STJ. Detalhe em [fundamentos](references/fundamentos.md).
+CPC arts. 139, IV, 774, 784, 792, 798, 799, 801, 803, 805, 827 a 830, 833, 835, 854, 921; STF, ADI 5.941/DF (constitucionalidade do art. 139, IV); Tema 1137 do STJ; Súmula 375 do STJ. Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Citação para pagar em 3 dias, com ordem de penhora e avaliação (art. 829, §1º); arresto se não encontrado o executado (art. 830).

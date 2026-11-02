@@ -39,7 +39,7 @@ Endereçamento ao relator → tempestividade → cabimento → síntese da decis
 - Multa de 1% a 5% do valor atualizado da causa se o agravo for declarado manifestamente inadmissível ou improcedente por unanimidade (§4º); outro recurso fica condicionado ao depósito (§5º), salvo Fazenda e beneficiário da gratuidade.
 
 ## Fundamentos verificados
-CPC arts. 932, 1.021, 1.030, §2º, 1.035, §7º, 1.042, 1.070; Súmula 182 do STJ; precedente de 2026 sobre fundamento autônomo não impugnado. Detalhe em [fundamentos](references/fundamentos.md).
+CPC arts. 76, §2º, 932, 1.021, 1.030, §2º, 1.035, §7º, 1.042, 1.070; Súmulas 115 e 182 do STJ; precedente de 2026 sobre fundamento autônomo não impugnado. Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Retratação pelo relator; não havendo, julgamento pelo colegiado com inclusão em pauta (§2º).
@@ -53,6 +53,7 @@ CPC arts. 932, 1.021, 1.030, §2º, 1.035, §7º, 1.042, 1.070; Súmula 182 do S
 - [ ] Prazo de 15 dias úteis conferido.
 - [ ] Nada de mera reprodução do recurso anterior.
 - [ ] Pedido de retratação e, subsidiariamente, de julgamento colegiado.
+- [ ] No STJ: subscritor com procuração ou cadeia de substabelecimentos nos autos (Súmula 115, com a ressalva dos arts. 76, §2º, e 932, p.ú., do CPC).
 
 ## Erros a evitar
 - Copiar as razões do recurso original: atrai o não conhecimento e a multa do §4º.

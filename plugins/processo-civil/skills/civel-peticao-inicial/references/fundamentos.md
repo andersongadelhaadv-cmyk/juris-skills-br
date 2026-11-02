@@ -19,4 +19,4 @@ Redação conferida em 01/11/2026 no texto compilado do CPC (Lei 13.105/2015) e 
 Não fixar taxa nesta skill. Desde 30/08/2024 o regime cível é IPCA mais taxa legal (CC arts. 389, parágrafo único, e 406, na redação da Lei 14.905/2024); o cálculo e o termo inicial vêm da skill `juros-e-correcao`.
 
 ## Precedentes
-Nenhum precedente é obrigatório nesta peça. Qualquer julgado que o usuário queira citar passa antes por `verificacao-de-citacoes`; se não confirmado, entra como "[VERIFICAR: ...]" sem número.
+Nenhum precedente é obrigatório nesta peça. Qualquer julgado que o usuário queira citar passa antes por `verificacao-de-citacoes`; o que não for confirmado entra só como tese, sem número, com a marca de pendência definida naquela skill.

@@ -34,7 +34,7 @@ Petição simples nos autos → cabimento (ordem pública + prova pré-constitu�
 
 ## Requisitos e preliminares
 - Base normativa: arts. 803, p.ú. (nulidade pronunciada de ofício ou a requerimento, independentemente de embargos), 518 (validade do cumprimento arguida nos próprios autos) e 485, §3º (matérias cognoscíveis de ofício).
-- Súmula 393 do STJ: admite a exceção na execução fiscal para matérias cognoscíveis de ofício sem dilação probatória; aplicada por analogia na execução civil, como mostram julgados de 2025 e 2026 da base.
+- Súmula 393 do STJ: admite a exceção na execução fiscal para matérias cognoscíveis de ofício sem dilação probatória; aplicada por analogia na execução civil, como mostram julgados do STJ de 2025 e 2026.
 - Não suspende a execução por si; peça suspensão de atos expropriatórios fundamentadamente.
 
 ## Fundamentos verificados

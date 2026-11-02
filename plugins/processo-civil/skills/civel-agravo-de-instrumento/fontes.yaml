@@ -15,12 +15,27 @@ itens:
     url: https://legis.senado.leg.br/norma/580845
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Tema 988 do STJ (taxatividade mitigada do rol do CPC art. 1.015) - número não confirmado diretamente pela base; tese reproduzida em acórdão confirmado (REsp 2.129.011)"
-    status: VERIFICAR
-    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
-    consultado_em: 2026-11-01
+    referencia: "Tema 988 do STJ (taxatividade mitigada do rol do CPC art. 1.015) - número do tema, paradigmas (REsp 1.696.396/MT e 1.704.520/MT) e tese transcritos no STJ, REsp 2.129.011, Segunda Turma, j. 13/05/2026"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400805356
+    consultado_em: 2026-11-02
   - tipo: precedente
     referencia: "STJ, REsp 2.129.011, Segunda Turma, rel. Min. Teodoro Silva Santos, j. 13/05/2026 (reproduz a tese da taxatividade mitigada; agravo contra decisão sobre competência)"
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400805356
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STJ, REsp 1.696.396/MT, Corte Especial (paradigma do Tema 988) - identificado por transcrição no STJ, REsp 2.129.011, Segunda Turma, j. 13/05/2026"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400805356
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, REsp 1.704.520/MT, Corte Especial, rel. Min. Nancy Andrighi, j. 05/12/2018, DJe 19/12/2018 (paradigma do Tema 988) - dados transcritos no STJ, AgInt no AREsp 2.230.543"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203291195
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.230.543, Primeira Turma, rel. Min. Gurgel de Faria, j. 19/06/2023 (transcreve a tese do Tema 988 e os dados do REsp 1.704.520/MT)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203291195
+    consultado_em: 2026-11-02

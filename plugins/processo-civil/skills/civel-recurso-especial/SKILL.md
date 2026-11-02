@@ -31,7 +31,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - 15 dias úteis (art. 1.003, §5º); ED interrompem.
 - Feriado local: comprovar no ato (art. 1.003, §6º).
 - Preparo (custas do STJ e porte, quando devido) no ato (art. 1.007).
-- Relevância: exigida em tópico próprio nos recursos contra acórdãos publicados a partir da vigência da Lei 15.484/2026 (30 dias após a publicação de 04/08/2026, ou seja, 03/09/2026; regra de transição no art. 4º da lei). Use `prazos-processuais`.
+- Relevância: a Lei 15.484/2026 entrou em vigor em 03/09/2026 (30 dias após a publicação de 04/08/2026, art. 7º). Pelo art. 4º, o tópico próprio é exigido nos recursos contra acórdãos publicados **após a data de entrada em vigor**; o STJ, ao divulgar a Emenda Regimental 55/2026, falou em acórdãos publicados "a partir de 3 de setembro". Conte pela data de publicação do acórdão recorrido, não pela da interposição, e, havendo qualquer dúvida (inclusive acórdão publicado no próprio dia 03/09/2026), inclua o tópico. Use `prazos-processuais`.
 
 ## Estrutura da peça
 Interposição ao presidente/vice do tribunal de origem → razões: cabimento e tempestividade → **relevância da questão federal (tópico específico)** → exposição do fato e do direito → prequestionamento → violação ao art. 1.022 (se houver omissão) → violação de lei federal (por dispositivo) → dissídio (cotejo analítico) → pedidos. Detalhe em [estrutura](references/estrutura.md).
@@ -44,7 +44,7 @@ Interposição ao presidente/vice do tribunal de origem → razões: cabimento e
 - Indicar o dispositivo e como foi violado (Súmula 284 do STF); atacar todos os fundamentos suficientes (Súmula 283 do STF).
 
 ## Fundamentos verificados
-CF art. 105, III e §§2º-3º (EC 125/2022); CPC arts. 1.025, 1.029, 1.030, 1.035-A, 1.042; Súmulas 5, 7, 13, 83, 126, 203, 211, 518 do STJ; 282, 283, 284, 356 do STF. Detalhe em [fundamentos](references/fundamentos.md).
+CF art. 105, III e §§2º-3º (EC 125/2022); CPC arts. 76, §2º, 932, p.ú., 1.025, 1.029, 1.030, 1.035-A, 1.042; Lei 15.484/2026, arts. 4º, 6º e 7º; Emenda Regimental 55/2026 do STJ; Súmulas 5, 7, 13, 83, 115, 126, 203, 211, 518 do STJ; 282, 283, 284, 356 do STF. Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Admissão e remessa ao STJ; reconhecimento da relevância.
@@ -60,10 +60,12 @@ CF art. 105, III e §§2º-3º (EC 125/2022); CPC arts. 1.025, 1.029, 1.030, 1.0
 - [ ] Nenhum pedido de reexame de prova ou cláusula.
 - [ ] Dissídio com cotejo analítico e fonte do paradigma (art. 1.029, §1º); paradigma de outro tribunal (Súmula 13).
 - [ ] RE simultâneo, se houver fundamento constitucional autônomo.
-- [ ] Preparo, procuração (Súmula 115) e feriado local.
+- [ ] Preparo, procuração e cadeia completa de substabelecimentos com data anterior à interposição (Súmula 115 do STJ) e feriado local.
 
 ## Erros a evitar
 - Omitir o tópico de relevância (inadmissão por vício formal — art. 1.035-A, §3º).
+- Contar a transição da relevância pela data de interposição: o marco do art. 4º da Lei 15.484/2026 é a publicação do acórdão recorrido.
+- Juntar procuração ou substabelecimento datado depois da interposição: não supre o vício (Súmula 115 do STJ).
 - Relevância genérica ("a questão é importante para todos"): mostre o efeito para além das partes.
 - Alegar violação de súmula (Súmula 518) ou de dispositivo constitucional no REsp.
 - Dissídio com julgado do mesmo tribunal (Súmula 13) ou superado pela jurisprudência do STJ (Súmula 83).

@@ -35,13 +35,13 @@ Endereçamento → qualificação/remissão → síntese da inicial → tempesti
 
 ## Requisitos e preliminares
 - Art. 336: toda a defesa de uma vez (eventualidade). Depois só cabem as matérias do art. 342.
-- Art. 337: preliminares antes do mérito. Arbitragem e incompetência relativa não são conhecidas de ofício (§5º) e precluem se omitidas (§6º).
+- Art. 337: preliminares antes do mérito. Arbitragem e incompetência relativa não são conhecidas de ofício (§5º). Se omitidas, a consequência vem de regras distintas: sem alegar a convenção de arbitragem, o réu aceita a jurisdição estatal e renuncia ao juízo arbitral (§6º); sem alegar a incompetência relativa em preliminar, a competência se prorroga (art. 65).
 - Ilegitimidade: indicar o legitimado, se souber, sob pena de responder por despesas (art. 339).
 - Incompetência: a contestação pode ser protocolada no foro do domicílio do réu (art. 340).
 - Abusividade da cláusula de foro deve ser alegada na contestação, sob pena de preclusão (art. 63, §4º).
 
 ## Fundamentos verificados
-CPC arts. 63, 219, 229, 231, 335 a 342, 343, 344, 345, 373. Detalhe em [fundamentos](references/fundamentos.md).
+CPC arts. 63, 65, 219, 229, 231, 335 a 342, 343, 344, 345, 373. Detalhe em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Acolhimento das preliminares com extinção sem mérito (art. 485) ou correção do vício.
@@ -61,7 +61,7 @@ CPC arts. 63, 219, 229, 231, 335 a 342, 343, 344, 345, 373. Detalhe em [fundamen
 
 ## Erros a evitar
 - Negativa geral ("impugna-se tudo"): fatos não impugnados presumem-se verdadeiros (art. 341).
-- Deixar a convenção de arbitragem ou a incompetência relativa para depois: preclusão.
+- Deixar a convenção de arbitragem ou a incompetência relativa para depois: a arbitragem fica renunciada (art. 337, §6º) e a competência relativa se prorroga (art. 65).
 - Contestar fora do prazo por contar dias corridos ou ignorar o termo do art. 335.
 - Alegar ilegitimidade sem apontar quem seria o réu correto.
 - Formular pedido contraposto no procedimento comum: o meio é a reconvenção.
