@@ -7,7 +7,7 @@
 - **§ 4º** — bancos de dados são entidades de caráter público.
 - **§ 5º** — consumada a prescrição da cobrança, os sistemas não fornecem informações que impeçam novo crédito.
 
-## Súmulas do STJ (todas CONFIRMADAS na base; vigência a conferir no portal do STJ se houver dúvida)
+## Súmulas do STJ (vigência a conferir no portal do STJ se houver dúvida)
 - **359** — "Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição." *Uso:* define quem responde pela falta de notificação.
 - **404** — "É dispensável o aviso de recebimento (AR) na carta de comunicação ao consumidor sobre a negativação de seu nome em bancos de dados e cadastros." *Uso:* a defesa do mantenedor usa; o autor deve discutir o envio ao endereço correto, não o AR.
 - **385** — "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento." *Uso:* sempre enfrentar; mesmo aplicada, subsiste o pedido de cancelamento.
@@ -19,5 +19,7 @@
 - **AREsp 2.777.211** (3ª Turma, julg. 20/10/2025) — a jurisprudência flexibiliza a Súmula 385 quando a anotação preexistente é objeto de questionamento judicial. *Uso:* juntar prova da ação que discute a anotação anterior.
 - **REsp 2.069.520** (3ª Turma, julg. 13/06/2023) — notificação prévia exige correspondência ao endereço do consumidor; vedada a notificação exclusiva por e-mail; dano moral configurado sem inscrições legítimas anteriores.
 
-## A verificar
-- Prazo prescricional da indenização por inscrição indevida [VERIFICAR].
+- **AREsp 2.481.029** (4ª Turma, julg. 09/03/2026) — inscrição indevida e descontos decorrentes de empréstimos não contratados: incide o prazo do art. 27 do CDC, aplicável ao consumidor por equiparação; afastada a alegação de prazo trienal do art. 206, § 3º, V, do CC. Responsabilidade tratada como extracontratual. *Uso:* fundamentar a prescrição quinquenal quando não há relação contratual válida; juros e correção sempre pelo núcleo `juros-e-correcao`.
+
+## Ponto em aberto
+- Prazo prescricional quando a dívida existe e o ilícito está só na forma da inscrição (sem notificação, após quitação, além de 5 anos): não conferido em fonte oficial [VERIFICAR].

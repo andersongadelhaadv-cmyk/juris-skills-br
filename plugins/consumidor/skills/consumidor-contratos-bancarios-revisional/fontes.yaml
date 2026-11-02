@@ -75,12 +75,27 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503198173
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Orientação repetitiva de 2008 sobre juros remuneratórios (número do tema não confirmado na base; tese citada genericamente)"
-    status: VERIFICAR
-    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
-    consultado_em: 2026-11-01
+    referencia: "Tema 27 do STJ (REsp 1.061.530/RS) — revisão de juros remuneratórios em situações excepcionais; número e tese transcritos no AgInt no REsp 2.035.980"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203421893
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.035.980 (transcreve a tese do Tema 27)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203421893
+    consultado_em: 2026-11-02
   - tipo: tema
-    referencia: "Repetitivos sobre tarifas bancárias (números não confirmados na base; usadas as Súmulas 565 e 566)"
+    referencia: "Tema 958 do STJ (REsp 1.578.553/SP) — tarifa de avaliação do bem e despesa de registro; tese transcrita no AgInt no REsp 2.095.900"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303251950
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.095.900 (transcreve a tese do Tema 958)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303251950
+    consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "Repetitivos de origem das Súmulas 565 e 566 (TAC/TEC/cadastro) — número não conferido em fonte oficial; citar só as súmulas"
     status: VERIFICAR
     url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

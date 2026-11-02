@@ -11,7 +11,7 @@ description: >
 metadata:
   area: consumidor
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Repetição do indébito em dobro (CDC art. 42, p.ú.)
 
@@ -30,7 +30,8 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 5. O fornecedor tem justificativa (erro sistêmico isolado, interpretação razoável, ordem judicial)?
 
 ## Prazo e contagem
-- Prescrição: [VERIFICAR: o prazo da pretensão de repetição em relação de consumo varia conforme a natureza da cobrança — art. 27 do CDC, art. 205 ou art. 206 § 3º do CC; revisional bancária com repetição é decenal (REsp 2.230.380, ver `consumidor-contratos-bancarios-revisional`). Confirmar para o caso via `verificacao-de-citacoes`].
+- Prescrição — cobrança indevida dentro de relação contratual: 10 anos (art. 205 do CC); não se aplica o prazo trienal do enriquecimento sem causa (art. 206, § 3º, IV), porque há causa jurídica prévia e a repetição é ação específica (AgInt nos EAREsp 2.764.264, Segunda Seção, 2026, julgado em caso de previdência complementar). Também decenal: serviços não contratados cobrados por telefonia (AgRg no AREsp 723.011) e revisional bancária com repetição (REsp 2.230.380).
+- Prescrição — sem contrato válido (fraude, empréstimo não celebrado): o STJ aplicou o art. 27 do CDC (5 anos) ao consumidor por equiparação (AREsp 2.481.029). Na dúvida sobre o enquadramento, conte pelo prazo menor.
 - **Marco da modulação:** a tese de que a dobra independe de má-fé aplica-se aos indébitos de natureza contratual **não pública** cobrados **após a publicação** do acórdão da Corte Especial (DJe 30/03/2021). Antes disso, nesses contratos, exige-se má-fé, sob pena de devolução simples. Para contratos de natureza pública (ex.: telefonia), a modulação não se aplica.
 - **Tema 929/STJ:** acórdão de 22/09/2026 registra que as hipóteses de aplicação da repetição em dobro foram afetadas ao Tema 929, com suspensão nacional dos processos a partir da interposição de REsp/AREsp. Conferir o estado do tema na data da peça.
 

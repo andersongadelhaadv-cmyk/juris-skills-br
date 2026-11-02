@@ -15,15 +15,20 @@ itens:
     url: https://legis.senado.leg.br/norma/549441
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Lei 14.034/2020 (altera o CBA: arts. 251-A e 256)"
+    referencia: "Lei 14.034/2020 (altera o CBA: arts. 251-A e 256, §§ 1º, 3º e 4º — texto conferido na publicação original)"
     status: LEI
-    url: https://legis.senado.leg.br/norma/32530099
-    consultado_em: 2026-11-01
+    url: https://legis.senado.leg.br/norma/32530099/publicacao/32531719
+    consultado_em: 2026-11-02
   - tipo: lei
-    referencia: "Decreto 5.910/2006 (promulga a Convenção de Montreal)"
+    referencia: "Decreto 5.910/2006 (promulga a Convenção de Montreal), arts. 19, 22, 31 e 35 — texto conferido na publicação original"
     status: LEI
+    url: https://legis.senado.leg.br/norma/409501/publicacao/15732609
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Valores-limite da Convenção de Montreal revistos após 2006 (art. 22)"
+    status: VERIFICAR
     url: https://legis.senado.leg.br/norma/409501
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: lei
     referencia: "Lei 8.078/1990 (CDC), arts. 6º, 7º, 14, 25"
     status: LEI
@@ -35,7 +40,12 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503200875
     consultado_em: 2026-11-01
   - tipo: resolucao
-    referencia: "Resolução ANAC 400/2016 e alteração aprovada em 22/09/2026 (número e vigência a confirmar)"
+    referencia: "Resolução ANAC 400/2016 e alteração aprovada em 22/09/2026 (número, publicação e vigência não conferidos em fonte oficial)"
     status: VERIFICAR
     url: https://agenciagov.ebc.com.br/noticias/202609/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-e-amplia-deveres-de-informacao-aos-passageiros
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "Prazo prescricional em voo doméstico (CBA 317 x CDC 27) e do dano moral em voo internacional; limite do CBA 260 diante do CDC (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-02

@@ -20,7 +20,7 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200048504
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "Tese da vida útil do bem e garantia legal após a contratual (sem número)"
+    referencia: "Tese da vida útil do bem e garantia legal após a contratual (sem número; precedente não conferido em fonte oficial)"
     status: VERIFICAR
     url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

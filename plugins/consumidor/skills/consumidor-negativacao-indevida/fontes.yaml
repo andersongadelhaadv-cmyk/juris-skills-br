@@ -55,7 +55,12 @@ itens:
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301352876
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "Prazo prescricional da indenização por inscrição indevida (sem número)"
+    referencia: "STJ, AREsp 2.481.029 (inscrição indevida por débito inexistente: prazo do art. 27 do CDC)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303290521
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "Prazo prescricional quando a dívida existe e a irregularidade está na forma da inscrição (sem número)"
     status: VERIFICAR
     url: https://scon.stj.jus.br/SCON/
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

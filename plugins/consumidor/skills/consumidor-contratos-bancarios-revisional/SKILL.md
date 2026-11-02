@@ -11,7 +11,7 @@ description: >
 metadata:
   area: consumidor
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Revisional de contrato bancário (consumo)
 
@@ -45,7 +45,8 @@ Fatos e contrato → CDC aplicável → cláusulas impugnadas (uma por tópico, 
 
 ## Fundamentos verificados
 - Súmula 297 (CDC aplicável), 381 (sem conhecimento de ofício), 382 (juros acima de 12% a.a. não são, por si, abusivos), 530 (taxa média na falta de contrato), 539 e 541 (capitalização), 472 (comissão de permanência), 565 e 566 (TAC/TEC e tarifa de cadastro).
-- Orientação repetitiva da Segunda Seção (2008): revisão de juros remuneratórios só em situação excepcional, com abusividade cabalmente demonstrada pelas peculiaridades do caso — transcrita no REsp 2.009.614 e na afetação do Tema 1378.
+- Tema 27/STJ (REsp 1.061.530/RS): revisão de juros remuneratórios só em situação excepcional, com abusividade cabalmente demonstrada pelas peculiaridades do caso concreto; taxa média do Bacen é referencial, não critério absoluto.
+- Tema 958/STJ: tarifa de avaliação do bem e despesa de registro são válidas, salvo serviço não prestado ou onerosidade excessiva no caso.
 - CDC arts. 6º V, 39 V, 51 IV e § 1º, 52, 54-B (CET).
 Detalhe em [fundamentos](references/fundamentos.md).
 
@@ -67,7 +68,7 @@ Detalhe em [fundamentos](references/fundamentos.md).
 - [ ] Juros/correção do indébito remetidos ao núcleo
 
 ## Erros a evitar
-- Pedir limitação de juros a 12% ao ano (Súmula 382 e orientação repetitiva).
+- Pedir limitação de juros a 12% ao ano (Súmula 382 e Tema 27/STJ).
 - Usar apenas "taxa acima da média do Bacen" como prova de abusividade.
 - Impugnar capitalização quando o contrato prevê taxa anual superior ao duodécuplo da mensal (Súmula 541).
 - Contestar tarifa de cadastro cobrada no início do relacionamento em contrato posterior a 30/04/2008 (Súmula 566).

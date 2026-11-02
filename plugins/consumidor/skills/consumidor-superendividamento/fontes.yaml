@@ -29,8 +29,23 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503283615
     consultado_em: 2026-11-01
+  - tipo: lei
+    referencia: "Decreto 11.150/2022, arts. 3º, §§ 1º e 3º, 4º e 5º (publicação original)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/36127194/publicacao/36127465
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "STF, ADPFs de 23/04/2026 sobre o art. 3º do Decreto 11.150 (números não localizados na base)"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/36127194
-    consultado_em: 2026-11-01
+    referencia: "STF, ADPF 1.006 (julg. 23/04/2026, DOU 05/05/2026) — interpretação conforme ao art. 3º, § 3º; inconstitucionalidade do art. 4º, p.ú., I, 'h', do Decreto 11.150"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/43240791
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STF, ADPF 1.005 (julg. 23/04/2026, DOU 05/05/2026) — julgamento conjunto"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/43240829
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "STF, ADPF 1.097 (julg. 23/04/2026, DOU 05/05/2026) — julgamento conjunto"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/43240753
+    consultado_em: 2026-11-02
