@@ -31,7 +31,7 @@ Caráter consultivo: o produto é um parecer com alternativas, riscos e custos, 
 6. Prazo do cliente: idade e saúde (planejamento perto do óbito tem risco de questionamento).
 
 ## Prazo e contagem
-- ITCMD: alíquota da lei estadual vigente na data da doação (fato gerador) ou do óbito; progressividade obrigatória após a EC 132/2023; regras gerais da LC 227/2026 dependem de lei estadual com anterioridade — conferir antes de comparar cenários.
+- ITCMD: alíquota da lei estadual vigente na data da doação (fato gerador) ou do óbito; progressividade obrigatória após a EC 132/2023; normas gerais na LC 227/2026 (arts. 146 a 164, com efeitos desde 14/01/2026); a cobrança segue a lei estadual, e criação ou aumento nela observa a anterioridade — conferir antes de comparar cenários.
 - Colação: herdeiro donatário confere no inventário do doador (CPC 639: no prazo do art. 627).
 - Anulação de partilha amigável: 1 ano (CC 2.027 p.ú.).
 
@@ -45,7 +45,7 @@ Parecer: consulta → fatos e premissas → quadro sucessório hipotético → l
 - Contrato sobre herança de pessoa viva é vedado (CC 426).
 - Doação de bens comuns exige anuência do cônjuge, salvo separação absoluta (CC 1.647, IV).
 - Cláusulas: reversão só ao doador (CC 547); inalienabilidade implica impenhorabilidade e incomunicabilidade (CC 1.911); sobre a legítima, só com justa causa se por testamento (CC 1.848).
-- Holding: integralização de bens, avaliação de quotas a valor de mercado para ITCMD (LC 227/2026 [VERIFICAR texto oficial]), ITBI na integralização conforme atividade, governança e acordo de sócios; a morte do sócio liquida a quota salvo previsão contratual (CC 1.028).
+- Holding: integralização de bens, avaliação de quotas para ITCMD por metodologia idônea, com piso no patrimônio líquido ajustado a valor de mercado mais fundo de comércio, ou pela cotação se houver mercado ativo (LC 227/2026, art. 154), ITBI na integralização conforme atividade, governança e acordo de sócios; a morte do sócio liquida a quota salvo previsão contratual (CC 1.028).
 
 ## Fundamentos verificados
 CC 426, 538, 541, 544, 547 a 549, 555, 557, 1.028, 1.390, 1.410, 1.647, 1.789, 1.845 a 1.848, 1.911, 2.002 a 2.007, 2.018, 2.027; CPC 639 a 641; CF 155 §1º (EC 132/2023); LC 227/2026; Súmula 112 STF; STF Tema 825. Detalhe em [fundamentos](references/fundamentos.md).

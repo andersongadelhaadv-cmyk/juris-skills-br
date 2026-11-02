@@ -31,7 +31,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 
 ## Prazo e contagem
 - Mesmo prazo de abertura de 2 meses (CPC 611) para fins de multa estadual (Súmula 542 STF) — confirmar a lei local.
-- Desde a Res. CNJ 695/2026, a escritura não depende de prévio recolhimento do ITCMD; o tabelião comunica o fisco em 5 dias (ou no prazo da lei tributária). O imposto continua devido pela alíquota da data do óbito (Súmula 112 STF). [VERIFICAR texto oficial da Res. 695/2026 antes de citá-la.]
+- Res. CNJ 695, de 26/08/2026: dispensaria o prévio recolhimento do ITCMD na escritura, com comunicação do tabelião ao fisco em 5 dias (ou no prazo da lei tributária); texto não conferido em fonte oficial [VERIFICAR: texto oficial da Res. 695/2026 antes de citá-la]. Em qualquer caso, o imposto segue devido pela alíquota da abertura da sucessão (Súmula 112 STF; LC 227/2026, art. 156 §1º, I).
 - Prazo para pagar despesas após venda de bem autorizada na escritura: até 1 ano (Res. 35, art. 11-A §1º).
 
 ## Estrutura da peça
@@ -39,7 +39,7 @@ Minuta de escritura (ou roteiro para o tabelião) → nomeação do inventariant
 
 ## Requisitos e preliminares
 - Todos capazes e concordes, ou incapaz com quinhão em parte ideal em cada bem e parecer favorável do MP (Res. 35, art. 12-A).
-- Testamento: autorização expressa do juízo sucessório em ação de abertura e cumprimento, com trânsito em julgado; interessados concordes; havendo incapaz, somam-se as exigências do art. 12-A; dúvida → tabelião suscita o juízo (Res. 35, art. 12-B) [VERIFICAR texto oficial].
+- Testamento (Res. 35, art. 12-B): todos com advogado; autorização expressa do juízo sucessório em ação de abertura e cumprimento, com trânsito em julgado; interessados capazes e concordes; havendo incapaz, somam-se as exigências do art. 12-A; testamento inválido, revogado, rompido ou caduco só com sentença transitada reconhecendo isso; reconhecimento de filho ou outra declaração irrevogável → via judicial (§1º); dúvida → tabelião suscita o juízo de registros públicos (§2º).
 - Advogado ou defensor obrigatório, com qualificação e assinatura no ato (CPC 610 §2º).
 - Livre escolha do tabelião (Res. 35, art. 1º); escritura dispensa homologação e vale para registro e bancos (CPC 610 §1º).
 - Companheiro: herdeiro quando a união é reconhecida pelos demais sucessores (Res. 35, arts. 18 e 19); se houver disputa, via judicial ou ação declaratória antes.
@@ -67,7 +67,7 @@ Na escritura (ou no requerimento ao tabelião):
 - Atribuir bens inteiros ao incapaz ou compensar quinhões (o art. 12-A exige parte ideal em cada bem).
 - Lavrar escritura com testamento sem a autorização judicial prévia.
 - Afirmar ao cliente que "não paga mais ITCMD": a Res. 695/2026 só retirou a exigência de pagamento prévio; o imposto continua devido e o fisco é avisado.
-- Ignorar exigências do registro de imóveis quanto à prova fiscal [VERIFICAR: posição da corregedoria local após a Res. 695/2026].
+- Ignorar o código de normas da corregedoria local e as exigências do registro de imóveis quanto à prova fiscal: consulte-os caso a caso antes da lavratura.
 - Subavaliar bens (o tabelião pode recusar diante de indícios de fraude, art. 32 §2º).
 
 ## Integração com o núcleo

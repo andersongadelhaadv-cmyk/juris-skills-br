@@ -16,7 +16,8 @@
 
 ## Resoluções do CNJ (Res. 35/2007 e alterações)
 - **Res. CNJ 571/2024** alterou a Res. 35: admitiu divórcio extrajudicial com filhos incapazes quando guarda, convivência e alimentos já estiverem resolvidos judicialmente (art. 34 §2º); estendeu as regras à extinção de união estável (art. 46-A). Texto conferido no PDF oficial em atos.cnj.jus.br.
-- **Res. CNJ 695/2026** (agosto de 2026) alterou o art. 15 da Res. 35: a escritura de inventário e partilha não depende de prévio recolhimento do ITCMD; a escritura consigna declaração das partes sobre as obrigações tributárias e o tabelião comunica o fisco. Status: não conferido em fonte oficial [VERIFICAR: texto oficial da Res. CNJ 695/2026 e aplicação à partilha em divórcio].
+- **Res. CNJ 695, de 26/08/2026** (número e data constam do índice oficial de atos do CNJ): alteraria o art. 15 da Res. 35 para dispensar o prévio recolhimento do ITCMD na escritura, com declaração das partes sobre as obrigações tributárias e comunicação ao fisco pelo tabelião. Conteúdo e alcance sobre a partilha em divórcio: não conferido em fonte oficial [VERIFICAR: texto oficial da Res. CNJ 695/2026 e aplicação à partilha em divórcio].
+- **LC 227/2026, art. 161** (texto conferido na publicação oficial): CNJ, tribunais de justiça e fiscos estaduais podem firmar convênio para compartilhar dados de inventários, divórcios e dissoluções de união estável que envolvam transmissão causa mortis ou doação. Partilha desigual pode chegar ao conhecimento do fisco por essa via.
 
 ## Precedentes (conferidos no JuriBase em 01/11/2026)
 - **STF Tema 1053 (RE 1.167.478)**: "Após a promulgação da EC nº 66/2010, a separação judicial não é mais requisito para o divórcio nem subsiste como figura autônoma no ordenamento jurídico. Sem prejuízo, preserva-se o estado civil das pessoas que já estão separadas, por decisão judicial ou escritura pública, por se tratar de ato jurídico perfeito (art. 5º, XXXVI, da CF)."

@@ -15,15 +15,20 @@ itens:
     url: https://legis.senado.leg.br/norma/552282
     consultado_em: 2026-11-01
   - tipo: resolucao
-    referencia: "Res. CNJ 35/2007 com redação da Res. CNJ 571/2024 (arts. 1º, 3º, 11-A, 12-A, 12-B, 18, 19, 26 e 32)"
+    referencia: "Res. CNJ 35/2007 com redação da Res. CNJ 571/2024 (arts. 1º, 3º, 11-A, 12-A, 12-B com incisos I a V e §§1º e 2º, 18, 19, 26 e 32)"
     status: CONFIRMADO
     url: https://atos.cnj.jus.br/files/original2309432024083066d251371bc21.pdf
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: resolucao
-    referencia: "Res. CNJ 695/2026 (art. 15 da Res. 35/2007 — dispensa de prévio recolhimento do ITCMD)"
+    referencia: "Res. CNJ 695, de 26/08/2026 (art. 15 da Res. 35/2007 — dispensa de prévio recolhimento do ITCMD); texto não conferido"
     status: VERIFICAR
-    url: https://atos.cnj.jus.br/atos/detalhar/7010
-    consultado_em: 2026-11-01
+    url: https://atos.cnj.jus.br/files/original132829202608286a918cfd903c8.pdf
+    consultado_em: 2026-11-02
+  - tipo: lei
+    referencia: "Lei Complementar 227/2026, arts. 150, 152, 156 §1º, 160 e 163 (ITCMD)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/42042119
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 112 do STF"
     status: CONFIRMADO

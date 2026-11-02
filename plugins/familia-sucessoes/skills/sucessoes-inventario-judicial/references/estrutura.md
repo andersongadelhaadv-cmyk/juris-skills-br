@@ -24,7 +24,7 @@
 - Habilitação de credores (CPC 642 a 646).
 
 ## 5. Últimas declarações, ITCMD e partilha
-- Últimas declarações e cálculo do imposto; recolhimento conforme lei estadual da data do óbito (Súmula 112 STF).
+- Últimas declarações e cálculo do imposto; recolhimento conforme lei estadual da data do óbito (Súmula 112 STF). A homologação do cálculo do ITCMD cabe ao fisco estadual (LC 227/2026, art. 160).
 - Pedido de quinhões e decisão de deliberação da partilha (CPC 647); regras da partilha (CPC 648; CC 2.017).
 - Sentença de partilha após prova do ITCMD e certidão negativa (CPC 654), salvo dívida garantida.
 

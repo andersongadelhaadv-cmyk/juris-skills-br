@@ -24,11 +24,12 @@
 ## Súmula (conferida no JuriBase em 01/11/2026)
 - **Súmula 309 STJ** (redação alterada em 22/03/2006): "O débito alimentar que autoriza a prisão civil do alimentante é o que compreende as três prestações anteriores ao ajuizamento da execução e as que se vencerem no curso do processo." A redação antiga ("anteriores à citação") está superada; não usar.
 
-## Precedentes localizados (JuriBase, STJ — ENCONTRADO)
+## Precedentes localizados (STJ, conferidos no JuriBase)
 - STJ, 3ª Turma, REsp 2.199.718, rel. Min. Ricardo Villas Bôas Cueva, julgado em 29/09/2025: admite cumular os ritos da coerção pessoal e da expropriação no mesmo processo, se não houver prejuízo ao devedor nem tumulto processual; o credor deve discriminar os débitos. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500647441
 - STJ, 3ª Turma, AgInt no AREsp 2.700.790, rel. Min. Ricardo Villas Bôas Cueva, julgado em 16/03/2026: mesma orientação. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402744302
+- STJ, 3ª Turma, HC 708.634, rel. Min. Paulo de Tarso Sanseverino, julgado em 03/05/2022: a prisão civil fica restrita ao inadimplemento voluntário e inescusável de alimentos decorrentes de relação familiar; pensão fixada em ação de responsabilidade civil (ato ilícito) tem natureza indenizatória e não autoriza prisão. Fonte: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103767278
 
 Leia a ementa integral antes de citar. A pertinência ao caso é juízo do advogado.
 
-## Pendência
-- [VERIFICAR: cabimento de prisão civil por alimentos indenizatórios (ato ilícito) na jurisprudência atual do STJ] — pesquisar com `verificacao-de-citacoes` antes de pedir.
+## Alimentos indenizatórios
+- Pensão por ato ilícito executa-se pela expropriação (CPC 523 e seguintes), sem coerção pessoal, conforme o HC 708.634. Antes de protocolar, rode `verificacao-de-citacoes` para checar se surgiu orientação posterior.

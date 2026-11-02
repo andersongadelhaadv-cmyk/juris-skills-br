@@ -10,20 +10,20 @@ itens:
     url: https://legis.senado.leg.br/norma/552282
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Constituição Federal, art. 155 §1º (redação da EC 132/2023)"
+    referencia: "Constituição Federal, arts. 150, III, b e c, e 155 §1º (redação da EC 132/2023)"
     status: LEI
     url: https://legis.senado.leg.br/norma/579494
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: lei
     referencia: "Emenda Constitucional 132/2023 (ITCMD progressivo; competência sobre móveis)"
     status: LEI
     url: https://legis.senado.leg.br/norma/37959796
     consultado_em: 2026-11-01
   - tipo: lei
-    referencia: "Lei Complementar 227/2026 (normas gerais do ITCMD) — artigos específicos a conferir"
-    status: VERIFICAR
+    referencia: "Lei Complementar 227/2026, arts. 146 a 164 (ITCMD) e 182, III (efeitos)"
+    status: LEI
     url: https://legis.senado.leg.br/norma/42042119
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 112 do STF"
     status: CONFIRMADO
