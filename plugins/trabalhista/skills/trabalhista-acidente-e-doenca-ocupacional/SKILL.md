@@ -32,7 +32,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Data da dispensa (para estabilidade).
 
 ## Prazo e contagem
-- Prescrição trabalhista (CF art. 7º XXIX; CLT art. 11). Termo inicial da pretensão reparatória por acidente ou doença ocupacional: data em que a vítima teve ciência inequívoca da lesão em toda a sua extensão (actio nata), conforme jurisprudência do TST aplicada no RRAg-10906-30.2015.5.15.0083 (3ª Turma); no mesmo sentido, Súmula 278 do STJ (ciência inequívoca da incapacidade laboral). Pedir ao usuário o documento que marca essa ciência (laudo, alta, concessão de benefício ou aposentadoria).
+- Prescrição trabalhista (CF art. 7º XXIX; CLT art. 11). Termo inicial da pretensão reparatória por acidente ou doença ocupacional: data em que a vítima teve ciência inequívoca da lesão em toda a sua extensão (actio nata), conforme jurisprudência do TST aplicada no RRAg-10906-30.2015.5.15.0083 (3ª Turma); por analogia, Súmula 278 do STJ (editada para o seguro, adota o mesmo marco da ciência inequívoca da incapacidade laboral). Pedir ao usuário o documento que marca essa ciência (laudo, alta, concessão de benefício ou aposentadoria).
 - Estabilidade: 12 meses após a cessação do auxílio por incapacidade acidentário (Lei 8.213 art. 118).
 
 ## Estrutura da peça
