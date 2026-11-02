@@ -4,7 +4,7 @@
 |---|---|---|
 | CLT art. 847 e p.ú. | 20 minutos de defesa oral; defesa escrita pelo PJe até a audiência | Momento da defesa |
 | CLT art. 843 §§1º e 3º | Preposto com conhecimento dos fatos; não precisa ser empregado | Preparar o preposto |
-| Súmula 377 do TST | Preposto empregado, salvo doméstico e ME/EPP | Texto anterior à Lei 13.467/2017; VERIFICAR vigência |
+| Súmula 377 do TST | Preposto empregado, salvo doméstico e ME/EPP | Enunciado anterior à Lei 13.467/2017; vigência não conferida em fonte oficial [VERIFICAR] |
 | CLT art. 844 caput, §§4º e 5º | Revelia e confissão; exceções; advogado presente leva a defesa aos autos | Alertas ao cliente |
 | Súmula 122 do TST | Reclamada ausente é revel mesmo com advogado; atestado deve declarar impossibilidade de locomoção | Justificar ausência |
 | Súmula 74 do TST | Confissão ficta da parte intimada que não depõe; prova pré-constituída pode confrontá-la | Audiência de instrução |

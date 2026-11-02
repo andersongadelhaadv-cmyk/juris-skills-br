@@ -15,10 +15,10 @@ itens:
     url: https://legis.senado.leg.br/norma/38672088
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADC 58 (STF) - atualização de créditos trabalhistas; não localizada diretamente no JuriBase; aplicação confirmada em acórdãos do TST; tratar via núcleo juros-e-correcao"
-    status: VERIFICAR
+    referencia: "ADC 58 (STF, julgamento conjunto com ADC 59 e ADIs 5867 e 6021) - atualização de créditos trabalhistas e modulação; tese transcrita no RR-1000422-46.2020.5.02.0043; índices e taxas aplicados só via núcleo juros-e-correcao"
+    status: CONFIRMADO
     url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/d6e7420893bb6ae07972e95cf9746f1e
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: precedente
     referencia: "TST, 1ª Turma, RR-1000422-46.2020.5.02.0043 (julg. 13/05/2026) - ADC 58, Tema 1191 STF e Lei 14.905/2024"
     status: CONFIRMADO

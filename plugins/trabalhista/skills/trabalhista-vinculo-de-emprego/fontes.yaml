@@ -30,7 +30,7 @@ itens:
     url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6048634&numeroProcesso=1298647&classeProcesso=RE&numeroTema=1118
     consultado_em: 2026-11-01
   - tipo: tema
-    referencia: "Tema 1389 do STF (pejotização) - não localizado no JuriBase"
-    status: VERIFICAR
-    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/pesquisarProcesso.asp
-    consultado_em: 2026-11-01
+    referencia: "Tema 1389 da repercussão geral do STF (ARE 1532603, rel. Min. Gilmar Mendes) - existência, objeto e ausência de tese conferidos no portal do STF; ordem de suspensão não conferida"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1389
+    consultado_em: 2026-11-02

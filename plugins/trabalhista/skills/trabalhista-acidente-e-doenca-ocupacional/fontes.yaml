@@ -50,7 +50,22 @@ itens:
     url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1259
     consultado_em: 2026-11-01
   - tipo: precedente
-    referencia: "ADIs 6050, 6069 e 6082 (STF) - tarifação do dano extrapatrimonial (CLT 223-G); não localizadas no JuriBase; anotadas no texto compilado da CLT"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/530547
-    consultado_em: 2026-11-01
+    referencia: "ADIs 6050, 6069 e 6082 (STF) - interpretação conforme dos arts. 223-A, 223-B e 223-G caput e §1º da CLT (faixas orientativas; valor superior admitido); ementa transcrita no Ag-RRAg-0000367-39.2023.5.12.0008"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/585e34667431fcb2603a0493cf14dcfe
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 6ª Turma, Ag-RRAg-0000367-39.2023.5.12.0008 (rel. Kátia Magalhães Arruda, maio/2026) - doença ocupacional; transcreve a ementa das ADIs 6050, 6069 e 6082"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/585e34667431fcb2603a0493cf14dcfe
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 3ª Turma, RRAg-10906-30.2015.5.15.0083 (rel. Alberto Bastos Balazeiro, julg. 21/05/2026) - prescrição em acidente/doença ocupacional: ciência inequívoca da lesão em toda a sua extensão"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/11fd575f78c5f911272f50987e16661e
+    consultado_em: 2026-11-02
+  - tipo: sumula
+    referencia: "Súmula 278 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=278.num.
+    consultado_em: 2026-11-02

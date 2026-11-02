@@ -11,7 +11,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Adicionais de insalubridade e periculosidade
 
@@ -36,15 +36,15 @@ Tópico próprio: atividade e agente; enquadramento na NR; ausência ou ineficá
 
 ## Requisitos e preliminares
 - **Insalubridade** (arts. 189-192): agente acima dos limites de tolerância fixados pelo Ministério do Trabalho; graus máximo, médio e mínimo — 40%, 20% e 10% (art. 192). Precisa estar na relação oficial; laudo sozinho não basta (Súmula 448 I). Limpeza de banheiros de uso público ou coletivo de grande circulação e coleta do respectivo lixo: grau máximo (Súmula 448 II).
-- **Base de cálculo da insalubridade**: o art. 192 fala em salário mínimo; o salário mínimo não pode ser indexador nem ser substituído por decisão judicial (Súmula Vinculante 4 do STF). A Súmula 228 do TST (salário básico) teve sua aplicação questionada após a SV 4 [VERIFICAR situação da Súmula 228 no site do TST]. Verificar se há norma coletiva mais favorável.
+- **Base de cálculo da insalubridade**: o art. 192 fala em salário mínimo; o salário mínimo não pode ser indexador nem ser substituído por decisão judicial (Súmula Vinculante 4 do STF). A Súmula 228 do TST (salário básico a partir de 09/05/2008) teve sua aplicação questionada após a SV 4; situação atual não conferida em fonte oficial [VERIFICAR no site do TST antes de citá-la]. Na prática recente, o TST trata o salário mínimo como base legal e mantém o salário-base quando adotado por norma interna ou coletiva mais benéfica, vedada a alteração lesiva (Ag-AIRR-0000481-45.2022.5.10.0015 e Ag-AIRR-0010316-12.2024.5.03.0038). Verificar se há norma coletiva ou regulamento mais favorável.
 - **Periculosidade** (art. 193): inflamáveis, explosivos, energia elétrica; segurança pessoal ou patrimonial; motocicleta (§4º); agentes de trânsito (III, Lei 14.684/2023); exceção dos tanques de combustível para consumo próprio de veículos (§5º, Lei 14.766/2023). Adicional de 30% sobre o salário-base, sem gratificações, prêmios ou PLR (§1º; Súmula 191 do TST para eletricitários). Exposição intermitente gera direito; eventual ou por tempo extremamente reduzido não (Súmula 364 I). Frentista: Súmula 39.
 - **Não cumulação**: o empregado pode optar pelo adicional de insalubridade (art. 193 §2º).
 - **EPI**: o simples fornecimento não exime; é preciso eliminar ou neutralizar e fiscalizar o uso (Súmula 289). Eliminação do risco faz cessar o adicional (art. 194).
 - **Perícia obrigatória** (art. 195 §2º), por médico ou engenheiro do trabalho. Pagamento espontâneo do adicional de periculosidade torna o fato incontroverso e dispensa perícia (Súmula 453). Intermitência não afasta a insalubridade (Súmula 47).
-- **Honorários periciais**: de quem sucumbe no objeto da perícia; para o beneficiário da gratuidade, observar a ADI 5766 (anotação no art. 790-B) e a vedação de adiantamento (§3º) [VERIFICAR alcance do acórdão].
+- **Honorários periciais**: de quem sucumbe no objeto da perícia. Na ADI 5766 o STF declarou inconstitucional o art. 790-B caput, de modo que o beneficiário da gratuidade não paga honorários periciais; a União responde (Súmula 457 do TST), conforme aplicado no RR-1000603-64.2018.5.02.0351 (TST, 1ª Turma). O juízo não pode exigir adiantamento (§3º).
 
 ## Fundamentos verificados
-CLT arts. 189 a 196, 790-B; CF art. 7º XXIII; Súmulas 39, 47, 191, 289, 364, 448, 453 do TST; SV 4 do STF. Detalhes em [fundamentos](references/fundamentos.md).
+CLT arts. 189 a 196, 790-B; CF art. 7º XXIII; Súmulas 39, 47, 191, 289, 364, 448, 453, 457 do TST; SV 4 e ADI 5766 do STF. Detalhes em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Perícia técnica, com quesitos (ver estrutura).

@@ -12,7 +12,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Acidente do trabalho e doença ocupacional
 
@@ -32,7 +32,7 @@ Ferramenta de apoio; o advogado responsável revisa toda peça antes do protocol
 - Data da dispensa (para estabilidade).
 
 ## Prazo e contagem
-- Prescrição trabalhista (CF art. 7º XXIX; CLT art. 11). O termo inicial em doença ocupacional costuma ser a ciência inequívoca da incapacidade; confirmar com precedente atual no JuriBase antes de afirmar [VERIFICAR].
+- Prescrição trabalhista (CF art. 7º XXIX; CLT art. 11). Termo inicial da pretensão reparatória por acidente ou doença ocupacional: data em que a vítima teve ciência inequívoca da lesão em toda a sua extensão (actio nata), conforme jurisprudência do TST aplicada no RRAg-10906-30.2015.5.15.0083 (3ª Turma); no mesmo sentido, Súmula 278 do STJ (ciência inequívoca da incapacidade laboral). Pedir ao usuário o documento que marca essa ciência (laudo, alta, concessão de benefício ou aposentadoria).
 - Estabilidade: 12 meses após a cessação do auxílio por incapacidade acidentário (Lei 8.213 art. 118).
 
 ## Estrutura da peça
@@ -42,13 +42,13 @@ Fatos do acidente/doença; nexo causal ou concausal; culpa ou responsabilidade o
 - **Conceitos** (Lei 8.213 arts. 19 a 21): acidente típico; doença profissional e do trabalho (art. 20, com exclusões do §1º); concausa (art. 21 I); NTEP (art. 21-A).
 - **Estabilidade** (Súmula 378 do TST): afastamento superior a 15 dias e percepção do auxílio acidentário, salvo doença profissional constatada após a dispensa com nexo com o contrato (II); vale também no contrato por prazo determinado (III). Exaurido o período, só os salários do período, sem reintegração (Súmula 396 I).
 - **Responsabilidade**: subjetiva (CF art. 7º XXVIII; CC arts. 186 e 927) ou objetiva quando a atividade expõe a risco especial (Tema 932 do STF; CC art. 927 p.ú.).
-- **Dano extrapatrimonial** (CLT arts. 223-A a 223-G): critérios do art. 223-G e faixas do §1º (leve, média, grave, gravíssima, com base no último salário). O texto compilado anota as ADIs 6050, 6069 e 6082 contra a tarifação; o resultado do julgamento não foi localizado no JuriBase [VERIFICAR no STF se as faixas são teto ou apenas parâmetro orientador antes de pedir valor acima delas]. Pedir o valor com fundamento nos critérios do 223-G, sem se prender às faixas sem essa verificação.
+- **Dano extrapatrimonial** (CLT arts. 223-A a 223-G): critérios do art. 223-G e faixas do §1º (leve, média, grave, gravíssima, com base no último salário). Nas ADIs 6050, 6069 e 6082 o STF deu interpretação conforme: os critérios do art. 223-G caput e §1º orientam a fundamentação, e é constitucional arbitrar valor acima dos limites dos incisos I a IV conforme as circunstâncias do caso, a razoabilidade, a proporcionalidade e a igualdade; os arts. 223-A e 223-B não excluem o dano em ricochete, regido pela lei civil (ementa transcrita no Ag-RRAg-0000367-39.2023.5.12.0008, TST, 6ª Turma). Pedir o valor percorrendo os critérios do art. 223-G e, se acima da faixa, justificar com as circunstâncias concretas.
 - **Danos materiais e pensão** (CC art. 950): despesas, lucros cessantes, pensão proporcional à perda da capacidade; pagamento de uma só vez à escolha do lesado (p.ú.).
 - **Perícia médica** para nexo e incapacidade; perícia ergonômica ou ambiental quando útil.
 - **Dispensa de portador de doença grave estigmatizante** presume-se discriminatória (Súmula 443 do TST).
 
 ## Fundamentos verificados
-Lei 8.213/1991 arts. 19-21-A e 118; CLT arts. 223-A a 223-G; CC arts. 186, 927, 950; CF art. 7º XXVIII; Súmulas 378, 392, 396, 443 do TST; SV 22 e Tema 932 do STF. Detalhes em [fundamentos](references/fundamentos.md).
+Lei 8.213/1991 arts. 19-21-A e 118; CLT arts. 223-A a 223-G; CC arts. 186, 927, 950; CF art. 7º XXVIII; Súmulas 378, 392, 396, 443 do TST; Súmula 278 do STJ; SV 22, Tema 932 e ADIs 6050, 6069 e 6082 do STF. Detalhes em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Reintegração com salários do período, ou indenização substitutiva da estabilidade.

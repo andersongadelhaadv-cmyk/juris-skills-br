@@ -10,7 +10,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Reclamação trabalhista (petição inicial)
 
@@ -41,12 +41,12 @@ Endereçamento à Vara do Trabalho; qualificação; rito e valor da causa; gratu
 - Pedido certo, determinado e com indicação de valor (CLT art. 840 §1º); o pedido sem valor é extinto sem mérito (§3º).
 - Rito sumaríssimo quando a soma não exceder 40 salários mínimos na data do ajuizamento e não houver ente público da administração direta, autárquica ou fundacional (arts. 852-A e 852-B). No sumaríssimo, até duas testemunhas por parte (art. 852-H §2º).
 - Causas até 2 salários mínimos: alçada da Lei 5.584/1970 (art. 2º §§3º-4º), sem recurso salvo matéria constitucional.
-- Valor dos pedidos como estimativa: o TST discute a limitação da condenação aos valores da inicial (Tema 35 da tabela de IRR). Fazer ressalva expressa de que os valores são estimados [VERIFICAR: tese fixada no Tema 35 IRR antes de protocolar].
+- Valor dos pedidos: a IN 41/2018 do TST (art. 12 §2º) manda estimar o valor da causa para os fins do art. 840 §§1º e 2º. Se esses valores limitam a condenação é a questão do Tema 35 da tabela de IRR do TST, afetado ao Pleno em 06/02/2025 sem ordem de suspensão; até maio de 2026 as Turmas divergiam (a SBDI-1, em 30/11/2023, tratou os valores como estimativa; a 5ª Turma voltou a limitar a condenação no rito ordinário). Tese do Tema 35: não conferida em fonte oficial [VERIFICAR antes de protocolar]. Por cautela, liquidar cada pedido com memória de cálculo e fazer ressalva expressa de que os valores são estimados.
 
 ## Fundamentos verificados
 - CLT arts. 840, 852-A a 852-I, 790 §§3º-4º, 791-A, 818, 11; CF art. 7º XXIX.
-- Súmula 463 I do TST: para pessoa natural, basta a declaração de hipossuficiência (com poderes específicos na procuração).
-- Honorários: 5% a 15% (art. 791-A). O §4º traz anotação de inconstitucionalidade pela ADI 5766 no texto compilado; aplica-se a condição suspensiva de exigibilidade ao beneficiário da gratuidade, sem cobrança automática com créditos obtidos no processo [VERIFICAR alcance exato do acórdão da ADI 5766].
+- Gratuidade (art. 790 §§3º-4º; Súmula 463 I do TST; Tema 21 da tabela de IRR do TST): quem recebe até 40% do teto do RGPS tem a gratuidade concedida mesmo de ofício; acima disso, o pedido pode ser instruído por declaração firmada pelo interessado (Lei 7.115/1983); impugnada a declaração com prova, o juiz ouve o requerente e decide (CPC art. 99 §2º). Tese transcrita no RRAg-1000850-27.2019.5.02.0087 (TST, 8ª Turma).
+- Honorários: 5% a 15% (art. 791-A). Na ADI 5766 o STF declarou inconstitucional só a parte do §4º que permitia cobrar do beneficiário da gratuidade com créditos obtidos em juízo; o restante vale: há condenação, mas sob condição suspensiva de exigibilidade por dois anos (mesmo acórdão do TST).
 - Detalhe e modo de uso em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
@@ -59,7 +59,7 @@ Endereçamento à Vara do Trabalho; qualificação; rito e valor da causa; gratu
 - [ ] Todos os pedidos líquidos, com memória de cálculo anexa ou explicada.
 - [ ] Soma dos pedidos confere com o valor da causa e com o rito escolhido.
 - [ ] Endereço da reclamada conferido (sumaríssimo veda edital).
-- [ ] Declaração de hipossuficiência assinada ou procuração com poderes específicos.
+- [ ] Declaração de hipossuficiência assinada ou procuração com poderes específicos; salário comparado com 40% do teto do RGPS.
 - [ ] Ressalva de valores estimados incluída.
 - [ ] Juros e correção remetidos ao núcleo, sem taxa escrita.
 - [ ] Documentos essenciais anexados e nomeados.

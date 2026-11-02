@@ -11,7 +11,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: recurso-revista
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Recurso de revista
 
@@ -43,10 +43,10 @@ Interposição ao Presidente do TRT; razões: transcendência; pressupostos extr
 - **Negativa de prestação jurisdicional**: indicar violação dos arts. 832 da CLT, 489 do CPC ou 93 IX da CF (Súmula 459 do TST).
 - **Divergência**: atual (§7º), com prova da fonte e cotejo (§8º; Súmula 337 do TST); arestos de Turma do TST não servem para a alínea "a" (que exige outro TRT ou SDI).
 - **Óbices**: reexame de fatos (Súmula 126), decisão conforme jurisprudência atual do TST (Súmula 333; art. 896 §7º), fundamento não impugnado (Súmula 422 I).
-- **Preparo**: novo depósito até o valor da condenação (Súmula 128 I).
+- **Preparo**: novo depósito até o valor da condenação (Súmula 128 I), observado o teto fixado periodicamente por ato do TST [VERIFICAR o ato e o valor vigentes na data da interposição]. O depósito cai pela metade para entidade sem fins lucrativos, empregador doméstico, MEI, ME e EPP (art. 899 §9º); é dispensado para beneficiário da justiça gratuita, entidade filantrópica e empresa em recuperação judicial (§10); pode ser substituído por fiança bancária ou seguro garantia judicial (§11). Entes públicos que não exploram atividade econômica não fazem depósito (DL 779/1969, art. 1º IV).
 
 ## Fundamentos verificados
-CLT arts. 896, 896-A, 896-C, 897-A; Súmulas 126, 128, 184, 218, 266, 297, 333, 337, 422, 459 do TST. Detalhes em [fundamentos](references/fundamentos.md).
+CLT arts. 896, 896-A, 896-C, 897-A, 899 §§9º a 11; DL 779/1969 art. 1º IV; Súmulas 126, 128, 184, 218, 266, 297, 333, 337, 422, 459 do TST. Detalhes em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Reconhecimento da transcendência; conhecimento por violação ou divergência (indicar a alínea); provimento com a reforma específica.
@@ -60,7 +60,7 @@ CLT arts. 896, 896-A, 896-C, 897-A; Súmulas 126, 128, 184, 218, 266, 297, 333, 
 - [ ] Tópico de transcendência por tema, com o indicador do §1º.
 - [ ] ED opostos quando havia omissão.
 - [ ] Nenhum tema depende de rever prova.
-- [ ] Depósito e custas comprovados.
+- [ ] Depósito e custas comprovados; enquadramento no art. 899 §§9º a 11 documentado (prova de ME/EPP, gratuidade, filantropia ou recuperação judicial; apólice ou carta de fiança, se for o caso).
 
 ## Erros a evitar
 - Transcrever o acórdão inteiro sem destacar o trecho do prequestionamento.

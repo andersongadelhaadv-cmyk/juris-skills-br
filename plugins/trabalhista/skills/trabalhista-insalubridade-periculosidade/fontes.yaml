@@ -60,12 +60,32 @@ itens:
     url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1195
     consultado_em: 2026-11-01
   - tipo: sumula
-    referencia: "Súmula 228 do TST (base de cálculo do adicional de insalubridade) - consta da base, mas a eficácia é questionada após a SV 4; não citar sem conferir situação"
+    referencia: "Súmula 228 do TST (base de cálculo do adicional de insalubridade) - enunciado existe; situação de eficácia após a SV 4 não conferida no site do TST"
     status: VERIFICAR
     url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=228&pesquisar=1
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: precedente
-    referencia: "ADI 5766 (STF) - gratuidade, honorários periciais e sucumbenciais; não localizada no JuriBase; a anotação consta do texto compilado da CLT (arts. 790-B e 791-A §4º)"
-    status: VERIFICAR
-    url: https://legis.senado.leg.br/norma/530547
-    consultado_em: 2026-11-01
+    referencia: "ADI 5766 (STF) - inconstitucionalidade do art. 790-B caput da CLT (honorários periciais do beneficiário da gratuidade); alcance transcrito no RR-1000603-64.2018.5.02.0351"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/a0cf33779fa133d83063a7dc65dbcbc6
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 1ª Turma, RR-1000603-64.2018.5.02.0351 (rel. Luiz José Dezena da Silva, julg. 13/05/2026) - honorários periciais; beneficiário da gratuidade; ADI 5766; Súmula 457"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/a0cf33779fa133d83063a7dc65dbcbc6
+    consultado_em: 2026-11-02
+  - tipo: sumula
+    referencia: "Súmula 457 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=457&pesquisar=1
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 7ª Turma, Ag-AIRR-0000481-45.2022.5.10.0015 (rel. José Pedro de Camargo Rodrigues de Souza, abril/2026) - base de cálculo da insalubridade; salário-base por liberalidade; SV 4"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/6c14f26ecaad5ea2bdc6afd887346c8f
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 1ª Turma, Ag-AIRR-0010316-12.2024.5.03.0038 (rel. Luiz José Dezena da Silva, maio/2026) - salário-base como condição mais benéfica; art. 468 da CLT"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/89d25df6a61127ce17b64bc80d19283a
+    consultado_em: 2026-11-02

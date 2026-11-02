@@ -1,9 +1,9 @@
 itens:
   - tipo: lei
-    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 477, 507-B, 652, 832, 855-B a 855-E"
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 477, 507-B, 652, 832, 855-B a 855-E, 895"
     status: LEI
     url: https://legis.senado.leg.br/norma/530547
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02
   - tipo: sumula
     referencia: "Súmula 100 do TST"
     status: CONFIRMADO
@@ -19,3 +19,13 @@ itens:
     status: CONFIRMADO
     url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/b7e99055de6dec678bc14261e7bc10c0
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "TST, 1ª Turma, RR-1000110-61.2025.5.02.0054 (rel. Luiz José Dezena da Silva, julg. 13/05/2026) - acordo extrajudicial; quitação ampla sem vício deve ser homologada"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/ae3ed6c3212a3e213f2ffdec3d903130
+    consultado_em: 2026-11-02
+  - tipo: precedente
+    referencia: "TST, 2ª Turma, Ag-RR-1000995-57.2024.5.02.0718 (rel. Delaide Alves Miranda Arantes, julg. 13/05/2026) - recusa de homologação de quitação ampla com lesão desproporcional"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/d824340e9a5b7588df84465ef69278a7
+    consultado_em: 2026-11-02

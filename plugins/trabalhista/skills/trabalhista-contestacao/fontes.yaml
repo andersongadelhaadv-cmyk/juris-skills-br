@@ -65,7 +65,7 @@ itens:
     url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=338&pesquisar=1
     consultado_em: 2026-11-01
   - tipo: sumula
-    referencia: "Súmula 377 do TST - conflito com CLT art. 843 §3º (Lei 13.467/2017); conferir vigência no site do TST"
+    referencia: "Súmula 377 do TST - enunciado existe; conflito com CLT art. 843 §3º (Lei 13.467/2017); vigência não conferida no site do TST"
     status: VERIFICAR
     url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=377&pesquisar=1
-    consultado_em: 2026-11-01
+    consultado_em: 2026-11-02

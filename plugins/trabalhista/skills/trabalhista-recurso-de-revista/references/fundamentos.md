@@ -19,3 +19,9 @@
 | Súmula 459 do TST | Nulidade por negativa: indicar art. 832 CLT, 489 CPC ou 93 IX CF | Preliminar |
 | Súmula 218 do TST | Não cabe RR de acórdão em AI | Cabimento |
 | Súmula 128 do TST | Depósito recursal a cada recurso | Preparo |
+| CLT art. 899 §9º | Depósito pela metade: entidade sem fins lucrativos, empregador doméstico, MEI, ME e EPP | Comprovar o enquadramento ao recorrer |
+| CLT art. 899 §10 | Isenção: beneficiário da justiça gratuita, entidade filantrópica, empresa em recuperação judicial | Juntar a decisão de gratuidade, o certificado ou a decisão de processamento da recuperação |
+| CLT art. 899 §11 | Depósito substituível por fiança bancária ou seguro garantia judicial | Juntar apólice ou carta com os requisitos exigidos pelo TST |
+| DL 779/1969, art. 1º III e IV | Entes públicos sem atividade econômica: prazo em dobro e dispensa de depósito | Recurso de ente público |
+
+Pendência: valor do teto do depósito recursal, atualizado periodicamente por ato do TST [VERIFICAR o ato vigente na data da interposição].

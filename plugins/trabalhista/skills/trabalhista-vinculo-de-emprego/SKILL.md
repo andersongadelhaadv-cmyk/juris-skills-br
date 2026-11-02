@@ -11,7 +11,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: inicial
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Reconhecimento de vínculo de emprego
 
@@ -39,7 +39,7 @@ Tópico "Do vínculo de emprego": fatos que revelam cada requisito do art. 3º, 
 - **Primazia da realidade e nulidade**: atos que desvirtuam a CLT são nulos (art. 9º).
 - **Autônomo** (art. 442-B): cumpridas as formalidades, a contratação de autônomo afasta a condição de empregado; o debate é sobre a realidade da autonomia.
 - **Terceirização**: lícita em qualquer atividade, com responsabilidade subsidiária da contratante (Tema 725 do STF). Vínculo direto com o tomador só se demonstrada subordinação e pessoalidade diretas. O item I da Súmula 331 foi cancelado; usar os itens vigentes (II a VI) e conferir no site do TST.
-- **Pejotização no STF**: há discussão no STF sobre a licitude da contratação por pessoa jurídica e a competência da Justiça do Trabalho, com possível suspensão de processos. O Tema 1389 não foi localizado no JuriBase [VERIFICAR existência, tese e eventual ordem de suspensão no portal do STF antes de ajuizar ou contestar].
+- **Pejotização no STF**: o Tema 1389 da repercussão geral (ARE 1532603, rel. Min. Gilmar Mendes) discute a competência da Justiça do Trabalho para julgar alegação de fraude em contrato civil ou comercial de prestação de serviços, a licitude da contratação de autônomo ou pessoa jurídica para prestar serviços e o ônus da prova da fraude; em 02/11/2026 o portal do STF não exibia tese fixada. Eventual ordem de suspensão de processos não conferida em fonte oficial [VERIFICAR no andamento do ARE 1532603 antes de ajuizar ou contestar]. Na peça, enfrentar as três questões (competência, licitude, ônus).
 - **Ônus**: negada a prestação de serviços, é do reclamante; admitida a prestação e alegada outra natureza, passa ao réu (art. 818 II). Fim do contrato: Súmula 212 do TST.
 - **Ente público tomador**: responsabilidade subsidiária depende de prova de conduta negligente, sem inversão automática do ônus (Tema 1118 do STF; Súmula 331 V do TST).
 

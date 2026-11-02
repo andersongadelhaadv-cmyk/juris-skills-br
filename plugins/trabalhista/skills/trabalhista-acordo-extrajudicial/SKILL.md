@@ -10,7 +10,7 @@ description: >
 metadata:
   area: trabalhista
   tipo_peca: requerimento
-  verificado_em: 2026-11-01
+  verificado_em: 2026-11-02
 ---
 # Homologação de acordo extrajudicial
 
@@ -38,11 +38,11 @@ Petição conjunta; qualificação; resumo do contrato; termos do acordo por par
 ## Requisitos e preliminares
 - Petição conjunta, advogado obrigatório, sem advogado comum; o trabalhador pode ser assistido pelo advogado do sindicato (art. 855-B e §§).
 - Discriminar a natureza das parcelas e a responsabilidade pelo recolhimento previdenciário (art. 832 §3º, aplicável às decisões homologatórias).
-- **Quitação**: a jurisprudência do TST se divide sobre quitação geral do contrato. Há acórdão localizado (2ª Turma, Ag-RR-1000860-73.2025.5.02.0083, 05/05/2026) discutindo a homologação com quitação ampla; ler o inteiro teor antes de prometer quitação geral ao cliente [VERIFICAR orientação atual da SDI-1]. Recomendação prudente: quitar parcelas especificadas.
-- A homologação é faculdade do juiz: não há direito líquido e certo, logo não cabe MS contra a recusa (Súmula 418 do TST). Contra a sentença que nega a homologação, a via é o recurso ordinário [VERIFICAR posicionamento atual].
+- **Quitação**: as Turmas do TST divergem sobre a quitação geral do contrato. A 1ª Turma entende que, na jurisdição voluntária, o juiz controla só a validade do negócio e não pode recusar ou limitar a quitação ampla sem vício (RR-1000110-61.2025.5.02.0054, 13/05/2026); a 2ª Turma admite recusar quitação ampla e genérica quando há lesão desproporcional ao empregado (Ag-RR-1000995-57.2024.5.02.0718, 13/05/2026; ver também Ag-RR-1000860-73.2025.5.02.0083). Orientação da SBDI-1 não conferida em fonte oficial [VERIFICAR]. Recomendação prudente: quitar parcelas especificadas, com concessões recíprocas visíveis.
+- A homologação é faculdade do juiz: não há direito líquido e certo, logo não cabe MS contra a recusa (Súmula 418 do TST). A sentença que nega a homologação é decisão definitiva da Vara, atacável por recurso ordinário (CLT art. 895 I); os acórdãos do TST citados acima examinaram, em recurso de revista, decisões regionais proferidas nesse percurso.
 
 ## Fundamentos verificados
-CLT arts. 477 §§6º e 8º, 507-B, 652 "f", 832 §3º, 855-B a 855-E; Súmula 418 do TST; Súmula 100 V do TST (termo homologado transita na data da homologação). Detalhes em [fundamentos](references/fundamentos.md).
+CLT arts. 477 §§6º e 8º, 507-B, 652 "f", 832 §3º, 855-B a 855-E, 895 I; Súmula 418 do TST; Súmula 100 V do TST (termo homologado transita na data da homologação). Detalhes em [fundamentos](references/fundamentos.md).
 
 ## Pedidos e requerimentos
 - Homologação do acordo nos termos da petição.
