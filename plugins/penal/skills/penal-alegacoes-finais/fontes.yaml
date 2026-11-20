@@ -54,3 +54,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102575876
     consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 545 do STJ, revisada pela Terceira Seção em 10/09/2025 no julgamento do REsp 2.001.973/RS (Tema 1194)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=545.num.
+    consultado_em: 2026-11-20

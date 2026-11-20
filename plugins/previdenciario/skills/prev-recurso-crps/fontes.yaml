@@ -24,3 +24,8 @@ itens:
     status: VERIFICAR
     url: https://www.gov.br/previdencia/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/conselho-de-recursos-da-previdencia-social/regimento-interno
     consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-01

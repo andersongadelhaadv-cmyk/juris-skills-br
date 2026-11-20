@@ -44,3 +44,8 @@ itens:
     status: CONFIRMADO
     url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2177
     consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 203 do STJ (redação alterada em 23/05/2002)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=203.num.
+    consultado_em: 2026-11-01

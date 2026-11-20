@@ -8,6 +8,7 @@ Verificação mecânica no validador (sem mudança no conteúdo das skills).
 - Item `VERIFICAR` no registro exige marcador `[VERIFICAR]` no texto.
 - Validade de `verificado_em` (aviso aos 90 dias, erro aos 180; metade em previdenciário e tributário) e campo opcional `revisar_ate` por fonte.
 - Testes do validador (`scripts/test_validar.py`); CI semanal e com `timeout-minutes`.
+- Registro das 33 lacunas em 23 skills: 27 citações já confirmadas em outras skills copiadas com a data original; Súmula 545/STJ (revisão no REsp 2.001.973, Tema 1194) confirmada no JuriBase; ADI 4403, ADI 5348, ADIs 5867/6021 e Tema 905 registrados como `VERIFICAR` (não localizados diretamente). A lista de pendências ficou vazia.
 
 ## v0.1.3 — 2026-11
 

@@ -29,3 +29,8 @@ itens:
     status: LEI
     url: https://legis.senado.leg.br/norma/580239
     consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 358 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=358.num.
+    consultado_em: 2026-11-01
