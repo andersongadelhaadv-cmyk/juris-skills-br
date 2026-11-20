@@ -1,0 +1,41 @@
+# Citações que aparecem no texto de uma skill sem item no fontes.yaml.
+# Formato: <skill>: <Classe> <número sem pontos>
+#
+# Esta lista congela as lacunas que existiam em 20/11/2026, quando a checagem
+# entrou no validador. Citação nova sem registro faz o CI falhar; as daqui só
+# geram aviso. Para resolver uma: confira a citação na fonte oficial ou no
+# JuriBase, acrescente o item no fontes.yaml da skill (ou marque [VERIFICAR])
+# e apague a linha. A lista só pode diminuir.
+adm-concurso-publico: Súmula 269
+adm-concurso-publico: Súmula 271
+adm-concurso-publico: Súmula 510
+adm-mandado-de-seguranca: ADI 4403
+civel-agravo-interno: Súmula 5
+civel-agravo-interno: Súmula 7
+civel-excecao-de-pre-executividade: Súmula 7
+civel-recurso-especial: Súmula 640
+civel-recurso-extraordinario: Súmula 203
+consumidor-defesa-do-fornecedor: Súmula 7
+fazenda-contestacao-fazendaria: Súmula 625
+juros-e-correcao: ADI 5348
+juros-e-correcao: ADI 5867
+juros-e-correcao: ADI 6021
+juros-e-correcao: REsp 1495146
+penal-alegacoes-finais: REsp 2001973
+penal-maria-da-penha-medidas-protetivas: Súmula 7
+prev-aposentadoria-especial: SV 33
+prev-aposentadoria-especial: Tema 942
+prev-bpc-loas: Tema 313
+prev-pensao-por-morte: Súmula 15
+prev-recurso-crps: Tema 350
+roteador-de-pecas: Súmula 358
+sucessoes-inventario-judicial: Tema 498
+sucessoes-testamento: RE 878694
+trabalhista-agravo-de-peticao: ADC 58
+trabalhista-embargos-a-execucao: ADC 58
+trib-repeticao-de-indebito: Súmula 213
+verificacao-de-citacoes: ADC 58
+verificacao-de-citacoes: REsp 2199164
+verificacao-de-citacoes: Súmula 54
+verificacao-de-citacoes: Tema 1191
+verificacao-de-citacoes: Tema 905

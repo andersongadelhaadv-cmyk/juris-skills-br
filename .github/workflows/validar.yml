@@ -1,12 +1,19 @@
 name: validar
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  schedule:
+    # Toda segunda, 09:17 (UTC). Pega skills que venceram sem nenhum commit novo.
+    - cron: "17 9 * * 1"
 jobs:
   validar:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: python3 -m unittest scripts/test_validar.py
       - run: python3 scripts/validar.py
       - run: python3 -m json.tool .claude-plugin/marketplace.json > /dev/null

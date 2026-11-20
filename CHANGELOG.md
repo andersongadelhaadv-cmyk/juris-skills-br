@@ -1,5 +1,14 @@
 # Changelog
 
+## Não lançado
+
+Verificação mecânica no validador (sem mudança no conteúdo das skills).
+
+- Citação no texto da skill sem item no `fontes.yaml` passa a ser erro. As 33 lacunas existentes ficam em `scripts/pendencias-citacoes.txt` para serem resolvidas.
+- Item `VERIFICAR` no registro exige marcador `[VERIFICAR]` no texto.
+- Validade de `verificado_em` (aviso aos 90 dias, erro aos 180; metade em previdenciário e tributário) e campo opcional `revisar_ate` por fonte.
+- Testes do validador (`scripts/test_validar.py`); CI semanal e com `timeout-minutes`.
+
 ## v0.1.3 — 2026-11
 
 Correções e conferências em fonte oficial nos plugins familia-sucessoes, consumidor e administrativo-licitacoes (PRs #21, #22 e #23). Com esta versão, os nove plugins passaram por conferência em fonte oficial.
