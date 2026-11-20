@@ -1,5 +1,9 @@
 # Changelog
 
+## Não lançado
+
+- nucleo/roteador-de-pecas: quando a skill indicada não está instalada, avisa que ela faz parte do pacote completo e oferece seguir só com o núcleo, sem redigir como se a skill existisse.
+
 ## v0.1.3 — 2026-11
 
 Correções e conferências em fonte oficial nos plugins familia-sucessoes, consumidor e administrativo-licitacoes (PRs #21, #22 e #23). Com esta versão, os nove plugins passaram por conferência em fonte oficial.
