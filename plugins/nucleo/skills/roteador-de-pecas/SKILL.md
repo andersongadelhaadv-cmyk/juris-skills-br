@@ -70,6 +70,13 @@ Encaminhamentos frequentes (amostra; a lista completa está no catálogo):
 Se a peça pedida não tiver skill própria, diga isso, use a skill mais próxima da
 mesma área como base estrutural e aplique todas as skills do núcleo.
 
+**Skill indicada que não está instalada.** O catálogo lista todas as skills do
+pacote, mas o usuário pode ter instalado só algumas. Se a skill de destino não
+estiver disponível nesta conversa, diga isso numa frase: ela faz parte do pacote
+completo juris-skills-br e pode ser instalada à parte. Depois ofereça seguir só com
+as skills do núcleo, avisando que estrutura, requisitos e fundamentos próprios da
+peça não estarão disponíveis. Não redija a peça como se a skill estivesse instalada.
+
 ## Fundamentos verificados
 O cabimento de cada peça é tratado e fundamentado na skill de destino. Os
 critérios de desempate desta skill usam dispositivos conferidos: Lei 9.099, arts. 3º

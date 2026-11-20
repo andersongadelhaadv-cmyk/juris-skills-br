@@ -35,3 +35,12 @@ plugins/<area>/skills/<nome>/
 python3 scripts/validar.py
 claude plugin validate .
 ```
+
+## Pacotes de venda
+
+`python3 scripts/empacotar.py` roda o validador e gera em `dist/` (fora do git):
+
+- `juris-skills-br-completo-<versão>.zip`: todas as skills, um zip por skill no formato de envio do app do Claude, com o núcleo em `skills/0-nucleo/`;
+- `avulsas/<skill>-<versão>.zip`: a skill com as 6 skills do núcleo, das quais ela depende.
+
+A versão vem do primeiro `## vX.Y.Z` do CHANGELOG. O mesmo conteúdo gera o mesmo zip.
