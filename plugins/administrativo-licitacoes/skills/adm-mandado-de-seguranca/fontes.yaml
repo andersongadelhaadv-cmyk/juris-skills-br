@@ -64,3 +64,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=333.num.
     consultado_em: 2026-11-01
+  - tipo: precedente
+    referencia: "STF, ADI 4403 (Lei 12.016/2009; resultado não localizado no JuriBase)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-20

@@ -204,3 +204,18 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500195250
     consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "STJ, Tema 905, paradigma REsp 1.495.146/MG (não localizado diretamente; tese transcrita no AgInt no REsp 1.992.472)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200801748
+    consultado_em: 2026-11-20
+  - tipo: precedente
+    referencia: "STF, ADI 5348 (citada pelo texto compilado da Lei 9.494/1997; não localizada no JuriBase)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-20
+  - tipo: precedente
+    referencia: "STF, ADIs 5867 e 6021 (julgadas com as ADC 58 e 59; não conferidas diretamente em fonte oficial)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-20

@@ -49,3 +49,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202869684
     consultado_em: 2026-11-01
+  - tipo: tema
+    referencia: "Tema 498 do STF (RE 646.721)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4100069&numeroProcesso=646721&classeProcesso=RE&numeroTema=498
+    consultado_em: 2026-11-01

@@ -54,3 +54,8 @@ itens:
     status: VERIFICAR
     url: https://legis.senado.leg.br/norma/41412162
     consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 625 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=625.num.
+    consultado_em: 2026-11-01

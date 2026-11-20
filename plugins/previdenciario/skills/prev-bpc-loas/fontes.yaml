@@ -49,3 +49,8 @@ itens:
     status: LEI
     url: https://legis.senado.leg.br/norma/41882097
     consultado_em: 2026-11-02
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-01

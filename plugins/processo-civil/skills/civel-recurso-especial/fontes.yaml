@@ -124,3 +124,8 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400146347
     consultado_em: 2026-11-02
+  - tipo: sumula
+    referencia: "Súmula 640 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2787
+    consultado_em: 2026-11-01

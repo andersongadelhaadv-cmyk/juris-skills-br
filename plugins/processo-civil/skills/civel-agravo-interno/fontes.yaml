@@ -29,3 +29,13 @@ itens:
     status: CONFIRMADO
     url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401816750
     consultado_em: 2026-11-02
+  - tipo: sumula
+    referencia: "Súmula 5 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=5.num.
+    consultado_em: 2026-11-01
+  - tipo: sumula
+    referencia: "Súmula 7 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=7.num.
+    consultado_em: 2026-11-01
