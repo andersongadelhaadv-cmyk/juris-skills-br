@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 104, 112, 113, 114, 166, 167, 169, 171, 178, 205, 206, 317, 393, 413, 416, 421, 421-A, 422, 423, 445, 474 a 480"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.874/2019 (Liberdade Econômica), art. 7º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 5 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=5.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EREsp 1.685.808, 2ª Seção, Rel. Min. Maria Isabel Gallotti, julg. 29/10/2024 (prescrição decenal contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201701880500
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EAREsp 1.850.024, 2ª Seção, Rel. Min. Humberto Martins, julg. 03/09/2024 (quinquenal quando o contrato traz os critérios do cálculo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100729090
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.552.263, 3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, julg. 16/09/2024 (pandemia não autoriza revisão automática)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400193981
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.209.685, 3ª Turma, Rel. Min. Nancy Andrighi, julg. 07/04/2026 (art. 413 cogente e de ordem pública)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501450444
+    consultado_em: 2026-11-25

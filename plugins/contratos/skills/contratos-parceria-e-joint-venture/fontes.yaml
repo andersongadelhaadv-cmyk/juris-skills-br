@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.404/1976 (Sociedades por Ações), arts. 278 e 279 (art. 279 na redação da Lei 11.941/2009, conforme texto consolidado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 113, 421, 421-A, 422, 425, 473, 981, 991 a 996"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.874/2019 (Liberdade Econômica), art. 7º (redação dos arts. 113, 421 e 421-A do CC)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.529/2011 (Defesa da Concorrência), arts. 88 e 90, IV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 7º e 46"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.444.934, 3ª Turma, rel. Daniela Teixeira, julg. 13/10/2025 (parceria empresarial; resilição; investimentos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303031762
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.178.429, 3ª Turma, rel. Humberto Martins, julg. 18/12/2023 (aviso prévio; recuperação dos investimentos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202338961
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Patamares de faturamento vigentes do art. 88 da Lei 12.529/2011 (atualizados por ato interministerial)"
+    status: VERIFICAR
+    url: https://www.gov.br/cade/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Tratamento tributário da SCP e do consórcio (fora do escopo)"
+    status: VERIFICAR
+    url: https://www.gov.br/receitafederal/
+    consultado_em: 2026-11-25

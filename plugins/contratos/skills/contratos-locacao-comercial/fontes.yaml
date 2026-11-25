@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.245/1991 (Lei do Inquilinato), arts. 3º, 4º, 8º, 13, 19, 22, 23, 27, 35, 37, 39, 40, 45, 51, 52, 54, 54-A, 56, 57, 71, 72, 74"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 413, 421, 421-A, 422, 819, 827, 828, 835"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD) — dados de sócios, fiadores e cônjuges"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 214 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=214.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 335 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=335.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 549 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=549.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 656 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=656.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1127 do STF (RE 1.307.334) — penhora do bem de família do fiador em locação residencial e comercial"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6087183&numeroProcesso=1307334&classeProcesso=RE&numeroTema=1127
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.092.522 (prorrogação não é aditamento; fiador até a entrega das chaves)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302992111
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.906.869 (multa compensatória e despejo judicial; fiador)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202003062797
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Multa proporcional com carência ou aluguel escalonado (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

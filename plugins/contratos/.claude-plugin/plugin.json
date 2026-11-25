@@ -1,0 +1,16 @@
+{
+  "name": "contratos",
+  "version": "0.2.0",
+  "description": "Contratos: elaboração, revisão e parecer; prestação de serviços, compra e venda, locação comercial, franquia, software/SaaS, NDA, distribuição e representação; aditivo, distrato e notificação de descumprimento.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "contratos"
+  ]
+}

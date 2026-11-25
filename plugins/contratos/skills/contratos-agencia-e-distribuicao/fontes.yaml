@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 413, 421, 421-A, 422, 473, 710 a 721"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.886/1965 (Representação comercial) — aplicação no que couber, art. 27 j"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4886.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD) — base de clientes"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.618.035 (distribuição; título aplicou art. 27, j, da Lei 4.886 por analogia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201602038624
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Aplicação analógica da Lei 4.886/1965 à distribuição — posição geral do STJ (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição em agência e distribuição (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

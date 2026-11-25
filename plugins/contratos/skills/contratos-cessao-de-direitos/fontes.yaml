@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 286 a 299, 421, 422, 654 § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.610/1998 (Direitos Autorais), arts. 4º, 27, 49 a 52"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 7º e 46"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.155.476, 4ª Turma, rel. Maria Isabel Gallotti, julg. 13/04/2026 (cláusula de restrição à cessão válida)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402445564
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.736.075, 4ª Turma, rel. Maria Isabel Gallotti, julg. 10/11/2025 (falta de notificação não torna dívida inexigível)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201800883891
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.506.624, 3ª Turma, rel. Ricardo Villas Bôas Cueva, julg. 26/08/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303701931
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.117.423, 3ª Turma, rel. Ricardo Villas Bôas Cueva, julg. 07/04/2026 (anuência dispensável; citação como notificação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400053230
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.252.132, 3ª Turma, rel. Nancy Andrighi, julg. 13/04/2026 (cessionária não responde por ilícito do contrato subjacente)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504828956
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.094.216, 4ª Turma, rel. João Otávio de Noronha, julg. 30/03/2026 (pro solvendo; recurso não conhecido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303103132
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.219.528, 4ª Turma, rel. João Otávio de Noronha, julg. 30/03/2026 (cessão de direitos hereditários exige forma solene)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502216020
+    consultado_em: 2026-11-25
+  - tipo: doutrina
+    referencia: "Exigência de anuência do contratante cedido na cessão de posição contratual (sem regra geral no CC; sem precedente localizado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

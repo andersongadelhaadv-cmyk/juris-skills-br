@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.966/2019 (Franquia), arts. 1º, 2º, 3º, 4º, 7º, 8º, 9º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13966.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.279/1996 (Propriedade Industrial), art. 211"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9279.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.307/1996 (Arbitragem), art. 4º, § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 413, 421, 421-A, 422, 423, 424, 473"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD) — base de clientes da rede"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.159.956 (franquia; adesão; cláusula arbitral sem art. 4º, § 2º, nula)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402766441
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, CC 184.495 (franquia; vínculo empregatício prejudicial; suspensão da arbitragem)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103743233
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo para anulação por COF irregular (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Validade da não concorrência pós-contratual em franquia (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

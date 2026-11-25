@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 113, 205, 206 § 3º V, 408 a 420, 421, 421-A, 422"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.874/2019 (Liberdade Econômica), art. 7º (redação dos arts. 113, 421 e 421-A do CC)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.209.685, 3ª Turma, rel. Nancy Andrighi, julg. 07/04/2026 (art. 413 norma cogente; redução obrigatória)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501450444
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.889.156, 3ª Turma, rel. Paulo de Tarso Sanseverino, julg. 20/03/2023 (proporcionalidade ínsita)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902572171
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.999.836, 3ª Turma, rel. Nancy Andrighi, julg. 27/09/2022 (multa em transação = cláusula penal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103798671
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.158.753, 3ª Turma, rel. Moura Ribeiro, julg. 16/06/2025 (aplica o Tema 970)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402644901
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.072.218, 4ª Turma, rel. Raul Araújo, julg. 27/10/2025 (cumulação se multa inferior ao locativo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301522448
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.915.139, 3ª Turma, rel. Humberto Martins, julg. 13/04/2026 (prescrição decenal na responsabilidade contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100052736
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 970/STJ (REsp 1.635.428/SC) — tese transcrita em acórdãos confirmados; tema não localizado diretamente na verificação"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EREsp 1.280.825/RJ (citado no REsp 1.915.139; verificação devolveu DIVERGENCIA/não localizado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

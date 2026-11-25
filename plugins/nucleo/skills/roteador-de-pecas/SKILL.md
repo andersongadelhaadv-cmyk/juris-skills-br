@@ -27,7 +27,7 @@ com o critério que as distingue, em vez de escolher sozinha.
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
 1. **Área** (cível, consumo, família, sucessões, trabalho, penal, previdenciário,
-   tributário, Fazenda, administrativo).
+   tributário, Fazenda, administrativo, contratos).
 2. **Fase**: consultivo/extrajudicial; administrativo; conhecimento (1º grau); recurso
    (e contra qual decisão); execução ou cumprimento.
 3. **Polo**: autor/réu, reclamante/reclamada, defesa/assistência, contribuinte/Fazenda.
@@ -66,6 +66,8 @@ Encaminhamentos frequentes (amostra; a lista completa está no catálogo):
 | Execução fiscal | `trib-embargos-a-execucao-fiscal` ou `trib-excecao-pre-executividade-fiscal` |
 | Ato de autoridade ilegal | `adm-mandado-de-seguranca`, `trib-mandado-de-seguranca` ou `trabalhista-mandado-de-seguranca` |
 | Licitação | `adm-impugnacao-ao-edital`, `adm-recurso-em-licitacao`, `adm-defesa-em-processo-sancionador-licitacao` |
+| Redigir ou revisar contrato | `contratos-elaboracao-de-contrato`, `contratos-analise-e-revisao-de-contrato`, `contratos-parecer-sobre-contrato` (e a skill do tipo: `contratos-*`) |
+| Contrato descumprido / encerrar contrato | `contratos-notificacao-de-descumprimento`, `contratos-distrato-e-rescisao`, `contratos-aditivo-contratual` |
 
 Se a peça pedida não tiver skill própria, diga isso, use a skill mais próxima da
 mesma área como base estrutural e aplique todas as skills do núcleo.

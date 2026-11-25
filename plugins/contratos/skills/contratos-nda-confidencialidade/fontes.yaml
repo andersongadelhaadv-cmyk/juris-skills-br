@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 412, 413, 416, 421, 421-A, 422"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.279/1996 (Propriedade Industrial), arts. 195 XI, XII e § 1º, 207, 208, 209"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9279.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 5º VI e VII, 7º, 46"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.874/2019 (Liberdade Econômica), art. 3º, VIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição da pretensão indenizatória por quebra contratual de sigilo (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Validade de não concorrência e não aliciamento acessórios ao NDA (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

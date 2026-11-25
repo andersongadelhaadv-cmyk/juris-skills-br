@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 3º, 4º, 393, 579, 582, 583, 627, 629, 640, 652, 818, 819, 927, 932, 933"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 2º e 462, § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 25 e 51, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.069/1990 (ECA), arts. 83, 84 e 149"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8069.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), art. 14"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 784, III"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula Vinculante 25 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1268
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 130 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=130.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST — alcance do termo de responsabilidade e desconto por dano culposo (art. 462, § 1º, CLT): JuriBase SEM_COBERTURA"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

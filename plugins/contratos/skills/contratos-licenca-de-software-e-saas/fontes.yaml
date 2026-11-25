@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.609/1998 (Software), arts. 2º, 3º, 4º, 6º, 7º, 8º, 9º, 10, 11, 12"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9609.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 5º VI e VII, 7º, 33, 37, 39, 42, 43, 46, 48"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 412, 413, 416, 421, 421-A, 422, 423, 424"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 2º, 49, 51 I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.307/1996 (Arbitragem), art. 4º, § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.874/2019 (Liberdade Econômica), art. 3º, VIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Regulamento da ANPD sobre prazo de comunicação de incidente de segurança"
+    status: VERIFICAR
+    url: https://www.gov.br/anpd/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Tributação do licenciamento de software e do SaaS (ISS/ICMS) — sem número"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 421, 422, 579 a 585"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 558, 560, 561"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 7º e 46"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.928.904, 4ª Turma, rel. Raul Araújo, julg. 09/03/2026 (comodato verbal; notificação; mora; aluguéis)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501633876
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.038.752, 3ª Turma, rel. Moura Ribeiro, julg. 13/04/2026 (comodato verbal x mera tolerância)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203618771
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial dos aluguéis do art. 582 (notificação x fim do prazo x citação) — ementa lida só em trecho"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501633876
+    consultado_em: 2026-11-25
