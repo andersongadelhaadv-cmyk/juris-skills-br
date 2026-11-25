@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, XLIII, e art. 84, XII e parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (CP), art. 107, II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.210/1984 (LEP), arts. 187 a 197"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7210.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.072/1990, art. 2º, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8072.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 12.790, de 22/12/2025 (indulto natalino e comutação; DOU 23/12/2025), arts. 1º, 4º a 9º, 12, 13, 15 e 17"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12790.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 535 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=535.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 631 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=631.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 700 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3633
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto natalino de 2026 — ausente do índice de decretos de 2026 (conferido de 12/02 a 23/11/2026); conferir no Planalto quando sair"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/_decretos2026.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, §§ 3º e 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 183, 493, 496, 1.003, 1.009, 1.010, 1.012, 1.013 e 1.026"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.259/2001, arts. 1º e 13"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 41 e 42"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, art. 115, II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 995 (reafirmação da DER) — tese transcrita no AgInt nos EDcl no REsp 1.986.193"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200453240
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 1124 (REsp 1.905.830, 1ª Seção, julg. 08/10/2025) — termo inicial com prova não submetida ao INSS"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202003034248
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 111 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=111.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 1105 (REsp 1.880.529, 1ª Seção, julg. 08/03/2023) — Súmula 111 aplicável após o CPC/2015"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001508845
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 692 — reafirmado na Pet 12.482/DF (1ª Seção, julg. 11/05/2022)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201803262812
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 334 (RE 630.501)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3954926&numeroProcesso=630501&classeProcesso=RE&numeroTema=334
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Custas e preparo no TRF / TJ na competência delegada (sem norma conferida)"
+    status: VERIFICAR
+    url: https://www.cjf.jus.br/
+    consultado_em: 2026-11-25

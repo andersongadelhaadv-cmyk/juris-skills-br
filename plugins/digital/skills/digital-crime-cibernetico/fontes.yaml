@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (CP), arts. 100, 103, 147-A, 154-A, 154-B, 171 (caput, §§ 2º-A, 2º-B, 4º e 5º revogado), 216-B, 218-C, 225"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 15.397/2026, arts. 3º (revoga o § 5º do art. 171 do CP) e 4º (vigência na publicação, DOU 04/05/2026)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15397.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 38 e 39"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.965/2014 (Marco Civil da Internet), arts. 10, 13, 15, 21, 22 e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 381, 384 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396) - art. 19 do MCI parcialmente inconstitucional; rol de crimes graves cita arts. 147-A (crimes contra a mulher) e 218-C (crimes contra vulneráveis) do CP"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 533 (RE 1.057.258) - mesma tese do Tema 987"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5217273&numeroProcesso=1057258&classeProcesso=RE&numeroTema=533
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.769.975, 4ª Turma, julg. 04/05/2026 (remoção exige URL específica)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201802534822
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.025.712, 3ª Turma, julg. 14/03/2023 (art. 21 do MCI inaplicável a nudez produzida com fins comerciais)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202796940
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Ação penal no estelionato eletrônico para fatos anteriores à Lei 15.397/2026 (direito intertemporal)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 15.438/2026 (art. 103, parágrafo único, do CP: 12 meses em violência doméstica) - vigência e aplicação temporal"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Norma do Banco Central sobre devolução de valores em fraude via Pix (não conferida)"
+    status: VERIFICAR
+    url: https://www.bcb.gov.br/estabilidadefinanceira/buscanormas
+    consultado_em: 2026-11-25

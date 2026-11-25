@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 15.190/2025 (Lei Geral do Licenciamento Ambiental), arts. 3º, 5º, 7º, 14, §§ 6º e 7º, 16, 47, 60 e 67"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15190.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 140/2011, arts. 7º a 9º, 13 e 14"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.938/1981, art. 10"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6938.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 50, 56, 59, 61, 64 e 69"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CONAMA 237/1997, arts. 1º, 8º, 18 e 19"
+    status: LEI
+    url: https://conama.mma.gov.br/?option=com_sisconama&task=arquivo.download&id=237
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 613 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=613.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, RMS 69.666 (competência pelo reflexo do impacto; vedação de fracionamento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202774494
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADI 4757 (LC 140/2011, art. 14, § 4º) — teor não conferido no JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Ações de controle de constitucionalidade contra a Lei 15.190/2025 — situação não conferida"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

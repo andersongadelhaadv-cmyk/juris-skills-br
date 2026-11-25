@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 37, §§ 4º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.429/1992 (redação da Lei 14.230/2021), arts. 1º, 2º, 3º, 7º, 9º a 12, 16, 17, 17-B, 17-C, 21 e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8429.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "ADI 7.042 do STF, julg. 31/08/2022, DOU 05/09/2022 — legitimidade concorrente e disjuntiva do MP e da pessoa jurídica interessada (conferida na publicação oficial; não localizada no JuriBase)"
+    status: CONFIRMADO
+    url: https://legis.senado.leg.br/norma/36329586
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1199 do STF (ARE 843.989)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4652910&numeroProcesso=843989&classeProcesso=ARE&numeroTema=1199
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 897 do STF (RE 852.475)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4670950&numeroProcesso=852475&classeProcesso=RE&numeroTema=897
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "ADIs 7.156 e 7.236 — resultado quanto ao art. 23, § 5º (recontagem da prescrição) não conferido nesta skill"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8429.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Forma de intervenção da pessoa jurídica lesada quando o MP é autor"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8429.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.846/2013 (rito anticorrupção) — não coberto nesta skill"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, XXXIII e XXXIV, b; art. 37, § 3º, II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.527/2011, arts. 3º, 7º, 8º, 10, 11, 14, 15, 16, 18, 20, 21, 23, 24, 31 e 32"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 7.724/2012, arts. 15, 16, 19, 21, 22, 23 e 24"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, art. 3º (vista do interessado; remissão)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 483 do STF (ARE 652.777) — publicação nominal da remuneração de servidores"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4121428&numeroProcesso=652777&classeProcesso=ARE&numeroTema=483
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regulamentos de LAI de Estados, Municípios, Legislativo, Judiciário e MP (prazos e instâncias próprios)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+    consultado_em: 2026-11-25

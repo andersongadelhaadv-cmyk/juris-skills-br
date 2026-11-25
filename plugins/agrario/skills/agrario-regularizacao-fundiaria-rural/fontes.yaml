@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 11.952/2009, arts. 1º, 3º, 5º, 6º, 11, 12, 13, 15, 15-A, 16, 16-A, 17, 18, 19 e 40-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11952.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.267/2001, arts. 1º a 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10267.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973, art. 176, §§ 3º a 5º, e art. 225, § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 4.449/2002, arts. 9º e 10 (redação do Decreto 12.689/2025)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4449.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.651/2012, art. 29"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 191, parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.626.639, 2ª Turma, rel. Min. Francisco Falcão, julg. 28/10/2024 (georreferenciamento no desmembramento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401395468
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Legislação fundiária estadual sobre terras devolutas (não conferida)"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Regra de transição do Decreto 12.689/2025 para imóveis maiores sujeitos às faixas antigas (não conferida)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4449.htm
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Órgão e sistema de protocolo do pedido de regularização no regulamento vigente da Lei 11.952 (não conferido)"
+    status: VERIFICAR
+    url: https://www.gov.br/incra/
+    consultado_em: 2026-11-25

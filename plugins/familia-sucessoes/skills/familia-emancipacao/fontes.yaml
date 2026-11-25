@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 5º, 9º, 932, 1.631, 1.635 e 1.690"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 178 e 719 a 725"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973 (Registros Públicos), arts. 89 a 91"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.069/1990 (ECA), art. 148, parágrafo único, e"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8069.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.102.443, 3ª Turma, rel. Min. Humberto Martins, julg. 19/08/2024 (emancipação voluntária não exclui responsabilidade dos pais)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301936950
+    consultado_em: 2026-11-25

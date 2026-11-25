@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 894, caput, I a, II e §§2º a 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.701/1988, art. 3º, III, b"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7701.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 1.021 §4º e 1.026 §2º (mencionados no texto da Súmula 353/TST)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 296 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=296&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 337 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=337&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 353 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=353&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 433 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=433&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regimento Interno do TST (divisão SDI-1/SDI-2 e processamento dos embargos)"
+    status: VERIFICAR
+    url: https://www.tst.jus.br/regimento-interno
+    consultado_em: 2026-11-25

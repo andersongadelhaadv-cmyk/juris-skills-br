@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, IV, V, IX e X"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 186, 187, 206, § 3º, V, 927, 944 e 953"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal), arts. 138, 139, 140, 141, § 2º, 143 e 145"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.188/2015 (direito de resposta), arts. 2º a 7º e 12"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13188.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 497 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.211.732 (4ª Turma, julg. 22/04/2026) — rede social como veículo para a Lei 13.188/2015"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303739458
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.112.855 (3ª Turma, julg. 20/02/2024) — 60 dias também para a ação de resposta"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302885807
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 221 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=221.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 410 do STJ / Tema 1.296 (intimação pessoal para multa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303298919
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 995 (RE 1.075.412) — entrevista e responsabilidade da empresa jornalística"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5263701&numeroProcesso=1075412&classeProcesso=RE&numeroTema=995
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Temas 987/533 — item 3.1: crimes contra a honra e art. 19 do MCI"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Situação atual da tese dos Temas 987/533 (embargos/revisão) — base não registra vigência"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25

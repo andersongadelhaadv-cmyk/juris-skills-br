@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (LIV, LV, LVI) e art. 93, IX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 157, 563 a 573 (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.365/2022 (inclui o art. 798-A no CPP: suspensão de prazos de 20/12 a 20/01)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14365.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 523 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2729
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 706 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2433
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no RHC 218.825, 6ª Turma, rel. Og Fernandes, julg. 12/08/2026 (nulidade exige prejuízo concreto)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502402487
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg na RvCr 6.633, 3ª Seção, rel. Sebastião Reis Júnior, julg. 08/10/2025 (nulidade de algibeira; preclusão)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503022671
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADIs 6.298, 6.299, 6.300 e 6.305 — situação do art. 157, § 5º, do CPP"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

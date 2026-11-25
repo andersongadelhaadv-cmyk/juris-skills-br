@@ -1,0 +1,16 @@
+{
+  "name": "ambiental",
+  "version": "1.0.0",
+  "description": "Ambiental: ação civil pública, dano ambiental, defesa em auto de infração e crime ambiental, licenciamento, CAR/reserva legal, TAC e compliance.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "ambiental"
+  ]
+}

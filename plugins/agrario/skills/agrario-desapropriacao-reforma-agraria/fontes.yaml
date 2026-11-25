@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 184, 185 e 186"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.629/1993, arts. 2º, 4º, 6º, 7º, 9º e 12"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8629.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 76/1993, arts. 3º, 5º, 6º, 7º, 9º, 12, 13, 16, 18 e 19"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp76.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 354 do STJ (vigência não registrada na base)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=354.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 119 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=119.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.279.478, 2ª Turma, rel. Min. Afrânio Vilela, julg. 07/10/2024 (esbulho após a ADI 2.213)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201800882452
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.067.135, 1ª Turma, rel. Min. Gurgel de Faria, julg. 28/04/2025 (juros compensatórios; ADI 2.332)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301271119
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.717.047, 2ª Turma, rel. Min. Afrânio Vilela, julg. 28/05/2025 (juros compensatórios afastados em imóvel improdutivo; TDA)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201703282546
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.058.315, 2ª Turma, rel. Min. Mauro Campbell Marques, julg. 22/08/2023 (indenização pela área efetivamente desapropriada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300595360
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.626.639, 2ª Turma, rel. Min. Francisco Falcão, julg. 28/10/2024 (georreferenciamento no desmembramento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401395468
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EREsp 1.548.180, 1ª Seção, rel. Min. Francisco Falcão, julg. 12/04/2023 (desapropriação indireta; art. 1.238, par. único, c/c 2.028 do CC)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201501954030
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.684.535, 1ª Turma, rel. Min. Benedito Gonçalves, julg. 01/09/2025 (unidade de conservação; desapropriação indireta)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201701681870
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.019 do STJ (não localizado diretamente na base; citado no EREsp 1.548.180)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 1.525.658 e cancelamento do Tema 1.151 (reserva legal sem averbação na produtividade) — orientação não conferida no inteiro teor"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500745045
+    consultado_em: 2026-11-25

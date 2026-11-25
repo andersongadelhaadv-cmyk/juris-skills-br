@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 178, 666, 719 a 725"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.858/1980, arts. 1º e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6858.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.691, 1.748, 1.750, 1.753, 1.754, 1.781"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 161 do STJ (Justiça Estadual autoriza levantamento de PIS/PASEP e FGTS por falecimento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=161.num.
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Conversão atual do teto de 500 ORTN da Lei 6.858/1980, art. 2º"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6858.htm
+    consultado_em: 2026-11-25

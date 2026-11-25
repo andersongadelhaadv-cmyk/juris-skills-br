@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.360/1976, arts. 12 e 17-A, § 2º (incluído pela Lei 13.411/2016)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6360.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.080/1990, art. 19-T"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8080.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, § 3º; 497; 536; 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, 7º, III, e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 500 (RE 657.718) — medicamento sem registro; mora da Anvisa; ação contra a União"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4143144&numeroProcesso=657718&classeProcesso=RE&numeroTema=500
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1.161 (RE 1.165.959) — sem registro, com importação autorizada"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5559067&numeroProcesso=1165959&classeProcesso=RE&numeroTema=1161
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1.234 (RE 1.366.243), item 2.1.1 — competência federal para medicamento sem registro"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6335939&numeroProcesso=1366243&classeProcesso=RE&numeroTema=1234
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial do prazo do MS contra omissão da Anvisa (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

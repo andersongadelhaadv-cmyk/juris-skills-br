@@ -27,7 +27,9 @@ com o critério que as distingue, em vez de escolher sozinha.
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
 1. **Área** (cível, consumo, família, sucessões, trabalho, penal, previdenciário,
-   tributário, Fazenda, administrativo, contratos, imobiliário).
+   tributário, Fazenda, administrativo, contratos, imobiliário, digital/LGPD, bancário,
+   saúde, societário, ambiental, aeronáutico, desportivo, militar, eleitoral,
+   internacional, agrário, regulatório).
 2. **Fase**: consultivo/extrajudicial; administrativo; conhecimento (1º grau); recurso
    (e contra qual decisão); execução ou cumprimento.
 3. **Polo**: autor/réu, reclamante/reclamada, defesa/assistência, contribuinte/Fazenda.

@@ -1,0 +1,16 @@
+{
+  "name": "bancario",
+  "version": "1.0.0",
+  "description": "Bancário: fraude e transferência não autorizada, conta fantasma, SCR, revisional, repetição de indébito, busca e apreensão, alienação fiduciária e renegociação.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "bancario"
+  ]
+}

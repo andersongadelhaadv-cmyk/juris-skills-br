@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 145, 146 (LC 236/2026), 149, 151, III, 173"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 473 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.765.140 (1ª Turma, julg. 27/06/2022) — erro de direito não autoriza revisão"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002486858
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.362.445 (2ª Turma, julg. 04/06/2024; EAREsp na Primeira Seção, julg. 18/03/2025) — erro de fato, art. 149, VIII"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301557439
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.097.919 (2ª Turma, julg. 04/03/2024) — revisão após decadência"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303326891
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.130.545/RJ (repetitivo, referido no AgInt no AREsp 1.765.140)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CTN art. 150, § 4º (termo inicial da decadência com pagamento antecipado) — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "Rito e efeito suspensivo do pedido de revisão de ofício / revisão de dívida inscrita"
+    status: VERIFICAR
+    url: https://www.gov.br/pgfn/
+    consultado_em: 2026-11-25

@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 107, 108 § 1º, 113-A, 116 parágrafo único, 135, 146, 149 VII, 150 § 4º, 173 I, 194-A, 195 parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei Complementar 236/2026 (altera o CTN: arts. 107, 113-A, 138, 146, 194-A)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp236.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), art. 167"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.502/1964, arts. 71, 72 e 73"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4502.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.430/1996, arts. 44 § 1º e 48"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.137/1990, arts. 1º e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADI 2.446, rel. Min. Cármen Lúcia — improcedente (sessão virtual 1º a 8/4/2022; DJe 27/4/2022). Não localizada no JuriBase; confirmada nos andamentos e decisões do portal do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=1930159
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "ADI 2.446 — teor da ementa e alcance da ratio (dissimulação x abuso de forma)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=1930159
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei ordinária federal de procedimento do art. 116, parágrafo único, do CTN"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25

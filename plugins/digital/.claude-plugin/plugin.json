@@ -1,0 +1,16 @@
+{
+  "name": "digital",
+  "version": "1.0.0",
+  "description": "Direito digital e LGPD: remoção de conteúdo e perfil falso, ofensas e deepfake, conta bloqueada, crimes cibernéticos, direitos autorais online; LGPD (incidente, titular, DPA, política de privacidade, ANPD, vazamento); contrato de influenciador.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "lgpd"
+  ]
+}

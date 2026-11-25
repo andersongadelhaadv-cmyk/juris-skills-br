@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 8º §3º, 611-A §§1º, 2º, 4º e 5º, 611-B, 895, II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei Complementar 75/1993, art. 83, IV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp75.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XIII e XV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), art. 104"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, Tema 1046 (ARE 1.121.633), julg. 02/06/2022"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5415427&numeroProcesso=1121633&classeProcesso=ARE&numeroTema=1046
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, SDC, RO 228-69.2016.5.08.0000, julg. 13/04/2026 (jornada 15x15 em 12x12; Tema 1046; retratação não exercida) — localizado por buscar_jurisprudencia"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/44da1890c07a34247f0d711f7fde91c0
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, SDC, ROT 550-30.2022.5.17.0000, julg. 13/04/2026 (anulatória do MPT; edital, ata e quórum) — localizado por buscar_jurisprudencia"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/872b3a5b88ca6f1b7e5dbcb3dc4bd7f3
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, 1ª Turma, RR 678-14.2022.5.09.0084 (legitimidade de empresa isolada) — conclusão não lida, ementa truncada"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/a826b73c420c8678cf1976d636801eeb
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Competência originária do TRT e efeito do fim da vigência do instrumento (regra jurisprudencial/regimental)"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

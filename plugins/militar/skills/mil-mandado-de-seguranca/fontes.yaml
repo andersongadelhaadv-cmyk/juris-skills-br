@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 5º, LV e LXIX, 105, I, b, 109, VIII, 125, §§ 4º e 5º, 142, § 3º, VI e VII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, 5º, 6º, 7º, 14, 18 e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.457/1992, arts. 6º, I, d, e 30, I-C"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8457.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.880/1980 (Estatuto dos Militares), arts. 48, 49 e 51"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6880.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 430 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2771
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 673 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2436
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula Vinculante 5 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1199
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 565 do STF (ARE 691.306)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4251017&numeroProcesso=691306&classeProcesso=ARE&numeroTema=565
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no MS 28.187, 1ª Seção, julg. 16/08/2022"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103540440
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, RMS 75.131, 2ª Turma, julg. 12/11/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404264190
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no RMS 73.399, 2ª Turma, julg. 26/02/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401393776
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no RMS 59.583, 2ª Turma, julg. 12/08/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201803267696
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJMA, Apelação Cível 0809380-55.2023.8.10.0001 (competência da JME para ato disciplinar)"
+    status: CONFIRMADO
+    url: https://jurisconsult.tjma.jus.br/#/sg-jurisprudence-form
+    consultado_em: 2026-11-25

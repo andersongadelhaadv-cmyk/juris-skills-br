@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 151, VI; 155-A; 174, § 1º, IV (LC 236/2026)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.522/2002, arts. 10, 11, 12, 13, 14, 14-A, 14-B, 14-C"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10522.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 653 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=653.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 360 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=360.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 997 do STJ (REsp 1.679.536, Primeira Seção, julg. 20/06/2024)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201701443268
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.238.871 (1ª Turma, julg. 04/05/2026) — denúncia espontânea e parcelamento"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503944822
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Leis de programas especiais de regularização (Refis e similares) — abertura e prazo"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Alcance da confissão do parcelamento sobre rediscussão judicial (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

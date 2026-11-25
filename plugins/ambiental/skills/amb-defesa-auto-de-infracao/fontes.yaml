@@ -1,0 +1,101 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.605/1998, arts. 70 a 76"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 6.514/2008, arts. 3º, 4º, 21, 22, 96 a 100, 113 a 126, 139 a 146"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6514.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.873/1999, arts. 1º, 1º-A e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9873.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 50 e 69"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 140/2011, arts. 14, § 4º, e 17"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LIV e LV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.240.077 (responsabilidade administrativa ambiental exige dolo ou culpa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503151646
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 1.967.742 (caráter subjetivo; inversão do ônus — Súmula 618)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102800510
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 1.651.786 (2ª Turma trata a responsabilidade no auto como objetiva — ressalva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202000087189
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema repetitivo 1159 — REsp 1.993.783 (multa independe de advertência prévia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200867108
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.223.324 (prescrição intercorrente; natureza do despacho interruptivo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301940505
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.195.730 (intercorrente: atos meramente formais não afastam a paralisação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600789358
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.018.177 (Lei 9.873/1999 inaplicável a estados e municípios)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202432059
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 2.075.288 (Decreto 20.910/1932 sem prescrição intercorrente)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301737413
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.971.073 (licença estadual não impede fiscalização do IBAMA)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103455720
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 467 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=467.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 618 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=618.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 999 — RE 654.833 (imprescritibilidade da reparação do dano ambiental)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4130104&numeroProcesso=654833&classeProcesso=RE&numeroTema=999
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.115.078 (repetitivo citado no AgInt no REsp 2.018.177) — não localizado no JuriBase"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADI 4757 (LC 140/2011, arts. 14, § 4º, e 17, § 3º) — teor não conferido no JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 133 a 137"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), art. 50, caput e §§ 1º a 5º (Lei 13.874/2019)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CPC, art. 1.015, IV (agravo de instrumento contra decisão do IDPJ) - trecho não carregou na fonte oficial"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1210 - REsp 1.873.811 (2ª Seção, rel. Min. Raul Araújo, julg. 07/05/2026)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001090402
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1210 - REsp 1.873.187 (2ª Seção, rel. Min. Raul Araújo, julg. 07/05/2026)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001068480
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.072.206 (Corte Especial, rel. Min. Ricardo Villas Bôas Cueva, julg. 13/02/2025) - honorários no IDPJ rejeitado"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301542417
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EREsp 2.042.753 (Corte Especial, rel. Min. Mauro Campbell Marques, julg. 02/04/2025) - honorários no IDPJ rejeitado"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203847172
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.324.908 (3ª Turma, 2023) - entendimento antigo (sem honorários no IDPJ), superado pela Corte Especial"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300781072
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1076 (parâmetro de honorários) - não conferido nesta skill"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 138, 983, 1.035 §4º, 1.038 I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.868/1999, art. 7º, caput e §2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9868.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.828.606 (irrecorribilidade do indeferimento de amicus curiae)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902181098
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no MS 25.655 (requisitos do art. 138; pedido antes da inclusão em pauta)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903800713
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EDcl no AgInt no AREsp 1.615.770 (ingresso após o julgamento descabe)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903339503
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EDcl nos EAREsp 664.888 (embargos de declaração só por amicus admitido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500355072
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, QO no REsp 1.696.396/MT (Corte Especial) — citada no AgInt no REsp 1.828.606, não localizada diretamente na base"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

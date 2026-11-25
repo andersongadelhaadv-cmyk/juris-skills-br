@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto 70.235/1972, arts. 5º (redação da LC 227/2026), 25 §§9º, 9º-A e 12, 26-A e 37 §2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d70235cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 70.235/1972, art. 37 §5º (prazo próprio do contencioso da CBS) - texto integral não lido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d70235cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regimento Interno do CARF (Portaria MF 1.634/2023), arts. 115, 116 §6º, 118, 119, 120, 121 e 122 - versão consolidada oficial até 24/02/2026"
+    status: LEI
+    url: https://www.gov.br/carf/pt-br/acesso-a-informacao/institucional/regimento-interno/ricarf-com-atos-regulamentares_atualizado-ate-24_02_2026-2.pdf
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 236/2026 (CTN arts. 208-C, 208-D, 208-G, 211-B), DOU 04/09/2026"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp236.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), art. 151, III"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmulas do CARF (nenhuma citada por número; conferir no portal oficial do CARF antes de citar)"
+    status: VERIFICAR
+    url: https://www.gov.br/carf/pt-br
+    consultado_em: 2026-11-25

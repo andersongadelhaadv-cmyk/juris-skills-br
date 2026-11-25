@@ -1,0 +1,81 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 105, III (a, b, c), §§ 2º e 3º (EC 125/2022)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 619, 638 e 798"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 1.003, 1.025, 1.029, 1.030 e 1.042"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 7 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=7.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 83 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=83.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 203 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=203.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 211 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=211.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 518 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=518.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 281 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2487
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 283 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2226
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 284 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2230
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.763.447, 5ª Turma, julg. 18/02/2025 (REsp penal: 15 dias corridos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403798975
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no AREsp 2.623.353, 5ª Turma, julg. 06/08/2024 (prazo corrido, CPP 798)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401520571
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no AREsp 2.888.023, 5ª Turma, julg. 12/08/2025 (AREsp criminal: 15 dias corridos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500974360
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no AREsp 2.515.417, 5ª Turma, julg. 23/10/2024 (revaloração jurídica afasta Súmula 7)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304260300
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Regulamentação/regras regimentais do filtro de relevância do REsp (CF 105, § 2º) vigentes na data do protocolo"
+    status: VERIFICAR
+    url: https://www.stj.jus.br/sites/portalp/Leis-e-normas/Regimento-interno
+    consultado_em: 2026-11-25

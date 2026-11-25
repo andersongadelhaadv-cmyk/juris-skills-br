@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.061, 1.062, 1.063, 1.071 a 1.080-A, 1.085, 1.152 § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.757.560, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 02/08/2022 (impedimento do art. 1.074, § 2º; administrador não sócio)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201801925556
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.170.665, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 04/02/2025 (exclusão extrajudicial exige previsão contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403507878
+    consultado_em: 2026-11-25
+  - tipo: tese
+    referencia: "Prazo para anular deliberação de sociedade limitada fora do art. 1.078, § 4º — não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Regulamento federal/DREI sobre reunião e assembleia digital (art. 1.080-A) — não conferido"
+    status: VERIFICAR
+    url: https://www.gov.br/empresas-e-negocios/pt-br/drei
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Correspondência da 'concordata' (art. 1.071, VIII) na Lei 11.101/2005 — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, VIII; 7º p.u.; 25 § 1º; 81 a 104"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.347/1985 (ação civil pública), arts. 1º, 2º, 5º, 11, 12, 13, 16, 18, 21"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7347compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, Tema 1075 (RE 1.101.937), inconstitucionalidade do art. 16 da Lei 7.347/1985 e competência pelo art. 93, II, do CDC"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5336275&numeroProcesso=1101937&classeProcesso=RE&numeroTema=1075
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 601 do STJ (vigência não registrada na base; conferir)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=601.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.949.915 (dispensa da pré-constituição anual da associação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501931564
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.035.372 (pertinência temática e representatividade adequada da associação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103846283
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.800.035 (inversão do ônus da prova em favor do MP na ação coletiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404389143
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.223.012 (associação: flexibilização temporal; dano moral coletivo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502555092
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional da ação civil pública consumerista (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

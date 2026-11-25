@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 183 e 1.022 a 1.026"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 48, 49 e 50"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.259/2001, arts. 1º e 9º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 282 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2496
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 356 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2648
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 211 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=211.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.553.092 (3ª Turma, julg. 28/10/2024) — aplica Súmulas 282/STF e 211/STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400135860
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Efeito de embargos de declaração intempestivos sobre o prazo do recurso principal (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Prequestionamento no pedido de uniformização à TNU (Regimento Interno e enunciados da TNU)"
+    status: VERIFICAR
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao
+    consultado_em: 2026-11-25

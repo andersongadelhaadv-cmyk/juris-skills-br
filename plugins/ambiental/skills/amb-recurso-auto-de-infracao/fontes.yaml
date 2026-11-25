@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.605/1998, art. 71"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 6.514/2008, arts. 4º, 120 a 131, 145 e 146"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6514.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 50, 56, 59, 61, 64 e 69"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.873/1999, arts. 1º e 1º-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9873.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 5º, I, e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 467 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=467.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.223.324 (prescrição intercorrente; despacho interruptivo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301940505
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.195.730 (intercorrente: atos formais não afastam a paralisação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600789358
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.018.177 (Lei 9.873/1999 inaplicável a estados e municípios)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202432059
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.240.077 (responsabilidade administrativa ambiental subjetiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503151646
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema repetitivo 1159 — REsp 1.993.783 (multa independe de advertência prévia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200867108
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, RMS 69.666 (TAC não exclui multa; boa-fé e proporcionalidade autorizam redução)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202774494
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 6.514/2008, art. 130 (revogado pelo Decreto 11.080/2022 — fim da instância CONAMA e da vedação de agravamento)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6514.htm
+    consultado_em: 2026-11-25

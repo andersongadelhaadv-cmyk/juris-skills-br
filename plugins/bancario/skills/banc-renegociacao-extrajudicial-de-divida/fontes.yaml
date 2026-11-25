@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 360, 361, 364, 422, 840, 841, 842, 843 e 844"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 52 (§ 2º), 54-B e 104-C"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 911/1969, art. 3º (prazos que correm em paralelo à negociação)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 286 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=286.num.
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CPC — força executiva da transação/confissão de dívida (art. não conferido)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25

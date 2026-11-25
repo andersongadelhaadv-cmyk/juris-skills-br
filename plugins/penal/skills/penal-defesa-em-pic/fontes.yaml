@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (LV, LVI, LXIII) e art. 129 (I, VI, VII, VIII)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 3º-B, IV, 28-A e 157 (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CNMP 181/2017 (compilada até a Res. 201/2019), arts. 1º, 3º, 4º, 7º, 9º, 13, 16, 19 e 21"
+    status: LEI
+    url: https://www.cnmp.mp.br/portal/images/Resolucoes/Resoluo-181-1.pdf
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.906/1994 (EOAB), art. 7º, XIV e XXI (redação da Lei 13.245/2016)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 184 — RE 593.727, Tribunal Pleno, julg. 18/05/2015 (poder investigatório do MP)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2641697&numeroProcesso=593727&classeProcesso=RE&numeroTema=184
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1303 — REsp 2.161.548, 3ª Seção, julg. 12/03/2025 (ANPP; confissão perante o MP)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402883032
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, julgamentos posteriores ao Tema 184 sobre o PIC (ex.: ADI 2.943 — sem cobertura no JuriBase)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADIs 6.298, 6.299, 6.300 e 6.305 — alcance do art. 3º-B, IV, do CPP"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CNMP 181/2017 — alterações posteriores a 2019"
+    status: VERIFICAR
+    url: https://www.cnmp.mp.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.583, 1.584, 1.639 a 1.641, 1.658 a 1.660, 1.668, 1.672, 1.687, 1.694, 1.707, 1.725, 1.829 e 1.845"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 189, 693, 694, 698, 731 e 733"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.140/2015 (mediação), art. 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1236 do STF (ARE 1.309.642)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6096433&numeroProcesso=1309642&classeProcesso=ARE&numeroTema=1236
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 377 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=4022
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 197 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=197.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 655 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=655.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 2.726.027, 3ª Turma, julg. 05/05/2025 (partilha imprescritível)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403128915
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Prazo prescricional das prestações alimentares vencidas e termo inicial — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.019/1974, arts. 2º, 4º-A, 4º-B, 4º-C, 5º-A, 5º-B, 5º-C, 5º-D, 9º, 10, 12 e 16 (redação das Leis 13.429/2017 e 13.467/2017)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6019.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.467/2017 - nova redação dos arts. 4º-A e 5º-A da Lei 6.019/1974 e art. 840 §1º da CLT"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 725 do STF (RE 958252) - licitude da terceirização, mantida a responsabilidade subsidiária"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4952236&numeroProcesso=958252&classeProcesso=RE&numeroTema=725
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 246 do STF (RE 760931) - inadimplemento não transfere automaticamente a responsabilidade ao Poder Público"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4434203&numeroProcesso=760931&classeProcesso=RE&numeroTema=246
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1118 do STF (RE 1298647) - ônus da prova da negligência da Administração; notificação formal e inércia"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6048634&numeroProcesso=1298647&classeProcesso=RE&numeroTema=1118
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 331 do TST (item I cancelado por perda de eficácia a partir de 11/11/2017 - Res. 225/2025; itens II a VI)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=331&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "ADPF 324 (STF) - não localizada na base consultada"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Fundamento do benefício de ordem da tomadora na execução - não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/
+    consultado_em: 2026-11-25

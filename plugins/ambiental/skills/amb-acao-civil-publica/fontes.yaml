@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 129, III, e 225, caput e § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.938/1981, arts. 3º, 4º, VII, e 14, § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6938.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.347/1985, arts. 1º, 2º, 3º, 4º, 5º, 11, 12, 13, 18, 21"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300 e 373, § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 613 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=613.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 618 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=618.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 623 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=623.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 629 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=629.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 652 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=652.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 999/STF (RE 654.833) — imprescritibilidade da reparação civil do dano ambiental"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4130104&numeroProcesso=654833&classeProcesso=RE&numeroTema=999
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.204/STJ (REsp 1.953.359) — natureza propter rem e solidária"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101271717
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.102.646, 4ª Turma, 05/05/2026 (risco integral; medidas mitigadoras irrelevantes)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303772930
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.233.780, 1ª Turma, 09/03/2026 (dano moral coletivo ambiental in re ipsa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503596628
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.065.347, 2ª Turma, 27/02/2024 (dano notório; inversão quanto ao nexo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301056819
+    consultado_em: 2026-11-25

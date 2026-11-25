@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º III e VIII, 26 (I, II, §§ 1º, 2º I, 3º), 30, 35, 39 V, 42 parágrafo único, 84"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 13.135/2026 (SAC), arts. 20 § 1º, 21 caput e § 3º, 25"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13135.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 11.034/2022 (antigo SAC) — página do Planalto indica revogação pelo Decreto 13.135/2026; não usar"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 7.962/2013 (comércio eletrônico), art. 4º V"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), art. 397 parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25

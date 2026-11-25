@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, XXVII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.610/1998, arts. 7º, 18, 22, 24, 28, 29, 41, 46, 49, 50, 102 a 110 e 111 (vetado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.965/2014 (Marco Civil da Internet), arts. 15, 19 (§§ 1º e 2º), 22 e 31"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 205 e 206, § 3º, V"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 381, 384, 497 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.912.542, 3ª Turma, julg. 21/08/2023 (direito autoral extracontratual: prescrição trienal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002222961
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.066.179, 3ª Turma, julg. 23/10/2023 (violação continuada: prazo a partir de cada uso)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301041834
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.735.426, 3ª Turma, julg. 26/05/2025 (contratual decenal x extracontratual trienal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403296496
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.769.975, 4ª Turma, julg. 04/05/2026 (remoção exige URL específica)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201802534822
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Responsabilidade do provedor por violação autoral após notificação extrajudicial (precedente do STJ não localizado; REsp 1.512.647 NAO_ENCONTRADO no JuriBase)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396) - alcance sobre direito autoral não expresso na tese"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Aplicação do parâmetro de 3.000 exemplares (Lei 9.610/1998, art. 103, parágrafo único) a cópias digitais"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

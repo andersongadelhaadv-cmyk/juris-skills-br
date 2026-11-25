@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 217, §§ 1º e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.615/1998, arts. 52, §§ 1º e 2º, e 53, § 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, § 1º, 5º, 7º, III, 23 e 25"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD, texto consolidado pela Resolução CNE nº 29/2009, arts. 35, 43, 88 a 94"
+    status: LEI
+    url: https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/noticias_esporte/CBJD09032015.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Código Brasileiro Antidopagem 2021 (compilado com Res. CNE 2/2022 e 68/2022), arts. 253, 314-D a 314-G"
+    status: LEI
+    url: https://www.gov.br/abcd/pt-br/composicao/regras-antidopagem-legislacao-1/codigos/copy_of_codigos/cba_2021_compilado-1.pdf
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Cabimento de MS contra ato de entidade/tribunal desportivo privado (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Competência para MS contra ato da ABCD ou do TJD-AD (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD posterior a 2009 e CBA posterior a 2022 (redação vigente)"
+    status: VERIFICAR
+    url: https://www.gov.br/esporte/pt-br
+    consultado_em: 2026-11-25

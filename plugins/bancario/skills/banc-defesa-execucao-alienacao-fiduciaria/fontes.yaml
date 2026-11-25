@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 911/1969, arts. 2º, 3º (§§ 6º e 7º), 4º, 5º e 8º-B a 8º-E"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.361, 1.364, 1.365 e 1.366"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.514/1997, arts. 26-A e 27 (redação da Lei 14.711/2023)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9514.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.711/2023 (inclusão dos arts. 8º-B a 8º-E no DL 911/1969)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 286 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=286.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADI 7600, 7601 e 7608 (Lei 14.711/2023) — estado do julgamento não conferido"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "DL 911/1969, art. 5º, parágrafo único — correspondência das impenhorabilidades no CPC/2015"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Preço vil na venda extrajudicial de veículo e prestação de contas (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

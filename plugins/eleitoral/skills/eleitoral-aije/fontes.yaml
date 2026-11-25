@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "LC 64/1990, arts. 19, 22 (I a XIV e XVI), 23 e 24"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.504/1997, arts. 30-A, 41-A, 73 (§§ 4º, 5º, 12) e 96-B"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 14, § 9º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 986 — RE 1.096.029 (novas eleições automáticas — CE, art. 224, § 3º)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5318213&numeroProcesso=1096029&classeProcesso=RE&numeroTema=986
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 38 do TSE (litisconsórcio entre titular e vice em ação de cassação)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Marco inicial e final da AIJE por abuso (jurisprudência do TSE, sem número)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/jurisprudencia
+    consultado_em: 2026-11-25

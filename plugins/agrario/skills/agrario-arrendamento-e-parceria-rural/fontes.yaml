@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 4.504/1964 (Estatuto da Terra), arts. 65, 92 a 96"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4504.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 59.566/1966, arts. 3º, 4º, 11, 13, 16, 17, 18, 21, 22, 26, 32, 45 a 47"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/antigos/d59566.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.393/1996 (ITR), art. 20"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9393.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.546.241, 4ª Turma, rel. Min. Raul Araújo, julg. 16/09/2024 (notificação do art. 92, § 3º; preferência)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400078236
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.814.976, 3ª Turma, rel. Min. Moura Ribeiro, julg. 03/11/2025 (preferência; decadência; depósito do preço)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404453770
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.647.811, 4ª Turma, rel. Min. João Otávio de Noronha, julg. 16/03/2026 (prorrogação automática sem notificação de 6 meses)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401663408
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.025.344, 3ª Turma, rel. Min. Nancy Andrighi, julg. 07/03/2023 (preferência do condômino em imóvel indivisível)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201264680
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.156.451, 3ª Turma, julg. 22/04/2025 (retenção por benfeitorias após despejo) — existência confirmada, conclusão não conferida"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402505524
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Renda fixada em produto (sacas) — sem precedente confirmado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

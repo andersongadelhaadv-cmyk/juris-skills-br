@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.307/1996, arts. 34, 35, 38 e 39"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Código Brasileiro Antidopagem 2021 (compilado com Res. CNE 2/2022 e 68/2022), arts. 316, 318, 320, 324 e 331"
+    status: LEI
+    url: https://www.gov.br/abcd/pt-br/composicao/regras-antidopagem-legislacao-1/codigos/copy_of_codigos/cba_2021_compilado-1.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD, texto consolidado pela Resolução CNE nº 29/2009, art. 136, § 1º"
+    status: LEI
+    url: https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/noticias_esporte/CBJD09032015.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Código de Arbitragem Esportiva do CAS (prazos de apelação e memorial, medidas provisórias)"
+    status: VERIFICAR
+    url: https://www.tas-cas.org/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ — homologação de sentença do CAS (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Código Brasileiro Antidopagem — versão posterior a 2022"
+    status: VERIFICAR
+    url: https://www.gov.br/abcd/pt-br
+    consultado_em: 2026-11-25

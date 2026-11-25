@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 840 a 850"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 3º §§2º-3º, 90 §§2º-3º, 105, 334 §§10-11, 487 III b, 515 II, III e §2º, 725 VIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 784 II a IV e 966 §4º (texto original publicado; compilado do Planalto não legível nesses artigos)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-publicacaooriginal-146341-pl.html
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.906/1994 (Estatuto da Advocacia), art. 24 §4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.062.295, 3ª Turma, rel. Min. Nancy Andrighi, julg. 08/08/2023 (homologação de transação antes da citação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301022078
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.158.785, 4ª Turma, rel. Min. Antonio Carlos Ferreira, julg. 02/03/2026 (idem)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402661331
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.968.015, 3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 22/08/2023 (homologatória = título judicial; cumprimento de sentença)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101496473
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.064.264, 3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 22/08/2023 (competência da anulatória de homologação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301136935
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.141.778, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 04/12/2023 (recusa de homologação de acordo de licitude duvidosa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201661376
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo da ação anulatória de transação homologada (art. 966 §4º CPC c/c art. 849 CC) — não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

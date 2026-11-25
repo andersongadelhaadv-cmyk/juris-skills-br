@@ -1,0 +1,16 @@
+{
+  "name": "agrario",
+  "version": "1.0.0",
+  "description": "Agrário: arrendamento e parceria rural, usucapião rural, posse rural, regularização fundiária rural, desapropriação e inventário de imóvel rural.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "agrario"
+  ]
+}

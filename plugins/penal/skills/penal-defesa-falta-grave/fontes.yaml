@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 7.210/1984 (LEP), arts. 44 a 60, 112 §6º, 118 e 127 (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7210compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), art. 798"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 533 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=533.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 526 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=526.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 534 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=534.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 441 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=441.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 535 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=535.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 660 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=660.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 941 (RE 972.598) — audiência de justificação supre PAD e defesa técnica"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4987685&numeroProcesso=972598&classeProcesso=RE&numeroTema=941
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no REsp 2.214.069, rel. Min. Og Fernandes, j. 25/02/2026 — prescrição da falta grave em 3 anos (CP 109, VI)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501779655
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Prazo de defesa no procedimento disciplinar (regulamento estadual)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7210compilado.htm
+    consultado_em: 2026-11-25

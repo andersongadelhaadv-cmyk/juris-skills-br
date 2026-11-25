@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 225, § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.605/1998, arts. 2º, 3º, 6º, 7º, 14, 19, 20, 21, 22, 27, 28, 38, 48, 50, 54 e 69-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.605/1998, art. 60 (pena na redação da Lei 15.190/2025 — vigência a conferir)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.651/2012, art. 60"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.377/STJ (REsp 2.205.709, 3ª Seção, 08/10/2025) — art. 54, caput, 1ª parte: crime formal, perícia desnecessária"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501074005
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.977.172, 3ª Seção, 24/08/2022 (incorporação: intranscendência, extinção da punibilidade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103792243
+    consultado_em: 2026-11-25

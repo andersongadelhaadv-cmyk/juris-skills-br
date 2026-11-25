@@ -1,0 +1,16 @@
+{
+  "name": "aeronautico",
+  "version": "1.0.0",
+  "description": "Aeronáutico: reembolso de passagem, milhas e pontos, acidente aéreo, multas da ANAC, dados de passageiro e infração aeronáutica (atraso, cancelamento e bagagem ficam em consumidor-transporte-aereo).",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "aeronautico"
+  ]
+}

@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, X e XXVIII 'a'; art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 20 e 206 § 5º I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.615/1998 (Lei Pelé), arts. 31 e 87-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023 (Lei Geral do Esporte), arts. 85 § 1º, 86 § 9º, 90 III e § 1º, 160, 164"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, RR 1623-56.2016.5.09.0651, 7ª Turma, julg. 08/05/2026 (imagem sem exploração efetiva = salário)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/d422888fd75dc807335f8208d17785f5
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1289 — proposta de afetação (Segunda Seção, 29/10/2024; REsp 2.112.575 e outros)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304343901
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1289 — tese de mérito (não localizada no JuriBase)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304343901
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Antinomia teto de imagem 40% (Lei Pelé) x 50% (LGE) — sem precedente localizado"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 1.001/1969 (Código Penal Militar), arts. 9º e 125"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 1.002/1969 (CPPM), arts. 3º, 77, 78, 302, 303, 390, 427 a 433, 499 e 500"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 5º, LV, 124 e 125, §§ 3º a 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.457/1992 (Organização da Justiça Militar da União), art. 30, I-B"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8457.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), art. 400"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 90 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=90.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 78 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=78.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.091.667, 5ª Turma, julg. 21/05/2024 (interrogatório como último ato)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302917074
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, HC 127.900/AM (art. 400 do CPP no processo penal militar)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Despenalizadores e ANPP na Justiça Militar (sem fonte conferida)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

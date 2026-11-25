@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 11.101/2005, arts. 7º a 20 (redação da Lei 14.112/2020)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 11.101/2005, art. 189, § 1º (contagem de prazos) - não conferido nesta skill"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.027.349 (3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 23/06/2025) - aplica a tese do Tema 1051"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002626287
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1051 - acórdão-paradigma não encontrado na base (busca por identificador: SEM_COBERTURA)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.194.245 (4ª Turma, rel. Min. Raul Araújo, julg. 31/03/2025) - honorários: fato gerador é a sentença"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500255411
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1391 - REsp 2.206.633 (2ª Seção, rel. Min. Ricardo Villas Bôas Cueva, julg. 13/05/2026) - cotas condominiais extraconcursais"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501151230
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.002.590 (3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 12/09/2023) - entendimento anterior sobre cotas condominiais"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201407254
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.119.427 (3ª Turma, rel. Min. Nancy Andrighi, julg. 13/05/2024) - honorários em impugnação litigiosa"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400177727
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1250 - afetação (REsp 2.100.114, 2ª Seção, 09/04/2024) confirmada; julgamento de mérito não localizado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302365229
+    consultado_em: 2026-11-25

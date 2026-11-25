@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto 70.235/1972, art. 25 §§9º-A, 12 e 13 (Lei 14.689/2023) e art. 26-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d70235cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regimento Interno do CARF (Portaria MF 1.634/2023), arts. 95, 96, 98, 102, 103, 104, 105, 107, 108, 110 e 132 - versão consolidada oficial até 24/02/2026"
+    status: LEI
+    url: https://www.gov.br/carf/pt-br/acesso-a-informacao/institucional/regimento-interno/ricarf-com-atos-regulamentares_atualizado-ate-24_02_2026-2.pdf
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Ato do Presidente do CARF que fixa prazo e forma do requerimento de sustentação oral em sessão síncrona (RICARF art. 95) - versão vigente não conferida"
+    status: VERIFICAR
+    url: https://www.gov.br/carf/pt-br
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmulas e acórdãos do CARF (nenhum citado por número; conferir no portal oficial antes de citar)"
+    status: VERIFICAR
+    url: https://www.gov.br/carf/pt-br
+    consultado_em: 2026-11-25

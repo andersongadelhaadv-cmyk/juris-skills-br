@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 319, 525 § 15, 535 § 8º, 966 a 975 (art. 966, §§ 5º e 6º, incluídos pela Lei 13.256/2016)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 102, I, j; 105, I, e; 108, I, b"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.099/1995, art. 59"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), art. 207"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 343 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1472
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 514 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2692
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 401 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=401.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Alcance da Súmula 343/STF em matéria constitucional (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudencia/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Critério do valor da causa na ação rescisória (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Competência do TJ para rescisória — Constituição estadual e regimento interno (não conferidos)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25

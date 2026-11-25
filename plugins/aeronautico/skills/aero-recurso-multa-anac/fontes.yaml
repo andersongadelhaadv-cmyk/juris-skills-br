@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 7.565/1986 (CBA), arts. 288, 289, 292, 295 e 319 (redação da Lei 14.368/2022 onde aplicável)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7565compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 11.182/2005 (cria a ANAC), art. 8º, XXXV, LI e LIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11182.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 38, 50, 56, 57, 59, 61 e 64"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.873/1999, arts. 1º, 1º-A, 2º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9873.htm
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Resolução ANAC 472/2018 (texto compilado), arts. 21, 25, 28, 36, 37-A, 37-B, 38 e 46"
+    status: LEI
+    url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2018/resolucao-no-472-06-06-2018
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Alterações da Resolução ANAC 472/2018 posteriores a 2021 (não conferidas)"
+    status: VERIFICAR
+    url: https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2018/resolucao-no-472-06-06-2018
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.293 do STJ (REsp 2.147.583) — intercorrente da Lei 9.873/1999 em infração administrativa não tributária"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400109811
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.314.672 (fato também crime: prazo penal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300768860
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prevalência do CBA art. 319 sobre a Lei 9.873/1999 e do CBA art. 292 § 2º sobre a Res. 472 art. 38 § 1º (sem número; JuriBase sem cobertura)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

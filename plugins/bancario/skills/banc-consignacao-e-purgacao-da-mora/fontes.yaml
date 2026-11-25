@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 330 (§§ 2º e 3º), 539, 540, 541, 542, 544, 545 e 546"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 334, 335, 336, 337, 394, 396 e 401"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 967/STJ — tese transcrita no AREsp 1.635.102, 4ª Turma, julg. 31/03/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903658750
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 967/STJ — recurso representativo (número não conferido diretamente)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 380 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=380.num.
+    consultado_em: 2026-11-25

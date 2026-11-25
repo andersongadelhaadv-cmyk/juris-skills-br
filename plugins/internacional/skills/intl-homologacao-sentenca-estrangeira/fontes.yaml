@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 105, I, i (EC 45/2004), e art. 109, X"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 23, 24, 26 § 2º, 515 VIII e § 1º, 960 a 965 (texto conferido na publicação original da Câmara)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 4.657/1942 (LINDB), arts. 15 e 17"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.307/1996 (Arbitragem), arts. 34 a 39"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 4.311/2002 (Convenção de Nova York de 1958), arts. IV e V"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4311.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regimento Interno do STJ, arts. 216-A e seguintes (prazos, citação, valor da causa) — não conferido"
+    status: VERIFICAR
+    url: https://www.stj.jus.br/sites/portalp/Institucional/Regimento-Interno
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regulamentação do CNJ sobre averbação direta de divórcio consensual estrangeiro — não conferida"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HDE 6.581, Corte Especial, Rel. João Otávio de Noronha, julg. 09/09/2025 (art. 963, III, dispensa prova do trânsito)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200775911
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt na HDE 7.684, Corte Especial, Rel. Antonio Carlos Ferreira, julg. 12/11/2024 (citação postal de empresa com endereço no Brasil: nulidade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203880946
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl na HDE 8.123, Corte Especial, Rel. Herman Benjamin, julg. 21/08/2024 (flexibilização com ciência inequívoca)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300832008
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl na HDE 6.541, Corte Especial, Rel. Maria Thereza de Assis Moura, julg. 12/11/2024 (arbitragem: citação postal com prova inequívoca)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200670469
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HDE 5.431, Corte Especial, Rel. Francisco Falcão, julg. 03/08/2022 (juízo delibatório; vedado aditar a sentença)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101993206
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HDE 10.022, Corte Especial, Rel. Maria Thereza de Assis Moura, julg. 03/06/2026 (interesse de agir sem bens no Brasil; prescrição alheia à delibação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401430612
+    consultado_em: 2026-11-25

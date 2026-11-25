@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 544, 548, 549, 1.027, 1.028, 1.055, 1.056, 1.085, 1.390, 1.393, 1.394, 1.410, 1.411, 1.659, 1.660, 1.668, 1.789, 1.845 a 1.848, 1.911, 2.002 a 2.007, 2.018"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 156, § 2º, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 36 e 37"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.249/1995, art. 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9249.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 796 (RE 796.376), Plenário, julg. 05/08/2020 — imunidade do ITBI não alcança o valor que exceder o capital a integralizar"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4529914&numeroProcesso=796376&classeProcesso=RE&numeroTema=796
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1.348 (imunidade do ITBI e atividade preponderante imobiliária) — NAO_ENCONTRADO no JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "ITCMD na doação de quotas (lei estadual; alterações constitucionais recentes) — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: tese
+    referencia: "Justa causa do art. 1.848 do CC aplicada a cláusulas em doação; requisitos da cláusula de reversão — não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Título hábil ao registro imobiliário da integralização de imóvel ao capital (lei de registro) — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8934.htm
+    consultado_em: 2026-11-25

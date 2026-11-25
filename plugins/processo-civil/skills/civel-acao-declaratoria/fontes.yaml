@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 19, 20, 46, 47, 85, 292, 300, 319, 330, 334, 396, 430 a 433, 503, 515"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 19 e 20 — conferência no texto do Planalto"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 205 e 206, § 3º, V (prazo do pedido condenatório cumulado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 181 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=181.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 258 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=4161
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Imprescritibilidade da ação meramente declaratória (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

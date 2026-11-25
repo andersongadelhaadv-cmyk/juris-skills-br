@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 168 (caput, §§ 2º e 3º, LC 236/2026), 170, 170-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.430/1996, art. 74 (caput e § 12, II) e art. 74-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.988/2020, art. 11, V"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 461 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=461.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 213 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=213.num.
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "Instrução normativa da Receita sobre habilitação de crédito judicial (documentos, prazo, recurso, desistência)"
+    status: VERIFICAR
+    url: https://normas.receita.fazenda.gov.br/
+    consultado_em: 2026-11-25

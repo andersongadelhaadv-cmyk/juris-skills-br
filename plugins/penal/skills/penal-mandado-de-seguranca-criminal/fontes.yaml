@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LXVIII e LXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, 5º, 6º, 7º, 10, 12, 14, 18, 23 e 25"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula Vinculante 14 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1230
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 267 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2464
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 701 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2660
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 604 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=604.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no RMS 73.168, rel. Des. conv. Carlos Cini Marchionatti, j. 19/08/2025 — Súmula 267/STF em MS contra juízo criminal"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400852597
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Competência para MS contra ato de delegado ou promotor (organização judiciária local) e CPP arts. 118 e seguintes (restituição) — não conferidos"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25

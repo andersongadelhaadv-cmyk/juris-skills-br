@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 183, 1.003 §§5º-6º, 1.015, 1.016, 1.017, 1.019"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, art. 7º, §1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), art. 34"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 135 e 151"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 988 do STJ (REsp 1.704.520/MT) — taxatividade mitigada; tese confirmada por transcrição no AgInt no AREsp 2.230.543"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203291195
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 408 do STF (ARE 637.975) — constitucionalidade do art. 34 da LEF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4053786&numeroProcesso=637975&classeProcesso=ARE&numeroTema=408
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 393 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=393.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 112 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=112.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 430 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=430.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 435 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=435.num.
+    consultado_em: 2026-11-25

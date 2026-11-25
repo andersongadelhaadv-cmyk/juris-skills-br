@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 11-A, 769, 884 (caput, §§1º, 5º e 6º), 889, 893 §1º, 896 §2º, 897 a"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 518 e 803"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 214 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=214&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 266 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=266&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, 6ª Turma, EDCiv-Ag-EDCiv-Ag-AIRR 0000973-04.2015.5.09.0664, julg. maio/2026 (exceção de pré-executividade sem garantia; decisão interlocutória)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/64ae2ef0807f8f727f2a6b4dbf99c870
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Ordem de aplicação subsidiária (LEF via CLT art. 889, antes do CPC) na admissão da objeção"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,81 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.880/1980 (Estatuto dos Militares), arts. 50, IV, a, 94, 106, 108 a 111, 121 e 125"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6880.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 109, I, 125, §§ 4º e 5º, 142, § 3º, VI e VII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, art. 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 1.002/1969 (CPPM), art. 559"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 85 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=85.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 673 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2436
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 358 do STF (RE 601.146)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2687755&numeroProcesso=601146&classeProcesso=RE&numeroTema=358
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EAREsp 440.995, 1ª Seção, julg. 28/09/2022"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201401340064
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EREsp 1.123.371/RS, Corte Especial, DJe 12/03/2019 (não localizado diretamente; confirmado por transcrição no EAREsp 440.995)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201401340064
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.528.275, 1ª Turma, julg. 16/09/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304535964
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 3.070.121, 2ª Turma, julg. 19/08/2026"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503918694
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.184.605, 1ª Turma, julg. 18/03/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403258090
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.494.896, 1ª Turma, julg. 18/08/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303994530
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.673.204, 2ª Turma, julg. 14/05/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402173786
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJMA, Apelação Cível 0809380-55.2023.8.10.0001"
+    status: CONFIRMADO
+    url: https://jurisconsult.tjma.jus.br/#/sg-jurisprudence-form
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Termo inicial da prescrição (fundo de direito x trato sucessivo) e regime da reforma de militar estadual"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

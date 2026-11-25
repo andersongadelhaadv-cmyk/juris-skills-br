@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LXV e LXVI"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 1.002/1969 (CPPM), arts. 3º, 18, 79, 254 a 271, 390, 516, h e i, 518"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), art. 319"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJMS, HC 1419260-34.2024.8.12.0000, julg. 30/01/2025"
+    status: CONFIRMADO
+    url: https://esaj.tjms.jus.br/cjsg/getArquivo.do?cdAcordao=1672898
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no HC 1.079.774, 6ª Turma, julg. 07/04/2026"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600885274
+    consultado_em: 2026-11-25

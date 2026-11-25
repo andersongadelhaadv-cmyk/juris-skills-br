@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 371, 465, 467, 468, 469, 473, 477, 479 e 480"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.259/2001, art. 12, caput e § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, art. 60, §§ 8º e 9º, e art. 101"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 47 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=47
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 53 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=53
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 77 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=77
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.416.506 (especialidade médica não é, em regra, pressuposto de validade da perícia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302581676
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Prazo para arguir impedimento/suspeição por fato superveniente à nomeação"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25

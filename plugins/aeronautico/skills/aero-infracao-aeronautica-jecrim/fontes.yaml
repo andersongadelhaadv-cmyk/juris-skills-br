@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 61, 63, 69, 72, 74, 75, 76, 81, 82, 88 e 89"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.259/2001, art. 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.688/1941 (Lei das Contravenções Penais), art. 35"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal), art. 261"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, IV e IX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.873/1999, art. 1º, § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9873.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.314.672 (fato também crime: prescrição administrativa pelo prazo penal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300768860
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Competência para contravenção a bordo de aeronave (CF 109 IV x IX) (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Enquadramento de drone na LCP art. 35 (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 202, 205, 206 (§ 3º, IV e VIII; § 5º, I e II), 389, 394, 395, 397, 402, 404, 940, 941"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 46, 53, 85, 292, 300, 311, 319, 324, 334, 700, 784"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EREsp 1.685.808, 2ª Seção, rel. Min. Maria Isabel Gallotti, julg. 29/10/2024 (responsabilidade contratual: prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201701880500
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.058.724, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 09/12/2025 (cobrança contratual decenal; art. 940 exige má-fé)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503683998
+    consultado_em: 2026-11-25

@@ -1,0 +1,16 @@
+{
+  "name": "internacional",
+  "version": "1.0.0",
+  "description": "Internacional: contrato internacional, homologação de sentença estrangeira, carta rogatória, cooperação jurídica, apostilamento e extradição.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "internacional"
+  ]
+}

@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 151, VIII (LC 236/2026); 171"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.988/2020, arts. 1º a 5º, 7º, 10, 10-A, 11, 12, 16 a 20, 23 a 25 (redações das Leis 14.375/2022 e 14.689/2023)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13988.htm
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "Editais e portarias de transação da PGFN e da Receita vigentes"
+    status: VERIFICAR
+    url: https://www.gov.br/pgfn/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei específica do devedor contumaz (Lei 13.988/2020, art. 5º)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/
+    consultado_em: 2026-11-25

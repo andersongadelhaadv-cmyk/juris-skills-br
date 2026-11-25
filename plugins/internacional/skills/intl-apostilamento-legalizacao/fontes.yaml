@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto 8.660/2016 (Convenção da Apostila, Haia 1961), arts. 1 a 7 e 9"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8660.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 41, 192 parágrafo único e 963 V (texto conferido na publicação original da Câmara)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CNJ 228/2016 e atos posteriores (autoridades brasileiras que apostilam) — página respondeu 403, não conferida"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/atos/detalhar/2299
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Legalização consular para países não partes da Convenção — procedimento do Estado de destino"
+    status: VERIFICAR
+    url: https://www.gov.br/mre/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HDE 6.527, Corte Especial, Rel. Francisco Falcão, julg. 21/06/2023 (apostila e chancela consular dispensadas por convênio Brasil-Espanha)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200646365
+    consultado_em: 2026-11-25

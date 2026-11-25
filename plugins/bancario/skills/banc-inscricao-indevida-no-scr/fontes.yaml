@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º VIII, 14, 17, 27, 43 §§ 2º e 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 396, 400, 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CMN 5.037/2022 (SCR), arts. 13, 15 e 16 (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5037
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.242.278, 3ª Turma, rel. Min. Moura Ribeiro, julg. 11/05/2026 (notificação prévia no SCR cabe à credora)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504278790
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.126.949, 4ª Turma, rel. Min. Raul Araújo, julg. 01/06/2026 (falta de notificação no SCR, dano in re ipsa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504820570
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.970.756, 3ª Turma, rel. Min. Moura Ribeiro, julg. 16/03/2026 (inscrição indevida no SCR, dano in re ipsa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502298894
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.898.289, 3ª Turma, rel. Min. Nancy Andrighi, julg. 27/10/2025 (natureza restritiva do SCR)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501135364
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.982.457, 3ª Turma, rel. Min. Humberto Martins, julg. 29/09/2025 (caráter restritivo sob certos aspectos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200095592
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.079.630, 3ª Turma, rel. Min. Moura Ribeiro, julg. 22/04/2026 (sem dano moral se o débito existe)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504079936
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição quando o débito existe e o vício é só a falta de comunicação prévia (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

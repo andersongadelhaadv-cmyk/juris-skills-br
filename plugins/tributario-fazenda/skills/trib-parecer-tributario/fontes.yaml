@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 100, 107 §§ 1º a 3º, 108 § 1º, 111, 112, 146, 150 § 4º, 173 I, 174, 194-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei Complementar 236/2026 (altera o CTN: arts. 107, 146, 194-A)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp236.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.430/1996, art. 48"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+    consultado_em: 2026-11-25

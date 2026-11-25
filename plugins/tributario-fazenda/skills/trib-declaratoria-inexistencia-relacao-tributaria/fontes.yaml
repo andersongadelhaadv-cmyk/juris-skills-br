@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 19, 20, 85, 183, 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 151 e 165"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 112 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=112.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 461 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=461.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 239 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2062
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 885 do STF (RE 955.227) — coisa julgada em relação tributária de trato sucessivo"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4945134&numeroProcesso=955227&classeProcesso=RE&numeroTema=885
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.051.180 (declaratória cumulada com repetição: cumulação sucessiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300366340
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescritibilidade da pretensão declaratória pura em matéria tributária (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

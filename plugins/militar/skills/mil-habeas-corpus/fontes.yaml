@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 5º, LXI, LXV e LXVIII, 42, § 1º, 102, I, i, e II, a, 105, I, c, e II, a, 125 e 142, § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 1.002/1969 (CPPM), arts. 18, 79, 254 a 257, 263, 270, 390, 466 a 470"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.457/1992, arts. 6º, I, c, e 30, I-C"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8457.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 694 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2720
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 695 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2717
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no RHC 157.152, 2ª Turma, julg. 09/04/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103685333
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no HC 750.533, 1ª Turma, julg. 24/10/2022"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201879740
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TRF5, RSE 0011096-40.2015.4.05.8300, 3ª Turma, julg. 27/10/2016 (art. 142, § 2º, limitado ao mérito)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.cjf.jus.br/unificada
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJCE, HC 0000133-92.2026.8.06.0000, julg. 28/04/2026 (deserção, excesso de prazo)"
+    status: CONFIRMADO
+    url: https://esaj.tjce.jus.br/cjsg/getArquivo.do?cdAcordao=3835149
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF — HC para exame de legalidade de punição disciplinar militar (sem número)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

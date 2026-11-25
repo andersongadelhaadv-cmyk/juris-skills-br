@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.004, 1.028 a 1.038, 1.077, 1.085, 1.086"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 599 a 609"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 265 do STF (balanço não aprovado não prevalece na apuração de haveres) — vigência não registrada na base"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3021
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.063.134, 3ª Turma, Villas Bôas Cueva, 12/08/2025 (sem expectativa de lucro futuro; FCD inadequado)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002533448
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.174.631, 3ª Turma, Moura Ribeiro, 17/03/2025 (fundo de comércio no balanço de determinação; FCD inviável)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403778691
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.142.834, 3ª Turma, Villas Bôas Cueva, 11/06/2024 (quebra da affectio insuficiente; falta grave; legitimidade da sociedade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300407240
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.170.665, 3ª Turma, Villas Bôas Cueva, 04/02/2025 (exclusão extrajudicial: previsão contratual; aditamento assinado por todos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403507878
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.203.772, 3ª Turma, Villas Bôas Cueva, 22/04/2025 (sócio excluído legitimado para ação só de haveres)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201328678
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.066.005, 3ª Turma, Villas Bôas Cueva, 11/11/2024 (prescrição decenal da apuração de haveres por exclusão)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301263308
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo para anular deliberação de exclusão extrajudicial de sócio (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

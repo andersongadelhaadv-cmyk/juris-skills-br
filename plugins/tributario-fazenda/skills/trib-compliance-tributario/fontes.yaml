@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 100, 107 §§ 1º a 3º, 113-A, 135 III, 138, 150 § 4º, 173 I, 174, 194-A, 195 parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei Complementar 236/2026 (altera o CTN: arts. 107, 113-A, 138, 194-A)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp236.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.430/1996, art. 48"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.137/1990, arts. 1º e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 360 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=360.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 430 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=430.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 435 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=435.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 436 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Programas de conformidade cooperativa das administrações tributárias (lei e regulamento)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Efeito do parcelamento sobre a denúncia espontânea (norma do programa específico)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/
+    consultado_em: 2026-11-25

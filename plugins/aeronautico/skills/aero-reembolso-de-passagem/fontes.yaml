@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 7.565/1986 (CBA), arts. 229, 230, 231 e 317"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7565compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 737 e 740 (caput e §§ 1º a 3º)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, 7º p.ú., 14, 25 § 1º, 39 V, 49, 51 IV e § 1º, 101 I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.113.297 (agência; reembolso de passagem cancelada; solidariedade da cadeia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201187669
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.226.209 (agência que apenas intermedeia a venda; solidariedade afastada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601150664
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Resolução ANAC 400/2016 e alteração de 2026 (desistência em 24h, prazo de reembolso, taxas, crédito) — texto vigente não conferido"
+    status: VERIFICAR
+    url: https://www.gov.br/anac/pt-br
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Aplicação do CDC art. 49 a passagem aérea; tarifa não reembolsável x CC 740 § 3º; prazo prescricional do reembolso (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LI e LII, e art. 102, I, g"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.445/2017 (Lei de Migração), arts. 81 a 99"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 421 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2334
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 692 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2723
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Código Penal, art. 75 (limite de cumprimento) x art. 96, III, da Lei 13.445/2017 — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regimento Interno do STF (rito e prazos da extradição) — não conferido"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/textos/verTexto.asp?servico=legislacaoRegimentoInterno
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Acórdãos do STF sobre extradição (dupla tipicidade, prescrição, crime político) sob a Lei 13.445/2017 — JuriBase SEM_COBERTURA"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudencia/
+    consultado_em: 2026-11-25

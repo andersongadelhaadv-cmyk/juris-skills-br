@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 111, 155, 178, 179"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 48, 49, 50, 56 e 59"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 544 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2283
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Norma instituidora do regime especial concreto (lei, regulamento, requisitos e prazos) — conferir em cada caso"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/
+    consultado_em: 2026-11-25

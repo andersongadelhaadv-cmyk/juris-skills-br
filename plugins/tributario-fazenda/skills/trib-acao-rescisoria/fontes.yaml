@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 319, 525 §15, 535 §8º, 966, 968, 969, 970, 975"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 102, I, j; 105, I, e; 108, I, b"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 343 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1472
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 514 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2692
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 136 do STF (RE 590.809) — rescisória e entendimento do Plenário à época"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2630912&numeroProcesso=590809&classeProcesso=RE&numeroTema=136
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 885 do STF (RE 955.227) — coisa julgada tributária em trato sucessivo"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4945134&numeroProcesso=955227&classeProcesso=RE&numeroTema=885
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial e alcance da rescisória dos arts. 525 §15 e 535 §8º do CPC segundo o STF (sem número)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudencia/
+    consultado_em: 2026-11-25

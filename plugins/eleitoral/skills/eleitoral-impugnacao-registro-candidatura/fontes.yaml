@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "LC 64/1990, arts. 1º (redação da LC 219/2025), 2º, 3º a 8º, 11, 14, 15, 16, 25, 26-D"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.504/1997, art. 11, caput e § 16; art. 16-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 14, §§ 3º e 9º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.737/1965 (Código Eleitoral), art. 262 (RCED)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 11 do TSE (legitimidade recursal de quem não impugnou o registro)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Resolução do TSE sobre registro de candidaturas do pleito (notícia de inelegibilidade)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao
+    consultado_em: 2026-11-25
