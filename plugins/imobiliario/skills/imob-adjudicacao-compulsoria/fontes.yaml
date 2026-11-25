@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.245, 1.417, 1.418"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973 (Registros Públicos), art. 216-B, caput e §§ 1º a 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 47, 73, 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 239 do STJ (adjudicação não depende do registro do compromisso)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=239.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 84 do STJ (embargos de terceiro do promitente comprador sem registro) — só remissão"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=84.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 2.425.946, 3ª Turma, julg. 02/09/2024 (pagamento integral é requisito)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302449260
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.231.032, 4ª Turma, julg. 25/05/2026 (quitação integral; ônus do promitente comprador)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503244513
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.256.025, 4ª Turma, julg. 16/03/2026 (quitação e recusa; registro dispensável; Súmula 239)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203708710
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.095.461, 3ª Turma, julg. 21/11/2023 (alienação fiduciária registrada: impossibilidade e perdas e danos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202047973
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição ou imprescritibilidade da pretensão adjudicatória (sem número; JuriBase SEM_COBERTURA)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Provimento do CNJ que regulamenta a adjudicação compulsória extrajudicial (número e artigos não conferidos; site do CNJ devolveu 403)"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 183 e 191"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.200, 1.201, 1.203, 1.207, 1.208, 1.238 a 1.244"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.257/2001 (Estatuto da Cidade), arts. 9º a 13"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 47, 246 § 3º, 259 I, 318"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973, art. 216-A § 9º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 237 do STF (usucapião arguível em defesa)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=4155
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 263 do STF (citação pessoal do possuidor)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3188
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 391 do STF (citação pessoal do confinante)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=4066
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, RE 422.349, Tema 815 (módulo urbano não obsta usucapião especial urbana)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2215877&numeroProcesso=422349&classeProcesso=RE&numeroTema=815
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.796.394, 3ª Turma, julg. 24/05/2022 (via extrajudicial facultativa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201900375273
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.217.542, 3ª Turma, julg. 14/09/2026 (ART da planta não exigível na ação judicial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502066589
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.948.445, 3ª Turma, julg. 16/12/2024 (prazo completado no curso da ação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102146448
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AgInt no AREsp 1.863.294, 3ª Turma, julg. 23/05/2022 (possessória improcedente não interrompe a prescrição aquisitiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202100881248
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Cientificação das Fazendas Públicas na usucapião judicial sob o CPC/2015 (fundamento não conferido)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25

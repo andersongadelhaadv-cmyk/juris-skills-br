@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.245/1991, arts. 45, 51, 52, 57, 58, 59, 71, 72, 73, 74, 75"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.005.621, 3ª Turma, julg. 13/10/2025 (ônus da prova dos requisitos do art. 71 é do locatário)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200291710
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.060.759, 3ª Turma, julg. 16/05/2023 (fiador incluído no cumprimento da renovatória)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203755634
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.883.486, 3ª Turma, julg. 12/05/2025 (efeitos ex tunc; diferenças nos autos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001693656
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.971.600, 3ª Turma, julg. 02/08/2022 (prazo do contrato renovado de cinco anos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102880140
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.346.420, 3ª Turma, julg. 20/11/2023 (prazo máximo da renovação: cinco anos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301386489
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.846.676, 3ª Turma, julg. 03/05/2022 (decadência; desocupação em 30 dias, art. 74)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903288287
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.192.753, 3ª Turma, julg. 07/10/2025 (pedido genérico e vinculação aos valores ofertados; ementa truncada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403680220
+    consultado_em: 2026-11-25

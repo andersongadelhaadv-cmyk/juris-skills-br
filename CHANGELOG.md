@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.3.0 — 2026-11
+
+Novo plugin `imobiliario`, com 22 skills (152 no total). Texto próprio; normas conferidas no Planalto e súmulas/precedentes no JuriBase (63 LEI, 96 CONFIRMADO, 32 VERIFICAR).
+
+- imobiliario: despejo, renovatória, revisional de aluguel, locação residencial; cobrança e prestação de contas de condomínio; possessórias, imissão na posse, embargos de terceiro; usucapião judicial e extrajudicial; adjudicação compulsória; compra e venda, distrato na planta, revisão de financiamento SFH/SFI e FGTS; análise de matrícula, parecer, notificação; retificação de área, Reurb, loteamento irregular e incorporação.
+- Temas do STJ ainda pendentes de julgamento (1.349, 1.420, 1.464, 1.465, 1.466) aparecem como risco, nunca como tese.
+- nucleo: roteador e catálogo passam a encaminhar pedidos imobiliários.
+
 ## v0.2.0 — 2026-11
 
 Novo plugin `contratos`, com 22 skills (130 no total). Texto próprio; normas conferidas no Planalto e súmulas/precedentes no JuriBase, registrados no `fontes.yaml` de cada skill (91 LEI, 78 CONFIRMADO, 21 VERIFICAR).

@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 4.380/1964 (SFH), arts. 5º e 6º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4380.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.514/1997, arts. 22, 23, 26, 26-A e 27 (redação da Lei 14.711/2023)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9514.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.036/1990 (FGTS), art. 20, V, VI, VII, §§ 3º, 17 e 27"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 47"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 422 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=422.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 450 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=450.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 454 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=454.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 473 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=473.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.103.041, 4ª Turma, julg. 13/04/2026 (Tabela Price; perícia contábil)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302044619
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 982 (RE 860.631, julg. 26/10/2023) — execução extrajudicial da Lei 9.514/1997"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4694303&numeroProcesso=860631&classeProcesso=RE&numeroTema=982
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Uso do FGTS em financiamento fora do SFH (JuriBase: SEM_COBERTURA)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Aplicação do CDC aos contratos do SFH conforme a data (sem número; não consolidado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição da repetição do indébito no SFH (sem número; não conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

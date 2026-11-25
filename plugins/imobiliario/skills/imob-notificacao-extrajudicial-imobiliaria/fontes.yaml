@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.245/1991 (Locações), arts. 4º, 6º, 8º, 27, 28, 46, 47, 56, 57, 59 § 1º VIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 745/1969, art. 1º e parágrafo único (redação da Lei 13.097/2015)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0745.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 397, 473, 474, 1.336, 1.337, 1.348 VII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.766/1979 (Parcelamento do Solo), arts. 32 e 49"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6766.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 76 do STJ (interpelação prévia mesmo sem registro do compromisso)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=76.num.
+    consultado_em: 2026-11-25
