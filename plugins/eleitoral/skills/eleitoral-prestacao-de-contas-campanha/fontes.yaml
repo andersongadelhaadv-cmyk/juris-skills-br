@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.504/1997, arts. 22 e § 3º, 24, 25, 28, 29 (III, IV, §§ 2º a 4º), 30 (caput, §§ 1º a 7º), 30-A, 31 e 32"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Resolução do TSE sobre arrecadação, gastos e prestação de contas do pleito; calendário eleitoral"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 42 do TSE (contas julgadas não prestadas e quitação eleitoral)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25

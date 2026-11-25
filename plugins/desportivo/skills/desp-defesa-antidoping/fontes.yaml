@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.615/1998, arts. 55-A, 55-B e 55-C (redação da Lei 13.322/2016)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023, arts. 174, 175 e 176"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Código Brasileiro Antidopagem 2021 (compilado com Res. CNE 2/2022 e 68/2022), arts. 114, 140 a 142, 178, 221 a 228, 252, 253, 259 a 262, 276, 277, 315 a 324"
+    status: LEI
+    url: https://www.gov.br/abcd/pt-br/composicao/regras-antidopagem-legislacao-1/codigos/copy_of_codigos/cba_2021_compilado-1.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Código Brasileiro Antidopagem — versão posterior a 2022"
+    status: VERIFICAR
+    url: https://www.gov.br/abcd/pt-br
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Jurisprudência judicial sobre sanção antidopagem (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

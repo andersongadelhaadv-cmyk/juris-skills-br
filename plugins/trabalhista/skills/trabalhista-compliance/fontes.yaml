@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 11, 74, § 2º, 157, I e II, e 223-B"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 461, caput - texto compilado"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.467/2017, redação do art. 611-B, XVII e parágrafo único, da CLT"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.457/2022, art. 23 (prevenção ao assédio em empresas com CIPA)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.611/2023, art. 5º (relatório de transparência salarial, plano de ação, multa)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 338 do TST (citada só para alertar que o item I usa limiar de 10 empregados, anterior à Lei 13.874/2019)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=338&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.019/1974 (terceirização) e teses do STF sobre terceirização e PJ - não conferidas"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6019.htm
+    consultado_em: 2026-11-25

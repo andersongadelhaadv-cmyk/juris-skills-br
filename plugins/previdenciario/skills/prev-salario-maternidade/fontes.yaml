@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 25, III e p.ú.; 26, VI; 27-A; 39, p.ú.; 71; 71-A; 71-B; 71-C; 72; 73; 103, p.ú."
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.846/2019 (art. 73, p.ú., da Lei 8.213; não inclui o art. 71-D)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13846.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, art. 71-D (MP 871/2019) — vigência não confirmada"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 113 — salário-maternidade da desempregada pago pelo INSS"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-113
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 202 — renda da segurada em período de graça (art. 73, III)"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-202
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 11 — flexibilização da prova material da segurada especial"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-11
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 17 — flexibilização da prova material da segurada especial"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-17
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 236 — genitor sobrevivente após óbito da mãe"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-236
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 657 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=657.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.630.201 (segurada especial: 10 meses de atividade rural)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401595435
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240) — prévio requerimento administrativo"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489) — inexistência de decadência para concessão"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADI 2.110 (carência do salário-maternidade) — não localizada no JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADI 6.327 (termo inicial após alta hospitalar) — não localizada no JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

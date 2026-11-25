@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 11, caput e § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 477 (caput e § 6º), 482, i, e 483 (caput, d, g e § 3º) - texto compilado"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 32 do TST (abandono de emprego após cessação do benefício previdenciário)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=32&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo de ausência injustificada para abandono fora da hipótese de cessação de benefício - não conferido"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

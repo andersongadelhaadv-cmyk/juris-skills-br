@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 114, §§2º e 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 616 §§3º e 4º, 856, 857, 858, 859, 860, 864, 868, 873, 874, 895 II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.701/1988, art. 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7701.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, Tema 841 (RE 1.002.295), julg. 22/09/2020"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5065252&numeroProcesso=1002295&classeProcesso=RE&numeroTema=841
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Orientação Jurisprudencial 5 da SDC do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=OJ&orgao=TST&numero=5&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, SDC, ROT 250-68.2022.5.17.0000, julg. 11/05/2026 (greve dispensa o comum acordo) — localizado por buscar_jurisprudencia"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/f8d6ca442a2f0b33f1c85e7189cc4024
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Quórum do art. 859 da CLT e protesto judicial para preservar a data-base (aplicação jurisprudencial)"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Desconto dos dias parados em greve (regra jurisprudencial)"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

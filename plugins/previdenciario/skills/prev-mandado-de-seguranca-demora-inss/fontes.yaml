@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LXIX e LXXVIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 48 e 49"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, 6º § 3º, 7º, 14 § 1º, 23 e 25"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.259/2001, art. 3º, § 1º, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TRF1, Remessa em MS 1000954-48.2025.4.01.3602 (julg. 15/12/2025) — acordo no RE 1.171.152/SC"
+    status: CONFIRMADO
+    url: https://jurisprudencia.cjf.jus.br/trf1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TRF1, Apelação em MS 1028900-28.2025.4.01.3300 (julg. 23/10/2025) — mora do INSS, acordo no RE 1.171.152/SC"
+    status: CONFIRMADO
+    url: https://jurisprudencia.cjf.jus.br/trf1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TRF6, Apelação/Remessa 6001780-58.2025.4.06.3825 — MS por mora, decadência afastada"
+    status: CONFIRMADO
+    url: https://eproc2g.trf6.jus.br/eproc/externo_controlador.php?acao=consulta_publica_documento&numProcesso=60017805820254063825&idDocumento=381779882187427666626389606489&hash=701d7820c594ecc03e00052f38028a35e5761ab16bd65747dbbda533ce139aa3
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TRF5, Remessa 0014711-80.2025.4.05.8302 — legitimidade passiva do Gerente Executivo do INSS"
+    status: CONFIRMADO
+    url: https://pjett.trf5.jus.br/pje/Processo/ConsultaDocumento/listView.seam?x=26060214530689600000009613446
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 1.066 / RE 1.171.152/SC — numeração e prazos por espécie do acordo (confirmação só indireta, via TRF1)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Dever do INSS de cumprir acórdão do CRPS (Decreto 3.048/1999 e Regimento Interno do CRPS — dispositivo não conferido)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Competência territorial do MS contra autoridade federal"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25

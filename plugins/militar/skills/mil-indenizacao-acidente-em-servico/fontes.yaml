@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 37, § 6º, 109, I, e 125, § 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.880/1980 (Estatuto dos Militares), arts. 108 e 110"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6880.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, art. 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.818.950, 1ª Turma, julg. 05/12/2022"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201802866297
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.826.414, 1ª Turma, julg. 21/08/2023"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902000250
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.511.942, 2ª Turma, julg. 13/08/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500256555
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.673.204, 2ª Turma, julg. 14/05/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402173786
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.948.463, 4ª Turma, julg. 12/02/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102148456
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 1.984.783, 2ª Turma, julg. 17/09/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201900194115
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Natureza da responsabilidade perante o militar acidentado e termo inicial da prescrição"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

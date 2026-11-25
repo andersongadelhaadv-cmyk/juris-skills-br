@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º VIII, 14, 17, 27"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 396, 397, 400, 497, 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CMN 4.753/2019, arts. 2º, 7º e 8º (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4753
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CMN 4.949/2021, art. 4º, II (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4949
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Norma aplicável à abertura de conta de pagamento (instituições de pagamento)"
+    status: VERIFICAR
+    url: https://www.bcb.gov.br/estabilidadefinanceira/buscanormas
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 479 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=479.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 532 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=532.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.949.395, 4ª Turma, rel. Min. Raul Araújo, julg. 18/05/2026"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501939724
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.896.567, 3ª Turma, rel. Min. Humberto Martins, julg. 18/08/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501105540
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.481.029, 4ª Turma, rel. Min. João Otávio de Noronha, julg. 09/03/2026 (art. 27 do CDC)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303290521
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.197.929/PR, Segunda Seção (citado só como transcrito no AREsp 2.949.395)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Imprescritibilidade da pretensão declaratória de inexistência de relação jurídica (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

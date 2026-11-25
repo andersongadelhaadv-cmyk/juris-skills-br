@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Resolução CMN 4.860/2020 (ouvidoria), arts. 3º, 6º e 7º, III (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4860
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CMN 4.949/2021 (relacionamento com clientes), arts. 3º e 4º (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4949
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CMN 5.037/2022 (SCR), arts. 15, II e V, e 16, III (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5037
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Norma e caminho do serviço de reclamações do Banco Central"
+    status: VERIFICAR
+    url: https://www.bcb.gov.br/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Efeito da reclamação administrativa sobre a prescrição"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Canal do regulador competente para seguros, previdência e valores mobiliários"
+    status: VERIFICAR
+    url: https://www.bcb.gov.br/
+    consultado_em: 2026-11-25

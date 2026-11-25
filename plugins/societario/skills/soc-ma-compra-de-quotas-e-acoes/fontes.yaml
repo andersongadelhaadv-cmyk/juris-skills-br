@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 421, 421-A, 422"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.003, 1.057, 1.077, 1.116, 1.119, 1.122, 1.144 a 1.147"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.404/1976 (LSA), arts. 223 a 234"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.529/2011, arts. 88 e 90 (controle prévio de atos de concentração)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 132 e 133"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Patamares atualizados de faturamento do art. 88 da Lei 12.529/2011 (portaria interministerial)"
+    status: VERIFICAR
+    url: https://www.gov.br/cade/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.404/1976, art. 31 (transferência de ações nominativas) — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Normas da CVM para companhia aberta (OPA, alienação de controle) — fora do escopo"
+    status: VERIFICAR
+    url: https://conteudo.cvm.gov.br/legislacao/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.185.015, 3ª Turma, Nancy Andrighi, 05/08/2025 (não concorrência sem limite temporal: anulável)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404456345
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.117.094, 3ª Turma, Villas Bôas Cueva, 05/03/2024 (cessão de quotas; força obrigatória em relação empresarial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302082030
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.208.537, 4ª Turma, Maria Isabel Gallotti, 13/05/2025 (compra de quotas; interveniente anuente legitimada para arbitragem)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301500245
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 1.759.517, 3ª Turma, Villas Bôas Cueva, 05/09/2022 (cedente responde só por obrigações do período em que era sócio)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201801773363
+    consultado_em: 2026-11-25

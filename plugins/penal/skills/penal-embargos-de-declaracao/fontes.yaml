@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 382, 593, 619, 620, 798 e 798-A (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.099/1995, art. 83 (redação da Lei 13.105/2015)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 93, IX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 356 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2648
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 211 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=211.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 98 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=98.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Terceira Seção, EDcl no AgRg nos EAREsp 2.436.660, rel. Min. Og Fernandes, j. 17/06/2025 — prazo de 2 dias corridos (CPP 619 e 798)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302898567
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Corte Especial, EDcl no AgRg nos EAREsp 2.361.087, rel. Min. Herman Benjamin, j. 21/08/2024 — erro material e modificação excepcional"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301681398
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Sexta Turma, AgRg no AREsp 2.697.783, j. 18/02/2025 — embargos inadmitidos não interrompem o prazo do REsp"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402660887
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Terceira Seção, EDcl no AgRg nos EDcl nos EAREsp 1.800.259, rel. Min. Joel Ilan Paciornik, j. 22/03/2023 — dois embargos contra o mesmo acórdão: preclusão consumativa"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202003258742
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Contraditório prévio para efeitos infringentes no rito penal (regimentos internos)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.597, 1.601, 1.603, 1.604, 1.614"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 178, 693, 695, 698"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.842.705, 3ª Turma, rel. Min. Humberto Martins, julg. 16/06/2025 (negatória improcedente sem erro e com socioafetividade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201901528042
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.644.635, 3ª Turma, rel. Min. Daniela Teixeira, julg. 28/04/2025 (reconhecimento voluntário sem vício é irrevogável)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401818466
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 622 (RE 898.060) — paternidade socioafetiva e vínculo biológico concomitante"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4803092&numeroProcesso=898060&classeProcesso=RE&numeroTema=622
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 383 do STJ (foro do detentor da guarda nas ações conexas de interesse de menor)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=383.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Ajuizamento originário da negatória por herdeiros do pai registral (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Efeitos da procedência da negatória sobre alimentos vencidos/pagos (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

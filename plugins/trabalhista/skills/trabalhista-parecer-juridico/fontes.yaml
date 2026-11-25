@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 8º (caput, §§ 2º e 3º) e 11 (caput e § 3º)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 611-A (caput) e 611-B (caput) - texto compilado"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.467/2017, redação dos arts. 611-A, § 1º, e 611-B, XVII e parágrafo único, da CLT"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1046 (ARE 1.121.633, julg. 02/06/2022) - validade de norma coletiva que limita direitos, respeitados os absolutamente indisponíveis"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5415427&numeroProcesso=1121633&classeProcesso=ARE&numeroTema=1046
+    consultado_em: 2026-11-25

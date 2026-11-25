@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.615/1998, art. 40"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023, art. 86, I, 'a', e § 1º, II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 104, 166, 167, 169, 171 e 178"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Regulamento de transferências da FIFA e regulamento nacional de transferências (artigos não citados)"
+    status: VERIFICAR
+    url: https://www.fifa.com/legal
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Competência e jurisprudência sobre nulidade de transferência internacional de atleta (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

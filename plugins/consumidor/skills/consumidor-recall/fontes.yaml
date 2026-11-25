@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, I, III e VIII; 10; 12; 13; 26; 27; 84; 101, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.712.471 (fato do produto; incêndio de veículo; recall do ABS)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402926635
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJRS, Apelação 5018947-18.2024.8.21.0001 (recall não realizado; obrigação de fazer c/c dano moral)"
+    status: CONFIRMADO
+    url: https://www.tjrs.jus.br/buscas/jurisprudencia/?aba=jurisprudencia&q=50189471820248210001
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJBA, Recurso Inominado 0019111-74.2021.8.05.0080 (recall de emissões; dano moral não provado)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=0019111-74.2021.8.05.0080
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Portaria do Ministério da Justiça sobre procedimento de chamamento (recall) — número e vigência não conferidos"
+    status: VERIFICAR
+    url: https://www.gov.br/mj/pt-br
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo para exigir a execução do recall sem acidente (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

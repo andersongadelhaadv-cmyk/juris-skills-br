@@ -1,0 +1,81 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 911/1969, arts. 2º, 3º (§§ 1º a 8º e 15), 4º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 394, 396 e 401"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 72 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=72.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 245 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=245.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 380 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=380.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 284 do STJ (texto confirmado; situação formal frente ao Tema 722 não conferida)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=284.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.132/STJ — REsp 1.951.662/RS e REsp 1.951.888/RS, 2ª Seção, julg. 09/08/2023"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102385113
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 722/STJ — tese transcrita no AgInt nos EDcl no REsp 2.164.201, 3ª Turma, julg. 05/05/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403062248
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.279/STJ — REsp 2.126.264, 2ª Seção, julg. 07/08/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302390914
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.195.400, 3ª Turma, julg. 17/03/2025 (adimplemento substancial incompatível com o DL 911)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500325983
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.224.593, 4ª Turma, julg. 17/11/2025 (purgação exige integralidade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502699220
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 2.230.328, 4ª Turma, julg. 13/04/2026 (descaracterização só por encargos da normalidade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503194513
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.241.205, 3ª Turma, julg. 09/12/2025 (capitalização diária sem taxa diária)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504166740
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.093.037, 4ª Turma, julg. 13/04/2026 (revisão de encargos em contestação na busca e apreensão)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504278776
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.994.381, 3ª Turma, julg. 12/12/2023 (multa do art. 3º, § 6º, afastada com procedência)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202104037532
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.158.286, 4ª Turma, 2026 (notificação por e-mail — resultado não conferido no inteiro teor)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600146938
+    consultado_em: 2026-11-25

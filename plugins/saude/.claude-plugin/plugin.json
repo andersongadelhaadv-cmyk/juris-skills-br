@@ -1,0 +1,16 @@
+{
+  "name": "saude",
+  "version": "1.0.0",
+  "description": "Saúde: erro médico, responsabilidade hospitalar, plano de saúde (cobertura, reembolso, cancelamento), medicamento pelo SUS, ANVISA e defesa ética no CRM/CFM.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "saude"
+  ]
+}

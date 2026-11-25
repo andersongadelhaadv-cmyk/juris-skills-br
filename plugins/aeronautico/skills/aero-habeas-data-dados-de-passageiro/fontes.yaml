@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LXXII e LXXVII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.507/1997 (habeas data), arts. 1º p.ú., 2º, 4º, 7º, 8º, 9º, 15 e 20"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9507.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 5º, 9º, 18, 19, 22 e 42"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 43 e 101 I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 2 do STJ (habeas data exige recusa administrativa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=2.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no HD 478 (sem prova de recusa ou de decurso de 10 dias; art. 8º, I)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101892148
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no HD 499 (Súmula 2; informação já obtida)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201634913
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HD 515 (pedido de reconsideração recebido como agravo regimental) (habeas data restrito a registros governamentais ou de caráter público)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300691845
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Caráter público de cadastros de passageiros de companhia aérea para habeas data (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

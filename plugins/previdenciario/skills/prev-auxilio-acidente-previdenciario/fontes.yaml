@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 18, §1º; 26, I; 86, caput e §§1º a 4º; 103, p.ú."
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 1.757.537 (redução efetiva e permanente; REsp 1.108.298/SC)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002346904
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 89 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=89
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.999.361 (termo inicial na cessação do auxílio-doença)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201232567
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, REsps 1.729.555/SP e 1.786.736/SP (repetitivos sobre o termo inicial) — número do tema não confirmado"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.242.398 (DIB na citação sem benefício prévio nem DER)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504246867
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 507 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=507.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, CC 187.898 (competência pelo pedido e causa de pedir)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201234664
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240) — prévio requerimento administrativo"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489) — inexistência de decadência para concessão"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-25

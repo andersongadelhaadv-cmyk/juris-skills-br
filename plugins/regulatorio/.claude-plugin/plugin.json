@@ -1,0 +1,16 @@
+{
+  "name": "regulatorio",
+  "version": "1.0.0",
+  "description": "Regulatório: processo sancionador e multas de agências reguladoras (inclusive ANS), habilitação e licenças, audiência pública, compliance e programa de integridade.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "regulatorio"
+  ]
+}

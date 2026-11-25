@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.504/1997, art. 96 (caput, I a III, §§ 1º a 11) e art. 96-B"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.504/1997, arts. 36 e § 3º, 36-A, 37 e § 1º, 57-D"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.504/1997, art. 41-A e art. 73, § 12 (rito do art. 22 da LC 64/1990 — remissão)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 18 do TSE (iniciativa de ofício do juiz para multa por propaganda)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Resolução do TSE sobre representações e propaganda do pleito (contagem em horas, internet)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao
+    consultado_em: 2026-11-25

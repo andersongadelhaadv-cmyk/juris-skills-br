@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.0 — 2026-11
+
+Expansão para 379 skills em 23 plugins. Texto próprio em todas (sobreposição com um pacote público de referência, usado só como lista de nomes de peças, abaixo de 0,3% por área, em texto de lei e de súmula). Normas conferidas em fonte oficial e súmulas/precedentes no JuriBase, registrados no `fontes.yaml` de cada skill; o que não foi confirmado fica marcado com [VERIFICAR].
+
+- Novos plugins: `digital` (15), `bancario` (10), `saude` (9), `societario` (8), `ambiental` (12), `aeronautico` (6), `desportivo` (12), `militar` (9), `eleitoral` (7), `internacional` (6), `agrario` (4), `regulatorio` (6).
+- Plugins ampliados: `processo-civil` (34), `trabalhista` (38), `previdenciario` (25), `penal` (31), `tributario-fazenda` (37), `familia-sucessoes` (24), `consumidor` (20), `administrativo-licitacoes` (16).
+- Legislação de 2025–2026 incorporada onde conferida: LC 236/2026 (CTN), LC 219/2025 (inelegibilidades), Lei 15.190/2025 (licenciamento), Lei 15.397/2026 (fraude eletrônica), Lei 15.438/2026 (decadência na violência doméstica), EC 141/2026 (jornada), Lei 15.352/2026 (ANPD), Decreto 13.135/2026 (SAC).
+- Teses superadas sinalizadas: revisão da vida toda (Tema 1.102/STF), Súmula 212/STJ cancelada, item I da Súmula 331/TST cancelado.
+- `metadata.area` padronizado com o nome do plugin; roteador, catálogo, marketplace e README regenerados a partir do conteúdo real.
+
 ## v0.3.0 — 2026-11
 
 Novo plugin `imobiliario`, com 22 skills (152 no total). Texto próprio; normas conferidas no Planalto e súmulas/precedentes no JuriBase (63 LEI, 96 CONFIRMADO, 32 VERIFICAR).

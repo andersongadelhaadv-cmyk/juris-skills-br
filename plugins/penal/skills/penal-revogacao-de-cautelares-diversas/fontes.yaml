@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 282, 283, 315, 316, 319, 320, 321 e 581, V (redação vigente)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Tema Repetitivo 1155, REsp 1.977.135, 3ª Seção, rel. Min. Joel Ilan Paciornik, j. 23/11/2022 — detração do recolhimento noturno"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103921805
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no HC 876.451, rel. Min. Daniela Teixeira, j. 17/12/2024 — revogação do monitoramento por excesso de prazo"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304503473
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, REsp 2.242.932, rel. Min. Sebastião Reis Júnior, j. 15/04/2026 — monitoração exige fundamentação concreta e contemporânea"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504184394
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Corte Especial, AgRg na Pet 16.308, rel. Min. Og Fernandes, j. 12/08/2025 — cautelares mantidas (contraponto)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304049420
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Corte Especial, AgRg na CauInomCrim 95, rel. Min. Nancy Andrighi, j. 04/03/2026 — excesso de prazo da monitoração afastado (contraponto)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203584142
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Cabimento de RESE contra decisão que mantém ou nega revogação de cautelar diversa (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

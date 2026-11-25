@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 12.651/2012, arts. 2º, § 2º; 3º, III; 7º, § 2º; 12; 14; 15; 17; 18; 29; 59; 60; 66; 67; 68"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 623 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=623.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 613 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=613.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.123.237, 1ª Turma, 24/06/2024 (art. 66 não retroage a termos anteriores)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201372485
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Normas estaduais do PRA e prazos de recurso administrativo"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 3º, 9º, 11, 58-A, 59, 75-B, 75-C, 442-B, 443, 444, 445, 451, 452-A, 462, 468, 469, 507-A, 611-A, 611-B (texto compilado da Câmara)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 244 do TST (item III)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=244&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Requisitos de validade da cláusula de não concorrência pós-contratual (sem número; JuriBase SEM_COBERTURA)"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

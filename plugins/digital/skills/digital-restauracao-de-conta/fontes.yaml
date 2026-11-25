@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 2º, 3º, 6º (III, VI, VIII), 14, 20, 27 e 51, IV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.965/2014 (Marco Civil da Internet), arts. 7º, I e XIII, e 20"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 186, 187, 206, § 3º, V, e 927"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 497, 499 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.139.749 (3ª Turma, julg. 27/08/2024) — moderação de conteúdo e responsabilização por retirada indevida"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300686600
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.296 (REsp 2.096.505) — intimação pessoal para multa; Súmula 410"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303298919
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396) — itens 5.5, 8 e 9 da tese"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJBA, Turma Recursal, Recurso 0005637-83.2022.8.05.0150 (julg. 01/09/2023) — conta de Instagram hackeada"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=0005637-83.2022.8.05.0150
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "CDC aplicado a serviço digital sem pagamento direto (remuneração indireta) — precedente do STJ não localizado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "CDC aplicado a conta usada como insumo empresarial — não verificado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Situação atual da tese dos Temas 987/533 (embargos/revisão) — base não registra vigência"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25

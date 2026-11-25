@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 550 a 553 e 355"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 259 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=259.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 477 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=477.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.193.129 (3ª Turma, rel. Min. Moura Ribeiro, julg. 24/11/2025) - Tema 528 e distinção da alienação fiduciária"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500203723
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.009.271 (3ª Turma, rel. Min. Nancy Andrighi, julg. 13/03/2023) - interesse de agir"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201839056
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.014.057 (3ª Turma, rel. Min. Moura Ribeiro, julg. 18/09/2023) - contas não revisam contrato bancário"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202154733
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 528 e REsp 1.497.831 (repetitivos) - acórdãos-paradigma não conferidos diretamente"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Prescrição da pretensão de exigir contas e recurso cabível contra a decisão da 1ª fase"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

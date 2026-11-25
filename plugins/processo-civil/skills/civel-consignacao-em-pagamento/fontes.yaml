@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 334 a 345 e 394"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 292, 334, 539 a 549"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 539 a 549 — conferência no texto do Planalto"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.245/1991, art. 67 (consignação de aluguéis)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 967/STJ — tese transcrita no AREsp 1.635.102, 4ª Turma, rel. Min. Raul Araújo, julg. 31/03/2025"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903658750
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 967/STJ — recurso representativo (número não conferido diretamente; verificar_citacao retornou NAO_ENCONTRADO)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.111.705, 3ª Turma, rel. Min. Nancy Andrighi, julg. 18/06/2024 (insuficiência: improcedência e título do art. 545, § 2º)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304206556
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.987.678, 3ª Turma, rel. Min. Moura Ribeiro, julg. 26/02/2024 (dúvida sobre titularidade; arts. 547 e 548, II)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103013150
+    consultado_em: 2026-11-25

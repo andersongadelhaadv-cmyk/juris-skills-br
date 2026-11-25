@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 26 a 34 e 37 a 41 (texto conferido na publicação original da Câmara)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt na CR 21.916, Corte Especial, Rel. Herman Benjamin, julg. 23/09/2025 (auxílio direto x carta rogatória)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501391902
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no RHC 186.237, 5ª Turma, Rel. Messod Azulay Neto, julg. 24/06/2025 (auxílio direto dispensa exequatur)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303081846
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Retenção ou devolução de prova já transmitida ao Estado requerente — sem precedente confirmado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Tratados bilaterais/multilaterais de cooperação e respectivas autoridades centrais — conferir caso a caso"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto/
+    consultado_em: 2026-11-25

@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 151, 205 e 206"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 236/2026 (nova redação do art. 151 do CTN; vetos aos §§ 1º e 2º do art. 205)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp236.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 446 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=446.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 112 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=112.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.124.236 (CPEN exige ação autônoma ou pedido administrativo, não a execução fiscal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202304109
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.114.228 (CPEN sem penhora; aplica a Tese 273)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304425579
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 237 do STJ (REsp 1.123.669), confirmado pela citação no AgInt no REsp 2.006.993"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201714535
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 273 do STJ - enunciado literal da tese não conferido"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25

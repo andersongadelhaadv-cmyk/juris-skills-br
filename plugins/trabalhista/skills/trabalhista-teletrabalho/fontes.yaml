@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 62, III, 75-A, 75-B, 75-C, 75-D, 75-E e 75-F (redação das Leis 13.467/2017 e 14.442/2022)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.467/2017 - redação original dos arts. 75-A a 75-E da CLT (conferência das alterações)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Jurisprudência do TST sobre reembolso de despesas e controle de jornada no teletrabalho - sem cobertura na base consultada"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

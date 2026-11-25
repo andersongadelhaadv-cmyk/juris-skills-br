@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 7º XXVIII e XXIX, 114 VI"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.615/1998 (Lei Pelé), arts. 28 § 7º e 45"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023 (Lei Geral do Esporte), arts. 84 e 88"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 19, 21 I, 118"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 186, 927, 949, 950"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 769 e 840 § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 932 (RE 828.040), julg. 12/03/2020 — responsabilidade objetiva do empregador em atividade de risco"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4608798&numeroProcesso=828040&classeProcesso=RE&numeroTema=932
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 378 do TST (itens I a III)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=378&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Responsabilidade direta do clube pela indenização mínima do seguro não contratado — JuriBase SEM_COBERTURA"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial da prescrição em lesão de consolidação tardia e perda de uma chance de carreira — não pesquisado com resultado"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

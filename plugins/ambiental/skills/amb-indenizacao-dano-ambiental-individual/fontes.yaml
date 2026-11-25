@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.938/1981, arts. 3º, IV, e 14, § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6938.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Código Civil, arts. 927, parágrafo único, e 1.277 a 1.279"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 17 e 27"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300 e 373, § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 618 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=618.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.280/STJ (REsp 2.124.717, 2ª Seção, 19/08/2026) — Brumadinho: consumidor por equiparação, 5 anos, interrupção por ACP"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400509652
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 1.400/STJ (ProAfR no REsp 2.230.613, 1ª Seção, 16/12/2025) — afetação: dano moral por mau cheiro de ETE"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502748751
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.102.646, 4ª Turma, 05/05/2026 (risco integral; prova da condição de pescador)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303772930
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.816.896, 3ª Turma, 14/04/2025 (inversão cabível, mas prova mínima do autor)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404754450
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 999/STF — extensão da imprescritibilidade ao dano individual reflexo"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4130104&numeroProcesso=654833&classeProcesso=RE&numeroTema=999
+    consultado_em: 2026-11-25

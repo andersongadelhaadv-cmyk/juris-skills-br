@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.728 a 1.766"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.069/1990 (ECA), arts. 28, 36, 37, 38, 147, 148, 152, 164, 165, 166 e 201"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8069.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 178 e 759 a 763"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Conflito de prazo de escusa: CC art. 1.738 (10 dias) x CPC art. 760 (5 dias) — orientação aplicável não conferida"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Jurisprudência sobre tutela de menor — JuriBase retornou SEM_COBERTURA; nenhum julgado citado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

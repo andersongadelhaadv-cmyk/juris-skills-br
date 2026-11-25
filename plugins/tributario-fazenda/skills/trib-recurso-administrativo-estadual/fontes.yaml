@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), art. 151, III"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 236/2026 (CTN arts. 208-A, 208-C, 208-D, 208-E, 208-G, 208-H e 211-B), DOU 04/09/2026"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp236.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CTN arts. 150 §4º e 173 (decadência) - citados só como roteiro; redação não conferida nesta revisão"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula Vinculante 21 do STF (enunciado confirmado; vigência não registrada no JuriBase)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1255
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 373 do STJ (enunciado confirmado; vigência não registrada no JuriBase)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=373.num.
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei do processo administrativo tributário e regimento do órgão julgador de cada Estado (não citados; conferir em cada caso)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp236.htm
+    consultado_em: 2026-11-25

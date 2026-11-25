@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 5º, 6º, 14, 16, 19, 33 a 40, 42 a 44, 46, 47 e 49"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 19, de 23/08/2024 (transferência internacional e cláusulas-padrão), art. 2º e anexo I, arts. 15 a 17"
+    status: LEI
+    url: https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 15, de 24/04/2024 (comunicação de incidente), arts. 6º e 9º"
+    status: LEI
+    url: https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), art. 51, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25

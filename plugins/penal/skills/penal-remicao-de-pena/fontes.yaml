@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 7.210/1984 (LEP), arts. 66 III c, 126 a 130, 197 (art. 126 §9º pela Lei 15.402/2026)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7210.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 341 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=341.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 562 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=562.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 700 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=3633
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Tema Repetitivo 1236, REsp 2.087.212, 3ª Seção, rel. Min. Og Fernandes, j. 06/11/2025 — remição por estudo a distância"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302595385
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Tema Repetitivo 1270, REsp 2.115.433, 3ª Seção, rel. Min. Rogerio Schietti, j. 08/10/2026 — ENEM parcial, 20 dias por área"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304549219
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Tema Repetitivo 1278, REsp 2.121.878, 3ª Seção, rel. Min. Og Fernandes, j. 13/08/2025 — remição pela leitura"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400313735
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Tema Repetitivo 1357, REsp 2.082.712, 3ª Seção, rel. Min. Reynaldo Soares da Fonseca, j. 18/06/2026 — ENEM e ENCCEJA, fatos geradores autônomos"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302255302
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no AREsp 2.722.057, rel. Min. Reynaldo Soares da Fonseca, j. 18/03/2025 — dias efetivamente trabalhados, jornada 6 a 8 h"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403070363
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg nos EDcl no REsp 1.893.570, rel. Min. Messod Azulay Neto, j. 17/09/2024 — sem remição ficta; horas acima de 8"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002274584
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no AREsp 2.356.272, rel. Des. conv. Jesuíno Rissato, j. 27/02/2024 — jornada especial do art. 33 parágrafo único: contam os dias"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301560286
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LEP art. 33 (jornada) — texto literal não transcrito nesta verificação"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7210.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.069/1990 (ECA), arts. 19-A, 28, 39 a 52-D, 147, 148, 152, 155, 158, 163, 165, 166, 197-A, 197-E, 199-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8069.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.596, 1.618, 1.619"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HC 878.386, 3ª Turma, rel. Min. Moura Ribeiro, julg. 02/04/2024 (cadastro sopesado com o melhor interesse)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304576710
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.195.119, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 13/05/2025 (adoção póstuma; manifestação incontroversa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401187387
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.169.622, 3ª Turma, rel. Min. Moura Ribeiro, julg. 12/08/2025 (adoção pela avó; flexibilização do art. 42, § 1º)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403434212
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.839.932, 4ª Turma, rel. Min. Maria Isabel Gallotti, julg. 30/03/2026 (irrevogabilidade da adoção)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902864787
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Competência para adoção de maior de 18 anos conforme organização judiciária local"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25

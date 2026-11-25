@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, IV, 7º, parágrafo único, 30, 36, 37 e 38"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 18, 20, 205, 421, 422 e 423"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, X e XXVIII, a"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.610/1998, arts. 49 e 50"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 2.271.521, 3ª Turma, julg. 11/09/2023 (imagem: prazo trienal da última publicação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202204019069
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.735.426, 3ª Turma, julg. 26/05/2025 (contratual decenal x extracontratual trienal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403296496
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396), item 4 - presunção de responsabilidade do provedor em anúncios e impulsionamentos pagos"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJTO, Turmas Recursais, RI 0001103-63.2024.8.27.2721, julg. 10/04/2026 (influenciadora solidária pela não entrega de produto anunciado)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjto.jus.br/consulta.php?q=0001103-63.2024.8.27.2721&soementa=true
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Posição do STJ sobre responsabilidade do influenciador perante o consumidor (busca SEM_COBERTURA no JuriBase)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma_privada
+    referencia: "Código Brasileiro de Autorregulamentação Publicitária e guia do CONAR para influenciadores (referência privada; artigos não conferidos)"
+    status: VERIFICAR
+    url: http://www.conar.org.br/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Normas sobre publicidade a crianças em ambiente digital e normas setoriais de publicidade (não conferidas)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/
+    consultado_em: 2026-11-25

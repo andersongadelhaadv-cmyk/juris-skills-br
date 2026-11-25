@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 41 caput e § 2º, 42 caput §§ 1º e 2º, 43, 46, 54 parágrafo único, 55"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 357 III e 373 § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 932 III, 1.003 § 5º, 1.009, 1.010 II a IV, 1.013 caput e § 3º (texto original publicado; conferir compilado)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-publicacaooriginal-146341-pl.html
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 2º, 3º, 6º VIII, 14, 42 parágrafo único, 51"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.165.719, 3ª Turma, rel. Min. Humberto Martins, julg. 10/11/2025 (inversão do ônus como regra de instrução)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403160806
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.971.102, 4ª Turma, rel. Min. Raul Araújo, julg. 16/03/2026 (inversão não automática)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102936287
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.498.507, 3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 13/05/2024 (finalista mitigada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303757646
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.786.762, 4ª Turma, rel. Min. Raul Araújo, julg. 02/03/2026 (inscrição indevida: dano in re ipsa; revisão do valor)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404105745
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.226.426, 3ª Turma, rel. Min. Nancy Andrighi, julg. 27/03/2023 (revisão do dano moral só se exorbitante ou ínfimo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203187116
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Enunciados FONAJE e súmulas de turmas recursais locais (não conferidos)"
+    status: VERIFICAR
+    url: https://www.cnj.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, III e VIII; 7º p.u.; 49; 101, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 7.962/2013 (comércio eletrônico), arts. 4º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.591/1964, art. 67-A, §§ 10 e 11 (arrependimento em estande de vendas)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4591.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJTO, Apelação Cível 0015021-34.2024.8.27.2722 (multipropriedade; art. 67-A § 10 c/c art. 49 do CDC)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjto.jus.br/consulta.php?q=0015021-34.2024.8.27.2722&soementa=true
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJBA, Agravo de Instrumento 8062810-83.2025.8.05.0000 (ACP; arrependimento no comércio eletrônico)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=8062810-83.2025.8.05.0000
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJBA, Recurso Inominado 0086529-09.2020.8.05.0001 (recusa por falta de caixa original; dano moral afastado)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=0086529-09.2020.8.05.0001
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Contagem do prazo do art. 49 e custo do frete de devolução no STJ (sem número; não localizado no JuriBase)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

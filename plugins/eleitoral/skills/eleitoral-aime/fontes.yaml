@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 14, §§ 9º, 10 e 11"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 64/1990, arts. 3º a 8º e 25"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.737/1965 (Código Eleitoral), arts. 257, § 2º, e 262"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 986 — RE 1.096.029 (novas eleições automáticas — CE, art. 224, § 3º)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5318213&numeroProcesso=1096029&classeProcesso=RE&numeroTema=986
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo, rito, legitimidade e competência da AIME (jurisprudência do TSE, sem número)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/jurisprudencia
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 38 do TSE (litisconsórcio entre titular e vice)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 73 do TSE (fraude à cota de gênero)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Destino dos votos em AIME julgada procedente na eleição proporcional (TSE, sem número)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/jurisprudencia
+    consultado_em: 2026-11-25

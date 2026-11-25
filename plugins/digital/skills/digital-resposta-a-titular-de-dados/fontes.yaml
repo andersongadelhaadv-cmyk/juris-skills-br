@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 6º, 8º, 9º, 16, 17, 18, 19, 20, 21, 22 e 41"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 2, de 27/01/2022 (pequeno porte), arts. 3º, 14 e 15"
+    status: LEI
+    url: https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-2-de-27-de-janeiro-de-2022-376562019
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 19, de 23/08/2024 (transferência internacional), anexo I, art. 17, § 1º"
+    status: LEI
+    url: https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.147.374, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 03/12/2024 (deveres dos arts. 18, VII, e 19, II, após vazamento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202209228
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Regulamento da ANPD sobre prazos e termos dos direitos do titular (art. 18, § 5º) — não conferido"
+    status: VERIFICAR
+    url: https://www.gov.br/anpd/pt-br
+    consultado_em: 2026-11-25

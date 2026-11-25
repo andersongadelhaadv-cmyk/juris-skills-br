@@ -1,0 +1,76 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 196, 198, II, e 109, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.080/1990, arts. 6º, I, d; 19-M; 19-P; 19-Q, § 2º; 19-R; 19-T"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8080.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, § 3º; 303; 497; 536; 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.016/2009, arts. 1º, 7º, III, e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 6 (RE 566.471) — medicamento registrado não incorporado: requisitos cumulativos"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2565078&numeroProcesso=566471&classeProcesso=RE&numeroTema=6
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1.234 (RE 1.366.243) — competência, custeio e análise judicial"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6335939&numeroProcesso=1366243&classeProcesso=RE&numeroTema=1234
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 793 (RE 855.178) — solidariedade dos entes e direcionamento do cumprimento"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4678356&numeroProcesso=855178&classeProcesso=RE&numeroTema=793
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "STF, Súmula Vinculante 60"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=9260
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "STF, Súmula Vinculante 61"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=9296
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no RMS 74.840, 1ª Turma, julg. 14/04/2025 (aplica o Tema 106/STJ — REsp 1.657.156/RJ; MS sem prova pré-constituída)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403864548
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no RMS 76.899, 1ª Turma, julg. 12/08/2026 (Temas 1.234 e 6; MS sem prova pré-constituída)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502869940
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, RMS 75.325, 2ª Turma, julg. 15/04/2026 (off label não incorporado; MS inadequado)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404657740
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, RMS 30.746, 2ª Turma, julg. 13/05/2026 (Tema 6; laudo particular insuficiente no MS)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=200902075690
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 106 — situação atual após o Tema 6/STF (registro autônomo do tema não encontrado no JuriBase; existência confirmada só pela citação no AgInt no RMS 74.840)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial do prazo do mandado de segurança em omissão continuada no fornecimento (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

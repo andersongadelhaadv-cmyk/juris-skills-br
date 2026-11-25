@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 5º, X, e 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 223-A a 223-G, 818 e 840 §1º, na redação da Lei 13.467/2017"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 483, alínea e (compilação do Senado)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547/publicacao/37353698
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 927, 932, III, 933 e 942"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.457/2022, art. 23 (prevenção e combate ao assédio sexual em empresas com CIPA)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14457.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal), art. 216-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "ADIs 6050, 6069 e 6082 (STF) - critérios do art. 223-G orientativos; valor acima do teto admitido; ementa transcrita no Ag-RRAg-0000367-39.2023.5.12.0008 (TST); ADIs não localizadas diretamente na base"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/585e34667431fcb2603a0493cf14dcfe
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, Ag-AIRR-0011117-57.2024.5.03.0092 (5ª Turma) - assédio moral por preposto como falta do art. 483, e, da CLT"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/c6315c1bcc6441040a2d30e491bd2c74
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Fundamento legal específico para nulidade ou indenização da dispensa retaliatória após denúncia de assédio"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/
+    consultado_em: 2026-11-25

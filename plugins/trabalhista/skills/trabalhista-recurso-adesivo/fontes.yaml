@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 15 e 997"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 769"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 283 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=283&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Valores de depósito recursal e custas (ato anual do TST)"
+    status: VERIFICAR
+    url: https://www.tst.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 156, VIII, e 164"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 183, 539, 540, 542, 544, 545, 547"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.146.757 (consignatória de ISSQN: impossibilidade de pagamento parcial; conversão em renda)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401904361
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.397.496 (bitributação: exigência efetiva pelos entes)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302190466
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EDcl no AgInt no REsp 2.124.350 (sem intuito de quitação, inaplicável a consignatória)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400480245
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Depósito bancário extrajudicial (CPC art. 539, §1º) aplicado a crédito tributário"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25

@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º VI e VIII, 7º p.ú., 14, 27, 39 V, 51 IV, X, XI e § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300 e 396 a 400"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJBA, RI 0016946-63.2022.8.05.0001 (restituição de milhas; conversão em pecúnia afastada)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=0016946-63.2022.8.05.0001
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJDFT, 3ª Turma Recursal, RI 0708548-85.2025.8.07.0014 (campanha de milhas; crédito mantido; dano moral negado)"
+    status: CONFIRMADO
+    url: https://jurisdf.tjdft.jus.br/pesquisa?query=0708548-85.2025.8.07.0014
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ sobre expiração de milhas e alteração unilateral de regulamento (sem número; JuriBase sem cobertura)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional do pedido contratual de restabelecimento de saldo (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

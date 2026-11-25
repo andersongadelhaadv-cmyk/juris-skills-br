@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 46, 47, 53, 292, 300, 311, 319, 334, 497 a 501, 536, 537 (art. 499, parágrafo único, incluído pela Lei 14.833/2024)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/584917
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 497 a 501, 536 e 537 — conferência no texto do Planalto"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 205, 206 § 3º V, 247, 248, 249, 251"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 410 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=410.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.296 — REsp 2.096.505, Corte Especial, rel. Min. Nancy Andrighi, julg. 04/03/2026 (Súmula 410 válida sob o CPC/2015)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303298919
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EREsp 1.685.808, 2ª Seção, julg. 29/10/2024 (responsabilidade contratual: prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201701880500
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial da prescrição em obrigação de não fazer de trato continuado (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

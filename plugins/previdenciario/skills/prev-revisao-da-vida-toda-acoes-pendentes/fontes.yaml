@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.876/1999, art. 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9876.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, art. 29, I e II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "EC 103/2019, art. 26, caput"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 90, 485 (VIII, §§ 4º e 5º) e 535 (III, §§ 5º a 8º)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 1.102 (RE 1.276.977) — tese e modulação (05/04/2024)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5945131&numeroProcesso=1276977&classeProcesso=RE&numeroTema=1102
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF ADIs 2.110 e 2.111 — fora da base do JuriBase; resultado e data da ata confirmados pela tese do Tema 1.102"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5945131&numeroProcesso=1276977&classeProcesso=RE&numeroTema=1102
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Coisa julgada e rescisória em títulos de vida toda (sem número)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Repetição de valores pagos por decisões posteriores a 05/04/2024 (sem número)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

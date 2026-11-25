@@ -1,0 +1,76 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 7.347/1985, arts. 5º, § 6º, e 13"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.605/1998, art. 79-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.651/2012, arts. 59, §§ 3º a 5º, e 60"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.717/1965, art. 21"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4717.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 515, II"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.091.242, 2ª Turma, 15/10/2024 (multa de TAC: cláusula penal, imprescritível, Súmula 467 inaplicável)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202309981
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 467 do STJ (prescrição da execução da multa administrativa ambiental — afastada para multa de TAC)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=467.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 1.941.907, 1ª Turma, 09/08/2022 (TAC sem conteúdo reparatório: 5 anos por analogia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102236079
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 1.817.291, 2ª Turma, 13/03/2023 (TAC ato jurídico perfeito; irretroatividade do Código Florestal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201901542781
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.123.237, 1ª Turma, 24/06/2024 (termo sob a Lei 4.771/1965; art. 66 da Lei 12.651 não retroage)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201372485
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.520.347, 1ª Turma, 26/02/2024 (aditamento homologado = título judicial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500553496
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.995.069, 2ª Turma, 08/08/2022 (obrigação de TAC propter rem após alienação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103267670
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 1.701.224, 2ª Turma, 21/05/2024 (majoração da multa do TAC sem fundamentação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202001109306
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.100.105, 3ª Turma, 12/12/2023 (execução individual de TAC sobre direitos individuais homogêneos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300276935
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Resolução CNMP 179/2017 (compromisso de ajustamento de conduta)"
+    status: VERIFICAR
+    url: https://www.cnmp.mp.br/portal/images/Resolucoes/Resolu%C3%A7%C3%A3o-179.pdf
+    consultado_em: 2026-11-25

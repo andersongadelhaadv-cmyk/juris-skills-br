@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 53, 142, 189, 487, 515, 698, 720, 721, 723 e 725"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.140/2015 (mediação), arts. 3º e 20, parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13140.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 840, 841, 849, 1.583, 1.584, 1.694 e 1.707"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.141.778, 3ª Turma, julg. 04/12/2023 (recusa de homologação de acordo de licitude duvidosa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201661376
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.338.512, 4ª Turma, julg. 19/03/2024 (parcelamento homologado não impede prisão civil)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301126999
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.072.706, 4ª Turma, julg. 23/03/2026 (prevalência de acordo de alimentos entre ex-cônjuges)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201807248
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CPC art. 784 (inciso do título extrajudicial por transação referendada) — texto não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Renúncia a alimentos entre ex-cônjuges — jurisprudência atual do STJ não localizada no JuriBase"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

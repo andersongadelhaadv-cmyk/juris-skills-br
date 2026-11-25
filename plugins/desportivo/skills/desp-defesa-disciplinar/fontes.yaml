@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 217, §§ 1º e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.615/1998, arts. 49, 50, 52 e 53"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023, art. 217 (revogações; incisos II e V vetados; Lei 9.615/1998 não revogada)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD, texto consolidado pela Resolução CNE nº 29/2009, arts. 35, 42, 43, 53, 79, 80-A, 123 a 125"
+    status: LEI
+    url: https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/noticias_esporte/CBJD09032015.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD — alterações posteriores a 2009 (redação vigente)"
+    status: VERIFICAR
+    url: https://www.gov.br/esporte/pt-br
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Jurisprudência sobre controle judicial de decisão disciplinar desportiva e prazo do art. 217, § 2º, da CF (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

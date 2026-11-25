@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, X e LXXIX (EC 115/2022)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 5º, 18, 19, 42 a 46 e 48"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, 14, 17, 27 e 101"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 373, 381, 497 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 15/2024, arts. 6º e 10 (comunicação e registro de incidente)"
+    status: LEI
+    url: https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.130.619, 2ª Turma, rel. Min. Francisco Falcão, julg. 07/03/2023 (vazamento de dados comuns: dano moral não presumido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201522622
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.147.374, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 03/12/2024 (ataque hacker não é excludente sem prova; deveres dos arts. 18, VII, e 19, II)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202209228
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.121.904, 3ª Turma, rel. Min. Nancy Andrighi, julg. 11/02/2025 (dados sensíveis em seguro de vida: dano moral presumido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400312927
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.187.854, 3ª Turma, rel. Min. Nancy Andrighi, julg. 06/05/2025 (fraude bancária viabilizada por vazamento: dano moral)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404690272
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.211.708, 3ª Turma, rel. Min. Moura Ribeiro, julg. 04/05/2026 (compartilhamento com consentimento, sem dano concreto: não presumido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501589118
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 479 do STJ (fortuito interno em fraude bancária)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=479.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição da pretensão indenizatória por vazamento fora de relação de consumo (sem precedente localizado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Tema repetitivo do STJ sobre dano moral em vazamento de dados (JuriBase: SEM_COBERTURA)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25

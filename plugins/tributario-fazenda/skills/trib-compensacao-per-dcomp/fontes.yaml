@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), arts. 151, III; 168 (§§ 2º e 3º, LC 236/2026); 170; 170-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.430/1996, art. 74 (§§ 1º a 18) e art. 74-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 213 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=213.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 460 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=460.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 461 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=461.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 464 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=464.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 212 do STJ (cancelada em 14/09/2022, DJe 19/09/2022)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=212.num.
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "Instrução normativa da Receita sobre PER/DCOMP e recurso contra compensação não declarada"
+    status: VERIFICAR
+    url: https://normas.receita.fazenda.gov.br/
+    consultado_em: 2026-11-25

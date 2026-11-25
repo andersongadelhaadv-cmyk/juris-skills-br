@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 443 caput e §3º, 452-A caput e §§1º a 9º e 840 §1º, na redação da Lei 13.467/2017"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 452-A §§1º a 9º - compilação monovigente (nenhum parágrafo marcado como revogado)"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547/publicacao/37353698
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "ADI 5826 e ações conexas (STF) - constitucionalidade do trabalho intermitente; não localizadas na base consultada"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Jurisprudência do TST sobre descaracterização do contrato intermitente - sem resultado pertinente na base"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

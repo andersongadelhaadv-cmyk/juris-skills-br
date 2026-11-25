@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 3.268/1957, arts. 21 e 22"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l3268.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.838/1980, arts. 1º a 3º (prescrição da punibilidade de profissional liberal)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/1980-1988/l6838.htm
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "Resolução CFM 2.306/2022 (Código de Processo Ético-Profissional), texto modificado pela Resolução CFM 2.424/2025 — arts. 13, 15, 16, 19, 21 a 31, 40, 41, 43, 48 a 51, 83, 88, 89, 100, 101, 108 a 125, 131, 132"
+    status: LEI
+    url: https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2306_2022.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "Resolução CFM 2.424/2025 (altera o CPEP) — citada pelo texto consolidado; não lida em separado"
+    status: VERIFICAR
+    url: https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2424_2025.pdf
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Termo inicial da prescrição ética (data do fato x conhecimento pelo CRM) — JuriBase sem cobertura"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

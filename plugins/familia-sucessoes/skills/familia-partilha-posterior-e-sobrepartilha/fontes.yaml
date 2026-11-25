@@ -1,0 +1,76 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 205, 1.320, 1.581, 1.658 a 1.660, 2.021, 2.022 e 2.027"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 647, 657, 658, 669, 670 e 731, parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 197 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=197.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AREsp 2.726.027, 3ª Turma, julg. 05/05/2025 (partilha imprescritível)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403128915
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.201.069, 3ª Turma, julg. 12/08/2025 (partilha após o divórcio imprescritível)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500750032
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.044.791, 3ª Turma, julg. 23/03/2026 (afasta prescrição decenal da partilha)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503359607
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.873.120, 3ª Turma, julg. 30/05/2022 (sobrepartilha: prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101066490
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.513.997, 3ª Turma, julg. 12/08/2024 (sobrepartilha: termo inicial no divórcio)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303924173
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.582.996, 3ª Turma, julg. 15/08/2022 (sobrepartilha improcede se o bem era conhecido)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201502056755
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.218.457, 3ª Turma, julg. 13/04/2026 (créditos trabalhistas e FGTS do período se comunicam)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500886611
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.028.008, 3ª Turma, julg. 13/06/2023 (aluguel por uso exclusivo com quinhões identificados)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202976190
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no AgInt nos EDcl no REsp 2.143.626, 3ª Turma, julg. 28/04/2025 (sem quinhão definido, sem aluguel)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401706114
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.223.549, 3ª Turma, julg. 01/09/2025 (alienação judicial de imóvel comum com alienação fiduciária)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502622210
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Harmonização entre imprescritibilidade da partilha e prazo decenal da sobrepartilha — não localizada"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Aplicação do CPC 657, p.ú. (1 ano) à anulação de partilha feita no divórcio"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25

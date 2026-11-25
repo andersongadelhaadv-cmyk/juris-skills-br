@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 12.965/2014 (Marco Civil da Internet), arts. 15, 19, 20, 21, 22 e 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, IV, IX e X"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 12, 20, 21 e 206, § 3º, V"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), art. 27"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 497 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396) — art. 19 do MCI parcialmente inconstitucional; tese de 27/06/2025"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 533 (RE 1.057.258) — tese conjunta com o Tema 987"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5217273&numeroProcesso=1057258&classeProcesso=RE&numeroTema=533
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 786 (RE 1.010.606) — direito ao esquecimento incompatível com a Constituição"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5091603&numeroProcesso=1010606&classeProcesso=RE&numeroTema=786
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.196.025 (4ª Turma, julg. 16/12/2025) — URL específica; remoção integral de perfil desproporcional"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500352676
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.239.457 (3ª Turma, julg. 14/04/2026) — URL de hashtags suficiente; proteção de menores"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501824969
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.840.848 (3ª Turma, julg. 26/04/2022) — art. 21 do MCI e conteúdo íntimo privado"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902924723
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.980.014 (3ª Turma, julg. 14/06/2022) — sem litisconsórcio necessário entre provedor e autor do conteúdo"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202104020741
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.296 (REsp 2.096.505, Corte Especial, julg. 04/03/2026) — astreintes exigem intimação pessoal; Súmula 410"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303298919
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Situação atual da tese dos Temas 987/533 (embargos de declaração, revisão) — base não registra vigência"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25

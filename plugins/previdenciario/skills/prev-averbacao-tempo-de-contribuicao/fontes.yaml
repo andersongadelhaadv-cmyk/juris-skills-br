@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 55, I, II, §§1º e 3º; 94; 96, I a IV; 103, p.ú."
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 242 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=242.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 75 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=75
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 1188 (REsp 2.056.866) — sentença trabalhista homologatória"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103028324
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 29 — recolhimento tardio pelo empregador não prejudica a doméstica"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-29
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 18 da TNU (redação do Tema 216) — aluno-aprendiz"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=18
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 216 — aluno-aprendiz"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-216
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.376.131 (aluno-aprendiz: retribuição à conta da União, ainda que indireta)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301832913
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 66 — seminarista (aproveitamento)"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-66
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "TNU Tema 355 — seminarista não se equipara ao aluno-aprendiz"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/temas-representativos/tema-355
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240) — prévio requerimento administrativo"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489) — inexistência de decadência para concessão"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Falta de recolhimento pelo empregador não prejudica o empregado urbano (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

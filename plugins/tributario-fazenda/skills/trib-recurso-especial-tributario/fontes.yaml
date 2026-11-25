@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 105, III, §§ 2º e 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.830/1980 (LEF), art. 34"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), art. 151, V (LC 236/2026)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 280 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2173
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 7 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=7.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 211 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=211.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Valor atualizado da alçada do art. 34 da LEF (conversão das 50 ORTN)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

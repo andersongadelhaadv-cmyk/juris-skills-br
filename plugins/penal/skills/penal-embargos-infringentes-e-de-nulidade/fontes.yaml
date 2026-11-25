@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 386, 609 e parágrafo único, 613, 798 e 798-A (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 942 (apenas para distinguir a técnica civil)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 207 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=207.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Quinta Turma, AREsp 2.741.059, rel. Min. Daniela Teixeira, j. 18/02/2025 — Súmula 207 aplicada a apelação criminal não unânime"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403396265
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Cabimento de embargos infringentes em agravo em execução, HC, revisão criminal e ação originária (sem precedente confirmado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Interposição de REsp quanto aos capítulos unânimes do acórdão (sem precedente confirmado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

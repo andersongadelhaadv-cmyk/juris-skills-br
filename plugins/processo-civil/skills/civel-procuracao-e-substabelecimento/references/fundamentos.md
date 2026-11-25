@@ -1,0 +1,30 @@
+# Fundamentos verificados — procuração e substabelecimento
+
+## Código de Processo Civil (Lei 13.105/2015)
+- **Art. 76** — incapacidade processual ou irregularidade de representação: o juiz suspende o processo e fixa prazo razoável para sanar. Não sanado na instância originária: extinção (autor), revelia (réu), revelia ou exclusão (terceiro) (§ 1º). Em recurso: não conhecimento (recorrente) ou desentranhamento das contrarrazões (recorrido) (§ 2º).
+- **Art. 104** — advogado não postula sem procuração, salvo para evitar preclusão, decadência ou prescrição, ou praticar ato urgente. **§ 1º** — exibe a procuração em 15 dias, independentemente de caução, prorrogável por igual período. **§ 2º** — ato não ratificado é ineficaz em relação a quem se pretendia representar; o advogado responde por despesas e perdas e danos.
+- **Art. 105** — procuração geral para o foro, por instrumento público ou particular assinado pela parte, habilita para todos os atos, exceto receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica, que devem constar de cláusula específica. **§ 1º** — assinatura digital. **§ 2º** — nome, OAB e endereço completo do advogado. **§ 3º** — dados da sociedade de advogados, se integrar uma. **§ 4º** — salvo disposição em contrário, a procuração da fase de conhecimento vale para todas as fases, inclusive cumprimento de sentença.
+- **Art. 111** — a parte que revogar o mandato constitui, no mesmo ato, outro advogado; **parágrafo único** — não o fazendo em 15 dias, aplica-se o art. 76.
+- **Art. 112** — renúncia a qualquer tempo, provando a comunicação ao mandante. **§ 1º** — representação por 10 dias seguintes, se necessário para evitar prejuízo. **§ 2º** — dispensada a comunicação se vários advogados e a parte continuar representada por outro.
+- **Art. 272, § 2º** — sob pena de nulidade, a publicação contém os nomes das partes e dos advogados, com o número da OAB, ou, se requerido, o da sociedade. **§ 5º** — havendo pedido expresso de intimação em nome dos advogados indicados, o desatendimento implica nulidade.
+- **Art. 287** — a inicial vem acompanhada de procuração com os endereços eletrônico e não eletrônico do advogado; **parágrafo único** — dispensada nas hipóteses do art. 104, na representação pela Defensoria e quando a representação decorrer de norma constitucional ou legal.
+
+## Código Civil (Lei 10.406/2002)
+- **Art. 654** — procuração por instrumento particular, assinada pelo outorgante capaz. **§ 1º** — indica lugar, qualificação de outorgante e outorgado, data, objetivo, natureza e extensão dos poderes. **§ 2º** — o terceiro pode exigir firma reconhecida.
+- **Art. 655** — ainda que o mandato seja por instrumento público, pode substabelecer-se por instrumento particular.
+- **Art. 667** — o mandatário responde pelos prejuízos por sua culpa ou do substabelecido sem autorização; **§ 2º** — com poder de substabelecer, responde só por culpa na escolha ou nas instruções; **§ 3º** — se a procuração proíbe substabelecer, os atos do substabelecido não obrigam o mandante, salvo ratificação expressa; **§ 4º** — omissa a procuração, o procurador responde se o substabelecido agir culposamente.
+- **Art. 692** — o mandato judicial fica subordinado às normas da legislação processual e, supletivamente, às do Código Civil.
+
+## Lei 8.906/1994 (Estatuto da Advocacia)
+- **Art. 5º** — o advogado postula, em juízo ou fora dele, fazendo prova do mandato. **§ 1º** — afirmando urgência, atua sem procuração, apresentando-a em 15 dias, prorrogáveis por igual período. **§ 2º** — procuração para o foro em geral habilita para todos os atos judiciais, salvo os que exijam poderes especiais. **§ 3º** — o renunciante continua a representar por 10 dias após a notificação, salvo substituição antes.
+- **Art. 15, § 3º** — as procurações devem ser outorgadas individualmente aos advogados e indicar a sociedade de que façam parte.
+- **Art. 26** — o substabelecido com reserva de poderes não pode cobrar honorários sem a intervenção de quem lhe conferiu o substabelecimento; **parágrafo único** — salvo se tiver contrato celebrado diretamente com o cliente.
+
+## Súmula e precedentes (STJ, confirmados no JuriBase)
+- **Súmula 115/STJ** — "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos." (Corte Especial, 27/10/1994.) A base não registra a situação de vigência; ela segue aplicada pelo STJ em 2024–2025 em conjunto com os arts. 76, § 2º, e 932, parágrafo único, do CPC (precedentes abaixo). Confira no portal do STJ antes de citar.
+- **AgInt no AREsp 2.504.944** (3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 17/06/2024) — recurso de advogado sem procuração: intimada, a parte junta substabelecimento com poderes conferidos após a interposição; não se conhece (Súmula 115), sem necessidade de intimação pessoal da parte.
+- **EREsp 1.409.260** (Corte Especial, rel. Min. Laurita Vaz, julg. 06/09/2023) — substabelecimento com reserva e pedido expresso de inclusão do nome do substabelecido nas publicações, não atendido: nulidade.
+- **AgInt no REsp 2.030.668** (3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 09/09/2024) — válida a intimação em nome de um dos advogados constituídos quando há substabelecimento com reserva e não consta pedido expresso de publicação exclusiva.
+- **REsp 2.211.500** (3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 30/06/2025) — o substabelecido pode substabelecer; o ato não exige poder especial; o mandato pressupõe esse poder (arts. 655 e 667 do CC), salvo vedação expressa.
+- **AREsp 2.539.473** (4ª Turma, rel. Min. Raul Araújo, julg. 16/03/2026) — o art. 26 da Lei 8.906/1994 veda ao substabelecido com reserva a cobrança de honorários diretamente do cliente sem anuência do substabelecente.
+- **AgInt no REsp 1.837.482** (1ª Turma, rel. Min. Gurgel de Faria, julg. 07/11/2023) — outorga de nova procuração sem ressalva caracteriza revogação tácita do mandato anterior; nulidade alegada tardiamente é afastada pela boa-fé (art. 278 do CPC).

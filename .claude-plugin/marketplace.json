@@ -60,6 +60,66 @@
       "name": "imobiliario",
       "source": "./plugins/imobiliario",
       "description": "Imobiliário: despejo, renovatória e revisional de aluguel; posse (reintegração, imissão, embargos de terceiro); usucapião judicial e extrajudicial; adjudicação compulsória; compra e venda, distrato e financiamento SFH; condomínio; matrícula, retificação, REURB, loteamento e incorporação."
+    },
+    {
+      "name": "digital",
+      "source": "./plugins/digital",
+      "description": "Direito digital e LGPD: remoção de conteúdo e perfil falso, ofensas e deepfake, conta bloqueada, crimes cibernéticos, direitos autorais online; LGPD (incidente, titular, DPA, política de privacidade, ANPD, vazamento); contrato de influenciador."
+    },
+    {
+      "name": "bancario",
+      "source": "./plugins/bancario",
+      "description": "Bancário: fraude e transferência não autorizada, conta fantasma, SCR, revisional, repetição de indébito, busca e apreensão, alienação fiduciária e renegociação."
+    },
+    {
+      "name": "saude",
+      "source": "./plugins/saude",
+      "description": "Saúde: erro médico, responsabilidade hospitalar, plano de saúde (cobertura, reembolso, cancelamento), medicamento pelo SUS, ANVISA e defesa ética no CRM/CFM."
+    },
+    {
+      "name": "societario",
+      "source": "./plugins/societario",
+      "description": "Societário: contrato social, acordo de sócios, atas, holding familiar, M&A, due diligence, dissolução e parecer."
+    },
+    {
+      "name": "ambiental",
+      "source": "./plugins/ambiental",
+      "description": "Ambiental: ação civil pública, dano ambiental, defesa em auto de infração e crime ambiental, licenciamento, CAR/reserva legal, TAC e compliance."
+    },
+    {
+      "name": "aeronautico",
+      "source": "./plugins/aeronautico",
+      "description": "Aeronáutico: reembolso de passagem, milhas e pontos, acidente aéreo, multas da ANAC, dados de passageiro e infração aeronáutica (atraso, cancelamento e bagagem ficam em consumidor-transporte-aereo)."
+    },
+    {
+      "name": "desportivo",
+      "source": "./plugins/desportivo",
+      "description": "Desportivo: contrato de atleta, agenciamento, patrocínio e imagem, rescisão, luvas e premiações, STJD, TAS/CAS e antidoping."
+    },
+    {
+      "name": "militar",
+      "source": "./plugins/militar",
+      "description": "Militar: defesa criminal militar, habeas corpus e recursos na Justiça Militar (CPPM), PAD militar, reintegração e acidente em serviço."
+    },
+    {
+      "name": "eleitoral",
+      "source": "./plugins/eleitoral",
+      "description": "Eleitoral: registro de candidatura, propaganda irregular, AIJE, AIME, abuso de poder, prestação de contas e recurso eleitoral."
+    },
+    {
+      "name": "internacional",
+      "source": "./plugins/internacional",
+      "description": "Internacional: contrato internacional, homologação de sentença estrangeira, carta rogatória, cooperação jurídica, apostilamento e extradição."
+    },
+    {
+      "name": "agrario",
+      "source": "./plugins/agrario",
+      "description": "Agrário: arrendamento e parceria rural, usucapião rural, posse rural, regularização fundiária rural, desapropriação e inventário de imóvel rural."
+    },
+    {
+      "name": "regulatorio",
+      "source": "./plugins/regulatorio",
+      "description": "Regulatório: processo sancionador e multas de agências reguladoras (inclusive ANS), habilitação e licenças, audiência pública, compliance e programa de integridade."
     }
   ]
 }

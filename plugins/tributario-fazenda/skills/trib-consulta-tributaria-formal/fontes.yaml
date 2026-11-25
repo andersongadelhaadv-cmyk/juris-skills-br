@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto 70.235/1972, arts. 46 a 58 (processo de consulta)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d70235cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.430/1996, arts. 48 (caput e §§1º a 15), 49 e 50"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.172/1966 (CTN), art. 161, §2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Receita Federal - serviço Formalizar consulta sobre interpretação da legislação tributária (DTE, um tributo por consulta, declarações, multa e juros até o 30º dia)"
+    status: LEI
+    url: https://www.gov.br/pt-br/servicos/formalizar-consulta-sobre-interpretacao-da-legislacao-tributaria
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Instrução Normativa RFB que regulamenta a consulta (IN RFB 2.058/2021 citada pela Receita; vigência e alterações não conferidas no texto oficial)"
+    status: VERIFICAR
+    url: https://www.gov.br/pt-br/servicos/formalizar-consulta-sobre-interpretacao-da-legislacao-tributaria
+    consultado_em: 2026-11-25

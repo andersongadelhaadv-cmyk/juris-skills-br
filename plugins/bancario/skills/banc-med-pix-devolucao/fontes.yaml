@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Resolução BCB 1/2020 (Regulamento do Pix), arts. 39-B, 39-C, 41-B, 41-C, 41-D, 41-E e 41-F, redação consolidada (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=1
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Resolução CMN 4.860/2020 (ouvidoria), art. 6º, §§ 1º e 2º (texto oficial no portal de normativos do Banco Central)"
+    status: LEI
+    url: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4860
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Manual Operacional do DICT (prazos de contestação, bloqueio e devolução do MED)"
+    status: VERIFICAR
+    url: https://www.bcb.gov.br/estabilidadefinanceira/pix
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Res. BCB 603/2026 (alteração do Regulamento do Pix com efeitos a partir de 1º/7/2027) e limite temporal de bloqueios parciais"
+    status: VERIFICAR
+    url: https://www.bcb.gov.br/estabilidadefinanceira/buscanormas
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJBA, Apelação 8007609-11.2023.8.05.0022, julg. 24/02/2026 (inércia no MED)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjba.jus.br/?processo=8007609-11.2023.8.05.0022
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJDFT, 3ª Turma Recursal, 0714915-55.2025.8.07.0005, rel. Edi Maria Coutinho Bizzi, julg. 18/05/2026 (banco de destino deve restituir valor retido)"
+    status: CONFIRMADO
+    url: https://jurisdf.tjdft.jus.br/pesquisa?query=0714915-55.2025.8.07.0005
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJTO, Turmas Recursais, 0021198-90.2024.8.27.2729, rel. Luciano Rostirolla, julg. 25/05/2026 (MED não garante ressarcimento)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tjto.jus.br/consulta.php?q=0021198-90.2024.8.27.2729&soementa=true
+    consultado_em: 2026-11-25

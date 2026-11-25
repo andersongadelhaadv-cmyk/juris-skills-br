@@ -1,0 +1,76 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, IV, IX e X"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.965/2014 (Marco Civil da Internet), arts. 19 (§§ 3º e 4º) e 20"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), art. 20"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 3º, 6º, 14, 27 e 51, IV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 187, 188, I, 205, 421, 422, 423 e 424"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 497 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.139.749, 3ª Turma, julg. 27/08/2024 (moderação lícita; responsabilização por retirada indevida; shadowbanning)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300686600
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.084.220, 3ª Turma, julg. 13/04/2026 (remoção por violação de termos como exercício regular de direito)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302364333
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.135.783, 3ª Turma, julg. 18/06/2024 (informar razão da suspensão de perfil e permitir revisão)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304319744
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.805.208, 3ª Turma, julg. 28/04/2025 (violação de termos de uso: Súmulas 5 e 7)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404549791
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.735.426, 3ª Turma, julg. 26/05/2025 (prescrição contratual decenal x extracontratual trienal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403296496
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396) - devido processo nas plataformas; restabelecimento de conteúdo removido"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 533 (RE 1.057.258) - mesma tese do Tema 987"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5217273&numeroProcesso=1057258&classeProcesso=RE&numeroTema=533
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Orientação do STJ sobre dano moral (presumido ou não) na suspensão indevida de conta em rede social"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional da indenização do usuário contra a plataforma por suspensão indevida (CDC art. 27 x CC art. 205)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

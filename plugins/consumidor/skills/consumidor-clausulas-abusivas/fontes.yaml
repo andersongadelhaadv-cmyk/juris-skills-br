@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 2º, 3º, 6º IV V VIII, 25, 46, 47, 51 (I a XVIII, §§ 1º, 2º, 4º), 52 §§ 1º e 2º, 53, 54 §§ 3º e 4º, 84, 101 I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 300 (tutela de urgência)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 381 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=381.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 302 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=302.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 543 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=543.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.498.507, 3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 13/05/2024 (teoria finalista mitigada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303757646
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.736.990, 4ª Turma, rel. Min. Raul Araújo, julg. 24/08/2026 (finalista mitigada; ineficácia do foro de eleição)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403302292
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo para declarar nulidade de cláusula abusiva e restituir valores pagos com base nela (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

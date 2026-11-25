@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 55, 56, 57 (caput) e 105"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 2.181/1997, arts. 4º, 18, 25 a 28-A, 33 a 33-B, 35, 38, 40, 42, 44 a 46, 49, 50, 54, 55"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.155.897 (poder de polícia do Procon; multa independe do número de reclamações)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201920973
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EDcl no AgInt no AREsp 1.990.648 (prescrição intercorrente inaplicável a processo administrativo estadual/municipal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103068917
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AgInt no AREsp 761.885 (critérios de multa em portaria do Procon: norma infralegal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201502020630
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CDC art. 57, limites da multa — redação alterada por medida provisória de 2026 segundo o texto compilado; vigência e conversão não conferidas"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional do processo administrativo sancionador estadual/municipal (norma local; sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

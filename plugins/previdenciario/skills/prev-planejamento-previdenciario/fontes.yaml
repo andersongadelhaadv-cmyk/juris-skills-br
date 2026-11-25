@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 15, 24, 25, 27-A e 103"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.212/1991, arts. 21 e 45-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Emenda Constitucional 103/2019, arts. 15, 16, 17, 18, 20 e 26"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 334 (RE 630.501)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3954926&numeroProcesso=630501&classeProcesso=RE&numeroTema=334
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.212/1991, art. 21, § 2º — alcance da exclusão após a EC 103/2019 e complementação de alíquota"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "EC 103/2019 — coeficientes de valor por regra e exceções do art. 26 (não transcritos)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Salário mínimo e teto do RGPS do ano corrente (decreto e portaria interministerial)"
+    status: VERIFICAR
+    url: https://www.gov.br/previdencia
+    consultado_em: 2026-11-25

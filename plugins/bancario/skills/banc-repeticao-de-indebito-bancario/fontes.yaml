@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 205, 206 § 3º IV, 876, 877, 884, 885"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º VIII e 42 parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 396, 397, 400"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 297 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=297.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 322 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=322.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.268, REsp 2.148.794, Segunda Seção, rel. Min. Antonio Carlos Ferreira, julg. 10/09/2025 (coisa julgada e juros sobre tarifas)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402036849
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.007.902, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 05/05/2025 (pactuação expressa de tarifas)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201831710
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no REsp 1.852.329, 3ª Turma, rel. Min. Humberto Martins, julg. 11/09/2023 (repetição não pelos critérios do banco)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201800071380
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.081.643, 3ª Turma, rel. Min. Moura Ribeiro, julg. 24/03/2025 (restituição limitada ao descontado)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302135083
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.230.380, 3ª Turma, rel. Min. Moura Ribeiro, julg. 12/08/2026 (prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503198173
+    consultado_em: 2026-11-25

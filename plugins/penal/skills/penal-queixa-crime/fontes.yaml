@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 19, 30-33, 36, 38 (com §§ 1º e 2º da Lei 15.438/2026), 41, 44, 45, 46 §2º, 48-53, 57, 58, 60, 395, 520-523, 581 I, 586"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (CP), arts. 10, 100, 103-107, 138-141 §3º, 145"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 15.438/2026 (prazo decadencial de 12 meses na violência doméstica e familiar contra a mulher; DOU 19/06/2026) — conferida pela redação compilada do CPP art. 38 §2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15438.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.099/1995, arts. 61, 72, 74 parágrafo único, 77 §3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 714 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2632
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no HC 825.712, rel. Des. conv. Jesuíno Rissato, j. 26/02/2024 — procuração do art. 44: menção simples ao fato"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301751266
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 6ª Turma, AgRg no AREsp 2.348.450, rel. Min. Teodoro Silva Santos, j. 30/11/2023 — procuração sem descrição pormenorizada"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301439523
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no RHC 238.680, rel. Min. Ribeiro Dantas, j. 26/08/2026 — vício da procuração sanável; decadência afastada no caso"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202601967901
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, 5ª Turma, AgRg no RHC 200.064, rel. Min. Reynaldo Soares da Fonseca, j. 14/05/2025 — custas posteriores não tornam intempestiva a queixa"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402287757
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CPP arts. 29 (queixa subsidiária) e 387, IV (valor mínimo de reparação); parágrafo exato do CP incluído pela Lei 15.438/2026; efeito do boletim de ocorrência sobre a decadência — não conferidos"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25

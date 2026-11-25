@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.069/1990 (ECA), arts. 19, 22, 23, 24, 28, 148, 152, 155 a 163, 198, 199-B e 199-C"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8069.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.635, 1.637 e 1.638"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 227"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.431/2017 (escuta especializada e depoimento especial), referida no ECA art. 157"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/17674073
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.175.941, 3ª Turma, rel. Min. Nancy Andrighi, julg. 03/06/2025 (omissão do genitor diante de maus-tratos)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401059664
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HC 771.044, 3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 06/12/2022 (instrução sobre a situação atual dos genitores)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202913559
+    consultado_em: 2026-11-25

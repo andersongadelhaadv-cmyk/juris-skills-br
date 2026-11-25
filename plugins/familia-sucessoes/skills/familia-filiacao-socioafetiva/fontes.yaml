@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 227, § 6º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 10, 1.593, 1.596, 1.601, 1.604, 1.609 e 1.614"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.069/1990 (ECA), art. 42, § 1º (vedação de adoção por ascendentes e irmãos)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8069.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Provimento CNJ 149/2023 (Código Nacional de Normas — Foro Extrajudicial), arts. 505 a 511"
+    status: LEI
+    url: https://atos.cnj.jus.br/atos/detalhar/5243
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 622 (RE 898.060), julg. 22/09/2016"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4803092&numeroProcesso=898060&classeProcesso=RE&numeroTema=622
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 149 do STF (vigência não registrada no JuriBase)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1986
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.200 (REsp 2.029.809 e REsp 2.034.650), 2ª Seção, rel. Min. Marco Aurélio Bellizze, julg. 22/05/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203082686
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.852.458, 3ª Turma, rel. Min. Daniela Teixeira, julg. 30/06/2025 (petição de herança, prazo decenal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500421030
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.088.792, 3ª Turma, rel. Min. Nancy Andrighi, julg. 05/11/2024 (imprescritibilidade do estado de filiação socioafetiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300736862
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.107.638, 3ª Turma, rel. Min. Nancy Andrighi, julg. 12/11/2024 (socioafetividade avoenga; ECA art. 42, § 1º, inaplicável)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302449514
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.201.652, 3ª Turma, rel. Min. Nancy Andrighi, julg. 11/11/2025 (post mortem: manifestação formal desnecessária)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403124380
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.227.835, 3ª Turma, rel. Min. Nancy Andrighi, julg. 07/10/2025 (mesma linha do REsp 2.201.652)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501814593
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.256.238, 4ª Turma, rel. Min. Maria Isabel Gallotti, julg. 30/06/2026 (post mortem: exige vontade inequívoca; posse de estado insuficiente por si só)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503697104
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Uniformização da divergência 3ª x 4ª Turma (embargos de divergência ou afetação na 2ª Seção) — não localizada"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.615/1998 (Lei Pelé), arts. 28 (I, II, §§ 1º, 2º, 3º, 5º, 10), 31, 32"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023 (Lei Geral do Esporte), arts. 85 § 1º, 86, 90, 91, 93 § 2º, 217, 218"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 7º XXIX e 114 I"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 479, 480, 483, 769, 840 § 1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 300"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, EDCiv-ED-Ag-AIRR 100324-58.2021.5.01.0050, 5ª Turma, julg. 13/05/2026 (prescrição; vínculo único além do limite legal)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/af6b84d70184296a70c6471cf58b1a03
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Antinomia mora de 2 meses (LGE) x 3 meses (Lei Pelé) e prêmios no conceito de salário — sem precedente localizado"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Cálculo e cumulação da cláusula compensatória esportiva — JuriBase SEM_COBERTURA"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

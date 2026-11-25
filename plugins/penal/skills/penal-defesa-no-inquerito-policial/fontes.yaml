@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal de 1988, art. 5º (LV, LXIII) e art. 129, VIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 3º-B (XV, XVI), 6º, 10, 14, 20, 28-A, 155 e 798-A (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.906/1994 (EOAB), art. 7º, XIV, XXI e 'a', §§ 6º-A a 6º-I, 10, 11 e 12 (XIV, XXI e §§ 10-12 com redação da Lei 13.245/2016)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.365/2022 (EOAB 7º §§ 6º-A a 6º-I; CPP 798-A) — não altera o art. 7º, XXI"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14365.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.830/2013, art. 2º, § 6º (indiciamento)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12830.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.869/2019 (abuso de autoridade), art. 32"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1303 — REsp 2.161.548, 3ª Seção, julg. 12/03/2025 (ANPP; confissão no inquérito)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402883032
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no RHC 210.434, 5ª Turma, rel. Joel Ilan Paciornik, julg. 27/08/2025 (vícios do inquérito)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500200058
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no HC 984.153, 5ª Turma, rel. Reynaldo Soares da Fonseca, julg. 18/03/2025 (ausência de advogado no flagrante)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500624478
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgRg no Inq 1.534, Corte Especial, rel. Og Fernandes, julg. 17/09/2025 (indeferimento de diligência complementar)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103217500
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADIs 6.298, 6.299, 6.300 e 6.305 — interpretação do art. 3º-B do CPP (juiz das garantias)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

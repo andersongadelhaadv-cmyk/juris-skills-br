@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 14.597/2023 (Lei Geral do Esporte), arts. 95 e 96 (vetado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.615/1998 (Lei Pelé), arts. 27-B, 27-C e 28 (antigo § 7º riscado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 205, 206 § 5º I, 653, 710, 722"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJRS, 16ª Câmara Cível, 5014293-56.2022.8.21.0001, julg. 30/01/2026 (comissão sobre transferência de atleta)"
+    status: CONFIRMADO
+    url: https://www.tjrs.jus.br/buscas/jurisprudencia/?aba=jurisprudencia&q=50142935620228210001
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TJSP, Conflito de Competência 0037627-04.2024.8.26.0000, julg. 31/10/2024 (cobrança de comissão de agenciamento de atleta)"
+    status: CONFIRMADO
+    url: https://esaj.tjsp.jus.br/cjsg/getArquivo.do?cdAcordao=18533109
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Regulamento de agentes/intermediários da entidade nacional e da federação internacional da modalidade (versão vigente)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Prazo prescricional da cobrança de comissão ilíquida"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25

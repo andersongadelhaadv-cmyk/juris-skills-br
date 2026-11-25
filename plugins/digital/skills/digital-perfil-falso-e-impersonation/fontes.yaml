@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 12.965/2014 (Marco Civil da Internet), arts. 7º, I; 10, § 1º; 13; 15; 19, § 1º; 21; 22; 23"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 12, 17, 18, 20 e 206, § 3º, V"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (Código Penal), art. 307"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), art. 27"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 300, 381, 497 e 537"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 987 (RE 1.037.396) — item 3: contas denunciadas como inautênticas sob o art. 21"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 533 (RE 1.057.258) — tese conjunta"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5217273&numeroProcesso=1057258&classeProcesso=RE&numeroTema=533
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.204.814 (4ª Turma, julg. 08/06/2026) — URL é ônus do requerente no pedido de dados de perfil"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501016502
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.005.051 (3ª Turma, julg. 23/08/2022) — porta lógica de origem: aplicação e conexão"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200293082
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EDcl no REsp 2.170.872 (3ª Turma, julg. 16/06/2026) — perícia sobre necessidade da porta lógica; o acórdão original (18/03/2025) não deve ser citado como tese firme"
+    status: DIVERGENCIA_CORRIGIDA
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403525031
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.274.144 (4ª Turma, julg. 22/09/2026) — art. 22 do MCI; IMEI não exigível"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202602040870
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.196.025 (4ª Turma, julg. 16/12/2025) — remoção integral de perfil desproporcional"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500352676
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.296 (REsp 2.096.505, julg. 04/03/2026) — intimação pessoal para multa; Súmula 410"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303298919
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Situação atual da tese dos Temas 987/533 (embargos/revisão) — base não registra vigência"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5160549&numeroProcesso=1037396&classeProcesso=RE&numeroTema=987
+    consultado_em: 2026-11-25

@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 178, 300, 305, 308, 536, 698"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 109, III"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 3.413/2000 (Convenção de Haia sobre Sequestro Internacional de Crianças), arts. 3º, 4º, 12 e 13"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/d3413.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 383 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=383.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no CC 179.925, 2ª Seção, rel. Min. Marco Buzzi, julg. 28/03/2023 (busca e apreensão: domicílio dos guardiões)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101622500
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, CC 215.326, 2ª Seção, rel. Min. Humberto Martins, julg. 10/06/2026 (Súmula 383 não automática na mudança unilateral)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502991741
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, HC 880.514, 3ª Turma, rel. Min. Humberto Martins, julg. 22/04/2026 (busca e apreensão anulada por prova nula)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304638852
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt nos EDcl no CC 212.369, 2ª Seção, rel. Min. Marco Buzzi, julg. 14/10/2025 (Haia: Justiça Federal)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501104048
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.126.426, 1ª Turma, rel. Min. Gurgel de Faria, julg. 04/06/2024 (exceções ao retorno: interpretação restritiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400472952
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.842.083, 1ª Turma, rel. Min. Benedito Gonçalves, julg. 18/10/2022 (art. 13, b, configurado)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201903002490
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STF, ADIs 4245 e 7686 (Convenção de Haia, art. 13) — fora da cobertura do JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 155, 406, 411 a 421, 571, I, 581, IV, 593 e 798 (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, XXXVIII e LVII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 2.848/1940 (CP), art. 26 (citado pelo art. 415, parágrafo único, do CPP)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 154 (RE 593.443) — impronúncia e absolvição sumária não ofendem a soberania do júri"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2640170&numeroProcesso=593443&classeProcesso=RE&numeroTema=154
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 1260 (ProAfR no REsp 2.048.687) — afetação confirmada; tese firmada não conferida"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300184018
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Quinta Turma, AgRg no HC 823.813, rel. Min. Daniela Teixeira, j. 19/02/2025 — despronúncia; art. 155; in dubio pro societate"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301639842
+    consultado_em: 2026-11-25

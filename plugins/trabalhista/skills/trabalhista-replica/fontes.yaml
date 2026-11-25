@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 11 (prescrição bienal e quinquenal)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 74, § 2º (redação da Lei 13.874/2019)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), art. 769 (publicação original; trecho inicial conferido)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-publicacaooriginal-1-pe.html
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.467/2017, nova redação da CLT, arts. 818 (caput, I, II, §§ 1º a 3º) e 847, parágrafo único"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 15, 350, 351, 436 e 437"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 212 do TST (ônus da prova do término do contrato)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=212&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 338 do TST (registro de jornada; cartões uniformes) - item I fala em mais de 10 empregados, critério anterior à Lei 13.874/2019"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=338&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Limites de aditamento do pedido após a defesa no processo do trabalho (CPC art. 329 c/c CLT art. 769) - não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25

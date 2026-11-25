@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 48, 52, 53, 54, 55-A (red. Lei 15.352/2026) e 55-J, IV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 1/2021 (Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador), arts. 8º, 43, 44, 46, 47, 50, 53, 58, 60"
+    status: LEI
+    url: https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no1-2021
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Resolução CD/ANPD nº 4/2023 (Regulamento de Dosimetria e Aplicação de Sanções Administrativas), arts. 3º a 18 e 27"
+    status: LEI
+    url: https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-agenda-de-avaliacao-de-resultados-regulatorios/RESOLUOCD_ANPDN4.pdf
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 50 e 69"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.873/1999, art. 1º (prescrição da ação punitiva federal)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9873.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Aplicação da Lei 9.873/1999 aos processos sancionadores da ANPD (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: regulamento
+    referencia: "Unidade competente da ANPD após a Lei 15.352/2026 e eventual revisão da Res. CD/ANPD nº 4/2023 (agenda regulatória 2025-2026)"
+    status: VERIFICAR
+    url: https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Jurisprudência judicial sobre sanções aplicadas pela ANPD (busca sem resultado pertinente no JuriBase)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

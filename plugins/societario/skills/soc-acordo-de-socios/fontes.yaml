@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.404/1976 (LSA), arts. 114 e 118, caput e §§ 1º a 11"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 997 parágrafo único, 1.053 parágrafo único, 1.057, 1.074 § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.307/1996 (Arbitragem), arts. 4º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+    consultado_em: 2026-11-25
+  - tipo: tese
+    referencia: "Extensão do art. 118 da LSA ao acordo de quotistas de sociedade limitada — JuriBase SEM_COBERTURA"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: tese
+    referencia: "Denúncia imotivada de acordo de sócios por prazo indeterminado — não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

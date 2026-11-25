@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 4.947/1966, art. 22, §§ 1º a 8º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4947.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.393/1996 (ITR), arts. 10, § 1º, II, 20 e 21"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9393.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 5.868/1972, art. 8º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l5868.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.504/1964 (Estatuto da Terra), arts. 65 e 92, § 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4504.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973, art. 176, §§ 3º a 5º, e art. 225, § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 4.449/2002, arts. 9º e 10 (redação do Decreto 12.689/2025)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4449.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.651/2012, arts. 18, § 4º, e 29"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Partilha de imóvel rural abaixo da fração mínima — JuriBase SEM_COBERTURA"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Exigência atual do georreferenciamento na partilha sem desmembramento (Decreto 12.689/2025)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4449.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973 — procedimento de suscitação de dúvida (artigo não conferido)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25

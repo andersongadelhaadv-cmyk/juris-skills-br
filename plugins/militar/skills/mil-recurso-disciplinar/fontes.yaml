@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.880/1980 (Estatuto dos Militares), arts. 47, 49 e 51"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6880.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 4.346/2002 (Regulamento Disciplinar do Exército), arts. 35, 52 a 59 do Regulamento"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/2002/d4346.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.022/2014 (Estatuto Geral das Guardas Municipais), arts. 13 e 14"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13022.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 430 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2771
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula Vinculante 5 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1199
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 565 do STF (ARE 691.306)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4251017&numeroProcesso=691306&classeProcesso=ARE&numeroTema=565
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no RMS 59.583, 2ª Turma, julg. 12/08/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201803267696
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.967/2019 e ADI 6.595 (prisão disciplinar de militares estaduais)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Prazos recursais dos regulamentos da Marinha, Aeronáutica e corporações estaduais; prevalência do art. 51 do Estatuto"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6880.htm
+    consultado_em: 2026-11-25

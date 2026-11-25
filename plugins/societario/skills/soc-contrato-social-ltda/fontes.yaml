@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 997, 998, 1.003, 1.004, 1.010, 1.026 a 1.032, 1.052 a 1.087, 1.150, 1.152"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 599 e 606"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.307/1996 (Arbitragem), arts. 4º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.170.665, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 04/02/2025 (exclusão extrajudicial exige previsão contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403507878
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.020.490, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 21/05/2024 (haveres: contrato omisso ou que repete a lei -> balanço de determinação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202600280
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.892.139, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 08/10/2024 (haveres: fundo de comércio entra; lucro futuro e aviamento não)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002176143
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Prazo e efeito retroativo do arquivamento na Junta Comercial (Lei 8.934/1994 e normas do DREI) — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8934.htm
+    consultado_em: 2026-11-25
+  - tipo: tese
+    referencia: "Aplicação do art. 1.029 do CC à limitada com regência supletiva da LSA; extensão do art. 118 da LSA ao acordo de quotistas — não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Limites à distribuição desproporcional de lucros; dispensa de visto de advogado para ME/EPP — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25

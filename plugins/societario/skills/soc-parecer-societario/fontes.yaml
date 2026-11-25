@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 421-A, 1.003, 1.029, 1.030, 1.031, 1.053, 1.057, 1.071, 1.076, 1.077, 1.085, 1.116, 1.119, 1.122"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 604 a 609"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.404/1976 (LSA), arts. 223 a 234"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002, art. 1.061 (quórum para administrador não sócio) — texto atual não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo para anular deliberação de sócios na limitada e na S.A. (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.063.134, 3ª Turma, Villas Bôas Cueva, 12/08/2025 (haveres sem expectativa de lucro futuro)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002533448
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.170.665, 3ª Turma, Villas Bôas Cueva, 04/02/2025 (exclusão extrajudicial exige previsão contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403507878
+    consultado_em: 2026-11-25

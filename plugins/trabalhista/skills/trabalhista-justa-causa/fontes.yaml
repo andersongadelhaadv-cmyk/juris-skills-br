@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 482 (alíneas a a m e parágrafo único) e 484 - compilação monovigente"
+    status: LEI
+    url: https://legis.senado.leg.br/norma/530547/publicacao/37353698
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 818 e 840 §1º, e alínea m do art. 482, na redação da Lei 13.467/2017"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 32 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=32&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 73 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=73&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 212 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=212&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, IncJulgRREmbRep-0000227-95.2024.5.11.0008 (Pleno, 10/04/2026) - desafetação do tema de gradação de penalidades na justa causa"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/88c6865f9b0d467e55aca4c7f2eb96ee
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, Ag-AIRR-0010885-31.2024.5.03.0129 (2ª Turma) - justa causa exige prova clara e robusta do empregador"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/6fbc9cab3170fe59c426e8acef6c7a88
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Estabilidades que exigem inquérito para apuração de falta grave e procedimento; prazo de pagamento das verbas (CLT art. 477) - não conferidos"
+    status: VERIFICAR
+    url: https://legis.senado.leg.br/norma/530547/publicacao/37353698
+    consultado_em: 2026-11-25

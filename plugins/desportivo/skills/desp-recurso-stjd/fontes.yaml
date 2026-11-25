@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.615/1998, arts. 52 e 53, §§ 3º e 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 217, §§ 1º e 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD, texto consolidado pela Resolução CNE nº 29/2009, arts. 38, 43, 53, 136 a 142, 146 a 150"
+    status: LEI
+    url: https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/noticias_esporte/CBJD09032015.pdf
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "CBJD — alterações posteriores a 2009 (redação vigente)"
+    status: VERIFICAR
+    url: https://www.gov.br/esporte/pt-br
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Precedentes do STJD sobre efeito suspensivo e dosimetria (sem número)"
+    status: VERIFICAR
+    url: https://www.stjd.org.br/
+    consultado_em: 2026-11-25

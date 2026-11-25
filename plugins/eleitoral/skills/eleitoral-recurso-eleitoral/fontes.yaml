@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 4.737/1965 (Código Eleitoral), arts. 257, 258, 259, 262, 263, 264, 265, 275, 276, 280, 281"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 121, §§ 3º e 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 64/1990, arts. 8º, 11 e 15"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.504/1997, arts. 30, §§ 5º e 6º; 30-A, § 3º; 41-A, § 4º; 96, §§ 8º a 10"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 986 — RE 1.096.029 (novas eleições automáticas — CE, art. 224, § 3º)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5318213&numeroProcesso=1096029&classeProcesso=RE&numeroTema=986
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 24 do TSE (reexame de fatos e provas em recurso especial)"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas
+    consultado_em: 2026-11-25
+  - tipo: resolucao
+    referencia: "Resolução do TSE do pleito sobre contagem de prazos em período eleitoral"
+    status: VERIFICAR
+    url: https://www.tse.jus.br/legislacao
+    consultado_em: 2026-11-25

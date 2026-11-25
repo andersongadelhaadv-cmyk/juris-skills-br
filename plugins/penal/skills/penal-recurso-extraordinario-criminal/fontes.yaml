@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LV; art. 102, III (a a d) e § 3º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 638 e 798"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 1.003, 1.021, 1.029, 1.030 (§§ 1º e 2º), 1.035 e 1.042"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 279 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2174
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 280 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2173
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 281 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2487
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 282 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2496
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 283 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2226
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 284 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2230
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 356 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2648
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 636 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2836
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 640 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2787
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1303 da repercussão geral (RE 1.448.742, julg. 05/06/2024)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6693135&numeroProcesso=1448742&classeProcesso=RE&numeroTema=1303
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Contagem do prazo do RE criminal no STF (dias corridos x úteis) — precedente do STF não localizado"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudencia/
+    consultado_em: 2026-11-25

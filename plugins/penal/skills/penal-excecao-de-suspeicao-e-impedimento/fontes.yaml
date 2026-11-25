@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 3.689/1941 (CPP), arts. 95 a 107, 111, 112, 252 a 256, 258, 564, I, e 581, III (texto compilado)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LIII e LV"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Corte Especial, AgRg na ExSusp 342, rel. Min. Herman Benjamin, j. 09/12/2025 — rol taxativo do art. 254 do CPP; art. 274 do RISTJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503479330
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, Corte Especial, AgRg na APn 953, rel. Min. Og Fernandes, j. 21/10/2025 — rol taxativo do art. 252 do CPP"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202000828539
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Preclusão da suspeição não arguida na primeira oportunidade (sem precedente confirmado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

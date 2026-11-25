@@ -1,0 +1,21 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 682 a 686"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.889.164 (3ª Turma, rel. Min. Paulo de Tarso Sanseverino, julg. 21/06/2022) - oposição não serve à mera substituição de polo"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201801312912
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.963.885 (3ª Turma, rel. Min. Nancy Andrighi, julg. 03/05/2022) - oposição em partilha de união estável"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102430452
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Custas e valor da causa da oposição - regra local de cada tribunal"
+    status: VERIFICAR
+    url: https://www.cnj.jus.br/
+    consultado_em: 2026-11-25

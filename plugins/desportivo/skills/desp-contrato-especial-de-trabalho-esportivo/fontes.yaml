@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.615/1998 (Lei Pelé), arts. 28, 30, 31, 45, 87-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9615consol.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 14.597/2023 (Lei Geral do Esporte), arts. 27 parágrafo único (promulgado), 84 a 93, 97, 99, 164, 217, 218"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 444 parágrafo único, 445, 451, 479, 480, 507-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XXIX"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, RR 11684-84.2017.5.03.0011, 1ª Turma, julg. 13/05/2026 (acréscimo por concentração exige previsão contratual)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/33728d49f330745cde28046ee178fbcf
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, RR 1623-56.2016.5.09.0651, 7ª Turma, julg. 08/05/2026 (imagem sem exploração efetiva = salário)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/d422888fd75dc807335f8208d17785f5
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Solução da antinomia LGE x Lei Pelé (mora, imagem, prêmios) — sem precedente localizado"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Limites da arbitragem trabalhista para atleta abaixo do patamar do art. 507-A da CLT — sem precedente localizado"
+    status: VERIFICAR
+    url: https://jurisprudencia.tst.jus.br/
+    consultado_em: 2026-11-25

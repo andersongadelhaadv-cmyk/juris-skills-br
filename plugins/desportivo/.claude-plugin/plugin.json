@@ -1,0 +1,16 @@
+{
+  "name": "desportivo",
+  "version": "1.0.0",
+  "description": "Desportivo: contrato de atleta, agenciamento, patrocínio e imagem, rescisão, luvas e premiações, STJD, TAS/CAS e antidoping.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "desportivo"
+  ]
+}

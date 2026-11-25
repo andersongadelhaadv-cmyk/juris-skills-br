@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 9.656/1998, art. 12, V, 'c', e VI; art. 13, parágrafo único, II e III; art. 35-C"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9656.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 6º, III, e 47"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: norma_infralegal
+    referencia: "RN ANS 623/2024 — conteúdo (canais, protocolo, prazos de resposta, negativa escrita, ouvidoria) conferido na cartilha oficial da ANS de set/2025; artigos não conferidos no texto da resolução"
+    status: VERIFICAR
+    url: https://www.gov.br/ans/pt-br/arquivos/assuntos/consumidor/caminho-do-consumidor/cartilha_relacionamento_com_o_consumidor.pdf
+    consultado_em: 2026-11-25

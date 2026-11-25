@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 764 §3º, 789 §3º, 831 parágrafo único, 832 §§3º, 3º-A, 3º-B, 4º, 6º, 835, 846 §§1º-2º, 876 parágrafo único (texto compilado da Câmara)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.212/1991, art. 43, §§1º, 3º e 5º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "OJ 376 da SBDI-1 do TST (contribuição previdenciária sobre acordo após o trânsito em julgado; proporcionalidade)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=OJ&orgao=TST&numero=376&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "TST, 7ª Turma, Ag-AIRR-0000614-94.2014.5.17.0008 (rel. Alexandre de Souza Agra Belmonte, maio/2026) - aplica a OJ 376 da SBDI-1"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/#/jurisprudencia/27efd26a33f3530886ddf05f9b821e4b
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 368 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=368&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 259 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=259&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 418 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=418&pesquisar=1
+    consultado_em: 2026-11-25

@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 130, 146, 147, 467, 477, 479, 480, 482, 484, 484-A, 487 (texto compilado da Câmara)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 7º, XVII e XXI"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 12.506/2011, art. 1º (aviso prévio proporcional)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.090/1962, arts. 1º e 3º (13º salário)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4090.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.036/1990, art. 18, caput e §§1º a 3º (FGTS na rescisão)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 14 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=14&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 157 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=157&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 171 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=171&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 261 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=261&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 441 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=441&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 462 do TST"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=462&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Natureza tributária (INSS/IRRF) de cada verba rescisória e tabelas vigentes - não conferidas"
+    status: VERIFICAR
+    url: https://www.gov.br/receitafederal/
+    consultado_em: 2026-11-25

@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 46, 725, 747 a 763"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 3º, 4º, 1.767, 1.774 a 1.783-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.146/2015 (Estatuto da Pessoa com Deficiência), arts. 6º, 84, 85 e 86"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973 (Registros Públicos), arts. 92 e 93"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.998.492, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 13/06/2023 (extensão excepcional da curatela)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201177650
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.013.021, 3ª Turma, rel. Min. Nancy Andrighi, julg. 21/11/2023 (extensão excepcional da curatela)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202107302
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.784.417, 4ª Turma, rel. Min. Raul Araújo, julg. 24/03/2025 (entrevista antes da perícia)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404064643
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.107.075, 3ª Turma, rel. Min. Nancy Andrighi, julg. 27/08/2024 (tomada de decisão apoiada preferível; legitimação exclusiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303978250
+    consultado_em: 2026-11-25

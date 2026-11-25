@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, XXXIV, a, e LV; art. 37, caput"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, arts. 2º, 50, 53, 54, 55, 63, 64 e 65"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto-Lei 4.657/1942 (LINDB), arts. 20, 21 e 24"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Decreto 20.910/1932, art. 4º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 346 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1576
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 473 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1602
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Tema 138 do STF (RE 594.296)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2644122&numeroProcesso=594296&classeProcesso=RE&numeroTema=138
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 633 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=633.num.
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.784/1999, art. 63, § 2º — alcance da ressalva de preclusão administrativa; leis locais de processo administrativo"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+    consultado_em: 2026-11-25

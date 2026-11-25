@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.906/1994 (EOAB), art. 1º, II; art. 7º, XIV e §§ 10 e 11"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, art. 5º, LV e LXIII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula Vinculante 14 do STF"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1230
+    consultado_em: 2026-11-25

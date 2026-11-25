@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "EC 103/2019, arts. 3º, 18, 19, 26 e 29"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 109, §3º, e 195, §14 (este conferido pela transcrição no art. 29 da EC 103)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.213/1991, arts. 25, II; 27, II; 48; 55, II e §3º; 103, p.ú.; 142"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.666/2003, art. 3º, §1º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.666.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 1125 (RE 1.298.832) — auxílio-doença intercalado conta como carência"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6049574&numeroProcesso=1298832&classeProcesso=RE&numeroTema=1125
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 73 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=73
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 75 da TNU"
+    status: CONFIRMADO
+    url: https://www.cjf.jus.br/phpdoc/virtus/sumula.php?nsul=75
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ Tema 1188 (REsp 2.056.866) — sentença trabalhista homologatória como início de prova"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202103028324
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 350 (RE 631.240) — prévio requerimento administrativo"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3966199&numeroProcesso=631240&classeProcesso=RE&numeroTema=350
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF Tema 313 (RE 626.489) — inexistência de decadência para concessão"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3910753&numeroProcesso=626489&classeProcesso=RE&numeroTema=313
+    consultado_em: 2026-11-25

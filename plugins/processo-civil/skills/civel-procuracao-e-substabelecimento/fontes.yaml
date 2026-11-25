@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 76, 104, 105, 111, 112, 272 §§2º e 5º, 287"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 654, 655, 667, 692"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.906/1994 (Estatuto da Advocacia), arts. 5º, 15 §3º, 26"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 115 do STJ (vigência não registrada na base; aplicada em 2024-2025)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=115.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.504.944, 3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 17/06/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303597970
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EREsp 1.409.260, Corte Especial, rel. Min. Laurita Vaz, julg. 06/09/2023 (intimação exclusiva desatendida = nulidade)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201303390359
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.030.668, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 09/09/2024"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202203138814
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.211.500, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 30/06/2025 (substabelecido pode substabelecer)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501578957
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.539.473, 4ª Turma, rel. Min. Raul Araújo, julg. 16/03/2026 (art. 26 EOAB)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202304216629
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.837.482, 1ª Turma, rel. Min. Gurgel de Faria, julg. 07/11/2023 (revogação tácita por nova procuração)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201902708970
+    consultado_em: 2026-11-25

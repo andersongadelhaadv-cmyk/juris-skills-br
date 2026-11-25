@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 381 a 383"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.037.088 (3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 07/03/2023) - contraditório apesar do art. 382, § 4º"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202788280
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.023.615 (3ª Turma, rel. Min. Marco Aurélio Bellizze, julg. 14/03/2023) - sem urgência, não cabe no juízo estatal antes da arbitragem"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202722390
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.190.043 (3ª Turma, rel. Min. Nancy Andrighi, julg. 16/10/2025) - citação necessária"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404854243
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.396.021 (3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 04/12/2023) - honorários só com resistência"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202302212625
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.103.428 (3ª Turma, rel. Min. Nancy Andrighi, julg. 19/03/2024) - direito autônomo à prova"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301588691
+    consultado_em: 2026-11-25
+  - tipo: outro
+    referencia: "Efeito sobre a prescrição; custas e honorários periciais - regra local"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

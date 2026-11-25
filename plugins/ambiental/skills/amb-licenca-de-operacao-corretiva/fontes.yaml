@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 15.190/2025 (Lei Geral do Licenciamento Ambiental), arts. 3º, XXXII, 5º, 22, 26, 47, 60 e 67"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15190.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "LC 140/2011, arts. 7º a 9º, 13 e 14"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.938/1981, art. 10"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6938.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.605/1998, art. 60 (citado pela remissão do art. 26, § 5º, da Lei 15.190/2025)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 613 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=613.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 623 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=623.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 999 — RE 654.833 (imprescritibilidade da reparação do dano ambiental)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4130104&numeroProcesso=654833&classeProcesso=RE&numeroTema=999
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 15.300/2025 (alteração do art. 22 da Lei 15.190/2025, segundo anotação do Planalto) — texto não lido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15190.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Ações de controle de constitucionalidade contra a Lei 15.190/2025 — situação não conferida"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/
+    consultado_em: 2026-11-25

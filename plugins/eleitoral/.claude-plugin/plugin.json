@@ -1,0 +1,16 @@
+{
+  "name": "eleitoral",
+  "version": "1.0.0",
+  "description": "Eleitoral: registro de candidatura, propaganda irregular, AIJE, AIME, abuso de poder, prestação de contas e recurso eleitoral.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "eleitoral"
+  ]
+}
