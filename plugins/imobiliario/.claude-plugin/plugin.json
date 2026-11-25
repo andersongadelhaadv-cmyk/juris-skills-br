@@ -1,0 +1,16 @@
+{
+  "name": "imobiliario",
+  "version": "0.3.0",
+  "description": "Imobiliário: despejo, renovatória e revisional de aluguel; posse (reintegração, imissão, embargos de terceiro); usucapião judicial e extrajudicial; adjudicação compulsória; compra e venda, distrato e financiamento SFH; condomínio; matrícula, retificação, REURB, loteamento e incorporação.",
+  "author": {
+    "name": "PreviusIA Serviço Digital Ltda.",
+    "url": "https://andersongadelha.adv.br"
+  },
+  "license": "MIT",
+  "keywords": [
+    "direito",
+    "advocacia",
+    "brasil",
+    "imobiliario"
+  ]
+}

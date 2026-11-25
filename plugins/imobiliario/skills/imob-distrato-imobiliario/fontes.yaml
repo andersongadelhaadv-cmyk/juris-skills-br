@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 4.591/1964, arts. 35-A, 43-A e 67-A (redação da Lei 13.786/2018)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4591.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.786/2018 (vigência em 28/12/2018) e art. 32-A da Lei 6.766/1979 por ela incluído"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), arts. 49, 51 (II e IV) e 53"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), art. 413"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.514/1997, arts. 26 e 27 (procedimento aplicável no Tema 1.095)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9514.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 543 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=543.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.002 (enunciado reproduzido no AgInt no REsp 2.180.534, 3ª Turma, julg. 01/06/2026)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404138502
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AgInt no AREsp 2.369.969, 3ª Turma, julg. 25/11/2024 (retenção de 25% em contrato anterior à Lei 13.786/2018)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202301687235
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.095 — tese do REsp 1.891.498, 2ª Seção, julg. 26/10/2022"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002156946
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.465 (retenção em contrato anterior à Lei 13.786/2018), afetado em 30/06/2026; julgamento não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600253444
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.464 (retenção em lote, contrato posterior à Lei 13.786/2018), afetado em 30/06/2026; julgamento não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600274043
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.420 (alienação fiduciária não registrada), afetado em 17/03/2026; julgamento não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502953523
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prescrição da pretensão de restituição de parcelas (sem número; não conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

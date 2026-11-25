@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 674 a 681"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 792 § 4º (prazo de 15 dias do adquirente; conhecido só pela ementa do AREsp 2.163.176, texto não lido) e art. 843 (só remissão)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 84 do STJ (promessa sem registro + posse legitima embargos de terceiro)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=84.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 134 do STJ (cônjuge e meação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=134.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 303 do STJ (honorários de quem deu causa à constrição)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=303.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 375 do STJ (fraude à execução: registro da penhora ou má-fé)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=375.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.167.032, 3ª Turma, julg. 13/10/2025 (prazo do terceiro sem ciência corre da turbação efetiva)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403249623
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.075.570, 3ª Turma, julg. 12/09/2023 (intimação da penhora não é termo inicial do art. 675)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300236038
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.163.176, 3ª Turma, julg. 26/05/2025 (embargos repressivos após os 15 dias do art. 792 § 4º)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202060807
+    consultado_em: 2026-11-25

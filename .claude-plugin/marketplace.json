@@ -55,6 +55,11 @@
       "name": "contratos",
       "source": "./plugins/contratos",
       "description": "Contratos: elaboração, revisão e parecer; prestação de serviços, compra e venda, locação comercial, franquia, software/SaaS, NDA, distribuição e representação; aditivo, distrato e notificação de descumprimento."
+    },
+    {
+      "name": "imobiliario",
+      "source": "./plugins/imobiliario",
+      "description": "Imobiliário: despejo, renovatória e revisional de aluguel; posse (reintegração, imissão, embargos de terceiro); usucapião judicial e extrajudicial; adjudicação compulsória; compra e venda, distrato e financiamento SFH; condomínio; matrícula, retificação, REURB, loteamento e incorporação."
     }
   ]
 }

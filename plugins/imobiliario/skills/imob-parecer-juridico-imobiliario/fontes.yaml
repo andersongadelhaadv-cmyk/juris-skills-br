@@ -1,0 +1,66 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 108, 1.227, 1.245, 1.417 e 1.418"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.097/2015, art. 54"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13097.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.591/1964, arts. 43-A e 67-A (redação da Lei 13.786/2018)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4591.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.786/2018 (vigência em 28/12/2018)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.514/1997, arts. 26 e 27"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9514.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.078/1990 (CDC), art. 53 (afastado no Tema 1.095)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 239 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=239.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 308 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=308.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 375 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=375.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 543 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=543.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.095 — tese do REsp 1.891.498, 2ª Seção, julg. 26/10/2022"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002156946
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 982 (RE 860.631, julg. 26/10/2023)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4694303&numeroProcesso=860631&classeProcesso=RE&numeroTema=982
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Temas 1.420, 1.464, 1.465 (afetados em 2026) e 1.349 (afetado em 2025) — julgamento não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

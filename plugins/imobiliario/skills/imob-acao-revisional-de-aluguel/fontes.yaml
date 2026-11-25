@@ -1,0 +1,16 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.245/1991, arts. 18, 19, 46, 54-A, 57, 58, 68, 69, 70"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 1.049, parágrafo único"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-publicacaooriginal-146341-pl.html
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.888.116, 3ª Turma, julg. 10/11/2025 (triênio do art. 19 contado da última fixação judicial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500968633
+    consultado_em: 2026-11-25

@@ -1,0 +1,71 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 206, § 5º, I; 1.315; 1.334; 1.336; 1.345; 1.348"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 323"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 784, X, e 829 (publicação original)"
+    status: LEI
+    url: https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-publicacaooriginal-146341-pl.html
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.025.425, 3ª Turma, julg. 07/03/2023 (opção pela ação de conhecimento; vincendas)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202839948
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.156.030, 3ª Turma, julg. 24/03/2025 (aplica o Tema 886: imissão na posse e ciência do condomínio)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202402478927
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1349 (afetação REsp 2.100.395, 20/05/2025) — revisão do Tema 886; julgamento de mérito não localizado"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303544111
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.055.415, 3ª Turma, julg. 14/04/2025 (penhora do imóvel gerador do débito)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300547703
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 3.122.301, 3ª Turma, julg. 24/08/2026 (sem litisconsórcio necessário; juros desde cada vencimento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202504718547
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.919.485, 4ª Turma, julg. 30/03/2026 (novação interrompe a prescrição)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501488869
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.053.466, 3ª Turma, julg. 24/11/2025 (prescrição quinquenal, taxas de manutenção)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300501337
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1391 (REsp 2.206.633, 2ª Seção, julg. 13/05/2026) — cotas condominiais extraconcursais na recuperação judicial"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202501151230
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.258.516, 3ª Turma, julg. 14/09/2026 (crédito trabalhista prevalece sobre o condominial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600474907
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Repetitivo do STJ sobre prescrição quinquenal de cotas de condomínio edilício (número não confirmado; Tema 949 não encontrado)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "Temas 882/STJ e 492/STF (associações de moradores) — não conferidos"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

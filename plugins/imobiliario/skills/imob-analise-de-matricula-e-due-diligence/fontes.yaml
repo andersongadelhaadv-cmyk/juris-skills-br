@@ -1,0 +1,56 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.015/1973, arts. 167, 169, 172, 176, 195, 196, 213 e 237"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.097/2015, arts. 54 (Leis 14.382/2022 e 14.825/2024), 55, 56 e 58"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13097.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.433/1985, art. 1º, § 2º"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7433.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.227, 1.245, 1.246 e 1.247"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 375 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=375.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 308 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=308.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.959.861, 3ª Turma, julg. 05/05/2025 (ônus do credor de provar má-fé sem penhora registrada)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102921176
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 1.810.306, 3ª Turma, julg. 23/06/2025 (averbação premonitória: presunção absoluta)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201901117041
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 243 (fraude à execução), referido na ementa do REsp 1.959.861"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102921176
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "CPC, arts. 792, IV, e 828 e Lei 11.101/2005, arts. 129 e 130 — citados apenas como remissões do art. 54 da Lei 13.097/2015; texto próprio não conferido nesta skill"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Regras de imóvel rural (georreferenciamento, CCIR, CAR, ITR) — não conferidas"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25

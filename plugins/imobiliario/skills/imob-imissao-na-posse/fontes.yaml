@@ -1,0 +1,46 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.219, 1.228, 1.245"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), arts. 47, 73, 300, 311, 318 (e 562, só por contraste)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no REsp 2.200.316, 3ª Turma, julg. 22/04/2026 (imissão é petitória; exige higidez do título)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202500595951
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.055.270, 3ª Turma, julg. 25/04/2023 (não dúplice; procedimento comum; retenção na contestação)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202300245163
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.896.813, 3ª Turma, julg. 12/05/2025 (usucapião como defesa na imissão)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002471974
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.864.878, 3ª Turma, julg. 30/08/2022 (imóvel locado: via adequada é o despejo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202000543468
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 237 do STF (usucapião arguível em defesa)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=4155
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 9.514/1997 — imissão do arrematante em leilão de alienação fiduciária (dispositivos não conferidos)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l9514.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional e termo inicial da indenização por ocupação (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

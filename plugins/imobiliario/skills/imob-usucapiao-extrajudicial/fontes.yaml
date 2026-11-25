@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.015/1973 (Registros Públicos), art. 216-A, caput, incisos I a IV e §§ 1º a 15"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 1.206, 1.207, 1.238 a 1.244"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Constituição Federal, arts. 183 e 191"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.796.394, 3ª Turma, julg. 24/05/2022 (usucapião extrajudicial facultativa)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201900375273
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.217.542, 3ª Turma, julg. 14/09/2026 (ART exigível só na via extrajudicial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202502066589
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Provimento do CNJ sobre usucapião extrajudicial / Código Nacional de Normas do Foro Extrajudicial (número e artigos não conferidos; site do CNJ devolveu 403)"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/
+    consultado_em: 2026-11-25
+  - tipo: norma
+    referencia: "Normas da corregedoria estadual (prazos de exigência, emolumentos, edital eletrônico)"
+    status: VERIFICAR
+    url: https://atos.cnj.jus.br/
+    consultado_em: 2026-11-25

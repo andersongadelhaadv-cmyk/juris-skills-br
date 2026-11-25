@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.766/1979 (Parcelamento do Solo), arts. 32, 37, 38, 39, 40, 46, 47, 48, 49, 50"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6766.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.166.273, 3ª Turma, rel. Min. Nancy Andrighi, julg. 08/10/2024 (venda de lote não registrado é nula, mesmo com ciência do adquirente)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401929320
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.172.231, 3ª Turma, rel. Min. Nancy Andrighi, julg. 10/06/2025 (resolução por falta de infraestrutura, registro irrelevante)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202403611228
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.762.074, 2ª Turma, rel. Min. Francisco Falcão, julg. 09/11/2022 (poder-dever do Município)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002434160
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 543 do STJ (restituição na resolução de promessa de compra e venda)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=543.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional da restituição/indenização do adquirente de lote irregular (sem número)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

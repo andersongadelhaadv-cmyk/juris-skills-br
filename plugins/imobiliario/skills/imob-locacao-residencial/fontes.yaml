@@ -1,0 +1,36 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 8.245/1991, arts. 3º, 4º, 6º, 8º, 9º, 13, 17, 22, 23, 37, 38, 39, 40, 41, 42, 45, 46, 47, 58"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.009/1990, art. 3º, VII"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8009.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 214 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=214.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 335 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=335.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 549 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=549.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 1127 (RE 1.307.334, julg. 10/03/2022) — penhora do bem de família do fiador"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6087183&numeroProcesso=1307334&classeProcesso=RE&numeroTema=1127
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 8.245/1991, arts. 48 a 50 (locação para temporada) — não conferidos nesta skill"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+    consultado_em: 2026-11-25

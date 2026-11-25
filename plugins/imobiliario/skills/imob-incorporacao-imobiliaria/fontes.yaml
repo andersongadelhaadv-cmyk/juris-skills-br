@@ -1,0 +1,31 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 4.591/1964 (Condomínio e Incorporações), arts. 28 p.u., 29, 31, 31-A a 31-F, 32, 33, 34, 35 §§ 4º e 5º, 35-A, 43, 43-A, 65, 66 I, 67-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4591.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 308 do STJ (hipoteca construtora x agente financeiro ineficaz perante adquirentes)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=308.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 543 do STJ (restituição na resolução de promessa de compra e venda)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=543.num.
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.466 — afetação (REsp 2.259.135, 2ª Seção, rel. Min. Ricardo Villas Bôas Cueva, 30/06/2026): retenção de até 50% sob patrimônio de afetação"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202600544380
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.466 — tese de mérito (não localizada; tema apenas afetado na base)"
+    status: VERIFICAR
+    url: https://processo.stj.jus.br/repetitivos/temas_repetitivos/
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.591/1964, art. 35 caput — prazo de 45 ou 60 dias (nota de alteração pela Lei 4.864/1965)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4591.htm
+    consultado_em: 2026-11-25

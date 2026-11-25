@@ -27,7 +27,7 @@ com o critério que as distingue, em vez de escolher sozinha.
 
 ## Entradas mínimas (perguntar ao usuário o que faltar; nunca supor fatos)
 1. **Área** (cível, consumo, família, sucessões, trabalho, penal, previdenciário,
-   tributário, Fazenda, administrativo, contratos).
+   tributário, Fazenda, administrativo, contratos, imobiliário).
 2. **Fase**: consultivo/extrajudicial; administrativo; conhecimento (1º grau); recurso
    (e contra qual decisão); execução ou cumprimento.
 3. **Polo**: autor/réu, reclamante/reclamada, defesa/assistência, contribuinte/Fazenda.
@@ -67,6 +67,9 @@ Encaminhamentos frequentes (amostra; a lista completa está no catálogo):
 | Ato de autoridade ilegal | `adm-mandado-de-seguranca`, `trib-mandado-de-seguranca` ou `trabalhista-mandado-de-seguranca` |
 | Licitação | `adm-impugnacao-ao-edital`, `adm-recurso-em-licitacao`, `adm-defesa-em-processo-sancionador-licitacao` |
 | Redigir ou revisar contrato | `contratos-elaboracao-de-contrato`, `contratos-analise-e-revisao-de-contrato`, `contratos-parecer-sobre-contrato` (e a skill do tipo: `contratos-*`) |
+| Inquilino não paga / fim da locação | `imob-acao-de-despejo`; aluguel fora do mercado: `imob-acao-revisional-de-aluguel`; ponto comercial: `imob-acao-renovatoria` |
+| Posse ou propriedade de imóvel | `imob-reintegracao-de-posse`, `imob-imissao-na-posse`, `imob-usucapiao-judicial`/`imob-usucapiao-extrajudicial`, `imob-adjudicacao-compulsoria` |
+| Imóvel na planta / financiamento | `imob-distrato-imobiliario`, `imob-revisao-de-financiamento-sfh` |
 | Contrato descumprido / encerrar contrato | `contratos-notificacao-de-descumprimento`, `contratos-distrato-e-rescisao`, `contratos-aditivo-contratual` |
 
 Se a peça pedida não tiver skill própria, diga isso, use a skill mais próxima da

@@ -187,3 +187,30 @@ Toda skill de área usa as do núcleo: `fidelidade-factual`, `verificacao-de-cit
 | `contratos-notificacao-de-descumprimento` | Notificação de descumprimento contratual |
 | `contratos-sla-nivel-de-servico` | Acordo de nível de serviço (SLA) |
 | `contratos-termo-de-responsabilidade` | Termo de responsabilidade |
+
+## Imobiliário (plugin `imobiliario`)
+
+| Skill | Para quê |
+|---|---|
+| `imob-acao-de-despejo` | Ação de despejo |
+| `imob-acao-renovatoria` | Ação renovatória |
+| `imob-acao-revisional-de-aluguel` | Ação revisional de aluguel |
+| `imob-locacao-residencial` | Contrato de locação residencial |
+| `imob-cobranca-de-taxas-condominiais` | Cobrança de taxas condominiais |
+| `imob-prestacao-de-contas-de-condominio` | Prestação de contas de condomínio |
+| `imob-reintegracao-de-posse` | Ações possessórias — reintegração, manutenção e interdito proibitório |
+| `imob-imissao-na-posse` | Imissão na posse |
+| `imob-embargos-de-terceiro` | Embargos de terceiro (imóvel) |
+| `imob-usucapiao-judicial` | Usucapião judicial de imóvel |
+| `imob-usucapiao-extrajudicial` | Usucapião extrajudicial (art. 216-A da Lei 6.015/1973) |
+| `imob-adjudicacao-compulsoria` | Adjudicação compulsória (judicial e extrajudicial) |
+| `imob-compra-e-venda-de-imovel` | Compra e venda de imóvel (promessa e contrato definitivo) |
+| `imob-distrato-imobiliario` | Distrato e resolução de promessa de compra e venda na planta |
+| `imob-revisao-de-financiamento-sfh` | Revisão de financiamento habitacional (SFH/SFI) e uso do FGTS |
+| `imob-analise-de-matricula-e-due-diligence` | Análise de matrícula e due diligence imobiliária |
+| `imob-parecer-juridico-imobiliario` | Parecer jurídico imobiliário |
+| `imob-notificacao-extrajudicial-imobiliaria` | Notificação extrajudicial imobiliária |
+| `imob-retificacao-de-area` | Retificação de registro e de área |
+| `imob-regularizacao-fundiaria-reurb` | Regularização Fundiária Urbana (Reurb-S e Reurb-E) |
+| `imob-loteamento-irregular-defesa-do-adquirente` | Loteamento irregular — defesa do adquirente |
+| `imob-incorporacao-imobiliaria` | Incorporação imobiliária — registro e compliance |

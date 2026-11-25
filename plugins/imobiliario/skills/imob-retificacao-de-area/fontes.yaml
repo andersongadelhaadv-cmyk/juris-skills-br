@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 6.015/1973 (Registros Públicos), arts. 176 §§ 3º e 4º, 212, 213, 214, 216-A"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 1.245 e 1.247"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AREsp 2.633.317, 3ª Turma, rel. Min. Moura Ribeiro, julg. 29/09/2025 (retificação não serve à ampliação substancial de área)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202401357810
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Intervenção do Ministério Público na retificação judicial (regra não conferida)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Prazo prescricional/decadencial de pretensões conexas à retificação (anulação, indenização) — não conferido"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25

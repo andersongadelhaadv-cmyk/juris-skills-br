@@ -1,0 +1,26 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 13.465/2017 (Reurb), arts. 9º § 2º, 11, 13 § 1º, 14 § 2º, 15, 23, 25, 26, 28, 30 § 2º, 31 § 1º, 32, 35, 40, 41, 42, 44"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.015/1973, art. 216-A (usucapião extrajudicial)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 1.762.074, 2ª Turma, rel. Min. Francisco Falcão, julg. 09/11/2022 (poder-dever do Município de regularizar loteamento)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202002434160
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.796.394, 3ª Turma, rel. Min. Ricardo Villas Bôas Cueva, julg. 24/05/2022 (usucapião judicial independe da via extrajudicial)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201900375273
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Prazos de recurso administrativo na Reurb (lei municipal, não conferida)"
+    status: VERIFICAR
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm
+    consultado_em: 2026-11-25

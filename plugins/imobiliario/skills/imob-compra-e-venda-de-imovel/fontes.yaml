@@ -1,0 +1,61 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (CC), arts. 108, 413, 417 a 420, 474, 475, 481, 490, 1.225, 1.227, 1.245, 1.417, 1.418"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 7.433/1985, art. 1º, § 2º (documentos da escritura)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l7433.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.097/2015, art. 54 (concentração na matrícula)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13097.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 4.591/1964, art. 35-A (quadro-resumo)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l4591.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.766/1979 (citada só como regime do loteamento; art. 32-A conferido no texto da Lei 13.786/2018)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.105/2015 (CPC), art. 47"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 239 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=239.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 84 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=84.num.
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 308 do STJ"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=308.num.
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 1.995.732, 3ª Turma, julg. 13/04/2026 (Súmula 308 fora do SFH; arts. 1.417 e 1.418)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202200897616
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STJ, Tema 1.349 (revisão do Tema 886 — cotas condominiais na promessa), afetação 20/05/2025; julgamento não conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202303544111
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Fato gerador do ITBI (sem número; não conferido)"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/
+    consultado_em: 2026-11-25
