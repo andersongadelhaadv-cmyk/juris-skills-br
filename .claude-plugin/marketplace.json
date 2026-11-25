@@ -50,6 +50,11 @@
       "name": "administrativo-licitacoes",
       "source": "./plugins/administrativo-licitacoes",
       "description": "Administrativo e licitações (Lei 14.133): mandado de segurança, impugnação e recurso, sanções, reequilíbrio, improbidade, PAD, concurso, responsabilidade do Estado."
+    },
+    {
+      "name": "contratos",
+      "source": "./plugins/contratos",
+      "description": "Contratos: elaboração, revisão e parecer; prestação de serviços, compra e venda, locação comercial, franquia, software/SaaS, NDA, distribuição e representação; aditivo, distrato e notificação de descumprimento."
     }
   ]
 }

@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.2.0 — 2026-11
+
+Novo plugin `contratos`, com 22 skills (130 no total). Texto próprio; normas conferidas no Planalto e súmulas/precedentes no JuriBase, registrados no `fontes.yaml` de cada skill (91 LEI, 78 CONFIRMADO, 21 VERIFICAR).
+
+- contratos: elaboração, análise e revisão, parecer; prestação de serviços e prestação por PJ (mitigação de vínculo); compra e venda empresarial; locação comercial; franquia e COF; licença de software e SaaS; NDA; agência e distribuição; representação comercial; parceria e joint venture; comodato; cessão de direitos; cláusula penal; memorando de entendimentos; aditivo; distrato e rescisão; notificação de descumprimento; SLA; termo de responsabilidade.
+- nucleo: roteador e catálogo passam a encaminhar pedidos de contrato.
+- Itens não conferidos em fonte oficial ficam marcados com [VERIFICAR].
+
 ## v0.1.3 — 2026-11
 
 Correções e conferências em fonte oficial nos plugins familia-sucessoes, consumidor e administrativo-licitacoes (PRs #21, #22 e #23). Com esta versão, os nove plugins passaram por conferência em fonte oficial.

@@ -2,7 +2,7 @@
 
 Skills jurídicas brasileiras para o Claude: estrutura de peças, requisitos, prazos e fundamentos verificados, organizados por área do direito.
 
-**108 skills em 9 plugins**, com conteúdo conferido até 01/11/2026. Normas foram conferidas nos dados abertos do Senado Federal e precedentes foram conferidos no JuriBase.
+**130 skills em 10 plugins**, com conteúdo conferido até 25/11/2026. Normas foram conferidas nos dados abertos do Senado Federal e precedentes foram conferidos no JuriBase.
 
 > Ferramenta de apoio. O advogado responsável revisa toda peça antes do protocolo.
 
@@ -37,6 +37,7 @@ O plugin `nucleo` é a base dos demais: concentra juros e correção, prazos, ve
 | `familia-sucessoes` | 11 | Família e sucessões: alimentos, execução de alimentos, divórcio, guarda, união estável, paternidade, inventário, testamento e planejamento. |
 | `consumidor` | 9 | Consumidor: indenizatória, vício, negativação, plano de saúde, revisional bancária, superendividamento, transporte aéreo e defesa do fornecedor. |
 | `administrativo-licitacoes` | 11 | Administrativo e licitações (Lei 14.133): mandado de segurança, impugnação e recurso, sanções, reequilíbrio, improbidade, PAD, concurso, responsabilidade do Estado. |
+| `contratos` | 22 | Contratos: elaboração, revisão e parecer; prestação de serviços (inclusive PJ), compra e venda, locação comercial, franquia, software/SaaS, NDA, distribuição e representação; aditivo, distrato e notificação de descumprimento. |
 
 
 ## Como as skills funcionam
@@ -226,6 +227,36 @@ O plugin `nucleo` é a base dos demais: concentra juros e correção, prazos, ve
 | `adm-pedido-de-reequilibrio-economico-financeiro` | Pedido de reequilíbrio econômico-financeiro |
 | `adm-recurso-em-licitacao` | Recurso em licitação (Lei 14.133/2021, arts. 165 a 168) |
 | `adm-responsabilidade-civil-do-estado` | Responsabilidade civil do Estado (CF art. 37, § 6º) |
+
+</details>
+
+<details>
+<summary><b>Contratos</b> — 22 skills</summary>
+
+| Skill | Conteúdo |
+| --- | --- |
+| `contratos-elaboracao-de-contrato` | Elaboração de contrato (roteiro geral) |
+| `contratos-analise-e-revisao-de-contrato` | Análise e revisão de contrato |
+| `contratos-parecer-sobre-contrato` | Parecer sobre contrato |
+| `contratos-prestacao-de-servicos` | Contrato de prestação de serviços |
+| `contratos-prestacao-de-servicos-pj` | Prestação de serviços por pessoa jurídica (mitigação de vínculo) |
+| `contratos-compra-e-venda-empresarial` | Compra e venda empresarial |
+| `contratos-locacao-comercial` | Locação comercial (não residencial) |
+| `contratos-franquia-e-cof` | Franquia e Circular de Oferta de Franquia |
+| `contratos-licenca-de-software-e-saas` | Licença de software e SaaS |
+| `contratos-nda-confidencialidade` | Acordo de confidencialidade (NDA) |
+| `contratos-agencia-e-distribuicao` | Agência e distribuição |
+| `contratos-representacao-comercial` | Representação comercial autônoma |
+| `contratos-parceria-e-joint-venture` | Parceria empresarial, consórcio e joint venture |
+| `contratos-comodato` | Comodato |
+| `contratos-cessao-de-direitos` | Cessão de crédito, de posição contratual e de direitos |
+| `contratos-clausula-penal` | Cláusula penal |
+| `contratos-memorando-de-entendimentos` | Memorando de entendimentos / carta de intenções |
+| `contratos-aditivo-contratual` | Termo aditivo contratual |
+| `contratos-distrato-e-rescisao` | Distrato e rescisão de contrato |
+| `contratos-notificacao-de-descumprimento` | Notificação de descumprimento contratual |
+| `contratos-sla-nivel-de-servico` | Acordo de nível de serviço (SLA) |
+| `contratos-termo-de-responsabilidade` | Termo de responsabilidade |
 
 </details>
 

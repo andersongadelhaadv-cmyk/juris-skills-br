@@ -160,3 +160,30 @@ Toda skill de área usa as do núcleo: `fidelidade-factual`, `verificacao-de-cit
 | `adm-pedido-de-reequilibrio-economico-financeiro` | Redige pedido administrativo de restabelecimento do equilíbrio econômico-financeiro, revisão, reajuste ou repactuação de contrato administrativo. |
 | `adm-recurso-em-licitacao` | Redige recurso administrativo, contrarrazões ou pedido de reconsideração em licitação regida pela Lei 14.133/2021: julgamento de propostas,... |
 | `adm-responsabilidade-civil-do-estado` | Redige petição inicial de ação indenizatória contra o Estado ou prestadora de serviço público com base na responsabilidade objetiva da CF art. 37,... |
+
+## Contratos (plugin `contratos`)
+
+| Skill | Para quê |
+|---|---|
+| `contratos-elaboracao-de-contrato` | Elaboração de contrato (roteiro geral) |
+| `contratos-analise-e-revisao-de-contrato` | Análise e revisão de contrato recebido |
+| `contratos-parecer-sobre-contrato` | Parecer sobre contrato |
+| `contratos-prestacao-de-servicos` | Contrato de prestação de serviços |
+| `contratos-prestacao-de-servicos-pj` | Prestação de serviços por pessoa jurídica (mitigação de vínculo) |
+| `contratos-compra-e-venda-empresarial` | Compra e venda empresarial |
+| `contratos-locacao-comercial` | Locação comercial (não residencial) |
+| `contratos-franquia-e-cof` | Franquia e Circular de Oferta de Franquia |
+| `contratos-licenca-de-software-e-saas` | Licença de software e SaaS |
+| `contratos-nda-confidencialidade` | Acordo de confidencialidade (NDA) |
+| `contratos-agencia-e-distribuicao` | Agência e distribuição |
+| `contratos-representacao-comercial` | Representação comercial autônoma |
+| `contratos-parceria-e-joint-venture` | Parceria empresarial, consórcio e joint venture |
+| `contratos-comodato` | Comodato |
+| `contratos-cessao-de-direitos` | Cessão de crédito, de posição contratual e de direitos |
+| `contratos-clausula-penal` | Cláusula penal |
+| `contratos-memorando-de-entendimentos` | Memorando de entendimentos / carta de intenções |
+| `contratos-aditivo-contratual` | Termo aditivo contratual |
+| `contratos-distrato-e-rescisao` | Distrato e rescisão de contrato |
+| `contratos-notificacao-de-descumprimento` | Notificação de descumprimento contratual |
+| `contratos-sla-nivel-de-servico` | Acordo de nível de serviço (SLA) |
+| `contratos-termo-de-responsabilidade` | Termo de responsabilidade |

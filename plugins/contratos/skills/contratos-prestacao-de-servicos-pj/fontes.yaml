@@ -1,0 +1,51 @@
+itens:
+  - tipo: lei
+    referencia: "Decreto-Lei 5.452/1943 (CLT), arts. 2º, 3º, 9º e 442-B"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.467/2017 (inclui o art. 442-B na CLT)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 6.019/1974, arts. 4º-A, 4º-B, 4º-C, 5º-A, 5º-C, 5º-D"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/l6019.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.429/2017 (altera a Lei 6.019/1974)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 421, 421-A, 593 a 609"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 5º, VI e VII, 39"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, Tema 725 (RE 958.252), Tribunal Pleno, julg. 30/08/2018 (licitude da terceirização, responsabilidade subsidiária)"
+    status: CONFIRMADO
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4952236&numeroProcesso=958252&classeProcesso=RE&numeroTema=725
+    consultado_em: 2026-11-25
+  - tipo: sumula
+    referencia: "Súmula 331 do TST (itens III, IV e VI; item I consta como cancelado na base — Res. 225/2025)"
+    status: CONFIRMADO
+    url: https://jurisprudencia.tst.jus.br/?tipoJuris=SUM&orgao=TST&numero=331&pesquisar=1
+    consultado_em: 2026-11-25
+  - tipo: tema
+    referencia: "STF, tema de repercussão geral sobre licitude da contratação de autônomo/PJ e competência (referido como Tema 1.389) — não localizado no JuriBase"
+    status: VERIFICAR
+    url: https://portal.stf.jus.br/jurisprudenciaRepercussao/
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Aplicação do limite de 4 anos (CC, art. 598) a contrato entre pessoas jurídicas — sem precedente conferido"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25

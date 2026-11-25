@@ -1,0 +1,41 @@
+itens:
+  - tipo: lei
+    referencia: "Lei 10.406/2002 (Código Civil), arts. 104, 107, 113, 187, 413, 421, 421-A, 422, 427, 462 a 466"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.874/2019 (Liberdade Econômica), art. 7º (redação dos arts. 113, 421 e 421-A do CC)"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+    consultado_em: 2026-11-25
+  - tipo: lei
+    referencia: "Lei 13.709/2018 (LGPD), arts. 7º e 46"
+    status: LEI
+    url: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.042.706, 3ª Turma, rel. Moura Ribeiro, julg. 03/09/2024 (contrato preliminar é contrato)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202201838628
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, AgInt no AREsp 2.579.710, 3ª Turma, rel. Humberto Martins, julg. 12/08/2025 (reproduz o REsp 2.042.706)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400639714
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, EDcl no AREsp 2.781.882, 4ª Turma, rel. Raul Araújo, julg. 12/08/2026 (culpa in contrahendo)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202404088538
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "STJ, REsp 2.078.517, 3ª Turma, rel. Humberto Martins, julg. 14/05/2024 (boa-fé na fase pré-contratual)"
+    status: CONFIRMADO
+    url: https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202202399255
+    consultado_em: 2026-11-25
+  - tipo: precedente
+    referencia: "Prazo prescricional da responsabilidade pré-contratual (sem precedente conferido)"
+    status: VERIFICAR
+    url: https://scon.stj.jus.br/SCON/
+    consultado_em: 2026-11-25
