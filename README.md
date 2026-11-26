@@ -2,7 +2,7 @@
 
 Skills jurídicas brasileiras para o Claude: estrutura de peças, requisitos, prazos e fundamentos verificados, organizados por área do direito.
 
-**379 skills em 23 plugins**, com conteúdo conferido até 25/11/2026. Normas foram conferidas em fonte oficial (Planalto, Senado, Câmara e órgãos emissores) e precedentes foram conferidos no JuriBase; o que não foi confirmado vem marcado com [VERIFICAR].
+**379 skills em 23 plugins** · **mais de 1.300 súmulas, temas e precedentes conferidos no JuriBase**, com conteúdo conferido até 25/11/2026. Normas foram conferidas em fonte oficial (Planalto, Senado, Câmara e órgãos emissores) e precedentes foram conferidos no JuriBase; o que não foi confirmado vem marcado com [VERIFICAR].
 
 > Ferramenta de apoio. O advogado responsável revisa toda peça antes do protocolo.
 
